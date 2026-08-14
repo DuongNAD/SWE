@@ -1,0 +1,1516 @@
+1
+00:00:00,000 --> 00:00:06,800
+Ok, hello anh em nhé. Trong video này mình sẽ hướng dẫn anh em làm một câu mà chắc chắn 100% có trong đề anh em nhé.
+
+2
+00:00:07,300 --> 00:00:11,700
+Bởi vì là trong bóc đầu tiên của anh em sẽ chắc chắn có câu này, đó là câu viết from AI anh em nhé.
+
+3
+00:00:12,180 --> 00:00:14,140
+Ok, thì câu này nó không được nhiều điểm đâu anh em ạ.
+
+4
+00:00:14,700 --> 00:00:18,980
+Làm cả bài này, hai kịch bản mà được có một điểm.
+
+5
+00:00:19,260 --> 00:00:24,180
+Cái này thì thực ra cũng chưa chắc anh em nhé, bởi vì trong đề thi có 5 câu thôi, nhưng mà trong đề thi thử là có 7 câu.
+
+6
+00:00:24,180 --> 00:00:26,160
+Mà ở đây thì nó cho rất là nhiều ý
+
+7
+00:00:26,160 --> 00:00:27,620
+Mình nghĩ là đi thi nó sẽ không cho
+
+8
+00:00:27,620 --> 00:00:30,860
+Khó đến mức là cho nhiều cho dài
+
+9
+00:00:30,860 --> 00:00:31,580
+Thế đâu anh em nhá
+
+10
+00:00:31,580 --> 00:00:34,380
+Cho nên là anh em nói chung là anh em cứ luyện là anh em làm hết
+
+11
+00:00:34,380 --> 00:00:36,740
+Bởi vì mình thấy là cả 2 cái kịch bản này
+
+12
+00:00:36,740 --> 00:00:38,120
+Nó xem xem nhau chẳng có gì cả
+
+13
+00:00:38,120 --> 00:00:40,580
+Mình nghĩ là để thi thử ở đây mục đích là
+
+14
+00:00:40,580 --> 00:00:41,900
+Trường muốn cho anh em luyện tập thôi
+
+15
+00:00:41,900 --> 00:00:44,260
+Đi thi thì anh em nói chung là sẽ được
+
+16
+00:00:44,260 --> 00:00:45,940
+Ngon thôi
+
+17
+00:00:45,940 --> 00:00:47,600
+Ok thì bây giờ nhá
+
+18
+00:00:47,600 --> 00:00:49,280
+Mình xin giới thiệu anh em làm câu này
+
+19
+00:00:49,280 --> 00:00:52,200
+Câu này là câu dễ nhất đề và anh em có thể làm được tất
+
+20
+00:00:52,200 --> 00:00:53,160
+Đấy chứ anh em
+
+21
+00:00:53,160 --> 00:00:58,600
+nhé đó Ok thì vì là bốn điểm mới qua P cho nên mình sẽ giúp anh em làm làm sao để ăn điểm tối
+
+22
+00:00:58,600 --> 00:01:06,420
+đa nhá Ok anh em nhìn như mình này em chỉ cần nhớ thôi không cần nghĩ gì đó là trong một đề
+
+23
+00:01:06,420 --> 00:01:11,040
+nhớ anh em nhớ cho mình này khi em biết con thì em sẽ có những cái gì thì trong khi anh em viết
+
+24
+00:01:11,040 --> 00:01:20,440
+vờ rom nhá thì em sẽ có cho mình là 49 một là anh em sẽ biết cho mình 49 nhất đó là bối cảnh
+
+25
+00:01:20,440 --> 00:01:38,080
+nhớ cho mình nhá hay là mình sẽ có là mục tiêu để xây nhau mục tiêu mà mình muốn đạt được được cho
+
+26
+00:01:38,080 --> 00:01:47,920
+anh em cái thứ ba là đây em gì này cái thứ ba này là anh em có cái mình nghĩ lại nó biết thế
+
+27
+00:01:47,920 --> 00:01:52,420
+nhưng mà anh em cứ viết thế này cho mình này em biết đúng cho nó không phải cho mình không
+
+28
+00:01:52,420 --> 00:01:58,900
+có gì bởi vì mình lấy từ có xe ra cho nên em không phải lo tắt này thì chưa đó anh em cứ lấy
+
+29
+00:01:58,900 --> 00:02:06,040
+cho mình thử ra cái mục tiêu này thì nó sẽ bao gồm luôn đó là anh em biết luôn mình cái là cái tắt
+
+30
+00:02:06,040 --> 00:02:14,080
+và cái thế thôi mà có một cái thì ra cái cốt lại thì em dán một thứ ba này mình biết đúng là này
+
+31
+00:02:14,080 --> 00:02:34,080
+và tiếp theo là cái output à à phút format đúng không à à à à à à à à à à à à à à à à à à à à à à à
+
+32
+00:02:34,080 --> 00:02:36,440
+đó thì bây giờ anh em cứ viết đúng như này cho mình
+
+33
+00:02:36,440 --> 00:02:37,000
+được chưa
+
+34
+00:02:37,000 --> 00:02:38,440
+thì form viết bài này nhé
+
+35
+00:02:38,440 --> 00:02:39,480
+anh em cứ nhớ cho mình thế
+
+36
+00:02:39,480 --> 00:02:41,260
+ví dụ ý đầu tiên này
+
+37
+00:02:41,260 --> 00:02:42,400
+nó bảo anh em viết một cái
+
+38
+00:02:42,400 --> 00:02:45,020
+Chrome AI để anh em review cái code này
+
+39
+00:02:45,020 --> 00:02:45,600
+đúng không
+
+40
+00:02:45,600 --> 00:02:47,460
+thì bây giờ có một nhạo để anh em viết là gì
+
+41
+00:02:47,460 --> 00:02:49,060
+thì bây giờ anh em cứ làm này cho mình
+
+42
+00:02:49,060 --> 00:02:50,140
+bước đầu tiên này
+
+43
+00:02:50,140 --> 00:02:52,460
+anh em cứ làm cho mình đó là
+
+44
+00:02:56,460 --> 00:02:56,860
+à
+
+45
+00:02:56,860 --> 00:02:59,580
+anh em có 4 cái cách để anh em viết Chrome
+
+46
+00:02:59,580 --> 00:03:01,840
+nhưng mà anh em cứ làm cho mình theo đúng một cách thôi
+
+47
+00:03:01,840 --> 00:03:02,380
+đó là
+
+48
+00:03:02,380 --> 00:03:03,660
+anh em hay dùng nhé
+
+49
+00:03:03,660 --> 00:03:18,540
+được chưa mình biết luôn nhá ý một này nhìn làm mình làm luôn ý một nhá review ở trên em để ý một
+
+50
+00:03:18,540 --> 00:03:26,880
+được chưa Ok thì bây giờ mình sẽ biết như thế nào thì em cứ nhớ cho mình đầu tiên là ai em gốc kinh
+
+51
+00:03:26,880 --> 00:03:33,780
+tôi đang làm được chưa Tôi đang làm một cái gì đấy chưa Tôi đang làm cái gì đấy được chưa thì
+
+52
+00:03:33,780 --> 00:03:38,880
+bây giờ nhá anh em nhìn ở chỗ này này đang làm cái gì đây này anh em nhìn cái chỗ này hai cái
+
+53
+00:03:38,880 --> 00:03:45,060
+hàng phút ra này nó làm cái gì đang làm cái hệ thống này đúng không em copy cho mình là làm cái
+
+54
+00:03:45,060 --> 00:03:54,940
+này xinh em đó và nó sử dụng cái gì sử dụng ngôn ngữ đặc trình nào yêu sinh Java em Spring Boot
+
+55
+00:03:56,880 --> 00:04:12,700
+anh em đó kể thôi đó và bây giờ mình sẽ cần làm gì nó mình sẽ bảo nó là please review review gì
+
+56
+00:04:12,700 --> 00:04:21,180
+à the following method anh em cứ nhớ cho mình cũng này thì chưa đến đây này in the in giờ cái
+
+57
+00:04:21,180 --> 00:04:29,520
+anh em có cho mình luôn nhưng cái gì đây review cho mình cái mê thớt này để xem nha đó
+
+58
+00:04:29,520 --> 00:04:42,860
+đưa ra mày thôi đấy à Ừ ok tiếp theo thì mình sẽ có cái gì
+
+59
+00:04:42,860 --> 00:04:59,660
+Ok tiếp theo này bây giờ nhá mình sẽ có cái gì nữa trong cái phần 2 này là cái phần mục tiêu
+
+60
+00:04:59,660 --> 00:05:04,700
+mình cần làm đúng không thì mình đang cần review có đúng không thì em cứ nhớ cho mình là anh em
+
+61
+00:05:04,700 --> 00:05:12,440
+thêm cho mình lại giờ mê thớt xuống em biết đúng con này cho mình phải chưa Rút xong thì bây giờ
+
+62
+00:05:12,440 --> 00:05:20,780
+đây này có những gì thì mình biết cái bảo trên em đây này một là trích điều kiện tin quyết nó đó ok
+
+63
+00:05:20,780 --> 00:05:35,600
+chưa bị lỗi chữ ok cho anh em cái thứ hai là gì Cái thứ hai là trách xem còn chỗ không chưa có còn
+
+64
+00:05:35,600 --> 00:05:43,700
+là chết không chết được cái này và trách tiếp là có còn chú hay không phải chưa tiếp theo là gì là
+
+65
+00:05:43,700 --> 00:05:53,300
+kiểm tra lưu đăng ký lại cho nhau đó em cứ cho mình bà cái này lại còn nhanh chưa Nó nói chung
+
+66
+00:05:53,300 --> 00:05:58,520
+là em chỉ cần đúng form cho mình thôi anh em không cần cầu kỳ đâu nó các thầy ấy em không
+
+67
+00:05:58,520 --> 00:06:02,540
+cần để màu mèo gì anh em có biết đúng cái phòng thôi là các thầy đã cho anh đi em anh em điểm
+
+68
+00:06:02,540 --> 00:06:04,460
+đúng không? Đó. Nói chung là cái này
+
+69
+00:06:04,460 --> 00:06:06,060
+chấm tay thì tùy thầy chấm
+
+70
+00:06:06,060 --> 00:06:08,120
+Được chưa anh em? Đó
+
+71
+00:06:08,120 --> 00:06:09,720
+Thì tiếp theo này
+
+72
+00:06:09,720 --> 00:06:12,260
+là anh em viết cho mình là
+
+73
+00:06:12,260 --> 00:06:14,700
+cái task. Đấy chưa? Anh em viết cho mình là do task
+
+74
+00:06:14,700 --> 00:06:16,060
+Đấy chưa?
+
+75
+00:06:16,640 --> 00:06:17,840
+Thì là bắt nó làm gì?
+
+76
+00:06:18,480 --> 00:06:20,400
+Ví dụ. Ở đây đúng không? Thì anh em
+
+77
+00:06:20,400 --> 00:06:22,420
+nhìn này. Đọc cái gợi ý này
+
+78
+00:06:22,420 --> 00:06:24,420
+Đó. Do
+
+79
+00:06:24,420 --> 00:06:25,980
+prompt phải làm gì? Đấy chưa?
+
+80
+00:06:26,420 --> 00:06:28,300
+Sử dụng con tích này. Đấy chưa? Đây
+
+81
+00:06:28,300 --> 00:06:30,420
+Đó. Ý là anh em phải
+
+82
+00:06:30,420 --> 00:06:32,320
+nhắc được 3 cái này ra. Đây. Anh em nhìn
+
+83
+00:06:32,320 --> 00:06:34,320
+con tích của mình nhắc được 3 cái ra chưa
+
+84
+00:06:34,320 --> 00:06:38,780
+Đấy, thứ nhất là mình đang làm hệ thống này và sử dụng Java Spring Boot đúng không
+
+85
+00:06:38,780 --> 00:06:40,580
+Đó, tiếp theo này
+
+86
+00:06:40,580 --> 00:06:43,700
+Bạn muốn cái con AI này nó làm gì đúng không
+
+87
+00:06:43,700 --> 00:06:45,700
+Thì bây giờ nhá, đây anh em nhìn này
+
+88
+00:06:45,700 --> 00:06:47,540
+Đấy nó cho anh em cái này đúng không
+
+89
+00:06:47,540 --> 00:06:48,960
+Đấy
+
+90
+00:06:48,960 --> 00:06:52,280
+Thì bây giờ bạn đang muốn AI làm gì
+
+91
+00:06:52,280 --> 00:06:54,400
+Thì bây giờ anh em sẽ chỉ cần làm cho mình như sau
+
+92
+00:06:54,400 --> 00:06:56,400
+Đó là thứ nhất
+
+93
+00:06:56,400 --> 00:07:00,480
+Là anh em cứ bảo nó là tìm cái lỗi logic
+
+94
+00:07:02,320 --> 00:07:09,720
+là file nghe bảo nó là file file a logical
+
+95
+00:07:09,720 --> 00:07:18,960
+logic
+
+96
+00:07:18,960 --> 00:07:32,380
+xem mát tích ở ở trên nha nó như là sao nghĩa là mình sẽ tìm lỗi logic hoặc là cái lỗi xem
+
+97
+00:07:32,380 --> 00:07:37,780
+mát tích này thì chưa tiếp theo này thì mình sẽ làm gì nữa đó là mình sẽ chết đúng không
+
+98
+00:07:37,780 --> 00:07:48,080
+yêu cầu đã trách cô xem nó đã hoạt động Ok chưa Thấy chưa chết nhớ là file chết đứa mình thế
+
+99
+00:07:48,080 --> 00:07:55,760
+anh nhận đó tác của nó nở trong cái này nhớ cho mình hai cái và cuối cùng nhá ra là anh em dán
+
+100
+00:07:55,760 --> 00:08:01,760
+cốt ở cái mục 3 này cũng được thì xinh anh đây này nhưng mà đây đấy thì nó chỉ bán nghe là gì
+
+101
+00:08:01,760 --> 00:08:09,380
+nó đây là nó là gì đây là biết ai trả lời đúng không dựa trên ai xác định ai sẽ gồm 4 cái này
+
+102
+00:08:09,380 --> 00:08:21,620
+anh em có thể là ở đây nhé anh em một này em thì gián cốt trước hai anh em có thể thôi được mình
+
+103
+00:08:21,620 --> 00:08:27,200
+sẽ làm đúng format luôn được chưa Nói chung là phần này thì cứ làm đúng cho format cần gì thì
+
+104
+00:08:27,200 --> 00:08:36,740
+dự cốt được chưa thì đây mình xin giá đi cốt vào ở trên em đây này giá mà chưa đấy đúng format luôn
+
+105
+00:08:36,740 --> 00:08:42,140
+anh em tiếp theo gì cái cuối cùng đúng không Cuối cùng là gì cùng là output
+
+106
+00:08:42,140 --> 00:08:52,760
+format thì mình sẽ làm gì em cứ nhớ cho mình này phong án này em nhìn trong này nhé nhé
+
+107
+00:08:52,760 --> 00:08:59,960
+nó bảo ví dụ cho anh em này ký em cứ nhớ cái này cho mình anh em copy luôn mình này number
+
+108
+00:08:59,960 --> 00:09:06,260
+là một cái vấn đề đó là danh sách các vấn đề ra đúng không thì em cứ có cho mình luôn cái gì
+
+109
+00:09:06,260 --> 00:09:13,940
+mình nghĩ nhiều chưa không cần nghĩ nhiều mình nhá đó tiếp theo này thì mình sẽ có cái gì tiếp
+
+110
+00:09:13,940 --> 00:09:21,500
+theo này thì mình sẽ có gì đó là mỗi một vấn đề thì thế nào và giải thích giải thích và đề xuất
+
+111
+00:09:21,500 --> 00:09:51,500
+à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+112
+00:09:51,500 --> 00:09:58,040
+gợi ý đâu nhỉ
+
+113
+00:09:58,040 --> 00:10:10,160
+truy cột trường nói viết này thôi để chênh em nó ok fix tích
+
+114
+00:10:10,160 --> 00:10:25,460
+em viết cho mình đúng cái format như này xong được chưa Như này là anh em được 0,2 nhé Mình
+
+115
+00:10:25,460 --> 00:10:33,380
+viết vào đây rõ luôn anh em này Đây là 0,2 điểm khi anh em làm xong này thì em sẽ được 0,2 đó
+
+116
+00:10:33,380 --> 00:10:44,200
+là những yêu cầu đầu tiên của anh em Ok ok phần 2 này phần 2 này thì mình sẽ có gì phần 2 này
+
+117
+00:10:44,200 --> 00:10:50,180
+em để cho mình nhá phần 2 này là anh em phải tìm bấm chưa tìm bấm ảnh được không phải hai
+
+118
+00:10:50,180 --> 00:10:58,220
+vài bấm thì tìm bấm này em nhớ cho mình này cái này nói luôn cho anh em anh em đỡ phải đọc nhiều
+
+119
+00:10:58,220 --> 00:11:01,400
+thì trong cái code này này nó đã ghi rõ cho anh em nó bất nào rồi
+
+120
+00:11:01,400 --> 00:11:03,640
+được chưa, thì việc của anh em là gì
+
+121
+00:11:03,640 --> 00:11:06,020
+là anh em phải tìm là bất 1, bất 2, bất 3 này
+
+122
+00:11:06,020 --> 00:11:08,780
+nó là cái gì, anh em sẽ phải ghi ra là code của nó
+
+123
+00:11:08,780 --> 00:11:10,860
+cái lỗi của nó là cái gì, đây nhá mình làm
+
+124
+00:11:10,860 --> 00:11:13,140
+luôn anh em xem này, bước đầu tiên này
+
+125
+00:11:13,140 --> 00:11:15,860
+anh em sẽ có là bất 1
+
+126
+00:11:15,860 --> 00:11:18,240
+được chưa anh em, đó anh em ghi như mình luôn
+
+127
+00:11:18,240 --> 00:11:19,920
+được chưa, cái đầu tiên này
+
+128
+00:11:19,920 --> 00:11:21,340
+anh em sẽ có là code
+
+129
+00:11:21,340 --> 00:11:23,020
+code của nó sẽ có cái gì
+
+130
+00:11:23,020 --> 00:11:24,960
+code của nó sai ở cái nào
+
+131
+00:11:24,960 --> 00:11:27,780
+ví dụ như anh em nhìn nhá, cái bất 1 này sai return true này
+
+132
+00:11:27,780 --> 00:11:35,820
+rồi em cứ nhớ luôn mình mẹo này nếu mà bất của nó là lý tên chua tôi tên phim này đó thì loại nó nhá
+
+133
+00:11:35,820 --> 00:11:43,380
+loại này thứ hai là anh em phải tìm lại nó lại gì chưa thì nó sẽ là gì là wrong vì tớ
+
+134
+00:11:43,380 --> 00:11:53,280
+vì tên value trên em nhất là giá trị trả về là sai được chưa trong lý tên value chưa thì cách
+
+135
+00:11:53,280 --> 00:11:58,320
+chắc chắn rồi là vì tôi chui em thanh vì tôi yêu là xong chưa Nhưng mà tinh nhân thì nó không quan
+
+136
+00:11:58,320 --> 00:12:06,180
+tâm là anh em sẽ cái gì đâu mà nó bắt anh em là giải thích được chưa là tại sao đấy thì thứ ba là
+
+137
+00:12:06,180 --> 00:12:11,520
+nó bắt anh em giải thích tại sao được chưa thì em nhìn vào đây này anh em nhìn nhá ở đây thì nó là
+
+138
+00:12:11,520 --> 00:12:16,800
+cái gì cái đầu tiên anh em đọc này này nó là chết cái điều kiện tiêm tiên quyết đúng không là để xem
+
+139
+00:12:16,800 --> 00:12:21,360
+học sinh có được tham gia lớp này không đúng không thì nếu mà học sinh mà không đáp ứng điều kiện
+
+140
+00:12:21,360 --> 00:12:31,080
+thì nó đây nhá đầu tiên là nó kiểm tra nó lấy cái cái điều kiện tìm kiếm này xem có là luôn
+
+141
+00:12:31,080 --> 00:12:41,580
+hay không Nếu mà nó khác luôn thì sao nó sẽ trách là tiêu đơn có hoàn thành khoa học hay không này
+
+142
+00:12:41,580 --> 00:12:48,720
+đây nhá học sinh không hoàn thành khoa học này đầu tiên là có điều kiện tìm kiếm nhá như là có
+
+143
+00:12:48,720 --> 00:12:54,420
+có điều kiện này có điều kiện có cái điều kiện nó khác luôn mà như là có điều kiện thì chưa tiếp theo
+
+144
+00:12:54,420 --> 00:12:59,720
+là học sinh không hoàn thành này chờ học sinh không hoàn thành hoặc đúng không có điều kiện mà
+
+145
+00:12:59,720 --> 00:13:04,380
+sinh lại không hoàn thành khoa học của cái điều kiện này thì nào thì đây nó phải là vì tôi yêu
+
+146
+00:13:04,380 --> 00:13:09,720
+nghĩa là cái thằng này sẽ không học nữa mà đây lại là cho mình tên chú có phải giải thích là sao
+
+147
+00:13:09,720 --> 00:13:21,720
+giải thích rất là giả nội là nếu mà học sinh đúng không mà không có đặt nó đúng không anh em không
+
+148
+00:13:21,720 --> 00:13:34,100
+đáp ứng cho cái điều kiện tiên quyết này không đáp ứng cái điều kiện thì tôi anh em nhé chỉnh
+
+149
+00:13:34,100 --> 00:13:48,860
+này Ok không đáp ứng nếu mà học sinh mà không đáp ứng thì nó phải là ít à à à à à à à à à à à à à
+
+150
+00:13:48,860 --> 00:14:09,840
+bắt ít lùi tên à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+151
+00:14:09,840 --> 00:14:10,300
+Đấy, xong
+
+152
+00:14:10,300 --> 00:14:11,640
+Bước 2
+
+153
+00:14:11,640 --> 00:14:15,940
+Đấy, mình sẽ xử lý từng cái một thôi
+
+154
+00:14:15,940 --> 00:14:20,780
+Được chứ anh em
+
+155
+00:14:20,780 --> 00:14:21,700
+Bước 2 này
+
+156
+00:14:21,700 --> 00:14:23,180
+Bước 2 này mình sẽ làm cái gì
+
+157
+00:14:23,180 --> 00:14:26,140
+Bước 2 này nhá
+
+158
+00:14:26,140 --> 00:14:27,480
+Đầu tiên này
+
+159
+00:14:27,480 --> 00:14:28,220
+Vẫn như cũ thôi
+
+160
+00:14:28,220 --> 00:14:29,380
+Đúng không, đầu tiên này
+
+161
+00:14:29,380 --> 00:14:33,540
+Đó là gì
+
+162
+00:14:33,540 --> 00:14:34,020
+Là cốt
+
+163
+00:14:34,020 --> 00:14:35,820
+Đúng không
+
+164
+00:14:35,820 --> 00:14:36,580
+Tai
+
+165
+00:14:36,580 --> 00:14:38,120
+Và
+
+166
+00:14:38,120 --> 00:14:38,840
+Ngoài
+
+167
+00:14:38,840 --> 00:14:48,440
+anh em nhớ cho mình đi con này giải quyết 3 vấn đề thì bây giờ anh em sẽ để ý cho mình này bước
+
+168
+00:14:48,440 --> 00:15:08,820
+2 nó là cái gì bước 2 của nó là cái này không có luôn mình nhé à à à à à à à à à à à à à à à à à à
+
+169
+00:15:08,820 --> 00:15:09,820
+vào cái dạng này
+
+170
+00:15:09,820 --> 00:15:12,820
+chắc nó có bị cái nào không nhỉ
+
+171
+00:15:12,820 --> 00:15:17,200
+ok
+
+172
+00:15:17,200 --> 00:15:18,560
+rồi mình xem nào
+
+173
+00:15:18,560 --> 00:15:19,460
+xem có mẹo không
+
+174
+00:15:19,460 --> 00:15:20,180
+ok
+
+175
+00:15:20,180 --> 00:15:23,380
+thì trong dạng này
+
+176
+00:15:23,380 --> 00:15:26,180
+thì mình nghĩ là khả năng là
+
+177
+00:15:26,180 --> 00:15:28,180
+là lỗi về
+
+178
+00:15:28,180 --> 00:15:30,860
+về cái
+
+179
+00:15:30,860 --> 00:15:32,140
+logic của anh em nhé
+
+180
+00:15:32,140 --> 00:15:33,840
+thì ở đây anh em cứ để cho mình là logic
+
+181
+00:15:33,840 --> 00:15:36,320
+error
+
+182
+00:15:36,320 --> 00:15:37,880
+chết anh em
+
+183
+00:15:37,880 --> 00:15:40,960
+loại thì anh em cứ để là logic
+
+184
+00:15:40,960 --> 00:15:42,280
+đấy nhỉ
+
+185
+00:15:42,280 --> 00:15:44,780
+sau đó thì anh em giải thích
+
+186
+00:15:44,780 --> 00:15:45,460
+thấy chưa
+
+187
+00:15:45,460 --> 00:15:47,260
+thì ở đây nhé
+
+188
+00:15:47,260 --> 00:15:49,940
+lỗi về logic này
+
+189
+00:15:49,940 --> 00:15:52,940
+thì ở đây thì anh em giải thích nhanh
+
+190
+00:15:52,940 --> 00:15:53,940
+đó là gì
+
+191
+00:15:53,940 --> 00:15:56,680
+đó là chỗ này nhé
+
+192
+00:15:56,680 --> 00:15:57,540
+anh em để ý này
+
+193
+00:15:57,540 --> 00:16:00,120
+ở đây thì nó đang có một cái hàm thích có sẵn đúng không
+
+194
+00:16:00,120 --> 00:16:03,100
+thì là nó bảo là nếu nó sẽ lấy
+
+195
+00:16:03,100 --> 00:16:05,280
+những cái người đã tham gia
+
+196
+00:16:05,280 --> 00:16:06,940
+nó lấy cái đã tham gia
+
+197
+00:16:06,940 --> 00:16:08,340
+Và nó so sánh với cái mắc
+
+198
+00:16:08,340 --> 00:16:11,120
+Và nếu mà lớn hơn bằng
+
+199
+00:16:11,120 --> 00:16:12,420
+Thì là nó sẽ cho về là field
+
+200
+00:16:12,420 --> 00:16:14,360
+Để cho anh em nghĩa là hết trôi trống
+
+201
+00:16:14,360 --> 00:16:16,120
+Tuy nhiên thì anh em để ý cho mình này
+
+202
+00:16:16,120 --> 00:16:17,620
+Nếu mà nó chỉ sử dụng cái này nhé
+
+203
+00:16:17,620 --> 00:16:18,480
+Anh em nhìn cái dưới này
+
+204
+00:16:18,480 --> 00:16:22,620
+Đây là gì? Đây là cái cost.get
+
+205
+00:16:22,620 --> 00:16:25,060
+Roster này nghĩa là nó lấy cái danh sách
+
+206
+00:16:25,060 --> 00:16:26,180
+Thêm học sinh vào
+
+207
+00:16:26,180 --> 00:16:28,280
+Như là cái này là cái lấy danh sách
+
+208
+00:16:28,280 --> 00:16:29,220
+Thêm học sinh vào đúng không?
+
+209
+00:16:29,860 --> 00:16:31,480
+Thì cái này có một vấn đề là gì?
+
+210
+00:16:31,600 --> 00:16:33,700
+Nếu mà nó lấy luôn cái mà đã tham gia này
+
+211
+00:16:33,700 --> 00:16:35,380
+Thì sẽ xảy ra một vấn đề là gì?
+
+212
+00:16:35,380 --> 00:16:37,420
+là nó sẽ không thay đổi
+
+213
+00:16:37,420 --> 00:16:38,960
+cái giá trị này sẽ không thay đổi
+
+214
+00:16:38,960 --> 00:16:41,000
+ví dụ, đây nha, mình ví dụ nha
+
+215
+00:16:41,000 --> 00:16:43,200
+là nếu mà chỗ này
+
+216
+00:16:43,200 --> 00:16:44,480
+mà
+
+217
+00:16:44,480 --> 00:16:47,300
+ví dụ, khi mà có một thằng học sinh
+
+218
+00:16:47,300 --> 00:16:49,340
+mắc là 2 chẳng hạn, mắc nhá
+
+219
+00:16:49,340 --> 00:16:50,440
+ví dụ mắc bằng 2
+
+220
+00:16:50,440 --> 00:16:52,960
+bây giờ có một thằng học sinh A
+
+221
+00:16:52,960 --> 00:16:54,960
+thêm vào, được chưa nhá
+
+222
+00:16:54,960 --> 00:16:56,860
+ví dụ nhá, có một thằng học sinh A đăng ký
+
+223
+00:16:56,860 --> 00:16:59,380
+thêm vào, nó thêm vào đây này
+
+224
+00:16:59,380 --> 00:17:00,720
+được chưa, thì là
+
+225
+00:17:00,720 --> 00:17:03,180
+nó sẽ, là lúc này nó sẽ
+
+226
+00:17:03,180 --> 00:17:05,260
+so sánh đúng không, thì nó vẫn ok
+
+227
+00:17:05,260 --> 00:17:07,560
+Tuy nhiên thì nếu mà bây giờ
+
+228
+00:17:07,560 --> 00:17:08,800
+Thêm thằng học sinh B vào
+
+229
+00:17:08,800 --> 00:17:11,100
+Cái chỗ này nó vẫn chỉ là 1 thôi
+
+230
+00:17:11,100 --> 00:17:11,580
+Được chứ anh em
+
+231
+00:17:11,580 --> 00:17:13,040
+Cái get arrow này
+
+232
+00:17:13,040 --> 00:17:15,320
+Cái get đã tham gia này
+
+233
+00:17:15,320 --> 00:17:16,460
+Thì nó vẫn không thay đổi
+
+234
+00:17:16,460 --> 00:17:18,960
+Cho nên là cái lỗi là lỗi ở đấy
+
+235
+00:17:18,960 --> 00:17:21,540
+Nếu mà mình muốn sửa
+
+236
+00:17:21,540 --> 00:17:22,940
+Thì nghĩa là sao
+
+237
+00:17:22,940 --> 00:17:25,820
+Cái này nếu mà nói chính xác ra
+
+238
+00:17:25,820 --> 00:17:27,400
+Thì lỗi của nó là lỗi chưa update
+
+239
+00:17:27,400 --> 00:17:29,400
+Chưa update lại
+
+240
+00:17:29,400 --> 00:17:30,540
+Cái danh sách này
+
+241
+00:17:30,540 --> 00:17:33,680
+Vậy thì để mà nó có thể update được danh sách
+
+242
+00:17:33,680 --> 00:17:34,880
+Thì mình sẽ làm gì
+
+243
+00:17:34,880 --> 00:17:41,420
+thì đó là mình sẽ phải sử dụng là cái thằng mà thằng này này là trên em đó nó lấy danh sách ra
+
+244
+00:17:41,420 --> 00:17:46,400
+và nó lấy trong cái danh sách đấy có bao nhiêu thằng thì nó mới là đúng anh em nhé được chưa
+
+245
+00:17:46,400 --> 00:17:54,080
+thì đây nó mới là chuẩn nhất Ok cho nên là lỗi của nó thì là phải thay cái thằng ghét đâu này
+
+246
+00:17:54,080 --> 00:18:01,220
+bằng thằng này từ trên nhé Vậy thì bây giờ nếu mà sửa ra thì mình sẽ là cái gì mình sẽ có là cái
+
+247
+00:18:01,220 --> 00:18:10,280
+là nó đang theo ít đúng không mình có thể giải thích là nếu về cái này nhưng nếu mà bị xét
+
+248
+00:18:10,280 --> 00:18:21,660
+này thì là nó đang đúng không thì bây giờ ví dụ như mình có thể biết là giờ cốt à à ở đa nó nghĩa
+
+249
+00:18:21,660 --> 00:18:32,280
+là không có biết lên đấy ra nó increase nghĩa là không thể tăng cái người tham gia lên được
+
+250
+00:18:32,280 --> 00:18:45,540
+bởi vì kia không đổi mà thì mình sẽ có là em nhau sau khi sau khi mà tiêu đơn đăng ký kênh
+
+251
+00:18:45,540 --> 00:18:48,000
+Ok
+
+252
+00:18:48,000 --> 00:18:49,560
+Nghĩa là cái
+
+253
+00:18:49,560 --> 00:18:52,020
+Cái người tham gia
+
+254
+00:18:52,020 --> 00:18:52,960
+Nó sẽ không được tăng lên
+
+255
+00:18:52,960 --> 00:18:54,780
+Mà muốn nó đúng thì phải thay bằng cái này
+
+256
+00:18:54,780 --> 00:18:56,720
+Nói chung là phải lấy sai
+
+257
+00:18:56,720 --> 00:18:59,280
+Thay vì là gọi luôn cái là
+
+258
+00:18:59,280 --> 00:19:01,240
+Số người đăng ký
+
+259
+00:19:01,240 --> 00:19:03,140
+Thì là phải bằng cái kia
+
+260
+00:19:03,140 --> 00:19:04,980
+Thì cái này thì sẽ làm
+
+261
+00:19:04,980 --> 00:19:06,480
+So number
+
+262
+00:19:06,480 --> 00:19:10,760
+Of students
+
+263
+00:19:10,760 --> 00:19:14,560
+Is wrong
+
+264
+00:19:15,540 --> 00:19:19,600
+Đó, nghĩa là cái thằng này nó không thể tăng cái số người tham gia lên được
+
+265
+00:19:19,600 --> 00:19:21,040
+Cho nên là
+
+266
+00:19:21,040 --> 00:19:23,760
+Khi mà mình so sánh ấy
+
+267
+00:19:23,760 --> 00:19:26,200
+Thì cái danh sách số học sinh trong đấy
+
+268
+00:19:26,200 --> 00:19:28,280
+Số học sinh đăng ký được trong đấy nó sẽ xa
+
+269
+00:19:28,280 --> 00:19:31,300
+Đó, nói chung là viết đơn giản vậy thôi là được
+
+270
+00:19:31,300 --> 00:19:33,380
+Ok, bước 3 đi
+
+271
+00:19:38,660 --> 00:19:39,880
+Ok, vẫn 3 phần nhé
+
+272
+00:19:39,880 --> 00:19:42,100
+Cóc luôn nữa nha anh
+
+273
+00:19:42,100 --> 00:19:44,700
+Ok
+
+274
+00:19:44,700 --> 00:19:58,620
+ở đây mình sẽ có 3 cái bất bất ba thì là cái gì mình có đi luôn nhá Ok bác ba này thì là cái này
+
+275
+00:19:58,620 --> 00:20:10,740
+đúng không copy luôn cho anh ạ đó Ok bác ba này thì bây giờ mình phải chết quên mất lại tháng lên
+
+276
+00:20:10,740 --> 00:20:17,580
+Ok loại nó là gì đây mình sẽ nhìn qua một chút này
+
+277
+00:20:17,580 --> 00:20:30,620
+cốt này đây là cái cuối cùng là cái lưu đăng ký đúng không Ok mình sẽ nhìn à
+
+278
+00:20:30,620 --> 00:20:49,760
+Ok chỗ này nhìn vào đây thì khá đơn giản anh em nhé thì đây anh em nhìn này đây nó sâu ra rất
+
+279
+00:20:49,760 --> 00:20:55,860
+là rõ ràng rồi đó là gì đây thì lại như mình có nói rồi ở bước 2 của thì như mình nói rồi
+
+280
+00:20:55,860 --> 00:21:02,040
+đây là gì đây là cái số người mà đã đăng ký đúng không có đây là số lượng trên nhà nói chung đây là
+
+281
+00:21:02,040 --> 00:21:07,800
+số lượng còn này là gì Đây là danh sách thì xin nhắc số lượng người đã đăng ký này nếu mà muốn
+
+282
+00:21:07,800 --> 00:21:14,460
+nó biết thì mình sẽ phải thêm cái hàm xét để cho nó cộng một nữa để cho nó biết đó thì bây giờ ở
+
+283
+00:21:14,460 --> 00:21:21,100
+đây nhá thì đây là em nhìn nhá là cái gì đây là nó thêm học sinh nó thêm học sinh và danh sách
+
+284
+00:21:21,100 --> 00:21:23,480
+nhưng mà ở đây lưu đăng ký này
+
+285
+00:21:23,480 --> 00:21:24,620
+đây là cái lưu đăng ký đúng không anh em
+
+286
+00:21:24,620 --> 00:21:27,340
+lưu đăng ký thì anh em nhìn nó lưu những cái gì nhé
+
+287
+00:21:27,340 --> 00:21:29,380
+nó lưu student và cost
+
+288
+00:21:29,380 --> 00:21:31,140
+nhưng mà ở đây thì nó mới có cái gì
+
+289
+00:21:31,140 --> 00:21:33,020
+ở đây nó mới có cái gì đây anh em
+
+290
+00:21:33,020 --> 00:21:34,780
+ở đây nó mới có là thêm
+
+291
+00:21:34,780 --> 00:21:36,940
+mỗi là cái thằng student mà thôi
+
+292
+00:21:36,940 --> 00:21:37,800
+đúng không anh em
+
+293
+00:21:37,800 --> 00:21:41,360
+và nó lại không có nhắc gì
+
+294
+00:21:41,360 --> 00:21:42,440
+đến cái thằng cost này cả
+
+295
+00:21:42,440 --> 00:21:45,520
+vậy thì bây giờ nếu mà nó mà lưu như này
+
+296
+00:21:45,520 --> 00:21:46,700
+thì nó sẽ xảy ra vấn đề là gì
+
+297
+00:21:46,700 --> 00:21:49,660
+đó là dữ liệu lưu rồi
+
+298
+00:21:49,660 --> 00:21:51,060
+lưu vào trong database rồi
+
+299
+00:21:51,060 --> 00:21:53,660
+nhưng mà thực chất thì cái khóa này lại chưa được lưu
+
+300
+00:21:53,660 --> 00:21:54,180
+để cho anh em
+
+301
+00:21:54,180 --> 00:21:57,300
+thì đây nó gọi là không nhất quả này anh em nhé
+
+302
+00:21:57,300 --> 00:21:58,660
+thì mình có thể để là
+
+303
+00:21:58,660 --> 00:21:59,680
+data
+
+304
+00:21:59,680 --> 00:22:01,260
+in
+
+305
+00:22:01,260 --> 00:22:03,300
+consistent
+
+306
+00:22:03,300 --> 00:22:05,920
+see ok
+
+307
+00:22:05,920 --> 00:22:08,420
+và tại sao
+
+308
+00:22:08,420 --> 00:22:10,440
+tại sao lại có cái lỗi này
+
+309
+00:22:10,440 --> 00:22:11,300
+thì nó là gì
+
+310
+00:22:11,300 --> 00:22:12,740
+đó là cái phương thức này
+
+311
+00:22:12,740 --> 00:22:13,800
+the method
+
+312
+00:22:13,800 --> 00:22:18,300
+method
+
+313
+00:22:18,300 --> 00:22:21,000
+wow cái phương thức này thế nào
+
+314
+00:22:21,000 --> 00:22:40,500
+là lưu on đi mình viết luôn này con đi xếp resist à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+315
+00:22:40,500 --> 00:22:42,500
+nó sẽ lưu cái đăng ký đúng không?
+
+316
+00:22:42,500 --> 00:22:44,500
+đây này nó lưu cái đăng ký
+
+317
+00:22:46,500 --> 00:22:48,500
+nó sẽ lưu cái đăng ký này nhưng mà thế nào?
+
+318
+00:22:52,500 --> 00:22:54,500
+nó lại không đảm bảo được
+
+319
+00:22:54,500 --> 00:22:56,500
+it cannot
+
+320
+00:22:58,500 --> 00:23:00,500
+đảm bảo
+
+321
+00:23:04,500 --> 00:23:06,500
+the cost
+
+322
+00:23:06,500 --> 00:23:08,500
+không thể đảm bảo là cái cost này
+
+323
+00:23:08,500 --> 00:23:10,340
+is update
+
+324
+00:23:10,340 --> 00:23:12,740
+được chưa nhé
+
+325
+00:23:12,740 --> 00:23:13,820
+đó
+
+326
+00:23:13,820 --> 00:23:16,300
+this can
+
+327
+00:23:16,300 --> 00:23:26,400
+nếu mà viết này không rõ ràng lắm nhỉ
+
+328
+00:23:26,400 --> 00:23:28,400
+thì mình sẽ có thể là
+
+329
+00:23:28,400 --> 00:23:30,600
+ở
+
+330
+00:23:30,600 --> 00:23:30,640
+ở
+
+331
+00:23:30,640 --> 00:23:36,660
+chỗ này
+
+332
+00:23:36,660 --> 00:23:38,340
+viết này thì nó chưa chuẩn
+
+333
+00:23:38,340 --> 00:24:08,340
+chưa chưa trời lắm à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+334
+00:24:08,340 --> 00:24:14,040
+lưu thông tin có xuống thì là mình sẽ lưu một cái có riêng ở đây thì mình sẽ có là mình sẽ viết rõ
+
+335
+00:24:14,040 --> 00:24:27,420
+là luôn cách sửa luôn ở đây thì nó sẽ rõ ràng nhất giải thích like of a sếp post sách s biết được đi
+
+336
+00:24:27,420 --> 00:24:35,520
+nói chung là mình biết sao mình đưa ra cái mình đang đi nói là mình sẽ phải lưu có sẽ phải lưu cái
+
+337
+00:24:35,520 --> 00:24:44,020
+mình sẽ phải lưu cái có nhưng mà nó ok phải như này
+
+338
+00:24:44,020 --> 00:24:50,760
+như này thì khá là ok đấy sau đó thì mình biết như thế này thì nó sẽ là ok
+
+339
+00:24:50,760 --> 00:24:58,500
+ok để như này nghe nhé Ok để là xử lý xong ba bất ngờ
+
+340
+00:24:58,500 --> 00:25:06,300
+xong và cái cuối cùng của cái phần này để nhắn được không phải 5 điểm rất là khơi đúng anh em
+
+341
+00:25:06,300 --> 00:25:19,920
+đó là gì đó là mình sẽ phải xử lý cả cái là rom Facebook ở trên nhau cái này là không phải
+
+342
+00:25:19,920 --> 00:25:24,420
+quá là chán Ok thì cái này mình sẽ xử lý như thế nào
+
+343
+00:25:24,420 --> 00:25:32,760
+cái này thì khá đơn giản thôi anh em nhé
+
+344
+00:25:32,760 --> 00:25:40,980
+cái này thì khi mà fix cái bức này viết kịp bom để thích bất vệ thì nó lại khá là đơn giản anh
+
+345
+00:25:40,980 --> 00:25:46,020
+em ạ Nó lại không cần phải theo cái con đúng chưa đâu phải bí nhận gì này đây mình chỉ đảm bảo là
+
+346
+00:25:46,020 --> 00:25:50,820
+cái phương thức này để họ bảo ai nó sửa cái phương thức này trên mày cốt cho nó chuẩn thôi
+
+347
+00:25:50,820 --> 00:26:02,460
+thì bây giờ mình sẽ làm làm đó là mình sẽ cho là viết tiếp thôi thì mình sẽ có là bây giờ anh em
+
+348
+00:26:02,460 --> 00:26:11,760
+có nhớ cho mình là mây son nhá dựa trên giờ y siêu đã tìm được mây son y siêu vào đã tìm được
+
+349
+00:26:11,760 --> 00:26:41,760
+nha à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+350
+00:26:41,760 --> 00:26:44,400
+mẹ thơ
+
+351
+00:26:44,400 --> 00:26:51,300
+có cái gì
+
+352
+00:26:51,300 --> 00:26:55,000
+Ok biết này không
+
+353
+00:26:55,000 --> 00:27:04,200
+Ok đấy cái này rồi nó và cái gì nữa
+
+354
+00:27:04,200 --> 00:27:10,080
+biết thì phải quay mình nữa cho nó chuẩn nhất nhá mình quay mình
+
+355
+00:27:10,080 --> 00:27:17,880
+Ok mình quay mặt này thì mình sẽ thêm cái quay mặt vào đó là gì đầu tiên là phép chắc chắn rồi
+
+356
+00:27:17,880 --> 00:27:34,080
+lô dịch lô dịch vụ error ở trên em đó tiếp theo là gì là cái này ở trên nha following
+
+357
+00:27:34,080 --> 00:28:00,320
+đây em nhé Đây này nó có cái gợi ý đây này à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+358
+00:28:00,320 --> 00:28:09,840
+cố định best practice được chơi nhau đó và tiếp theo là gì là
+
+359
+00:28:09,840 --> 00:28:13,160
+chẳng rồi anh em nhớ cho mình nhé nét con mẹ
+
+360
+00:28:13,160 --> 00:28:18,740
+explain to explain
+
+361
+00:28:18,740 --> 00:28:24,740
+Thế là xong
+
+362
+00:28:24,740 --> 00:28:25,520
+Được chưa anh em
+
+363
+00:28:25,520 --> 00:28:26,320
+Như thế này thôi
+
+364
+00:28:26,320 --> 00:28:27,200
+Không phải 1 điểm
+
+365
+00:28:27,200 --> 00:28:28,040
+Được chưa nhỉ
+
+366
+00:28:28,040 --> 00:28:28,600
+Đó
+
+367
+00:28:28,600 --> 00:28:29,640
+Vậy là mình đã giải quyết xong
+
+368
+00:28:29,640 --> 00:28:30,960
+Cái kịch bản A này rồi anh em nhé
+
+369
+00:28:30,960 --> 00:28:31,740
+Được chưa
+
+370
+00:28:31,740 --> 00:28:32,660
+Đó
+
+371
+00:28:32,660 --> 00:28:34,620
+Tiếp theo thì anh em nào
+
+372
+00:28:34,620 --> 00:28:35,580
+Mà muốn xem tiếp ấy
+
+373
+00:28:35,580 --> 00:28:36,800
+Thì anh em lại vào
+
+374
+00:28:36,800 --> 00:28:38,120
+Đăng ký gói của mình thôi anh em nhé
+
+375
+00:28:38,120 --> 00:28:38,900
+Ok
+
+376
+00:28:38,900 --> 00:28:40,920
+Cảm ơn anh em đã xem video nhé
+
+377
+00:28:40,920 --> 00:28:42,900
+Mình sẽ dừng video ở đây
+
+378
+00:28:42,900 --> 00:28:43,740
+Ok
+
+379
+00:28:43,740 --> 00:28:44,360
+Bye anh em nhé
+

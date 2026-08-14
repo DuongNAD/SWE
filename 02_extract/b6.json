@@ -1,0 +1,278 @@
+{
+  "id": "b6",
+  "tieu_de_tu_suy_ra": "Luyện tập Q3 - Hướng dẫn làm câu 3: Viết Use Case Specification (Register for Course)",
+  "cau_hoi_lien_quan": ["Q3"],
+  "do_dai_phut": 14.4,
+  "dan_bai": [
+    {
+      "ts": "00:00",
+      "muc": "Giảng viên giới thiệu video hướng dẫn làm câu 3 (Write a complete Use Case Specification). Phán đoán cấu trúc đề thi thực tế có thể bỏ Q1 và Q4 để tập trung vào Q3."
+    },
+    {
+      "ts": "00:30",
+      "muc": "Đọc và phân tích đề bài Q3 trong đề thi sample SWE202c (15 points): Yêu cầu viết Use Case Specification hoàn chỉnh cho 'Register for Course' theo template."
+    },
+    {
+      "ts": "01:00",
+      "muc": "Lưu ý bài Q3 không yêu cầu vẽ sơ đồ UML (vẽ sơ đồ thuộc Q2), chỉ cần điền đầy đủ thông tin chi tiết vào template đặc tả."
+    },
+    {
+      "ts": "01:30",
+      "muc": "Đối chiếu Use Case 'Register for Course' với danh sách use case đã liệt kê ở bài Q2 (tương ứng 'Submit registration request')."
+    },
+    {
+      "ts": "02:00",
+      "muc": "Điền các thông tin định danh Use Case: Use Case ID (UC-03), Use Case Name (Register for Course), Actor(s): Student (primary); System (secondary)."
+    },
+    {
+      "ts": "02:30",
+      "muc": "Giải thích cách xác định Primary Actor và Secondary Actor (mặc định secondary actor là System, ngoại trừ các trường hợp bài toán có Payment Gateway hay Mapping Service API)."
+    },
+    {
+      "ts": "03:30",
+      "muc": "Phân tích Preconditions (Điều kiện tiên quyết trước khi đăng ký): Học sinh đã authenticated/logged in, cửa sổ đăng ký đang mở, đã đạt các điều kiện tiên quyết môn học."
+    },
+    {
+      "ts": "04:00",
+      "muc": "Phân tích Post conditions (Kết quả sau khi thực hiện): Sinh viên đăng ký môn học thành công HOẶC được xếp vào danh sách chờ (waitlist) nếu lớp đầy."
+    },
+    {
+      "ts": "04:30",
+      "muc": "Nhấn mạnh tầm quan trọng của việc đọc hiểu case study để làm các phần kịch bản chính và rẽ nhánh (Main Flow, Alternative Flow, Exception Flow)."
+    },
+    {
+      "ts": "05:00",
+      "muc": "Phân tích 8 bước trong Main Flow (Basic Path) từ lúc sinh viên chọn Browse Courses, hệ thống kiểm tra điều kiện, ghi nhận đăng ký đến khi hoàn thành."
+    },
+    {
+      "ts": "06:30",
+      "muc": "Phân tích Alternative Flow A (Luồng thay thế khi hết chỗ ở bước 5): Hệ thống thông báo đầy, gợi ý vào waitlist, sinh viên xác nhận và lưu waitlist."
+    },
+    {
+      "ts": "07:30",
+      "muc": "Phân tích Alternative Flow B (Luồng thay thế khi tạch điều kiện tiên quyết ở bước 4): Hệ thống báo danh sách môn chưa đạt, quay lại danh sách môn học, kết thúc không đăng ký."
+    },
+    {
+      "ts": "08:30",
+      "muc": "Phân tích Exception Flow (Luồng ngoại lệ khi lỗi kỹ thuật/database/mạng ở bất kỳ bước nào): Báo lỗi, ghi log, hướng dẫn sinh viên thử lại hoặc liên hệ Academic Staff."
+    },
+    {
+      "ts": "09:00",
+      "muc": "Phân tích Business Rules (Quy tắc nghiệp vụ): Tránh trùng lịch học, giới hạn tối đa 24 tín chỉ/học kỳ, thứ tự waitlist tính theo timestamp."
+    },
+    {
+      "ts": "10:00",
+      "muc": "Liên hệ với câu hỏi Non-Functional Requirements (Q4): Response time < 3s, mã hóa TLS 1.2+ (nhóm Performance và Security)."
+    },
+    {
+      "ts": "11:30",
+      "muc": "Dự đoán các chủ đề Case Study có thể xuất hiện trong đề thi (FAP - Đăng ký học, Quản lý thư viện, Phần mềm thi EOS/SDP)."
+    },
+    {
+      "ts": "12:30",
+      "muc": "Lời khuyên chiến thuật làm bài: Bám sát đề bài/case study, tận dụng tối đa dữ kiện đề cung cấp."
+    },
+    {
+      "ts": "13:30",
+      "muc": "Phân tích cơ cấu điểm số các câu trong đề thi (Q5 25đ, Q3 15đ, Q2 15đ, Q4 10đ) để phân bổ thời gian hợp lý."
+    }
+  ],
+  "quy_trinh_lam_bai": [
+    {
+      "buoc": 1,
+      "ten_buoc": "Đọc kỹ đề bài và template Use Case Specification",
+      "lam_gi_cu_the": "Xác định Use Case Name và Use Case ID từ đề bài. Đọc yêu cầu template (điền EVERY field, không bỏ trống phần nào).",
+      "dau_vao": "Đề bài Q3 và Use Case Spec Template trong đề thi sample",
+      "dau_ra": "Use Case Name ('Register for Course'), Use Case ID ('UC-03')",
+      "cau_noi_goc": "bài này nó chỉ cần yêu cầu anh em viết Chi tiết về một cái UK Và mô tả chi tiết Cách cái hệ thống hoạt động Và nó bảo anh em là sử dụng cái template này Như là mình sẽ phải điền hết mấy cái này",
+      "ts": "00:30"
+    },
+    {
+      "buoc": 2,
+      "ten_buoc": "Xác định các Actor (Primary và Secondary)",
+      "lam_gi_cu_the": "Xác định ai kích hoạt use case (Primary Actor, ví dụ Student). Xác định hệ thống hoặc bên thứ ba hỗ trợ (Secondary Actor). Mặc định secondary actor thường là System, ngoại trừ trường hợp có bên thứ ba như Payment Gateway, Mapping Service API.",
+      "dau_vao": "Mô tả case study và danh sách actor ở Q2",
+      "dau_ra": "Actor(s): Student (primary); System (secondary)",
+      "cau_noi_goc": "anh em cứ mặc định cho mình, secondary là system cho mình nhé Tùy anh em nhé Nếu mà bài này nó yêu cầu anh em nói đến cái về payment... Thì nó sẽ là một cái cổng thanh toán riêng... Còn đa số Anh em nhớ mình đa số là system",
+      "ts": "02:30"
+    },
+    {
+      "buoc": 3,
+      "ten_buoc": "Xác định Preconditions và Post conditions",
+      "lam_gi_cu_the": "Trích xuất từ case study điều kiện cần phải có trước khi thực hiện use case (Preconditions: đã đăng nhập, đợt đăng ký đang mở, đủ môn tiên quyết) và trạng thái hệ thống sau khi kết thúc use case (Post conditions: đăng ký thành công hoặc vào waitlist).",
+      "dau_vao": "Kịch bản nghiệp vụ trong đề bài",
+      "dau_ra": "Các gạch đầu dòng Preconditions và Post conditions",
+      "cau_noi_goc": "thứ nhất thì Đó là cái pre-condition, kết quả, điều kiện trước khi bắt đầu... tiếp theo là gì là kết quả cái điều sau khi kết quả sau khi xong ấy",
+      "ts": "03:30"
+    },
+    {
+      "buoc": 4,
+      "ten_buoc": "Viết Main Flow (Basic Path / Luồng chính thành công)",
+      "lam_gi_cu_the": "Liệt kê theo thứ tự đánh số 1, 2, 3... tương tác giữa Primary Actor và System từ lúc bắt đầu đến khi kết thúc thành công (8 bước tiêu chuẩn).",
+      "dau_vao": "Luồng nghiệp vụ chuẩn trong case study",
+      "dau_ra": "Danh sách các bước Main Flow (từ bước 1 sinh viên chọn Browse Courses đến bước 8 kết thúc thành công)",
+      "cau_noi_goc": "đây nó là cái luồng chính anh em để nhìn nhá học sinh chọn duyệt danh mục trong dashboard này... cuối cùng là UKN đây là cái nguồn luồng chính",
+      "ts": "05:00"
+    },
+    {
+      "buoc": 5,
+      "ten_buoc": "Viết Alternative Flows (Luồng thay thế)",
+      "lam_gi_cu_the": "Xác định các điểm rẽ nhánh trong Main Flow (ví dụ bước 4 check tiên quyết thất bại, bước 5 hết chỗ) và viết kịch bản xử lý tương ứng (Alternative Flow A, Alternative Flow B) với các mã A1-A4, B1-B3.",
+      "dau_vao": "Các tình huống nghiệp vụ phụ trong case study",
+      "dau_ra": "Alternative Flow A (nếu hết chỗ -> waitlist), Alternative Flow B (nếu tạch tiên quyết -> báo lỗi)",
+      "cau_noi_goc": "tiếp theo là gì, là cái mà có thể cái mà thay thế nó gọi là cái luồng thay thế anh em nhé... nó chọn cái luồng từ năm này... trường hợp thứ hai cái kia là trên nhau thì hệ thống hiển thị ra một cái là nói chung là bảo là mày chưa bác",
+      "ts": "06:30"
+    },
+    {
+      "buoc": 6,
+      "ten_buoc": "Viết Exception Flow và Business Rules",
+      "lam_gi_cu_the": "Viết luồng sự cố kỹ thuật (Exception Flow: lỗi mạng, sự cố DB ở bất kỳ bước nào) và liệt kê các quy tắc nghiệp vụ áp dụng (Business Rules: trùng lịch, giới hạn tín chỉ, thứ tự ưu tiên waitlist).",
+      "dau_vao": "Yêu cầu kỹ thuật và ràng buộc kinh doanh của bài toán",
+      "dau_ra": "Exception Flow (E1-E3) và Business Rules",
+      "cau_noi_goc": "luồng ngoại lệ... trường hợp lỗi... tiếp theo là cái business rule này là luật nghiệp vụ... Học sinh thì không thể đăng ký Khóa học với Quá số thời gian... Maximum credit",
+      "ts": "08:30"
+    }
+  ],
+  "vi_du_giang_vien_lam": [
+    {
+      "de_bai_goc": "Question 3: UC Specification (15 points)\nWrite a complete Use Case Specification for the use case 'Register for Course'. Use the template below and fill in EVERY field. Partial or missing sections will receive partial credit only.",
+      "bai_lam_hoan_chinh": "UC SPECIFICATION TEMPLATE\nUse Case Name: Register for Course\nUse Case ID: UC-03\nActor(s): Student (primary); System (secondary)\n\nPreconditions:\n• Student is authenticated and logged in.\n• Registration window is currently open.\n• Student has met all prerequisites for the chosen course.\n\nAuthor: <Fill Student ID here>  <Fill exam date here>\n\nPost conditions:\n• Student is successfully enrolled in the course, OR\n• Student is placed on the waitlist if the course is full.\n\nMain Flow (Basic Path):\n1. Student selects 'Browse Courses' from the dashboard.\n2. System displays the list of available courses with seat availability.\n3. Student selects a course and clicks 'Register'.\n4. System checks prerequisites → passed.\n5. System checks seat availability → seats available.\n6. System records the registration and updates seat count.\n7. System sends a confirmation notification to the student.\n8. Use case ends successfully.\n\nAlternative Flow A: At step 5, if the course is full:\nA1. System informs the student that no seats are available.\nA2. System offers the option to join the waitlist.\nA3. Student confirms → System records the waitlist entry.\nA4. Use case ends (waitlisted).\n\nAlternative Flow B: At step 4, if prerequisite check fails:\nB1. System displays a message listing the unmet prerequisites.\nB2. Student is returned to the course list.\nB3. Use case ends without registration.\n\nException Flow: At any step, if a network or database error occurs:\nE1. System displays an error message and logs the incident.\nE2. Student is advised to retry or contact Academic Staff.\nE3. Use case ends abnormally.\n\nBusiness Rules:\n• A student may not register for courses with overlapping time slots.\n• Maximum credit load per semester is 24 credit hours.\n• Waitlist position is determined by timestamp of request.\n\nNon-Functional Requirements:\n• Response time for registration confirmation must be < 3 seconds.\n• All data transmitted must be encrypted via TLS 1.2+.",
+      "giang_giai": "Giảng viên trình bày mẫu Use Case Specification hoàn chỉnh cho 'Register for Course' từ đề thi sample SWE202c, phân tích chi tiết từng mục từ Actor, Preconditions, Post conditions, Main Flow đến Alternative Flows, Exception Flow, Business Rules và Non-Functional Requirements.",
+      "ts": "00:30"
+    }
+  ],
+  "khai_niem": [
+    {
+      "thuat_ngu": "Use Case Specification (UC Spec)",
+      "dinh_nghia_theo_giang_vien": "Mô tả chi tiết cách hệ thống hoạt động khi thực hiện một use case cụ thể, bao gồm điều kiện đầu vào, đầu ra, luồng chính, các luồng thay thế và ngoại lệ.",
+      "vi_du": "Mô tả chi tiết Use Case 'Register for Course' (UC-03).",
+      "ts": "01:00"
+    },
+    {
+      "thuat_ngu": "Primary Actor & Secondary Actor",
+      "dinh_nghia_theo_giang_vien": "Primary Actor là tác nhân chính khởi tạo/tương tác trực tiếp với hệ thống (vd: Student). Secondary Actor là hệ thống hoặc bên thứ ba hỗ trợ hoàn thành use case (mặc định là System, hoặc Payment Gateway, Mapping Service API).",
+      "vi_du": "Student (primary); System (secondary)",
+      "ts": "02:30"
+    },
+    {
+      "thuat_ngu": "Preconditions & Post conditions",
+      "dinh_nghia_theo_giang_vien": "Preconditions là điều kiện bắt buộc phải thỏa mãn trước khi bắt đầu use case. Post conditions là trạng thái kết quả của hệ thống sau khi use case hoàn thành (thành công hoặc rẽ nhánh).",
+      "vi_du": "Precondition: Student logged in; Post condition: Enrolled or waitlisted",
+      "ts": "03:30"
+    },
+    {
+      "thuat_ngu": "Main Flow (Basic Path)",
+      "dinh_nghia_theo_giang_vien": "Luồng chính (kịch bản lý tưởng) diễn ra thành công từ đầu đến cuối không gặp lỗi hay rẽ nhánh.",
+      "vi_du": "Các bước 1-8 đăng ký khóa học thành công",
+      "ts": "05:00"
+    },
+    {
+      "thuat_ngu": "Alternative Flow (Luồng thay thế)",
+      "dinh_nghia_theo_giang_vien": "Luồng rẽ nhánh từ một bước trong Main Flow khi gặp tình huống nghiệp vụ khác (vd: hết chỗ, tạch tiên quyết).",
+      "vi_du": "Alternative Flow A (At step 5, if full -> waitlist)",
+      "ts": "06:30"
+    },
+    {
+      "thuat_ngu": "Exception Flow (Luồng ngoại lệ)",
+      "dinh_nghia_theo_giang_vien": "Luồng xử lý khi xảy ra sự cố kỹ thuật hệ thống (lỗi mạng, lỗi database) ở bất kỳ bước nào.",
+      "vi_du": "At any step, network/database error -> E1, E2, E3",
+      "ts": "08:30"
+    },
+    {
+      "thuat_ngu": "Business Rules (Quy tắc nghiệp vụ)",
+      "dinh_nghia_theo_giang_vien": "Các quy tắc, ràng buộc logic kinh doanh mà hệ thống phải tuân thủ trong quá trình thực thi use case.",
+      "vi_du": "Không đăng ký trùng lịch, tối đa 24 tín chỉ/kỳ",
+      "ts": "09:00"
+    }
+  ],
+  "cau_chu_mau": [
+    {
+      "dung_khi": "Định nghĩa bước trong Main Flow",
+      "mau": "Student selects '<Action>' from <Location> / System displays <Information> / System checks <Condition> → <Result>",
+      "ts": "05:00"
+    },
+    {
+      "dung_khi": "Viết tiêu đề Alternative Flow",
+      "mau": "At step <N>, if <Condition>:",
+      "ts": "06:30"
+    },
+    {
+      "dung_khi": "Viết tiêu đề Exception Flow",
+      "mau": "At any step, if <Technical Failure> occurs:",
+      "ts": "08:30"
+    }
+  ],
+  "luu_y_cham_diem": [
+    {
+      "noi_dung": "Phải điền ĐẦY ĐỦ TẤT CẢ các trường (fill in EVERY field) trong UC Specification Template. Thiếu hoặc bỏ trống mục nào sẽ bị trừ điểm partial credit.",
+      "muc_do": "chac_chan",
+      "ts": "00:30"
+    },
+    {
+      "noi_dung": "Bài Q3 KHÔNG yêu cầu vẽ sơ đồ (sơ đồ thuộc Q2). Nếu vẽ sơ đồ ở Q3 là sai yêu cầu đề bài.",
+      "muc_do": "chac_chan",
+      "ts": "01:00"
+    },
+    {
+      "noi_dung": "Secondary Actor mặc định điền 'System' trừ khi đề bài nhắc đích danh dịch vụ bên thứ ba (như Payment Gateway, Mapping Service API).",
+      "muc_do": "co_the",
+      "ts": "02:30"
+    },
+    {
+      "noi_dung": "Chú ý tổng số điểm các câu trong đề thi để phân bổ thời gian: Q5 Class Diagram chiếm tới 25 điểm, Q3 chiếm 15 điểm, Q2 chiếm 15 điểm, Q4 NFR chiếm 10 điểm.",
+      "muc_do": "chac_chan",
+      "ts": "13:30"
+    }
+  ],
+  "meo_lam_bai": [
+    {
+      "meo": "Khi viết UC Specification, bám sát từng câu từng chữ trong bài case study để trích ra Preconditions, Main Flow và Alternative Flows, không tự nghĩ ra quy trình khác.",
+      "ts": "06:00"
+    },
+    {
+      "meo": "Trích xuất Use Case Name từ câu Q2 trước đó nếu đề bài lấy lại use case đã liệt kê ở Q2 (ví dụ: 'Submit registration request' trùng với 'Register for Course').",
+      "ts": "01:30"
+    },
+    {
+      "meo": "Với câu hỏi NFR (Q4), 2 nhóm NFR dễ lấy điểm nhất luôn là Hiệu năng (Performance - Response time) và Bảo mật (Security - Encryption/TLS).",
+      "ts": "10:30"
+    },
+    {
+      "meo": "Đề thi PE SWE202c thường tập trung vào các hệ thống quen thuộc: Đăng ký học (FAP), Quản lý thư viện, hoặc Hệ thống thi (EOS/SDP).",
+      "ts": "11:30"
+    }
+  ],
+  "loi_sai_thuong_gap": [
+    {
+      "loi": "Bỏ trống một số trường trong bảng UC Specification Template (ví dụ quên ghi Author, Business Rules hay Exception Flow).",
+      "cach_tranh": "Đọc lại danh sách checklist đề bài, điền đủ tất cả các ô theo template.",
+      "ts": "00:30"
+    },
+    {
+      "loi": "Nhầm lẫn giữa Q2 (UC Modeling - vẽ sơ đồ Use Case) và Q3 (UC Specification - viết đặc tả bằng văn bản/bảng).",
+      "cach_tranh": "Q2 mới vẽ hình UML, Q3 chỉ viết văn bản chi tiết theo template.",
+      "ts": "01:00"
+    },
+    {
+      "loi": "Viết Alternative Flow nhưng không chỉ rõ điểm rẽ nhánh (rẽ nhánh từ step nào trong Main Flow).",
+      "cach_tranh": "Ghi rõ cú pháp 'At step N, if...:' ở đầu mỗi Alternative Flow.",
+      "ts": "06:30"
+    }
+  ],
+  "prompt_ai_giang_vien_dung": [],
+  "so_do_va_bang": [
+    {
+      "ts": "00:30",
+      "loai": "khac",
+      "noi_dung_chep_lai": "Question 3: UC Specification (15 points)\nWrite a complete Use Case Specification for the use case 'Register for Course'. Use the template below and fill in EVERY field. Partial or missing sections will receive partial credit only.\n\nUC SPECIFICATION TEMPLATE\nUse Case Name: Register for Course\nUse Case ID: UC-03\nActor(s): Student (primary); System (secondary)\n\nPreconditions:\n• Student is authenticated and logged in.\n• Registration window is currently open.\n• Student has met all prerequisites for the chosen course.\n\nAuthor: <Fill Student ID here>  <Fill exam date here>\n\nPost conditions:\n• Student is successfully enrolled in the course, OR\n• Student is placed on the waitlist if the course is full.\n\nMain Flow (Basic Path):\n1. Student selects 'Browse Courses' from the dashboard.\n2. System displays the list of available courses with seat availability.\n3. Student selects a course and clicks 'Register'.\n4. System checks prerequisites → passed.\n5. System checks seat availability → seats available.\n6. System records the registration and updates seat count.\n7. System sends a confirmation notification to the student.\n8. Use case ends successfully.\n\nAlternative Flow A: At step 5, if the course is full:\nA1. System informs the student that no seats are available.\nA2. System offers the option to join the waitlist.\nA3. Student confirms → System records the waitlist entry.\nA4. Use case ends (waitlisted).\n\nAlternative Flow B: At step 4, if prerequisite check fails:\nB1. System displays a message listing the unmet prerequisites.\nB2. Student is returned to the course list.\nB3. Use case ends without registration.\n\nException Flow: At any step, if a network or database error occurs:\nE1. System displays an error message and logs the incident.\nE2. Student is advised to retry or contact Academic Staff.\nE3. Use case ends abnormally.\n\nBusiness Rules:\n• A student may not register for courses with overlapping time slots.\n• Maximum credit load per semester is 24 credit hours.\n• Waitlist position is determined by timestamp of request.\n\nNon-Functional Requirements:\n• Response time for registration confirmation must be < 3 seconds.\n• All data transmitted must be encrypted via TLS 1.2+."
+    },
+    {
+      "ts": "02:00",
+      "loai": "khac",
+      "noi_dung_chep_lai": "ID | Use Case | Initiating Actor | Goal\n1 | Browse course catalogue | Student | View course list and detail\n2 | Check prerequisites | Student | Check condition before registration\n3 | Submit registration request | Student | Register for a specific course\n4 | Join waitlist | Student | Register when the course is full\n5 | Track registration status | Student | View status\n6 | View enrolled roster | Lecturer | View the list student enrolled the course\n7 | Record grades | Lecturer | Input the midterm and final grades"
+    }
+  ],
+  "cho_khong_ro": [],
+  "ghi_chu_ngoai_khoa": [],
+  "do_bao_phu": "đã đọc hết dossier: có"
+}

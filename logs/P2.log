@@ -1,0 +1,49 @@
+Chào bạn, tôi đã hoàn thành toàn bộ quá trình xử lý, tổng hợp và gộp dữ liệu từ `02_extract/` vào thư mục `03_kb/` theo đúng hướng dẫn của prompt.
+
+### Các công việc đã thực hiện:
+1. **Khởi tạo 6 sản phẩm đầu ra**:
+   - `03_kb/cau_truc_de_thi.md`: Được gộp từ `manifest.md` và các nhận định điểm số, nội dung của giảng viên.
+   - `03_kb/playbook.md`: Quy trình làm bài đánh số bước cho tất cả 7 câu hỏi và phần General, đã gộp và khử trùng lặp (vd: Q2 và Q6).
+   - `03_kb/glossary.md`: Tổng hợp các thuật ngữ chuyên ngành.
+   - `03_kb/rubric.md`: Danh sách các lưu ý chấm điểm và lỗi sai thường gặp, có dán nhãn `[GV-NÓI]` hoặc `[GV-LÀM]`.
+   - `03_kb/prompt_giangvien.md`: Các câu prompt gốc giảng viên dùng cho AI.
+   - `03_kb/snippets/`: Chứa các code ví dụ và sơ đồ PlantUML (json).
+
+2. **Xử lý mâu thuẫn**:
+   - Đã tạo file `03_kb/mau_thuan.md` để ghi nhận sự khác biệt thứ tự làm bước vẽ Boundary (giữa video `ucd1`, `b3-2` và `capcuu`, `b3-3`). Tôi đã chọn hướng dẫn từ video ôn tập tổng hợp `capcuu` làm quy chuẩn (Vẽ Boundary ngay từ Bước 1) và gộp vào Playbook.
+
+3. **Kiểm chứng tính xác thực (Validation)**:
+   - Đã chạy lệnh trích xuất ngẫu nhiên 15 khẳng định từ `playbook.md` và `rubric.md`, sau đó đối chiếu trực tiếp với transcript trong file `01_raw/<id>/dossier.md`. Dưới đây là bảng kết quả:
+
+| Khẳng định (Trích đoạn) | Nguồn | Dossier có nói vậy không? | Sửa gì |
+|---|---|---|---|
+| Chú ý tổng số điểm Q5 (25đ), Q2, Q3 (15đ)... | `b6 @ 13:30` | Chỉ nhắc câu 5 là 25 điểm | Hạ xuống `[SUY-LUẬN]` |
+| B3: Tạo System Boundary trong StarUML... | `ucd1 @ 39:00` | CÓ | Không |
+| Phân biệt Verification (đúng thiết kế) và Validation (đúng ý khách)... | `tonghop @ 04:00` | CÓ | Không |
+| Task 3 bắt buộc dùng JPA named query... | `b1-2 @ 28:30` | KHÔNG THẤY | Hạ xuống `[SUY-LUẬN]` |
+| B4: Chọn cặp NFR bị xung đột... | `b4 @ 15:30` | CÓ | Không |
+| B6: Viết Exception Flow và Business Rules... | `b6 @ 08:30` | CÓ | Không |
+| B1: Đọc kỹ đề bài và template... | `b6 @ 00:30` | CÓ | Không |
+| [MẸO] Vẽ StarUML sơ đồ đẹp: Đặt khung trước, kéo Actor... | `ucd1 @ 40:00` | Có một phần (đoạn sau bị cắt sang timestamp khác) | Hạ xuống `[SUY-LUẬN]` |
+| Identify Issues: SQL Injection ghi Risk Critical... | `b1-2 @ 07:30` | CÓ | Không |
+| B1: Xác định Actor và Goal... | `ucd1 @ 14:30` | CÓ | Không |
+| Lỗi sai copy-paste quá nhiều câu vào Acceptance Criterion... | `b4 @ 06:00` | CÓ | Không |
+| Tất cả Use Case BẮT BUỘC nằm trong Boundary... | `ucd1 @ 07:00` | CÓ | Không |
+| Mẹo tìm nhanh Actor: Đọc lướt đầu câu... | `capcuu @ 08:00` | CÓ | Không |
+| Lỗi sai: Quên vẽ hệ thống thứ 3 (API, Gateway)... | `b3-2 @ 06:00` | CÓ | Không |
+| B4: Viết Test Case 1... | `b7 @ 27:30` | CÓ | Không |
+
+4. **Kiểm kê dữ liệu cuối cùng**:
+
+| Câu | Số bước playbook | Số ví dụ mẫu | Số tiêu chí rubric | Lỗ hổng cần bổ sung |
+|:---:|:---:|:---:|:---:|---|
+| **General** | 5 | 3 | 6 | |
+| **Q1** | 4 | 1 | 9 | ⚠️ (Xem lại video/Bổ sung mẫu) |
+| **Q2** | 6 | 7 | 31 | |
+| **Q3** | 6 | 1 | 7 | ⚠️ (Xem lại video/Bổ sung mẫu) |
+| **Q4** | 6 | 2 | 7 | |
+| **Q5** | 8 | 2 | 8 | |
+| **Q6** | 4 | 5 | 12 | |
+| **Q7** | 6 | 2 | 6 | |
+
+Bộ Knowledge Base gốc của khoá học SWE202c đã sẵn sàng. Bạn có muốn mình điều chỉnh lại layout của các Markdown file hoặc tiến hành rà soát kỹ hơn ở những câu có "Lỗ hổng" (Q1, Q3) không?

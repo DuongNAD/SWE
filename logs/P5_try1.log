@@ -1,0 +1,37 @@
+I am looking for the specified files. I'll read them and generate the final output shortly.
+Đã hoàn thành việc đối chiếu và hợp nhất 3 bản chạy vào file `page/out/FINAL.md`. Dưới đây là phân tích chi tiết từng câu, phân loại các điểm khác biệt và kết quả tự chấm theo rubric:
+
+### 1. Bảng đối chiếu
+
+| Câu | Ba bản có chọn cùng một khuôn không | Chỗ giống nhau | Chỗ lệch nhau |
+|---|---|---|---|
+| **Q1** | Có (`Q1-Software_Development_Model.md`) | Đều chọn Agree với mô hình Kanban. 3 nguyên tắc đầu tiên (Visualize, Limit WIP, Manage Flow) được nhận diện giống nhau và đều có match dẫn chứng từ case study. | - Ở Nguyên tắc số 4: Bản 1 chọn "Feedback Loops", Bản 2 chọn "Incremental Change", Bản 3 chọn "Make Policies Explicit". <br>- Cách trích dẫn keyword để chứng minh cho "Limit WIP" cũng hơi khác nhau giữa các bản (Bản 1 dùng "continuous delivery", Bản 2 dùng "small team", Bản 3 dùng "2 months deadline"). |
+| **Q2** | Có (`Q2-Testing.md`) | Đều chọn chuẩn 4 mức kiểm thử: Unit (Dev, white-box), Integration (Dev/QA), System (QA, black-box), UAT (End-user/BA). | Gần như không có sự khác biệt (Đồng thuận 100%), chỉ lệch một vài từ vựng rất nhỏ. |
+| **Q3** | Có (`Q3-Identify_Requirements.md`) | Lấy đúng số lượng theo đề (5 FR, 3 Sec, 2 Scal). Giống nhau hoàn toàn ở phần Security (MFA, TLS/AES, Audit log) và Scalability (200 POS sessions, backend scale). FR 1, 2 giống nhau. | Cách gộp/tách 3 FR còn lại khác nhau. Bản 1 đưa cả chức năng Warehouse vào. Bản 2 gộp Inventory và Replenishment làm một và thêm Issue Receipt. Bản 3 thì tách Inventory và Replenishment ra thành 2 FR riêng biệt. |
+| **Q4** | Có (`Q4-User_Stories.md`) | Đều tuân thủ đúng cấu trúc 3 vế (As a, I want to, So that) và viết đúng 5 User Stories. | Nội dung của 5 US khác nhau hoàn toàn do phụ thuộc vào bộ FR đã được chọn ở Q3 của từng bản. |
+| **Q5** | Có (`Q5-Design_Patterns.md`) | Đều chọn đúng 2 Pattern là Observer (cho Pay discrepancy alert) và Singleton (cho Audit log). | Lời văn lý thuyết và cách diễn đạt khi áp dụng vào case study (CSCMS) hơi khác nhau đôi chút. |
+| **Q6** | Có (`Q6-Story_Map.md`) | Đều tuân thủ định dạng A (Activities) và B (Releases), chia thành 2 releases. | Cách phân rã Activities/Tasks cho "Manage Product Sales" rất khác nhau. Bản 1 đưa mảng Warehouse vào Story map. Bản 2 và 3 tập trung sát luồng Checkout/Inventory. Việc gán các User Task vào Release 1 (MVP) và Release 2 cũng có sự khác biệt lớn. |
+
+---
+
+### 2. Phân loại từng chỗ lệch
+
+- **Q1 (Nguyên tắc số 4):** `BẤT ĐỒNG` - Cả 3 bản chọn nguyên tắc thứ 4 khác nhau. **Xử lý:** Quyết định chọn "Implement Feedback Loops and Improve Collaboratively" (của Bản 1), vì nó ánh xạ chính xác tới cụm từ *"store-operations representatives who provide continuous feedback"* trong đề bài. Các tùy chọn của bản 2 và 3 bị loại vì ít trực diện hơn.
+- **Q3 (Functional Requirements):** `BẤT ĐỒNG` - Các bản chia FR rất khác nhau ở mục 3, 4, 5. **Xử lý:** Quyết định lấy bộ 5 FR của Bản 1. Bộ FR này có tính đại diện cao vì cover được 5 Actor khác nhau (Cashier, Customer, Manager, Warehouse, HQ).
+- **Q4 (User Stories):** `ĐA SỐ` - Các bản khác nhau do bám theo Q3 của từng bản. **Xử lý:** Lấy bộ User Stories của Bản 1 để map tương ứng 1-1 với bộ FR đã chọn ở Q3. Bỏ qua bản 2 và 3 (thiểu số trong context này).
+- **Q6 (Cấu trúc Story Map):** `BẤT ĐỒNG` - Cả 3 bản phân rã task và nhóm Activity khác biệt. **Xử lý:** Quyết định lấy thiết kế của Bản 3 vì bám sát đúng chu trình của "Product Sales" (Checkout -> Payment -> Inventory). Đặc biệt, cách Bản 3 chia Release 1 (in biên lai giấy, trừ kho) và Release 2 (thêm khuyến mãi, biên lai điện tử, tự động gọi hàng) thể hiện tư duy MVP cực kỳ hợp lý theo tư tưởng Agile.
+
+---
+
+### 3. Kết quả tự chấm theo Rubric trên file hợp nhất
+
+| Tiêu chí Rubric | Đạt/Chưa | Hành động |
+|---|---|---|
+| **Q1:** Trả lời Agree/Disagree rõ ràng, có liệt kê đủ nguyên tắc, và lồng ghép keyword trích từ đề bài vào để map (có trích dẫn). | **Đạt** | Không cần sửa (Template làm rất tốt). |
+| **Q2:** Liệt kê đủ 4 cấp độ kiểm thử, nêu rõ Who (Ai làm), giải thích rõ Why (Tại sao). | **Đạt** | Không cần sửa. |
+| **Q3:** Ghi đúng số lượng (5 FRs, 3 Security, 2 Scalability), các yêu cầu phi chức năng có trích dẫn con số cụ thể từ case study (VD: 200 concurrent POS, TLS 1.3). | **Đạt** | Không cần sửa. |
+| **Q4:** Viết đủ 5 User Stories, tuân thủ chặt chẽ cấu trúc 3 vế (As a... I want to... So that...). | **Đạt** | Không cần sửa. |
+| **Q5:** Nêu đúng 2 pattern, có lý thuyết và có diễn giải ứng dụng sát với case study (Observer cho alert, Singleton cho log). | **Đạt** | Không cần sửa. |
+| **Q6:** Tuân thủ chuẩn format A (Activities) và B (Releases), đánh số chuẩn (1.1, 1.1.1), các item theo form văn bản. | **Đạt** | Không cần sửa. |
+
+> Bạn có thể xem toàn bộ nội dung bài làm tiếng Anh đã được dọn dẹp sạch sẽ và phần **## CẦN NGƯỜI KIỂM TRA** ở cuối tại file: [FINAL.md](file:///Users/duongnad/Documents/project/SWE/page/out/FINAL.md).

@@ -1,0 +1,69 @@
+[16:55:39] PHA 0 — chờ Whisper và OCR xong
+[16:55:40]    whisper 9/12 · ocr 6/12 — chờ tiếp
+[16:57:40]    whisper 9/12 · ocr 6/12 — chờ tiếp
+[16:59:40]    whisper 10/12 · ocr 6/12 — chờ tiếp
+[17:01:41]    whisper 11/12 · ocr 6/12 — chờ tiếp
+[17:03:41]    whisper 11/12 · ocr 7/12 — chờ tiếp
+[17:05:41]    whisper 11/12 · ocr 7/12 — chờ tiếp
+[17:07:41]    whisper 11/12 · ocr 7/12 — chờ tiếp
+[17:09:42]    whisper 11/12 · ocr 7/12 — chờ tiếp
+[17:11:42]    whisper 11/12 · ocr 7/12 — chờ tiếp
+[17:13:42]    whisper 11/12 · ocr 8/12 — chờ tiếp
+[17:15:42]    whisper 11/12 · ocr 8/12 — chờ tiếp
+[17:17:43]    whisper 11/12 · ocr 8/12 — chờ tiếp
+[17:19:43]    whisper 12/12 · ocr 8/12 — chờ tiếp
+[17:21:43]    whisper 12/12 · ocr 9/12 — chờ tiếp
+[17:23:43]    whisper 12/12 · ocr 9/12 — chờ tiếp
+[17:25:43]    whisper 12/12 · ocr 9/12 — chờ tiếp
+[17:27:44]    whisper 12/12 · ocr 9/12 — chờ tiếp
+[17:29:44]    whisper 12/12 · ocr 9/12 — chờ tiếp
+[17:31:44]    whisper 12/12 · ocr 11/12 — chờ tiếp
+[17:33:44]    whisper 12/12 · ocr 11/12 — chờ tiếp
+[17:35:44]    whisper 12/12 · ocr 11/12 — chờ tiếp
+[17:37:44]    xong: whisper 12/12, ocr 12/12
+[17:37:44] PHA 1 — dựng dossier và lọc ảnh sơ đồ
+[17:38:26]    12/12 dossier
+[17:38:26] PHA 2 — trích xuất từng video (P1)
+[17:38:26]    tonghop: đang trích xuất…
+[17:39:26]    tonghop: OK (5 bước, 3 ví dụ)
+[17:39:26]    capcuu: đang trích xuất…
+[17:40:37]    capcuu: OK (6 bước, 1 ví dụ)
+[17:40:37]    b2: đã có, bỏ qua
+[17:40:37]    b6: đang trích xuất…
+[17:41:50]    b6: OK (6 bước, 1 ví dụ)
+[17:41:50]    b4: đang trích xuất…
+[17:46:04]    b4: OK (6 bước, 1 ví dụ)
+[17:46:04]    b3-2: đang trích xuất…
+[17:51:24]    ! P1_b3-2 hỏng lần 1
+[17:53:31]    b3-2: OK (7 bước, 1 ví dụ)
+[17:53:31]    b3-3: đang trích xuất…
+[17:54:39]    b3-3: OK (7 bước, 1 ví dụ)
+[17:54:39]    b5: đang trích xuất…
+[17:58:37]    b5: OK (8 bước, 1 ví dụ)
+[17:58:37]    b7: đang trích xuất…
+[18:02:34]    b7: OK (6 bước, 1 ví dụ)
+[18:02:34]    ucd1: đang trích xuất…
+[18:04:01]    ucd1: OK (7 bước, 1 ví dụ)
+[18:04:01]    b1-1: đang trích xuất…
+[18:07:57]    b1-1: OK (4 bước, 4 ví dụ)
+[18:07:57]    b1-2: đang trích xuất…
+[18:09:23]    b1-2: OK (4 bước, 1 ví dụ)
+[18:09:23] PHA 3 — đọc cấu trúc sơ đồ từ ảnh (P1b)
+[18:09:23]    ucd1: đọc 33 ảnh sơ đồ…
+[18:13:01]    ucd1: OK
+[18:13:01]    b5: đọc 35 ảnh sơ đồ…
+[18:17:47]    b5: OK
+[18:17:47]    b7: đọc 13 ảnh sơ đồ…
+[18:21:51]    b7: OK
+[18:21:51]    b3-2: đọc 31 ảnh sơ đồ…
+[18:26:19]    b3-2: OK
+[18:26:19]    b3-3: đọc 16 ảnh sơ đồ…
+[18:31:01]    b3-3: OK
+[18:31:01]    b4: đọc 32 ảnh sơ đồ…
+[18:33:19]    b4: OK
+[18:33:19] PHA 4 — gộp knowledge base (P2)
+[18:37:39]    6 file trong 03_kb/
+[18:37:39] PHA 5 — sinh khuôn làm bài (P3)
+[18:42:21]    6 khuôn
+[18:42:21] PHA 6 — viết báo cáo bàn giao
+[18:43:49] HOÀN TẤT. Xem BAN_GIAO.md

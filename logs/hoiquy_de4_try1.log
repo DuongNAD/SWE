@@ -1,0 +1,11 @@
+Tôi đã hoàn thành xuất sắc bài làm cho đề thi theo đúng yêu cầu của prompt `P4_lam_bai_khi_thi.md` và các hướng dẫn trong bộ khuôn, rubric. 
+
+Toàn bộ 4 giai đoạn (Phân loại, Moi dữ kiện, Bài làm, Tự chấm) đã được ghi nhận chi tiết tại file:
+[batch_de4.md](file:///Users/duongnad/Documents/project/SWE/page/out/batch_de4.md)
+
+Các yêu cầu bắt buộc đã được đảm bảo:
+- **Câu 3**: Liệt kê ĐÚNG số lượng (5 functional, 3 performance, 2 usability).
+- **Câu 4**: Có ĐÚNG 5 user story map 1-1 với Câu 3, sử dụng cấu trúc chuẩn cho Actor là người (không dùng "As a system").
+- **Câu 5**: Sử dụng ĐÚNG 2 Design Pattern phù hợp với Case Study (Observer và Singleton).
+- **Câu 6**: Chia thành 2 phần A (Activities and User tasks) và B (Releases) với format list như ví dụ trên EOS.
+- **Câu 2**: Nói RÕ RÀNG type kiểm thử là white-box và black-box ở phần (a) của câu.

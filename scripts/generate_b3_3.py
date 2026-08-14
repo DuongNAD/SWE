@@ -1,0 +1,247 @@
+import json
+import os
+
+data = {
+  "id": "b3-3",
+  "tieu_de_tu_suy_ra": "Luyện tập Q2 (Use Case Diagram) đề 2: Healthcare Management System (PPCMS)",
+  "cau_hoi_lien_quan": ["Q2"],
+  "do_dai_phut": 30.3,
+  "dan_bai": [
+    {
+      "ts": "00:00",
+      "muc": "Đọc và phân tích đề bài Case Study 'PRACTICE TEST 2: HEALTHCARE MANAGEMENT SYSTEM (PPCMS)'"
+    },
+    {
+      "ts": "01:30",
+      "muc": "Xác định tên hệ thống (Subject Boundary) và tạo Use Case Subject Frame trong StarUML"
+    },
+    {
+      "ts": "02:00",
+      "muc": "Xác định danh sách các Actors trong đề (Patient, Doctor, Nurse, Medical Records Officer, Insurance Provider System)"
+    },
+    {
+      "ts": "04:00",
+      "muc": "Hướng dẫn kí hiệu Stereotype «system» cho Actor phụ (External Insurance Provider System)"
+    },
+    {
+      "ts": "06:00",
+      "muc": "Xác định và tạo các Use Cases cho Actor Patient (Book Appointment, View Digital Prescription, Download Lab Result, Cancel Appointment)"
+    },
+    {
+      "ts": "12:00",
+      "muc": "Xác định các Use Cases cho Doctor (Review Patient Medical Histories, Record Consultation Note, Issue Electronic Prescriptions)"
+    },
+    {
+      "ts": "14:30",
+      "muc": "Xác định Use Case cho Nurse (Recording Vital Signs) và Medical Records Officer (Manage Sensitive Data)"
+    },
+    {
+      "ts": "18:00",
+      "muc": "Xác định Use Cases cho Insurance Provider System (Verify Coverage, Process Billing)"
+    },
+    {
+      "ts": "21:00",
+      "muc": "Xác định quan hệ <<include>> giữa Cancel Appointment và Book Appointment"
+    },
+    {
+      "ts": "23:30",
+      "muc": "Xác định quan hệ <<extend>> giữa Offer to Waiting List và Cancel Appointment"
+    },
+    {
+      "ts": "26:30",
+      "muc": "Thao tác minh hoạ bổ sung về quan hệ Generalization (Kế thừa Actor Medical Staff và Use Case Login)"
+    },
+    {
+      "ts": "30:00",
+      "muc": "Tổng kết buổi luyện tập Q2 đề 2 và giao đề 3/đề 4 về nhà tự luyện"
+    }
+  ],
+  "quy_trinh_lam_bai": [
+    {
+      "buoc": 1,
+      "ten_buoc": "Xác định tên hệ thống (Use Case Subject Boundary)",
+      "lam_gi_cu_the": "Đọc đề bài để tìm tên hệ thống cần xây dựng ('Patient Portal & Clinic Management System' - PPCMS). Trong StarUML, tạo một Use Case Subject boundary và gán tên hệ thống vào làm tiêu đề khung.",
+      "dau_vao": "Đoạn văn Case Study trong đề bài.",
+      "dau_ra": "Khung Use Case Subject tên 'Patient Portal & Clinic Management System'.",
+      "cau_noi_goc": "Bước đầu tiên anh em cứ làm cho mình như này Đầu tiên anh em phải xác định xem hệ thống này là về hệ thống gì đó anh em nhé",
+      "ts": "01:30"
+    },
+    {
+      "buoc": 2,
+      "ten_buoc": "Xác định danh sách các Actors (Tác nhân)",
+      "lam_gi_cu_the": "Quét đề bài tìm các đối tượng tương tác với hệ thống. Đặt tên Actor ở dạng danh từ số ít (bỏ đuôi 's'). Phân loại tác nhân chính (người dùng) và tác nhân phụ (hệ thống bên ngoài).",
+      "dau_vao": "Các danh từ chỉ người/hệ thống trong đề: Patients, Doctors, Nurses, Medical Records Officers, Insurance Provider System.",
+      "dau_ra": "5 Actors: Patient, Doctor, Nurse, Medical Records Officer, Insurance Provider System.",
+      "cau_noi_goc": "kê các tác nhân nhà nha mình sẽ tìm theo tác nhân của nó có cái gì nhá... khi là tác nhân đấy thì anh em bỏ hết cho mình cái S đi nhé... xe đồ là cái bên thứ ba ấy",
+      "ts": "02:00"
+    },
+    {
+      "buoc": 3,
+      "ten_buoc": "Gán Stereotype «system» cho External System Actor",
+      "lam_gi_cu_the": "Đối với Actor đại diện cho hệ thống bên thứ ba (như Insurance Provider System), trong StarUML chọn Actor đó và nhập chữ 'system' vào mục stereotype để hiển thị «system».",
+      "dau_vao": "Actor Insurance Provider System.",
+      "dau_ra": "Actor hiển thị dưới dạng «system» Insurance Provider System.",
+      "cau_noi_goc": "riêng x tờ phụ nhá để mà thể hiện được cái tờ phụ ấy thì em phải cần làm cho mình một điều đó là gì em bấm vào đây này thì chỗ này anh em phải thêm một chữ system nhá nó để nó thể hiện đây là tờ phụ",
+      "ts": "04:00"
+    },
+    {
+      "buoc": 4,
+      "ten_buoc": "Trích xuất và tạo các Use Cases",
+      "lam_gi_cu_the": "Tìm các cụm động từ chỉ chức năng người dùng/hệ thống thực hiện. Viết hoa chữ cái đầu các từ (CamelCase / Title Case) như Book Appointment, View Digital Prescription, Download Lab Result, Cancel Appointment, Record Consultation Note, Issue Electronic Prescriptions, Recording Vital Signs, Manage Sensitive Data, Verify Coverage, Process Billing.",
+      "dau_vao": "Các hành động mô tả trong đề bài.",
+      "dau_ra": "Các Use Case hình elip bên trong boundary.",
+      "cau_noi_goc": "anh em để luôn cách mình đặt đúng tên nhé anh em đặt đúng tên này đây... anh em nhớ cho mình bờ phải viết hoa này chữ A viết hoa nhé",
+      "ts": "06:00"
+    },
+    {
+      "buoc": 5,
+      "ten_buoc": "Xác định quan hệ <<include>>",
+      "lam_gi_cu_the": "Xác định chức năng tiền đề bắt buộc phải có. Hành động Hủy hẹn (Cancel Appointment) bắt buộc phải có cuộc hẹn đã được Đặt (Book Appointment), nên dùng quan hệ <<include>> chỉ từ Cancel Appointment sang Book Appointment.",
+      "dau_vao": "Mối tương quan logic giữa Cancel Appointment và Book Appointment.",
+      "dau_ra": "Đường nối <<include>> từ Cancel Appointment chỉ tới Book Appointment.",
+      "cau_noi_goc": "để mà có thể hủy được cái này thì chắc chắn là thằng này phải bút đúng không đó từ chưa thì cái này thì kéo theo là phải cho anh em thì cái này chắc chắn là include rồi",
+      "ts": "21:30"
+    },
+    {
+      "buoc": 6,
+      "ten_buoc": "Xác định quan hệ <<extend>>",
+      "lam_gi_cu_the": "Xác định tính năng mở rộng có điều kiện. Đề bài nêu: nếu hủy hẹn trong vòng 24h thì tự động chuyển slot cho bệnh nhân trong danh sách ưu tiên. Tạo Use Case Offer to Waiting List và vẽ đường <<extend>> từ Offer to Waiting List trỏ về Cancel Appointment.",
+      "dau_vao": "Điều kiện rẽ nhánh 'if done within 24 hours of the slot, the system automatically offers...'",
+      "dau_ra": "Đường nối <<extend>> từ Offer to Waiting List đến Cancel Appointment.",
+      "cau_noi_goc": "Nó sẽ được đẩy vào trong danh sách Yêu tiên... Mình sẽ dùng xtm Nếu mà được hủy trong 24h",
+      "ts": "23:30"
+    },
+    {
+      "buoc": 7,
+      "ten_buoc": "Xử lý Actor Generalization (Mở rộng nếu đề yêu cầu)",
+      "lam_gi_cu_the": "Nếu đề bài yêu cầu thể hiện quan hệ kế thừa tác nhân, tạo Actor chung Medical Staff đại diện cho nhân viên y tế, nối các Actor con Doctor, Nurse, Medical Records Officer bằng mũi tên tam giác rỗng (Generalization) trỏ tới Medical Staff, và nối Medical Staff với Use Case chung như Login.",
+      "dau_vao": "Các Actor có vai trò/quyền hạn chung.",
+      "dau_ra": "Sơ đồ kế thừa Actor Medical Staff và Use Case Login.",
+      "cau_noi_goc": "Nếu mà bắt buộc cái quan hệ kế thừa thì nó sẽ sinh ra một cái thằng nữa... thằng đấy nó sẽ là Medical Staff... tất cả những cái thằng mà muốn đăng nhập vào thì nó đều phải thông qua thằng này",
+      "ts": "26:30"
+    }
+  ],
+  "vi_du_giang_vien_lam": [
+    {
+      "de_bai_goc": "PRACTICE TEST 2: HEALTHCARE MANAGEMENT SYSTEM\nI. CASE STUDY\n\"CityCare Hospital\" is upgrading its legacy paper records to a digital \"Patient Portal & Clinic Management System\" (PPCMS). Patients utilize the portal to book appointments, view their digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel their appointment; if done within 24 hours of the slot, the system automatically offers the opening to the next patient on a \"Priority Waiting List.\" Doctors use the system to review patient medical histories, record consultation notes, and issue electronic prescriptions directly to the hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital signs (weight, blood pressure), and updating the room occupancy status. Medical Records Officers manage the archiving of sensitive data and ensure all records comply with national health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify coverage and process billing claims automatically after a consultation.\nThe PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff logins. The system must support at least 200 concurrent medical staff users without performance degradation. As per legal requirements, the system must maintain a full audit log of every user who accesses a patient's file. The interface must be optimized for tablets, as doctors and nurses move frequently between wards.",
+      "bai_lam_hoan_chinh": "Sơ đồ Use Case Diagram hoàn chỉnh trên StarUML cho PPCMS:\n- System Boundary: Patient Portal & Clinic Management System\n- Actors:\n  + Patient (Primary Actor)\n  + Doctor (Primary Actor)\n  + Nurse (Primary Actor)\n  + Medical Records Officer (Primary Actor)\n  + «system» Insurance Provider System (Secondary / External System Actor)\n- Use Cases & Relationships:\n  + Patient -- Association --> Book Appointment, View Digital Prescription, Download Lab Result, Cancel Appointment\n  + Doctor -- Association --> Review Patient Medical Histories / Record Consultation Note, Issue Electronic Prescriptions\n  + Nurse -- Association --> Recording Vital Signs\n  + Medical Records Officer -- Association --> Manage Sensitive Data\n  + «system» Insurance Provider System -- Association --> Verify Coverage, Process Billing\n  + Cancel Appointment -- <<include>> --> Book Appointment\n  + Offer to Waiting List -- <<extend>> --> Cancel Appointment\n- Ví dụ mở rộng (Kế thừa Actor): Doctor, Nurse, Medical Records Officer -- Generalization --> Medical Staff -- Association --> Login",
+      "giang_giai": "Giảng viên hướng dẫn từng bước: bóc tách tên hệ thống làm boundary, xác định 5 tác nhân chính và tác nhân hệ thống bên ngoài, liệt kê các Use Cases theo cụm chức năng trong đề, vẽ quan hệ include cho thao tác đặt hẹn trước khi hủy, vẽ extend cho tính năng rẽ nhánh xếp hàng chờ khi hủy trong 24h.",
+      "ts": "01:30"
+    }
+  ],
+  "khai_niem": [
+    {
+      "thuat_ngu": "Actor phụ / Tác nhân bên ngoài (External System Actor)",
+      "dinh_nghia_theo_giang_vien": "Tác nhân là hệ thống phần mềm bên thứ ba liên kết tích hợp với hệ thống đang thiết kế (như hệ thống bảo hiểm Insurance Provider System). Phải kí hiệu thêm stereotype «system» để phân biệt với tác nhân người dùng.",
+      "vi_du": "«system» Insurance Provider System",
+      "ts": "04:00"
+    },
+    {
+      "thuat_ngu": "Actor Generalization (Kế thừa Tác nhân)",
+      "dinh_nghia_theo_giang_vien": "Tạo một Actor cha tổng quát (như Medical Staff) chứa các quyền/hành động chung (như Login), các Actor con (Doctor, Nurse, Medical Records Officer) sẽ kế thừa từ Actor cha này.",
+      "vi_du": "Doctor, Nurse, Medical Records Officer -- Generalization --> Medical Staff",
+      "ts": "26:30"
+    }
+  ],
+  "cau_chu_mau": [
+    {
+      "dung_khi": "Đề thi yêu cầu phân tích Actor, Use Case và vẽ sơ đồ Use Case Diagram hoàn chỉnh",
+      "mau": "1. Identify ALL actors in the system... 2. List at least EIGHT use cases... 3. Draw a complete UML Use Case Diagram including <<include>>, <<extend>>, and actor-generalisation",
+      "ts": "30:00"
+    }
+  ],
+  "luu_y_cham_diem": [
+    {
+      "noi_dung": "Mọi tên Actor phải viết ở dạng số ít, tuyệt đối không giữ nguyên đuôi 's' từ đề bài.",
+      "muc_do": "chac_chan",
+      "ts": "02:30"
+    },
+    {
+      "noi_dung": "Với tác nhân hệ thống bên ngoài (Insurance Provider System), bắt buộc phải có stereotype «system».",
+      "muc_do": "chac_chan",
+      "ts": "04:00"
+    },
+    {
+      "noi_dung": "Quan hệ <<include>> giữa Cancel Appointment và Book Appointment phải chĩa mũi tên từ Cancel Appointment sang Book Appointment.",
+      "muc_do": "chac_chan",
+      "ts": "21:30"
+    },
+    {
+      "noi_dung": "Quan hệ <<extend>> giữa Offer to Waiting List và Cancel Appointment phải chĩa mũi tên từ Use Case mở rộng (Offer to Waiting List) về Use Case bị tác động (Cancel Appointment).",
+      "muc_do": "chac_chan",
+      "ts": "26:00"
+    }
+  ],
+  "meo_lam_bai": [
+    {
+      "meo": "Gạch chân tất cả danh từ chỉ người/hệ thống để làm Actor, bỏ đuôi 's' để thành danh từ số ít.",
+      "ts": "02:30"
+    },
+    {
+      "meo": "Tên Use Case phải viết hoa tất cả chữ cái đầu tiên của từng từ (Title Case), ví dụ: Book Appointment, View Digital Prescription.",
+      "ts": "06:30"
+    },
+    {
+      "meo": "Gộp các thao tác liên quan trực tiếp vào một Use Case bao quát thay vì tách vụn vặt để sơ đồ gọn gàng và không bị trừ điểm.",
+      "ts": "13:00"
+    },
+    {
+      "meo": "Cách nhớ chiều mũi tên: <<include>> xuất phát từ thao tác thực hiện chĩa tới thao tác bắt buộc kèm theo; <<extend>> xuất phát từ thao tác mở rộng/điều kiện chĩa về thao tác chính.",
+      "ts": "22:00"
+    }
+  ],
+  "loi_sai_thuong_gap": [
+    {
+      "loi": "Giữ nguyên tên Actor số nhiều từ đề bài (ví dụ Patients, Doctors).",
+      "cach_tranh": "Luôn chuyển sang số ít: Patient, Doctor.",
+      "ts": "02:30"
+    },
+    {
+      "loi": "Quên ghi stereotype «system» cho External System Actor.",
+      "cach_tranh": "Trong StarUML, chọn Actor hệ thống ngoài và gõ 'system' vào ô stereotype.",
+      "ts": "04:00"
+    },
+    {
+      "loi": "Tách Use Case quá chi tiết hoặc quá nhỏ nhặt làm sơ đồ bị rối.",
+      "cach_tranh": "Gộp các hành động liên quan thành một Use Case có tên đại diện bao quát.",
+      "ts": "13:00"
+    },
+    {
+      "loi": "Vẽ ngược chiều mũi tên <<include>> hoặc <<extend>>.",
+      "cach_tranh": "Kiểm tra kỹ: include trỏ đến điều kiện cần (Book Appointment), extend trỏ đến sự kiện kích hoạt (Cancel Appointment).",
+      "ts": "22:00"
+    }
+  ],
+  "prompt_ai_giang_vien_dung": [],
+  "so_do_va_bang": [
+    {
+      "ts": "26:00",
+      "loai": "use_case",
+      "noi_dung_chep_lai": "Use Case Diagram for PPCMS:\n- Boundary: Patient Portal & Clinic Management System\n- Actors:\n  + Patient\n  + Doctor\n  + Nurse\n  + Medical Records Officer\n  + «system» Insurance Provider System\n- Use Cases:\n  + Book Appointment\n  + View Digital Prescription\n  + Download Lab Result\n  + Cancel Appointment\n  + Offer to Waiting List\n  + Review Patient Medical Histories\n  + Record Consultation Note\n  + Issue Electronic Prescriptions\n  + Recording Vital Signs\n  + Manage Sensitive Data\n  + Verify Coverage\n  + Process Billing\n- Relationships:\n  + Patient -> Book Appointment, View Digital Prescription, Download Lab Result, Cancel Appointment\n  + Doctor -> Review Patient Medical Histories, Record Consultation Note, Issue Electronic Prescriptions\n  + Nurse -> Recording Vital Signs\n  + Medical Records Officer -> Manage Sensitive Data\n  + «system» Insurance Provider System -> Verify Coverage, Process Billing\n  + Cancel Appointment --<<include>>--> Book Appointment\n  + Offer to Waiting List --<<extend>>--> Cancel Appointment"
+    },
+    {
+      "ts": "28:30",
+      "loai": "use_case",
+      "noi_dung_chep_lai": "Actor Generalization Example:\n- General Actor: Medical Staff\n- Child Actors: Doctor, Nurse, Medical Records Officer\n- Generalization Relationships:\n  + Doctor --Generalization--> Medical Staff\n  + Nurse --Generalization--> Medical Staff\n  + Medical Records Officer --Generalization--> Medical Staff\n- Shared Use Case: Login\n  + Medical Staff -> Login"
+    }
+  ],
+  "cho_khong_ro": [
+    {
+      "ts": "00:30",
+      "ly_do": "Transcript tự động Whisper có một số câu từ nhận dạng tiếng Việt không rõ ràng ('những câu như câu 215...')."
+    },
+    {
+      "ts": "20:30",
+      "ly_do": "Transcript bị ngắt quãng ('tin thằng này nó hư dài...')."
+    }
+  ],
+  "ghi_chu_ngoai_khoa": [],
+  "do_bao_phu": "đã đọc hết dossier: có"
+}
+
+output_path = "/Users/duongnad/Documents/project/SWE/02_extract/b3-3.json"
+os.makedirs(os.path.dirname(output_path), exist_ok=True)
+with open(output_path, "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
+
+print("Successfully wrote b3-3.json")

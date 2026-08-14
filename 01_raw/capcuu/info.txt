@@ -1,0 +1,4 @@
+id=capcuu
+file=YTSave_YouTube_CAP-CUU-CAP-TOC-SWE202c-chinh-phuc-9-SWE_Media_ZvcHCc4GYQQ_002_720p.mp4
+duration_sec=1971
+frame_interval=5

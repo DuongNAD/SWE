@@ -1,0 +1,276 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  SWE202c — PHIẾU ĐIỀN KHI THI                                                ║
+║  Đề 6 câu, tổng 10 điểm. Trả lời BẰNG TIẾNG ANH.                             ║
+║  ⚠ MỖI CÂU TRẢ LỜI SAI BỊ TRỪ 0.1 ĐIỂM → đề hỏi mấy cái thì viết đúng bấy    ║
+║    nhiêu. Thừa = mất điểm. Đừng liệt kê thêm cho chắc.                        ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+BƯỚC 0 — LÀM NGAY KHI MỞ ĐỀ (3 phút, đừng bỏ)
+  Đọc phần Case Study, gạch chân và ghi ra đây:
+  • Tên hệ thống (viết tắt):  ______________________________
+  • Các vai trò (roles/actors) đề nhắc tới:
+    ______________________________________________________________
+  • Câu nào nói về BẢO MẬT (MFA, TLS, AES, audit log, encrypt):
+    ______________________________________________________________
+  • Câu nào nói về HIỆU NĂNG / MỞ RỘNG (số giây, concurrent, uptime, scale):
+    ______________________________________________________________
+  • Đội bao nhiêu người, deadline bao lâu, yêu cầu có thay đổi liên tục không:
+    ______________________________________________________________
+  → Tất cả câu trả lời sau đều lấy từ đây. Không bịa thứ đề không nói.
+
+  PHÂN BỔ THỜI GIAN (đề 60 phút):
+    Q1 12ph · Q2 5ph · Q3 10ph · Q4 8ph · Q5 6ph · Q6 15ph · rà lại 4ph
+
+
+═══ QUESTION 1 — Development model (2.0 điểm) ═══════════════════════════════
+Đề hỏi: có đồng ý dùng mô hình <<<TÊN MÔ HÌNH đề nêu: Kanban/Scrum/XP/Waterfall>>>
+không, liệt kê principles + practices + characteristics của nó, rồi ghép từng cái
+với đặc điểm dự án để biện luận.
+
+⚠ Phải làm ĐỦ 3 VIỆC: (1) trả lời agree/disagree, (2) liệt kê đặc trưng mô hình,
+   (3) ghép TỪNG đặc trưng với MỘT chi tiết cụ thể trong đề. Thiếu (3) là mất nửa điểm.
+
+┌─ ĐIỀN ─────────────────────────────────────────────────────────────────────┐
+I agree with my manager's proposal to apply the ______________ model to this
+project.
+
+The main principles, practices and characteristics of the ______________ model
+are as follows:
+
+1. ______________________ : ________________________________________________
+2. ______________________ : ________________________________________________
+3. ______________________ : ________________________________________________
+4. ______________________ : ________________________________________________
+5. ______________________ : ________________________________________________
+
+Matching these characteristics to the project:
+
+- Because the project ______________________________________ (chép ý từ đề),
+  the ______________ practice of ______________ fits this situation, as it
+  allows the team to ______________________________________.
+- Because the requirements ______________________________________,
+  ... (lặp lại cấu trúc trên cho từng đặc trưng đã liệt kê)
+
+Therefore, the ______________ model is suitable for this project.
+└────────────────────────────────────────────────────────────────────────────┘
+
+MẪU CÂU DÙNG LẠI (học thuộc 4 câu này là đủ dùng cho mọi mô hình):
+  • "Because the project <đặc điểm đề>, this practice is suitable as it <lợi ích>."
+    = Vì dự án <…>, thực hành này phù hợp vì nó <…>.
+  • "This characteristic directly addresses the project's need for <…>."
+    = Đặc trưng này đáp ứng trực tiếp nhu cầu <…> của dự án.
+  • "The project requires <…>, which is exactly what <mô hình> emphasises."
+    = Dự án đòi hỏi <…>, đúng là thứ mà <mô hình> nhấn mạnh.
+  • "In contrast, the <mô hình khác> model would not work here because <…>."
+    = Ngược lại, mô hình <…> sẽ không hợp ở đây vì <…>.
+
+DẤU HIỆU TRONG ĐỀ → CHỌN MÔ HÌNH:
+  "requirements keep evolving / emerge and change incrementally"  → Agile/Kanban ĐỒNG Ý
+  "continuous delivery / deployed continuously throughout"        → Kanban ĐỒNG Ý
+  "highly skilled and experienced team"                           → Agile/Kanban ĐỒNG Ý
+  "small team 3-5 developers + continuous feedback"               → Agile ĐỒNG Ý
+  "requirements fixed and fully known from the start"             → Waterfall
+  "safety-critical, heavy documentation required"                 → Waterfall
+
+
+═══ QUESTION 2 — Testing (1.0 điểm: a 0.7 + b 0.3) ══════════════════════════
+Đề hỏi: (a) loại và cấp độ kiểm thử nào, (b) ai thực hiện ở mỗi cấp và vì sao.
+
+⚠ MẸO QUAN TRỌNG — đề mô tả bằng ẩn ý, phải dịch ra:
+  "smallest unit level"              → Unit Testing
+  "focus on program structure"       → WHITE-BOX testing  (nhìn thấy code)
+  "based on functional requirements" → BLACK-BOX testing  (không nhìn code)
+  "fully integrated system level"    → Integration → System Testing
+  "user accepts / business confirms" → Acceptance Testing
+
+┌─ ĐIỀN (a) ─────────────────────────────────────────────────────────────────┐
+My manager requires the following types and levels of testing:
+
+- Type: ______________-box testing at the unit level, because testing must focus
+  on the internal program structure.
+- Type: ______________-box testing at the higher levels, because testing must be
+  based on functional requirements.
+- Levels/stages required: Unit Testing → Integration Testing → System Testing
+  ( → Acceptance Testing nếu đề có nhắc tới người dùng nghiệm thu )
+└────────────────────────────────────────────────────────────────────────────┘
+
+┌─ ĐIỀN (b) — ai làm, vì sao ────────────────────────────────────────────────┐
+- Unit Testing is carried out by the DEVELOPERS, because they wrote the code and
+  are the only ones who understand its internal structure and logic.
+- Integration Testing is carried out by the DEVELOPERS together with TESTERS,
+  because it verifies the interfaces between modules built by different people.
+- System Testing is carried out by the TESTING TEAM (QA engineers), because they
+  are independent from the developers and test against the requirements
+  specification objectively.
+- Acceptance Testing is carried out by the CUSTOMER / END USERS, because only
+  they can confirm the system meets their real business needs.
+└────────────────────────────────────────────────────────────────────────────┘
+→ Phần (b) gần như KHÔNG ĐỔI giữa các đề. Học thuộc nguyên khối này.
+
+
+═══ QUESTION 3 — Identify requirements (2.0 điểm) ═══════════════════════════
+Đề hỏi: liệt kê ĐÚNG số lượng — thường 5 functional + 3 <loại A> + 2 <loại B>.
+Loại A/B thay đổi theo đề: security / performance / usability / scalability.
+
+⚠ ĐẾM KỸ. Viết 6 cái khi đề hỏi 5 = bị trừ. Ghi rõ số thứ tự.
+⚠ Requirement phải lấy TỪ ĐỀ, không tự nghĩ. Mỗi cái viết một câu "The system shall…"
+
+┌─ ĐIỀN ─────────────────────────────────────────────────────────────────────┐
+Functional Requirements (5):
+FR1. The system shall ______________________________________________________
+FR2. The system shall ______________________________________________________
+FR3. The system shall ______________________________________________________
+FR4. The system shall ______________________________________________________
+FR5. The system shall ______________________________________________________
+
+______________ Requirements (3):      ← điền: Security / Performance / …
+NFR1. The system shall ____________________________________________________
+NFR2. The system shall ____________________________________________________
+NFR3. The system shall ____________________________________________________
+
+______________ Requirements (2):
+NFR4. The system shall ____________________________________________________
+NFR5. The system shall ____________________________________________________
+└────────────────────────────────────────────────────────────────────────────┘
+
+CÁCH SĂN TRONG ĐỀ:
+  FUNCTIONAL = hệ thống LÀM GÌ. Tìm động từ: record, scan, apply, send, update,
+    view, configure, generate, match, track, issue, monitor.
+  SECURITY   = MFA, role-based, encrypt, TLS, AES, audit log, authenticate.
+  PERFORMANCE= "within N seconds", "under peak load", "response time".
+  SCALABILITY= "support N concurrent", "scale horizontally", "without manual
+    infrastructure changes", "as the network grows".
+  USABILITY  = "intuitive", "simple to use", "clean and consistent interface",
+    "clearly labeled", "color coding".
+
+MẪU CÂU (chỉ cần đổi phần sau "shall"):
+  The system shall allow <ai> to <làm gì>.
+  The system shall automatically <làm gì> when <điều kiện>.
+  The system shall respond to <hành động> within <N> seconds under peak load.
+  The system shall encrypt <dữ liệu gì> using <chuẩn gì>.
+  The system shall support at least <N> concurrent <cái gì> without performance
+    degradation.
+
+
+═══ QUESTION 4 — User stories (1.5 điểm) ════════════════════════════════════
+Đề hỏi: viết ĐÚNG 5 user story, SUY RA TỪ CÂU 3.
+
+⚠ Bắt buộc đúng công thức 3 phần. Thiếu "so that" là mất điểm.
+⚠ Phải khớp với requirement đã viết ở câu 3 — đừng bịa chức năng mới.
+
+┌─ ĐIỀN ─────────────────────────────────────────────────────────────────────┐
+1. As a ______________, I want to ______________________________________,
+   so that ______________________________________________________.
+2. As a ______________, I want to ______________________________________,
+   so that ______________________________________________________.
+3. As a ______________, I want to ______________________________________,
+   so that ______________________________________________________.
+4. As a ______________, I want to ______________________________________,
+   so that ______________________________________________________.
+5. As a ______________, I want to ______________________________________,
+   so that ______________________________________________________.
+└────────────────────────────────────────────────────────────────────────────┘
+
+  As a <VAI TRÒ>     = Với vai trò là <…>   ← lấy từ danh sách roles ở Bước 0
+  I want to <VIỆC>   = tôi muốn <…>         ← lấy đúng FR1..FR5 của câu 3
+  so that <LỢI ÍCH>  = để mà <…>            ← trả lời "để làm gì? được lợi gì?"
+
+VÍ DỤ MẪU:
+  As a cashier, I want to scan products at the POS terminal to record the
+  transaction, so that customers can check out quickly and accurately.
+
+
+═══ QUESTION 5 — Design patterns (1.0 điểm) ═════════════════════════════════
+Đề hỏi: liệt kê và MÔ TẢ CHI TIẾT hai design pattern "discussed in the courses".
+
+⚠ Đề đòi pattern ĐÃ HỌC TRÊN LỚP. Hỏi giảng viên lớp bạn dạy pattern nào và
+   điền vào đây TRƯỚC NGÀY THI:
+   Pattern lớp đã dạy: ____________________________________________________
+
+⚠ "describe in detail" = phải có đủ 4 ý cho mỗi pattern, không chỉ nêu tên.
+
+┌─ ĐIỀN (lặp 2 lần) ─────────────────────────────────────────────────────────┐
+Pattern 1: ______________________
+
+- Purpose: This pattern ____________________________________________________.
+- How it works: ____________________________________________________________
+  ___________________________________________________________________________
+- Applying it to this system: In this project, it can be used to _____________
+  ___________________________________________________________________________
+- Benefit: This makes the system ___________________________________________.
+
+Pattern 2: ______________________
+  (lặp lại đúng 4 gạch đầu dòng trên)
+└────────────────────────────────────────────────────────────────────────────┘
+
+BA PATTERN AN TOÀN NHẤT (dễ gắn vào mọi hệ thống quản lý):
+  Singleton  — chỉ cho phép tồn tại MỘT thể hiện duy nhất của một lớp.
+               Dùng cho: kết nối cơ sở dữ liệu, quản lý cấu hình hệ thống.
+               "ensures that a class has only one instance and provides a
+                global point of access to it"
+  Observer   — khi một đối tượng đổi trạng thái, mọi đối tượng đăng ký theo dõi
+               được thông báo tự động.
+               Dùng cho: cảnh báo tồn kho thấp, thông báo, dashboard cập nhật.
+               "defines a one-to-many dependency so that when one object changes
+                state, all its dependents are notified automatically"
+  Factory    — tạo đối tượng mà không cần chỉ rõ lớp cụ thể.
+               Dùng cho: sinh nhiều loại báo cáo, nhiều loại thanh toán.
+               "defines an interface for creating an object but lets subclasses
+                decide which class to instantiate"
+
+
+═══ QUESTION 6 — Story map (2.5 điểm — CÂU NHIỀU ĐIỂM NHẤT) ═════════════════
+Đề hỏi: vẽ story map cho hoạt động "<<<TÊN HOẠT ĐỘNG đề nêu>>>".
+
+⚠ PHẢI theo ĐÚNG định dạng text của EOS ghi trong phần III Notes của đề.
+   Sai định dạng là mất điểm dù nội dung đúng. Cấu trúc gồm 2 phần A và B.
+⚠ Đánh số user story phải KHỚP với số của user task ở phần A.
+   User task 1.1 → user story 1.1.1, 1.1.2, 1.1.3…
+
+┌─ ĐIỀN ─────────────────────────────────────────────────────────────────────┐
+A. Activities and User Tasks
+
+1. ______________________________        ← Activity 1 (nhóm việc lớn)
+   • 1.1 ______________________________  ← user task
+   • 1.2 ______________________________
+   • 1.3 ______________________________
+2. ______________________________        ← Activity 2
+   • 2.1 ______________________________
+   • 2.2 ______________________________
+   • 2.3 ______________________________
+
+B. Releases
+
+Release 1
+   • 1.1.1 As a ________, I want to ________________, so that ________________
+   • 1.2.1 As a ________, I want to ________________, so that ________________
+   • 2.1.1 As a ________, I want to ________________, so that ________________
+
+Release 2
+   • 1.1.2 ______________________________________________________________
+   • 2.1.2 ______________________________________________________________
+
+Release 3
+   • 1.1.3 ______________________________________________________________
+   • 2.2.1 ______________________________________________________________
+└────────────────────────────────────────────────────────────────────────────┘
+
+CÁCH NGHĨ RA ACTIVITY VÀ TASK (đừng ngồi nghĩ vu vơ):
+  Activity = một giai đoạn lớn trong quy trình, đặt tên bằng ĐỘNG TỪ + DANH TỪ.
+  Bám theo dòng chảy thời gian của nghiệp vụ trong đề. Ví dụ "Manage Product Sales":
+    1. Process Sales Transaction  → 1.1 Scan products  1.2 Apply promotions
+                                    1.3 Issue receipt
+    2. Manage Inventory           → 2.1 Update stock in real time
+                                    2.2 Send replenishment request
+    3. Track Performance          → 3.1 View sales dashboard  3.2 Export report
+  Release 1 = việc TỐI THIỂU để hệ thống chạy được. Release 2, 3 = nâng cao dần.
+
+
+═══ RÀ LẠI TRƯỚC KHI NỘP (4 phút) ═══════════════════════════════════════════
+  ☐ Q1: đã trả lời agree/disagree chưa? đã GHÉP từng đặc trưng với đề chưa?
+  ☐ Q2: đã nói rõ white-box / black-box chưa? phần (b) đã nêu "vì sao" chưa?
+  ☐ Q3: đếm lại — đúng 5 / 3 / 2 chứ? mỗi câu có bắt đầu bằng "The system shall"?
+  ☐ Q4: đúng 5 story? câu nào cũng có đủ "As a… I want… so that…"?
+  ☐ Q5: đủ 2 pattern, mỗi cái đủ 4 ý (purpose / how / apply / benefit)?
+  ☐ Q6: có đủ phần A và phần B? số thứ tự story có khớp task không?
+  ☐ Toàn bài: có chỗ nào viết thừa so với số lượng đề hỏi không? (bị trừ 0.1/cái)

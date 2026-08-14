@@ -1,0 +1,73 @@
+{
+  "id": "b4",
+  "so_do": [],
+  "bang": [
+    {
+      "ts": "24:14",
+      "tieu_de": "",
+      "cot": [
+        "Category",
+        "Keywords nhớ nhanh"
+      ],
+      "dong": [
+        [
+          "Performance",
+          "speed, response time"
+        ],
+        [
+          "Security",
+          "login, encryption"
+        ],
+        [
+          "Availability",
+          "uptime"
+        ],
+        [
+          "Usability",
+          "easy to use"
+        ],
+        [
+          "Scalability",
+          "nhiều user"
+        ],
+        [
+          "Maintainability",
+          "dễ sửa code"
+        ]
+      ]
+    }
+  ],
+  "anh_bo_qua": [
+    "00m05s.jpg — chỉ là text câu hỏi bài tập",
+    "00m06s.jpg — chỉ là text câu hỏi bài tập",
+    "00m07s.jpg — chỉ là text câu hỏi bài tập",
+    "00m31s.jpg — chỉ là text case study Green University",
+    "00m32s.jpg — chỉ là text case study Green University",
+    "00m33s.jpg — chỉ là text case study Green University",
+    "02m05s.jpg — chỉ là text case study Green University",
+    "02m06s.jpg — chỉ là text case study Green University",
+    "03m18s.jpg — chỉ là text case study",
+    "03m19s.jpg — chỉ là text case study",
+    "05m27s.jpg — chỉ là text case study",
+    "05m29s.jpg — chỉ là text case study",
+    "05m44s.jpg — chỉ là text case study",
+    "05m57s.jpg — chỉ là text case study",
+    "05m58s.jpg — chỉ là text case study",
+    "06m33s.jpg — chỉ là text case study",
+    "06m44s.jpg — chỉ là text case study",
+    "07m00s.jpg — chỉ là text case study",
+    "07m17s.jpg — chỉ là text case study",
+    "07m36s.jpg — chỉ là text case study",
+    "11m59s.jpg — chỉ là text case study",
+    "12m14s.jpg — chỉ là text case study Smart Healthcare",
+    "12m21s.jpg — chỉ là text case study Smart Healthcare",
+    "12m23s.jpg — chỉ là text case study Nexus E-commerce",
+    "12m30s.jpg — chỉ là text case study Smart Healthcare",
+    "16m31s.jpg — chỉ là text case study Fintech Loan",
+    "16m32s.jpg — chỉ là text case study Nexus E-commerce",
+    "16m33s.jpg — chỉ là text case study Nexus E-commerce",
+    "23m55s.jpg — chỉ là text case study Smart Healthcare",
+    "23m56s.jpg — chỉ là text case study Nexus E-commerce",
+    "24m10s.jpg — màn hình browser trống không liên quan"
+  ]
+}

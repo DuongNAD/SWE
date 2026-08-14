@@ -1,0 +1,352 @@
+{
+  "id": "ucd1",
+  "so_do": [
+    {
+      "ts_day_du_nhat": "54:15",
+      "ts_xuat_hien": [
+        "40:41",
+        "43:23",
+        "44:42",
+        "44:54",
+        "45:08",
+        "45:18",
+        "45:33",
+        "45:43",
+        "45:50",
+        "46:02",
+        "46:25",
+        "46:39",
+        "46:45",
+        "46:55",
+        "48:41",
+        "51:38",
+        "51:54",
+        "54:15"
+      ],
+      "loai": "use_case_diagram",
+      "ten_bai_toan": "Course Registration System",
+      "phan_tu": [
+        {
+          "ten": "Student",
+          "kieu": "actor"
+        },
+        {
+          "ten": "Lecturers",
+          "kieu": "actor"
+        },
+        {
+          "ten": "Academic Staff",
+          "kieu": "actor"
+        },
+        {
+          "ten": "System Administrator",
+          "kieu": "actor"
+        },
+        {
+          "ten": "Notification system",
+          "kieu": "actor"
+        },
+        {
+          "ten": "Browse course catalogue",
+          "kieu": "use_case"
+        },
+        {
+          "ten": "Check prerequisites",
+          "kieu": "use_case"
+        },
+        {
+          "ten": "Submit registration request",
+          "kieu": "use_case"
+        },
+        {
+          "ten": "Join waitlist",
+          "kieu": "use_case"
+        },
+        {
+          "ten": "Track registration status",
+          "kieu": "use_case"
+        },
+        {
+          "ten": "View enrolled roster",
+          "kieu": "use_case"
+        },
+        {
+          "ten": "Record grades",
+          "kieu": "use_case"
+        },
+        {
+          "ten": "Release grades",
+          "kieu": "use_case"
+        },
+        {
+          "ten": "Manage timetable",
+          "kieu": "use_case"
+        },
+        {
+          "ten": "Manage registration window",
+          "kieu": "use_case"
+        },
+        {
+          "ten": "Approve exceptions",
+          "kieu": "use_case"
+        },
+        {
+          "ten": "Generate reports",
+          "kieu": "use_case"
+        },
+        {
+          "ten": "Manage user accounts",
+          "kieu": "use_case"
+        },
+        {
+          "ten": "Send automated notifications",
+          "kieu": "use_case"
+        }
+      ],
+      "quan_he": [
+        {
+          "tu": "Student",
+          "den": "Browse course catalogue",
+          "loai": "association",
+          "huong": "không mũi tên"
+        },
+        {
+          "tu": "Student",
+          "den": "Check prerequisites",
+          "loai": "association",
+          "huong": "không mũi tên"
+        },
+        {
+          "tu": "Student",
+          "den": "Submit registration request",
+          "loai": "association",
+          "huong": "không mũi tên"
+        },
+        {
+          "tu": "Student",
+          "den": "Track registration status",
+          "loai": "association",
+          "huong": "không mũi tên"
+        },
+        {
+          "tu": "Lecturers",
+          "den": "View enrolled roster",
+          "loai": "association",
+          "huong": "không mũi tên"
+        },
+        {
+          "tu": "Lecturers",
+          "den": "Record grades",
+          "loai": "association",
+          "huong": "không mũi tên"
+        },
+        {
+          "tu": "Lecturers",
+          "den": "Release grades",
+          "loai": "association",
+          "huong": "không mũi tên"
+        },
+        {
+          "tu": "Academic Staff",
+          "den": "Manage timetable",
+          "loai": "association",
+          "huong": "không mũi tên"
+        },
+        {
+          "tu": "Academic Staff",
+          "den": "Manage registration window",
+          "loai": "association",
+          "huong": "không mũi tên"
+        },
+        {
+          "tu": "Academic Staff",
+          "den": "Approve exceptions",
+          "loai": "association",
+          "huong": "không mũi tên"
+        },
+        {
+          "tu": "Academic Staff",
+          "den": "Generate reports",
+          "loai": "association",
+          "huong": "không mũi tên"
+        },
+        {
+          "tu": "System Administrator",
+          "den": "Manage user accounts",
+          "loai": "association",
+          "huong": "không mũi tên"
+        },
+        {
+          "tu": "Notification system",
+          "den": "Send automated notifications",
+          "loai": "association",
+          "huong": "không mũi tên"
+        },
+        {
+          "tu": "Submit registration request",
+          "den": "Check prerequisites",
+          "loai": "include",
+          "nhan": "<<include>>",
+          "huong": "Submit registration request -> Check prerequisites"
+        },
+        {
+          "tu": "Join waitlist",
+          "den": "Submit registration request",
+          "loai": "extend",
+          "nhan": "<<extend>>",
+          "huong": "Join waitlist -> Submit registration request"
+        }
+      ],
+      "plantuml": "@startuml\nleft to right direction\nactor Student\nactor Lecturers\nactor \"Academic Staff\" as AcademicStaff\nactor \"System Administrator\" as SysAdmin\nactor \"Notification system\" as NotifSystem\n\npackage \"Course Registration System\" {\n  usecase \"Browse course catalogue\" as UC1\n  usecase \"Check prerequisites\" as UC2\n  usecase \"Submit registration request\" as UC3\n  usecase \"Join waitlist\" as UC4\n  usecase \"Track registration status\" as UC5\n  usecase \"View enrolled roster\" as UC6\n  usecase \"Record grades\" as UC7\n  usecase \"Release grades\" as UC8\n  usecase \"Manage timetable\" as UC9\n  usecase \"Manage registration window\" as UC10\n  usecase \"Approve exceptions\" as UC11\n  usecase \"Generate reports\" as UC12\n  usecase \"Manage user accounts\" as UC13\n  usecase \"Send automated notifications\" as UC14\n}\n\nStudent -- UC1\nStudent -- UC2\nStudent -- UC3\nStudent -- UC5\nUC3 ..> UC2 : <<include>>\nUC4 ..> UC3 : <<extend>>\n\nLecturers -- UC6\nLecturers -- UC7\nLecturers -- UC8\n\nAcademicStaff -- UC9\nAcademicStaff -- UC10\nAcademicStaff -- UC11\nAcademicStaff -- UC12\n\nSysAdmin -- UC13\n\nNotifSystem -- UC14\n@enduml",
+      "ghi_chu": "Bản đầy đủ nhất ở phút 54:15. Association giữa Student và Join waitlist đã bị xóa ở bản cuối cùng này so với các bản trước."
+    }
+  ],
+  "bang": [
+    {
+      "ts": "43:31",
+      "tieu_de": "Actor list",
+      "cot": [
+        "Actor",
+        "Type",
+        "Goal"
+      ],
+      "dong": [
+        [
+          "Students",
+          "Primary",
+          "Register for courses, track status, join waitlist"
+        ],
+        [
+          "Lecturers",
+          "Primary",
+          "View class roster, input grades and publish grades"
+        ],
+        [
+          "Academic Staff",
+          "Primary",
+          "Manage timetable, quotas, approve exceptions"
+        ],
+        [
+          "System Administrator",
+          "Primary",
+          "manages user accounts, configures system, back up data"
+        ],
+        [
+          "Notification system",
+          "Secondary",
+          "Send automated notification for waitlist"
+        ]
+      ]
+    },
+    {
+      "ts": "47:34",
+      "tieu_de": "Use case list",
+      "cot": [
+        "ID",
+        "Use case",
+        "Initiating actor",
+        "Goal"
+      ],
+      "dong": [
+        [
+          "1",
+          "Browse course catalogue",
+          "Student",
+          "View course list and detail"
+        ],
+        [
+          "2",
+          "Check prerequisites",
+          "Student",
+          "Check condition before registration"
+        ],
+        [
+          "3",
+          "Submit registration request",
+          "Student",
+          "Register for a specific course"
+        ],
+        [
+          "4",
+          "Join waitlist",
+          "Student",
+          "Register when the course is full"
+        ],
+        [
+          "5",
+          "Track registration status",
+          "Student",
+          "View status"
+        ],
+        [
+          "6",
+          "View enrolled roster",
+          "Lecturer",
+          "View the list student enrolled the course"
+        ],
+        [
+          "7",
+          "Record grades",
+          "Lecturer",
+          "Input the midterm and final grades"
+        ],
+        [
+          "8",
+          "Release grades",
+          "Lecturer",
+          "Publish grades"
+        ],
+        [
+          "9",
+          "Manage timetable",
+          "Academic Staff",
+          "Create, update timetable"
+        ],
+        [
+          "10",
+          "Manage registration window",
+          "Academic Staff",
+          "Control open and close registration window"
+        ],
+        [
+          "11",
+          "Approve exceptions",
+          "Academic Staff",
+          "Manually approve special case"
+        ],
+        [
+          "12",
+          "Generate reports",
+          "Academic Staff",
+          "Export registration and grade distribution"
+        ],
+        [
+          "13",
+          "Manage user accounts",
+          "System Administrator",
+          "manages user account"
+        ],
+        [
+          "14",
+          "Send automated notifications",
+          "Notification system",
+          "Send email confirm"
+        ]
+      ]
+    }
+  ],
+  "anh_bo_qua": [
+    "00m44s.jpg — Màn hình YouTube Studio, không có sơ đồ",
+    "00m50s.jpg — Màn hình Google Docs chứa đề bài, không có sơ đồ",
+    "03m06s.jpg — Giao diện web app admin, không liên quan",
+    "03m21s.jpg — Màn hình trắng đang viết dở chữ Actor",
+    "06m04s.jpg — Slide bài giảng lý thuyết, không thuộc bài tập đang giải",
+    "39m42s.jpg — Bảng Actor list đang viết dở",
+    "41m47s.jpg — Bảng đang viết dở",
+    "44m52s.jpg — Bảng Use case list (một phần)",
+    "45m05s.jpg — Bảng Use case list (một phần)",
+    "45m24s.jpg — Bảng Use case list (một phần)",
+    "45m49s.jpg — Bảng Use case list (một phần)",
+    "46m04s.jpg — Bảng Use case list (một phần)"
+  ]
+}

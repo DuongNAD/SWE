@@ -1,0 +1,2796 @@
+1
+00:00:00,000 --> 00:00:04,440
+Hello anh em nhé, trong video này mình sẽ hướng dẫn anh em luyện tập câu 2 anh em nhé.
+
+2
+00:00:05,160 --> 00:00:13,360
+Câu 2 này mình cứ đúng form anh em nhé, trước mắt mình sẽ hướng dẫn anh em luyện tập từng câu, sau đó anh em sẽ quay đến đây này, các cái đề hôn tập này nhé.
+
+3
+00:00:13,820 --> 00:00:21,820
+Đây là đề hoàn toàn khác so với các cái so với đề trial, nhưng mà cái form của nó vẫn chỉ có vậy thôi, cho nên anh em chịu khó luyện tập nhé.
+
+4
+00:00:21,820 --> 00:00:22,320
+Ok
+
+5
+00:00:22,320 --> 00:00:24,940
+Thì mình đã để đủ đầy đủ hết cho anh em rồi
+
+6
+00:00:24,940 --> 00:00:26,760
+Nói chung là câu 2 này mình sẽ không đưa lên web
+
+7
+00:00:26,760 --> 00:00:27,780
+Bởi vì là nó có phần vẽ
+
+8
+00:00:27,780 --> 00:00:29,320
+Thì anh em phải chủ động vẽ nhá
+
+9
+00:00:29,320 --> 00:00:33,200
+Nói chung là có rất là nhiều phần mềm để cho anh em viện vẽ nhá
+
+10
+00:00:33,200 --> 00:00:33,460
+Đó
+
+11
+00:00:33,460 --> 00:00:34,300
+Ok
+
+12
+00:00:34,300 --> 00:00:38,100
+Thì anh em thích dùng thế nào thì anh em tải về vẽ thôi
+
+13
+00:00:38,100 --> 00:00:38,800
+Ok
+
+14
+00:00:38,800 --> 00:00:39,540
+Đó
+
+15
+00:00:39,540 --> 00:00:43,220
+Thì câu 2 này trước khi vào câu 2 thì mình sẽ dẫn anh em một chút
+
+16
+00:00:43,220 --> 00:00:45,800
+Ờ ok
+
+17
+00:00:45,800 --> 00:00:48,060
+Thì bây giờ
+
+18
+00:00:51,820 --> 00:00:56,800
+Ừ mình sẽ dẫn anh em một chút lý thuyết nữa nhá Ok thì nếu mà anh em mà học lý thuyết đấy nếu
+
+19
+00:00:56,800 --> 00:01:01,780
+anh em học lý thuyết chính thì nó khá là dài nghe mặt cho nên là nếu mà anh em đọc không có
+
+20
+00:01:01,780 --> 00:01:07,240
+xe thì nó rất là dài cho nên mình sẽ dẫn anh em trọng tâm nhất thì ở trong bài này nhá anh em chỉ
+
+21
+00:01:07,240 --> 00:01:12,580
+cần nắm cho mình thôi đó là bài này chắc chắn có vĩ đúng không thì những cái kiến thức cốt lõi đầu
+
+22
+00:01:12,580 --> 00:01:21,760
+là anh em phải biết x tờ là gì để em vẽ được yêu yêu cây đeo Ram được chưa Bài này thì là dùng là
+
+23
+00:01:21,760 --> 00:01:28,060
+vĩ cây diagram thì anh thì anh em chỉ cần nhớ cho mình thôi và cái quan trọng đó là một lãi tử
+
+24
+00:01:28,060 --> 00:01:39,100
+hay nó còn gọi tắt nhân anh em nhé thì cái cái này nhá nó sẽ khoan trước khi nói cái này thì mình sẽ
+
+25
+00:01:39,100 --> 00:01:51,520
+cái này là gì Cái này là một mô hình anh em nhé Cái là một mô hình và mô hình này giúp anh em
+
+26
+00:01:51,520 --> 00:01:57,820
+gì nó sẽ giúp anh em nắm bắt hành vi của cái hệ thống dưới góc nhìn của người dùng như là sao
+
+27
+00:01:57,820 --> 00:02:05,140
+ví dụ anh em nhé ví dụ anh em cứ hiểu nó là một góc nhìn người dùng bây giờ ví dụ nhé anh em chờ
+
+28
+00:02:05,140 --> 00:02:11,980
+đây ví dụ đây ví dụ anh em đang là một người dùng đúng không anh em nhìn vào đây thì em thể nhìn thấy
+
+29
+00:02:11,980 --> 00:02:16,600
+cái gì đây em nhìn thấy việc là đăng nhập đúng không đó anh em hãy nhìn thấy đăng nhập nó không
+
+30
+00:02:16,600 --> 00:02:20,620
+ví dụ mình đang nhập bạn thì đây là giao diện của user đúng không thì anh em có phải là người dùng
+
+31
+00:02:20,620 --> 00:02:29,740
+anh em đang nhìn thấy giao diện user thì cái kia kêu ra này anh em thì cái kia ra mẹ thì nó chính là
+
+32
+00:02:29,740 --> 00:02:35,500
+là gì nhận nó chính là cái góc nhìn của người dùng trên em nó chính là góc nhìn của người dùng luôn
+
+33
+00:02:35,500 --> 00:02:53,560
+đó Ok thì bây giờ ví dụ user nó nhìn như vậy hay cái hay là cái cái này à à Ừ ok em chờ mình chút
+
+34
+00:02:53,560 --> 00:02:57,800
+đây mình sẽ mở cho anh em xem
+
+35
+00:02:57,800 --> 00:03:12,160
+Ok thì ví dụ đây anh em thì ví dụ đây là góc nhìn của vẫn là góc nhìn người dùng nhưng mà
+
+36
+00:03:12,160 --> 00:03:19,360
+đây với vai trò khác với một cái râu mới đó là với cái râu là admin để xin thì nó sẽ như này
+
+37
+00:03:19,360 --> 00:03:27,080
+đó Ok thì đấy là cái góc nhìn đúng không Đấy là góc nhìn nó sẽ khác nhau đó mày thì ký kêu cây
+
+38
+00:03:27,080 --> 00:03:33,880
+đen ra mày nó sẽ giúp anh em tôi nghe cái gì nhỉ nó sẽ giúp anh em là nó sẽ thể hiện được cho em
+
+39
+00:03:33,880 --> 00:03:39,040
+nó sẽ thể hiện cái góc nhìn của người dùng được cho anh em đó Ok thì em hiểu sơ qua nó như vậy
+
+40
+00:03:39,040 --> 00:03:47,200
+nhá đó hiểu đơn giản là như vậy tiếp theo này thì trong cái ký ký ký thì mình sẽ cần tìm hiểu
+
+41
+00:03:47,200 --> 00:03:53,260
+thứ nhất là hát tờ hát tờ hay nó chính là tắt nhân anh em nhé thì cái tờ này đại diện được gì
+
+42
+00:03:53,260 --> 00:04:01,300
+nó sẽ đại diện một thực thể nằm bên ngoài hệ thống hoặc là một người dùng trên nhau thì hát tờ nó là
+
+43
+00:04:01,300 --> 00:04:05,960
+cái gì mình sẽ nói ví dụ cho anh em dễ hiểu nhớ mình sẽ nói nhiều lý thuyết ví dụ hát tờ nó có
+
+44
+00:04:05,960 --> 00:04:13,480
+thể là con người ví dụ như là tiêu đình có thể là con người sử dụng hay là giảng viên được trên nhau
+
+45
+00:04:13,480 --> 00:04:17,880
+Và ngoài ra trong actor thì nó sẽ chia ra là hai loại
+
+46
+00:04:17,880 --> 00:04:19,460
+Thứ nhất là một cái actor chính
+
+47
+00:04:19,460 --> 00:04:20,540
+Have primary
+
+48
+00:04:20,540 --> 00:04:22,320
+Thì actor chính nó là gì?
+
+49
+00:04:24,780 --> 00:04:25,940
+Thì anh em cứ nhớ cho mình
+
+50
+00:04:25,940 --> 00:04:30,020
+Cái actor chính thì nó chính là những người như này này
+
+51
+00:04:30,020 --> 00:04:32,040
+Student hay là giảng viên
+
+52
+00:04:32,040 --> 00:04:36,980
+Còn ví dụ cái tiếp theo là cái actor phụ
+
+53
+00:04:36,980 --> 00:04:39,280
+Cái actor phụ thì nó là cái gì?
+
+54
+00:04:40,060 --> 00:04:41,760
+Hay nó còn gọi là secondary actor
+
+55
+00:04:41,760 --> 00:04:49,260
+được cái xinh em nó thì cái thường nó sẽ thường là các hệ thống bên ngoài hoặc là cái gì dịch vụ mà
+
+56
+00:04:49,260 --> 00:05:01,200
+hệ thống gọi đến từ trên em ví dụ như là cổ thanh toán ngay nhé anh ạ ạ cộng thanh toán Ok đó xinh
+
+57
+00:05:01,200 --> 00:05:08,300
+em thì em cứ nhớ cho mình đó là cái phụ thì ví dụ như là cổ thanh toán hay là cái máy chủ được
+
+58
+00:05:08,300 --> 00:05:12,980
+là cái chủ gửi mail để cho nhau đó thì tí nữa vào bài chính thì mình sẽ nói cho anh em rõ hơn
+
+59
+00:05:12,980 --> 00:05:20,000
+12 cái này đó anh em cũng trước mắt anh em lắm cho mình cái này đã và khi em vẽ nhá nó sẽ là cái
+
+60
+00:05:20,000 --> 00:05:25,820
+hình người quê anh em nhá nó đây nó chính là x tờ thì nó chính là cái hình người quê rồi cho nhá
+
+61
+00:05:25,820 --> 00:05:33,540
+nó tiếp theo này em sẽ cần tìm hiểu thêm cho mình nó là về in kênh à quên mất cách từ anh em nhớ cho
+
+62
+00:05:33,540 --> 00:05:39,660
+khi đặt tên thì em phải nhớ cho mình đặt tên nó phải là danh từ anh em nhé Nếu anh em đặt sai thì
+
+63
+00:05:39,660 --> 00:05:45,840
+cũng là mất điểm luôn được chưa anh em tiếp theo này đó là UK thì em cứ nhớ cho mình khi em đặt
+
+64
+00:05:45,840 --> 00:05:53,100
+tên nhé thì nó sẽ là là động từ cộng danh từ được chưa anh em động từ cộng danh từ nhé và khi em vẽ
+
+65
+00:05:53,100 --> 00:05:59,340
+thì nó sẽ là cái hình Ellipse như này được chưa anh em đó ok tí nữa vào bài thì anh em sẽ rõ hơn nhé
+
+66
+00:05:59,340 --> 00:06:08,400
+đây đây để mình bỏ lên cho anh em xem luôn nhìn này nó dễ này đây em nhìn nhé đây hình người quê
+
+67
+00:06:08,400 --> 00:06:17,560
+đây là hát từ trên nhá nó và đây ví dụ nó như này thì đây nó chính là nó chính là cái cái
+
+68
+00:06:17,560 --> 00:06:24,120
+kênh trên nhá thì đây nó phải có là độc từ với danh từ sinh em nó thì UK nó là gì nó là một cái
+
+69
+00:06:24,120 --> 00:06:33,120
+là cái quá trình cụ thể được chưa Nó là một cái mô tả một quá trình mà tương tác cụ thể giữa x
+
+70
+00:06:33,120 --> 00:06:40,140
+và hệ thống của sinh em nhớ cho mình nhé là cái quá trình mà tương tác cụ thể giữa x và hệ thống
+
+71
+00:06:40,140 --> 00:06:48,180
+người sinh em đó Ok thì anh em chỉ cần nắm sơ qua như vậy thôi đã tí nữa mình sẽ nói rõ hơn
+
+72
+00:06:48,180 --> 00:06:55,140
+cho anh em ngoài ra thì nó còn một vài cái nữa một vài kiến thức nữa nhưng mà mình nghĩ là mình sẽ
+
+73
+00:06:55,140 --> 00:07:00,840
+để đến vào trong thì mình sẽ nói rõ hơn để xin em chứ nói ngoài này thì cũng không tác dụng lắm
+
+74
+00:07:00,840 --> 00:07:05,940
+mình nghĩ là mình sẽ đi từng bước một khi mình giải cái này sau đó thì mình sẽ dẫn anh em chi
+
+75
+00:07:05,940 --> 00:07:25,760
+nhé Ok thì ok đâu để đi xem à Ừ ok để mình xem là còn kiến thức gì đấy nhỉ Ok mình quên mất mình chưa
+
+76
+00:07:25,760 --> 00:07:33,220
+nói cái quan trọng là khi em vẽ nhé nó sẽ có cái hình chữ nhật to bao ngoài từ trên nha em nhớ cho
+
+77
+00:07:33,220 --> 00:07:38,260
+cái này gọi là gì nó gọi là system Bowery nó là danh giới hệ thống của trang nhé em nhớ cho mình
+
+78
+00:07:38,260 --> 00:07:42,940
+nhé đó cái này chúng ta thì lý thuyết một chút thôi để anh em đi thi nhé Bình em kể làm được
+
+79
+00:07:42,940 --> 00:07:47,680
+thì đây nó chỉ là một cái hình chữ nhật bao khung bên ngoài được cho nhá đó và có một cái
+
+80
+00:07:47,680 --> 00:07:54,220
+nước cực kỳ quan trọng mình quên mình chưa nói đó là cái phần quan hệ ở trên nhá quan hệ nhá
+
+81
+00:07:54,220 --> 00:08:24,220
+Ok thì cái đầu tiên đó là cái à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+82
+00:08:24,220 --> 00:08:32,720
+anh em nhìn nhé
+
+83
+00:08:32,720 --> 00:08:35,740
+cái này
+
+84
+00:08:35,740 --> 00:08:37,000
+cái này
+
+85
+00:08:37,000 --> 00:08:40,920
+mình sẽ xem cái nào
+
+86
+00:08:40,920 --> 00:08:42,520
+cho anh em dễ nhìn
+
+87
+00:08:42,520 --> 00:08:43,560
+anh em nhìn nhé
+
+88
+00:08:43,560 --> 00:08:45,360
+nó là cái này
+
+89
+00:08:45,360 --> 00:08:45,700
+anh em nhé
+
+90
+00:08:45,700 --> 00:08:49,120
+anh em thấy không
+
+91
+00:08:49,120 --> 00:08:50,720
+nó là cái này này
+
+92
+00:08:50,720 --> 00:08:51,700
+nó không có mũi tên
+
+93
+00:08:51,700 --> 00:08:53,640
+nếu mà anh em nhìn kỹ này
+
+94
+00:08:53,640 --> 00:08:56,060
+tí nữa thì mình sẽ đến các cái dạng kia sau
+
+95
+00:08:56,060 --> 00:08:57,520
+đó như này
+
+96
+00:08:57,520 --> 00:09:00,060
+đấy anh em nhìn nhé
+
+97
+00:09:00,060 --> 00:09:00,460
+đấy
+
+98
+00:09:00,460 --> 00:09:03,940
+ok thì đấy
+
+99
+00:09:03,940 --> 00:09:05,160
+nó là cái
+
+100
+00:09:05,160 --> 00:09:07,420
+cái
+
+101
+00:09:07,420 --> 00:09:09,840
+đầu tiên
+
+102
+00:09:09,840 --> 00:09:11,140
+để cho anh em là cái kết nối
+
+103
+00:09:11,140 --> 00:09:13,080
+để cho anh em association
+
+104
+00:09:13,080 --> 00:09:15,980
+ok tiếp theo thì mình sẽ có là cái include
+
+105
+00:09:15,980 --> 00:09:19,300
+mấy cái này thì
+
+106
+00:09:19,300 --> 00:09:21,880
+nói lý thuyết mình sợ anh em khó hiểu nhưng mà mình sẽ vẫn cứ
+
+107
+00:09:21,880 --> 00:09:28,000
+mình sẽ nói qua một chút và mình sẽ cố làm cho anh em biết hiểu nhất nhá thì cái này là gì Cái này
+
+108
+00:09:28,000 --> 00:09:32,860
+mình sẽ đi vào ví dụ nhé Mình không nói lý thuyết ví dụ nhé anh em có là đăng ký môn ví dụ anh em
+
+109
+00:09:32,860 --> 00:09:37,360
+có là ví dụ bây giờ là trong một hệ thống khóa học đúng không Bây giờ ví dụ anh em đăng ký môn học
+
+110
+00:09:37,360 --> 00:09:45,280
+thì anh sẽ luôn cần gì đó là anh em sẽ luôn cần phải đăng nhập
+
+111
+00:09:45,280 --> 00:09:59,240
+trên em đó nó sẽ luôn cần thì hay anh em hiểu đơn giản như sau đó là yêu yêu cây A
+
+112
+00:09:59,240 --> 00:10:06,560
+thì luôn gọi cái thằng kia cây bê
+
+113
+00:10:06,560 --> 00:10:18,320
+xinh em yêu kia này xin luôn gọi thằng kia bê đó thì đây nó sẽ dùng lá include và khi em đưa vào
+
+114
+00:10:18,320 --> 00:10:24,740
+nhá thì nó sẽ biết khi em đưa vào ấy Vậy thì nó sẽ là như này nó có hai cái dấu hoặc hai cái dấu
+
+115
+00:10:24,740 --> 00:10:34,820
+như thế này như này đó được chưa nha Đó là vì cái quan hệ thứ hai nhá tiếp theo này quan hệ thứ ba
+
+116
+00:10:34,820 --> 00:10:43,040
+thì nó sẽ là xe anh em nghi khá là quên hoặc không Nhưng mà để mình nói rõ nói rõ cho anh em nhé Thế
+
+117
+00:10:43,040 --> 00:10:52,400
+này em hiểu đơn giản như này ví dụ khi ngâm thanh toán từ trên thì em thế nào anh em có thể có thể
+
+118
+00:10:52,400 --> 00:10:54,520
+là anh em sẽ áp được mã giảm giá
+
+119
+00:10:54,520 --> 00:11:01,500
+được chưa anh em
+
+120
+00:11:01,500 --> 00:11:04,080
+khi anh em thanh toán anh em sẽ có thể
+
+121
+00:11:04,080 --> 00:11:05,020
+áp mã giảm giá
+
+122
+00:11:05,020 --> 00:11:07,680
+vậy thì ở đây nghĩa là sao, cái tên nghĩa là gì
+
+123
+00:11:07,680 --> 00:11:10,580
+nghĩa là cái use case này xảy ra khi có điều kiện
+
+124
+00:11:10,580 --> 00:11:11,440
+được chưa anh em
+
+125
+00:11:11,440 --> 00:11:12,400
+xảy ra
+
+126
+00:11:12,400 --> 00:11:16,580
+khi và chỉ khi gần như kiểu vậy
+
+127
+00:11:16,580 --> 00:11:17,740
+nghĩa là khi có điều kiện
+
+128
+00:11:17,740 --> 00:11:18,660
+được chưa anh em
+
+129
+00:11:18,660 --> 00:11:21,020
+và cuối cùng là cái thứ 4
+
+130
+00:11:21,020 --> 00:11:22,780
+là cái rất là ít gặp
+
+131
+00:11:22,780 --> 00:11:24,000
+và mình xem để
+
+132
+00:11:24,000 --> 00:11:26,880
+ngay cả trong Coursera nó sẽ rất là ít dùng
+
+133
+00:11:26,880 --> 00:11:27,700
+được chứ nhé
+
+134
+00:11:27,700 --> 00:11:29,600
+đó là cái
+
+135
+00:11:29,600 --> 00:11:31,000
+Generations
+
+136
+00:11:31,000 --> 00:11:37,240
+thì cái này nó là gì
+
+137
+00:11:37,240 --> 00:11:38,360
+cái này nó chính là ký thửa
+
+138
+00:11:38,360 --> 00:11:40,400
+cái này nó chính là ký thửa
+
+139
+00:11:40,400 --> 00:11:42,940
+cái này rất là ít dùng
+
+140
+00:11:42,940 --> 00:11:44,700
+và ngay cả trong Coursera
+
+141
+00:11:44,700 --> 00:11:45,600
+nó cũng ghi vậy
+
+142
+00:11:45,600 --> 00:11:48,800
+cho nên là mình sẽ nói qua thôi
+
+143
+00:11:48,800 --> 00:11:49,680
+đó chính là extra
+
+144
+00:11:49,680 --> 00:12:00,900
+thì có thể có hết được mấy cái từ con bây giờ mình ví dụ nhé ví dụ nhé mình ví dụ này ví dụ mình có
+
+145
+00:12:00,900 --> 00:12:10,920
+là tiêu đình à Ừ mình có là mấy chú đi mình có là staff
+
+146
+00:12:10,920 --> 00:12:18,960
+cái người quản lý hệ thống ấy mình có ba người này đúng không Thì bây giờ ba người này bây
+
+147
+00:12:18,960 --> 00:12:26,560
+giờ ví dụ mình có một cái yêu cây là nó khi đó thì chắc chắn là thằng tiêu đường cũng cần nó
+
+148
+00:12:26,560 --> 00:12:35,220
+in giảm viên cần nó in và ta này cũng cần nó in đó em đó thì bây giờ chẳng nghĩ mình làm một phát
+
+149
+00:12:35,220 --> 00:12:40,800
+là cùng đối này anh em như này nó rất là dối đúng không anh em nó vẫn đúng thôi nhưng mà nó rất là
+
+150
+00:12:40,800 --> 00:12:47,340
+rồi nó ngon nha đó vậy thì bây giờ hay vào đó thì mình sẽ sử dụng cái gì đó là mình sẽ sử dụng cái
+
+151
+00:12:47,340 --> 00:12:56,280
+thằng generalization trên nhé thì bây giờ nó sẽ làm gì nó sẽ có thêm một cái thằng nữa là thằng
+
+152
+00:12:56,280 --> 00:13:14,280
+nó sẽ có thằng là mình sẽ để là yêu dơ đi trường là cái người mà đã đăng ký được chưa
+
+153
+00:13:14,280 --> 00:13:18,560
+nha Bây giờ nếu mà nó có thêm cái thằng người đã đăng ký này rồi thì bây giờ mình sẽ chỉ cần
+
+154
+00:13:18,560 --> 00:13:19,540
+Cho nó
+
+155
+00:13:19,540 --> 00:13:20,900
+Tất cả mấy thằng này
+
+156
+00:13:20,900 --> 00:13:21,760
+Được chứ anh em
+
+157
+00:13:21,760 --> 00:13:24,180
+Cho tất cả mấy thằng này
+
+158
+00:13:24,180 --> 00:13:24,860
+Kế thừa vào
+
+159
+00:13:24,860 --> 00:13:26,140
+Kế thừa thằng này
+
+160
+00:13:26,140 --> 00:13:32,180
+Được chứ anh em
+
+161
+00:13:32,180 --> 00:13:32,880
+Đó
+
+162
+00:13:32,880 --> 00:13:33,900
+Tất cả mấy thằng này kế thừa
+
+163
+00:13:33,900 --> 00:13:35,100
+Và từ thằng này
+
+164
+00:13:35,100 --> 00:13:36,560
+Mình cho nó vào đây
+
+165
+00:13:36,560 --> 00:13:37,220
+Được chứ anh em
+
+166
+00:13:37,220 --> 00:13:38,440
+Như là thằng cha này
+
+167
+00:13:38,440 --> 00:13:39,260
+Nó dùng cái gì
+
+168
+00:13:39,260 --> 00:13:40,360
+Thì những thằng con này
+
+169
+00:13:40,360 --> 00:13:41,240
+Làm cái đấy
+
+170
+00:13:41,240 --> 00:13:42,160
+Được chứ anh em
+
+171
+00:13:42,160 --> 00:13:42,540
+Đó
+
+172
+00:13:42,540 --> 00:13:43,120
+Anh em hiểu chưa
+
+173
+00:13:43,120 --> 00:13:44,640
+Nó đơn giản vậy thôi nhá
+
+174
+00:13:44,640 --> 00:13:44,900
+Đó
+
+175
+00:13:44,900 --> 00:13:45,500
+Ok
+
+176
+00:13:45,500 --> 00:13:46,860
+Thì đấy là tổng quan
+
+177
+00:13:46,860 --> 00:13:47,960
+Mình chút lý thuyết cho anh em
+
+178
+00:13:47,960 --> 00:13:48,520
+Để anh em hiểu
+
+179
+00:13:48,520 --> 00:13:56,320
+được bài qua anh em nhé Ok đó đó là vì kiến thức để em thể là học vẽ được cái xây này em nhé Ok
+
+180
+00:13:56,320 --> 00:14:02,920
+đó thì bây giờ mình sẽ bắt đầu bước vào cái bài này nhé Ok thì mày này mình sẽ cần biết những cái
+
+181
+00:14:02,920 --> 00:14:12,520
+gì thì trong bài này em để ý cho mình này mình nghĩ là mình sẽ về trên sao mà lời nhé Nói chung
+
+182
+00:14:12,520 --> 00:14:17,980
+bạn thích dùng phần mềm nào thì dùng nói chung là nó cũng dễ dùng thôi nó cũng như nhau thôi em nhá
+
+183
+00:14:17,980 --> 00:14:23,140
+đó thì bây giờ nhá bước đầu tiên này chưa phải phản ánh em cái vĩnh này đâu bởi vì là nó còn khá
+
+184
+00:14:23,140 --> 00:14:29,140
+là nhiều phần linh tinh đó bây giờ đầu tiên anh em nhìn nhá Ok em thì nãy mình chút bây giờ mình sẽ
+
+185
+00:14:29,140 --> 00:14:36,820
+dẫn anh em sẽ cái này nhá Ok thì cái này thì xử lý đã đơn giản thôi em nhá thì trong cái này nhá bước
+
+186
+00:14:36,820 --> 00:14:42,040
+đầu tiên này bài tiêu cầu đầu tiên nó là anh em sẽ cần phải xác định ra x tờ đúng không và sau đó
+
+187
+00:14:42,040 --> 00:14:47,280
+mình đã xác định nó là primary hay là secondary được chưa thế là nó lại tự chính hay tự phụ mấy
+
+188
+00:14:47,280 --> 00:14:56,800
+mình có nói rồi đúng không thì ở đây thì ở đây mình sẽ nhìn nhé có mỗi mẹo nhìn nhanh anh em nhìn phát
+
+189
+00:14:56,800 --> 00:15:01,660
+anh em thì nhìn ngay ra những cái tự chính rồi anh em ví dụ anh em nhìn này cách tự chính anh
+
+190
+00:15:01,660 --> 00:15:07,000
+em nhìn phát ra ngay này thì em chỉ đọc cái đoạn này thôi đó anh nhìn nhé có bốn main group of
+
+191
+00:15:07,000 --> 00:15:16,780
+là một này thì nó sẽ có là tiêu đình là một này sau đó nó sẽ có là là lecture này có academic
+
+192
+00:15:16,780 --> 00:15:24,220
+staff này có system administration này chưa thì trước mắt đấy thì là mình sẽ có bốn cái đằng actor
+
+193
+00:15:24,220 --> 00:15:43,160
+cái này mình vứt vào đó nhá Ok thì đây mình vứt cho vào từng cái một nhá Ok và system Ok thì đây
+
+194
+00:15:43,160 --> 00:15:50,260
+là gì anh em nhỉ 4 loại này nó là cái gì đây thì cái này đều là primary đúng không primary
+
+195
+00:15:50,260 --> 00:16:01,420
+xinh em đó thì bước đầu tiên mình đã xác định xong bốn loại thì bây giờ mình sẽ xem mục tiêu
+
+196
+00:16:01,420 --> 00:16:06,460
+muốn cái này là gì để tí nữa mình xem xem còn cái cái kênh đôi gì anh em nhé em bây giờ cứ
+
+197
+00:16:06,460 --> 00:16:14,620
+tự đọc đến đâu mình xử lý đấy đầu tiên này học sinh cần xem các danh mục khóa học có sẵn học
+
+198
+00:16:14,620 --> 00:16:16,760
+xem các danh mục khóa học có sẵn cho chị em
+
+199
+00:16:16,760 --> 00:16:18,860
+đó, thì đây là gì
+
+200
+00:16:18,860 --> 00:16:21,280
+học sinh này
+
+201
+00:16:21,280 --> 00:16:22,900
+xem các danh mục có sẵn này
+
+202
+00:16:22,900 --> 00:16:25,060
+và tiếp theo gì, check xem
+
+203
+00:16:25,060 --> 00:16:27,220
+check cái điều kiện tiên quyết
+
+204
+00:16:27,220 --> 00:16:29,080
+anh em nhé, check dựa trên
+
+205
+00:16:29,080 --> 00:16:31,360
+các cái điều kiện tiên quyết là đã hoàn thành chưa
+
+206
+00:16:31,360 --> 00:16:33,100
+được chưa, sau đó như thế nào
+
+207
+00:16:33,100 --> 00:16:33,880
+submit
+
+208
+00:16:33,880 --> 00:16:36,640
+cái đơn đăng ký
+
+209
+00:16:36,640 --> 00:16:38,760
+để cho anh em, đó, và
+
+210
+00:16:38,760 --> 00:16:40,880
+theo dõi trạng thái của mỗi cái request
+
+211
+00:16:40,880 --> 00:16:42,800
+trong thời gian thực, thì anh em đọc cái đoạn này
+
+212
+00:16:42,800 --> 00:16:45,140
+anh em phải có nhiều ngay cái liên kết cho mình này
+
+213
+00:16:45,140 --> 00:16:47,100
+đầu tiên là
+
+214
+00:16:47,100 --> 00:16:48,180
+phải check điều kiện liên quyết
+
+215
+00:16:48,180 --> 00:16:50,080
+thì sau đó mới submit cái này
+
+216
+00:16:50,080 --> 00:16:53,120
+sau khi submit cái này thì sẽ theo dõi
+
+217
+00:16:53,120 --> 00:16:54,720
+cái này, nếu mà
+
+218
+00:16:54,720 --> 00:16:55,980
+có mà đầy, đúng không?
+
+219
+00:16:56,460 --> 00:16:58,980
+thì thế nào? học sinh sẽ tham gia vào cái danh sách trở
+
+220
+00:16:58,980 --> 00:17:00,700
+được chưa? và
+
+221
+00:17:00,700 --> 00:17:03,180
+cái đơn đã đăng ký này
+
+222
+00:17:03,180 --> 00:17:05,000
+sau khi mà đã được
+
+223
+00:17:05,000 --> 00:17:07,580
+kiểu là
+
+224
+00:17:07,580 --> 00:17:09,320
+sau khi mà đã đăng ký
+
+225
+00:17:09,320 --> 00:17:11,020
+thì nào hệ thống sẽ tự động
+
+226
+00:17:11,020 --> 00:17:15,200
+thông báo này để cho anh em nhìn cái hệ thống tự động thông báo
+
+227
+00:17:15,200 --> 00:17:16,780
+để cho anh em
+
+228
+00:17:16,780 --> 00:17:18,380
+thì đây nó là gì
+
+229
+00:17:18,380 --> 00:17:20,660
+nhờ có cái này mà mình đã phát hiện ra cái gì
+
+230
+00:17:20,660 --> 00:17:22,000
+đây nó chính là cái
+
+231
+00:17:22,000 --> 00:17:25,040
+cái gì nhỉ, nó chính là cái x tờ thứ 5 anh em nhé
+
+232
+00:17:25,040 --> 00:17:27,820
+mình có thể gọi nó là gì
+
+233
+00:17:27,820 --> 00:17:29,800
+mình có thể gọi nó là
+
+234
+00:17:29,800 --> 00:17:32,920
+hệ thống tự động thông báo
+
+235
+00:17:32,920 --> 00:17:34,860
+thì mình có thể gọi nó là system
+
+236
+00:17:34,860 --> 00:17:39,400
+ở chỗ này thì mình có thể để nó là
+
+237
+00:17:39,400 --> 00:17:40,820
+notification đi
+
+238
+00:17:41,020 --> 00:17:52,120
+thông báo mà system trên đặt tên của gì cũng được ở trên nha Nói chung là nó phải đúng là
+
+239
+00:17:52,120 --> 00:18:01,360
+danh từ là được anh em thì đây nó chính là xe cần đôi khi ok cho em bây giờ mình sẽ xử lý mục
+
+240
+00:18:01,360 --> 00:18:08,380
+tiêu nhé Ok thì nãy mình đang đọc rồi đến đây nhá chết thông báo này nếu mà lúc này thì tham gia này
+
+241
+00:18:08,380 --> 00:18:14,620
+khi mà đã đăng ký này thì thì chồng sẽ tự động thông báo và thêm được chưa Thêm cái học sinh
+
+242
+00:18:14,620 --> 00:18:23,620
+đấy vào cái nguyên lý ở trên nha đó Ok thì bây giờ chốt lại là mình sẽ có cái gì thì đầu tiên
+
+243
+00:18:23,620 --> 00:18:29,680
+là tiêu đơn có thể gì chắc chắn rồi có thể đăng ký học gọi chung thì là gì có thể đăng ký học
+
+244
+00:18:29,680 --> 00:18:31,240
+Đấy chưa? Đăng ký học thì là gì?
+
+245
+00:18:31,960 --> 00:18:32,280
+Register
+
+246
+00:18:32,280 --> 00:18:35,780
+Đúng không? Có thể đăng ký học
+
+247
+00:18:35,780 --> 00:18:37,460
+Các cái khóa học
+
+248
+00:18:37,460 --> 00:18:38,540
+Đúng không anh em?
+
+249
+00:18:39,180 --> 00:18:40,800
+Có thể đăng ký các khóa học
+
+250
+00:18:40,800 --> 00:18:42,140
+Sau đó thì nào?
+
+251
+00:18:42,900 --> 00:18:43,800
+Sẽ có thể là gì nữa?
+
+252
+00:18:46,900 --> 00:18:47,580
+Có thể là
+
+253
+00:18:47,580 --> 00:18:48,760
+Sau khi mà đăng ký học thì thế nào?
+
+254
+00:18:49,140 --> 00:18:50,160
+Thì có thể là theo dõi
+
+255
+00:18:50,160 --> 00:18:51,640
+Theo dõi
+
+256
+00:18:51,640 --> 00:18:52,320
+Status
+
+257
+00:18:52,320 --> 00:18:54,960
+Đấy chưa?
+
+258
+00:18:56,280 --> 00:18:57,180
+Và thế nào nữa?
+
+259
+00:18:57,640 --> 00:18:58,920
+Nếu mà lúc này thì thế nào?
+
+260
+00:18:58,920 --> 00:19:09,120
+Ok, đó
+
+261
+00:19:09,120 --> 00:19:11,580
+Đấy là vì cái thằng học sinh
+
+262
+00:19:11,580 --> 00:19:13,000
+Tiếp theo này, cái thằng sinh viên nhé
+
+263
+00:19:13,000 --> 00:19:14,760
+Tiếp theo này là lecturer đúng không
+
+264
+00:19:14,760 --> 00:19:16,780
+Cần xem lại danh sách
+
+265
+00:19:16,780 --> 00:19:19,600
+À đây, xem lại danh sách
+
+266
+00:19:19,600 --> 00:19:21,120
+Của sinh viên đã tham gia
+
+267
+00:19:21,120 --> 00:19:22,720
+Sau đó gì
+
+268
+00:19:22,720 --> 00:19:24,600
+Ghi ra cái bảng điểm
+
+269
+00:19:24,600 --> 00:19:27,700
+Ghi ra cái điểm của bài giữa kỳ và cuối kỳ này
+
+270
+00:19:27,700 --> 00:19:28,780
+Sau đó thì là
+
+271
+00:19:28,780 --> 00:19:30,700
+công bố điểm này cho học sinh này
+
+272
+00:19:30,700 --> 00:19:32,920
+sau khi mà đã kết thúc việc chấm điểm này
+
+273
+00:19:32,920 --> 00:19:34,160
+đó, ok chưa?
+
+274
+00:19:34,480 --> 00:19:35,240
+thì tóm lại là gì?
+
+275
+00:19:35,700 --> 00:19:37,680
+thì sẽ có thể là xem danh sách lớp
+
+276
+00:19:37,680 --> 00:19:39,680
+nhập và công bố điểm
+
+277
+00:19:39,680 --> 00:19:42,640
+thì đây nó sẽ là
+
+278
+00:19:42,640 --> 00:19:44,080
+view
+
+279
+00:19:44,080 --> 00:19:47,380
+roster
+
+280
+00:19:47,380 --> 00:19:49,620
+đúng không? view roster
+
+281
+00:19:49,620 --> 00:19:50,940
+danh sách lớp
+
+282
+00:19:50,940 --> 00:19:51,760
+view class
+
+283
+00:19:51,760 --> 00:19:53,040
+roster
+
+284
+00:19:53,040 --> 00:19:55,720
+danh sách lớp này
+
+285
+00:19:55,720 --> 00:19:57,100
+nhập
+
+286
+00:19:57,100 --> 00:20:12,880
+là nguyên input great em có lịch tích xin anh đó đó Vậy rồi thì xin em tiếp theo này academic
+
+287
+00:20:12,880 --> 00:20:19,720
+staff đó thì em xem mẹ academic staff này thì nó sẽ có gì nó sẽ có là chịu trách nhiệm gì đây
+
+288
+00:20:19,720 --> 00:20:29,080
+quản lý nó kiểu là quản lý cái thử có nhiều anh em nhé tiết lập và công khai các cách các cái kiểu
+
+289
+00:20:29,080 --> 00:20:35,960
+là chỉ tiêu thông tin liên quan đến cái khóa học chưa mở và đóng đăng ký này phê duyệt các cái
+
+290
+00:20:35,960 --> 00:20:45,040
+trường hợp ngoại lệ này và tạo ra cái các cái việc là tham gia và phân làm báo cáo phân phối biển
+
+291
+00:20:45,040 --> 00:20:57,580
+thì nó sẽ là thứ nhất này quản lý thời gian đúng không thì nó sẽ là mà nít menis tham table
+
+292
+00:20:57,580 --> 00:21:15,160
+quản lý thì có hiểu này làm báo cáo nữa phân phối điểm đúng không Nói chung là à
+
+293
+00:21:15,160 --> 00:21:22,380
+mình cứ dùng y như trong bài đi và phim
+
+294
+00:21:22,380 --> 00:21:25,380
+Face
+
+295
+00:21:25,380 --> 00:21:27,160
+Face
+
+296
+00:21:27,160 --> 00:21:28,380
+Face luôn
+
+297
+00:21:28,380 --> 00:21:29,680
+Exception luôn
+
+298
+00:21:29,680 --> 00:21:31,180
+Được chưa
+
+299
+00:21:31,180 --> 00:21:33,360
+Tiếp theo này
+
+300
+00:21:33,360 --> 00:21:36,380
+Là system admin
+
+301
+00:21:36,380 --> 00:21:38,520
+Thì mình sẽ có gì đây
+
+302
+00:21:38,520 --> 00:21:40,180
+Quản lý account chắc chắn rồi
+
+303
+00:21:40,180 --> 00:21:41,640
+Không để thiếu rồi
+
+304
+00:21:41,640 --> 00:21:43,620
+Quản lý account thì mình sẽ thêm vào luôn
+
+305
+00:21:43,620 --> 00:21:46,380
+Quản lý account
+
+306
+00:21:46,380 --> 00:21:47,520
+Gì nữa
+
+307
+00:21:47,520 --> 00:21:50,680
+Quản lý account này
+
+308
+00:21:50,680 --> 00:21:52,220
+Sau đó thì mình sẽ có là
+
+309
+00:21:52,220 --> 00:22:04,160
+là cấu hình hệ thống đó và xa lưu dữ liệu thì chưa Đằng sau đó là xa lưu dữ liệu đấy bệnh cập
+
+310
+00:22:04,160 --> 00:22:09,380
+đà tài đến thôi cho nhanh nhanh nhé Nói chung là chỗ này làm đơn giản này thôi tiếp theo này
+
+311
+00:22:09,380 --> 00:22:16,700
+là hệ thống thông báo đó thì là thế nào gửi thông báo tự động đó thì nó sẽ đã xem auto
+
+312
+00:22:16,700 --> 00:22:22,340
+notification
+
+313
+00:22:22,340 --> 00:22:28,460
+của quên đi đâu anh em
+
+314
+00:22:28,460 --> 00:22:38,900
+ok được chưa Đấy thế thôi gửi thông báo tự động được chưa nha nó vậy là mình đã xử lý
+
+315
+00:22:38,900 --> 00:22:51,560
+cái ý đầu tiên Ok ý tiếp theo này nhà mình sẽ liệt kê có liệt kê ra các cái kêu cây
+
+316
+00:22:51,560 --> 00:23:02,140
+liệt kê cây thì mình sẽ có gì đây nó bản liệt kê ít nhất 8 cái như là mình có được lấy là
+
+317
+00:23:02,140 --> 00:23:09,820
+là 4 bằng 8 để xem nhau thì đây mình sẽ lại tạo bản như vậy nhưng sớm hay bồ lại có ba cái kéo
+
+318
+00:23:09,820 --> 00:23:22,780
+xuống này là bốn cái bởi vì là nó còn cái là cái là tắt nhân khởi tạo đó Ừ ok cái đầu tiên là mình
+
+319
+00:23:22,780 --> 00:23:46,180
+là ai đi số tự tiếp theo là tươi tiếp theo là cái khởi tạo tiếp theo là mục đích Ok đó 12
+
+320
+00:23:46,180 --> 00:24:02,580
+3 4 5 6 7 8 Ok trước mắt là tám cái đó nhá sau đó thêm mình sẽ thêm sau Ok đầu tiên này
+
+321
+00:24:02,580 --> 00:24:11,080
+kia cây một đúng không thì giờ chắc chắn rồi đó là nó sẽ là cái này xem được tiêu đường đó gì
+
+322
+00:24:11,080 --> 00:24:13,380
+để xem các cái danh mục của khoa học có sẵn
+
+323
+00:24:13,380 --> 00:24:15,400
+đúng không? thì là xem danh sách khoa học
+
+324
+00:24:15,400 --> 00:24:17,480
+đúng không? thì bây giờ là gì?
+
+325
+00:24:17,980 --> 00:24:18,820
+mình có thể để là
+
+326
+00:24:18,820 --> 00:24:21,280
+xem danh sách khoa học đúng không?
+
+327
+00:24:22,660 --> 00:24:23,020
+browse
+
+328
+00:24:23,020 --> 00:24:26,060
+cross
+
+329
+00:24:26,060 --> 00:24:32,300
+xem danh mục khoa học
+
+330
+00:24:32,300 --> 00:24:33,920
+được chưa? tra cứu danh mục khoa học
+
+331
+00:24:33,920 --> 00:24:36,180
+cái này là student
+
+332
+00:24:36,180 --> 00:24:38,060
+đúng không? mục tiêu là gì?
+
+333
+00:24:38,500 --> 00:24:39,120
+mục tiêu là
+
+334
+00:24:39,120 --> 00:24:48,000
+Ok mục tiêu là gì là để xem thôi nó sẽ là
+
+335
+00:24:48,000 --> 00:24:55,360
+viewport list and details
+
+336
+00:24:55,360 --> 00:25:07,920
+Đấy xinh không? Đó ok chưa? Đó thì bây giờ mình sẽ thế thôi tiếp theo cái tiếp theo là gì?
+
+337
+00:25:07,920 --> 00:25:16,260
+được chắc chắn rồi không phải thiếu đó gì đó là sau khi mà xong này thì cái gì đấy là điều kiện
+
+338
+00:25:16,260 --> 00:25:25,260
+tiên quyết đúng không thì nó sẽ làm sách đó chắc điều kiện tiên quyết hoặc trách trách điều kiện
+
+339
+00:25:25,260 --> 00:25:37,320
+kiện này được chưa vẫn là con tiêu được để làm gì đây thì nó sẽ là kiểm tra điều kiện nó bảo
+
+340
+00:25:37,320 --> 00:25:50,040
+con đi sân trách con đi sân before before registration before sắp mít
+
+341
+00:25:50,040 --> 00:25:54,660
+registration
+
+342
+00:25:54,660 --> 00:26:04,860
+Ok trước khi đăng ký phải chắc điều kiện kiên quyết trước kiên quyết Ok tiếp theo gì là chắc
+
+343
+00:26:04,860 --> 00:26:21,200
+sau khi mà trách ký nào thì sắp đi thôi sắp biết gây vết chơi trần quý quý yêu cầu trên
+
+344
+00:26:21,200 --> 00:26:31,860
+em cái này vẫn là tiêu đồn thôi Ok thì đây mình sẽ có là gì mục tiêu là gì gửi đi làm gì để đăng
+
+345
+00:26:31,860 --> 00:26:33,120
+register
+
+346
+00:26:33,120 --> 00:26:38,420
+register
+
+347
+00:26:38,420 --> 00:26:40,920
+for
+
+348
+00:26:40,920 --> 00:26:42,180
+specific
+
+349
+00:26:42,180 --> 00:26:46,440
+specific cost
+
+350
+00:26:46,440 --> 00:26:51,480
+và tiếp theo
+
+351
+00:26:51,480 --> 00:26:53,160
+sau khi gửi như thế nào
+
+352
+00:26:53,160 --> 00:26:54,160
+thì chắc chắn rồi
+
+353
+00:26:54,160 --> 00:26:55,780
+thì sẽ phải là join
+
+354
+00:26:55,780 --> 00:26:57,500
+join
+
+355
+00:26:57,500 --> 00:26:59,980
+nếu mà lúc này
+
+356
+00:26:59,980 --> 00:27:06,580
+đầy đúng không Nếu mà lúc đầy thì mình sẽ phải doi Willis đúng không Vì này nó vẫn là
+
+357
+00:27:06,580 --> 00:27:14,800
+Steven cho anh em thì đây nó sẽ là đăng ký khóa học khi đã đầy đúng không thì nó sẽ là register
+
+358
+00:27:14,800 --> 00:27:19,660
+register
+
+359
+00:27:19,660 --> 00:27:24,040
+quen
+
+360
+00:27:24,040 --> 00:27:26,980
+dơ có
+
+361
+00:27:26,980 --> 00:27:40,840
+đi cùng Ok nó tiếp theo là gì năm nó em cái thứ năm nhé anh em nhé Thì là gì à đúng rồi sau khi
+
+362
+00:27:40,840 --> 00:27:47,320
+mà có cái này đấy nếu mà đầy đúng không thì là mình sẽ vứt vào trong cái danh sách chờ và thế
+
+363
+00:27:47,320 --> 00:27:58,060
+đó là mình sẽ bằng chích thời theo dõi thời gian thực chắc tên tớ tên tớ theo dõi hạ thái này
+
+364
+00:27:58,060 --> 00:28:15,120
+tên tớ đúng không cho mày nó ghi mà anh em đây này đây đây check the status for request
+
+365
+00:28:15,120 --> 00:28:23,500
+được chưa đó thì là mình sẽ phải trách trạng thái theo dõi trạng thái như thế nào và tiếp
+
+366
+00:28:23,500 --> 00:28:33,520
+thì hết hết tiêu đơn đấy tiêu đơn này nó kêu được này ở đây mình sẽ có là gì xem các cái thôi tên
+
+367
+00:28:33,520 --> 00:28:42,940
+tiếp theo mình sẽ đến cái người là giảng viên đúng không
+
+368
+00:28:42,940 --> 00:28:53,200
+biết là giảm viên thôi nhá giảm viên thì có rất là ít chức năng thôi đó là xem danh sách và nhập điểm
+
+369
+00:28:53,200 --> 00:29:02,980
+được không Thì bây giờ mình sẽ có là view roster không mình quên mất đúng rồi quên mất đúng không
+
+370
+00:29:02,980 --> 00:29:09,080
+à không em xem danh sách này
+
+371
+00:29:09,080 --> 00:29:21,160
+mình nghĩ là không cần cho vào đúng nhỉ bởi vì là anh em nhớ cho mình nhé bởi vì cây này mình làm
+
+372
+00:29:21,160 --> 00:29:33,040
+là tối nhất thì ví dụ ở đây nó xem cái này rồi xem thêm hết rồi em sẽ có là đầu tiên là view
+
+373
+00:29:33,040 --> 00:29:37,000
+Android
+
+374
+00:29:37,000 --> 00:29:46,440
+raster tiếp theo là mình sẽ có là giảm viên sẽ có gì đấy nhỉ có là record
+
+375
+00:29:46,440 --> 00:30:16,440
+à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+376
+00:30:16,440 --> 00:30:40,320
+được chưa em Ok thì bây giờ mình viết này nhá đó là gì đầu tiên này xem danh sách đúng không
+
+377
+00:30:40,320 --> 00:30:42,320
+view nó chỉ là
+
+378
+00:30:42,320 --> 00:30:44,320
+letter r
+
+379
+00:30:48,320 --> 00:30:50,320
+đây là gì
+
+380
+00:30:50,320 --> 00:30:52,320
+view
+
+381
+00:30:52,320 --> 00:30:54,320
+view
+
+382
+00:30:54,320 --> 00:30:56,320
+roster
+
+383
+00:30:56,320 --> 00:30:58,320
+view roster
+
+384
+00:30:58,320 --> 00:31:00,320
+user list
+
+385
+00:31:00,320 --> 00:31:02,320
+list
+
+386
+00:31:02,320 --> 00:31:04,320
+student
+
+387
+00:31:04,320 --> 00:31:09,940
+em rồi
+
+388
+00:31:09,940 --> 00:31:25,000
+có cái này anh em nhé tiếp nhau là mình sẽ có là record với input giờ bí thơ
+
+389
+00:31:25,000 --> 00:31:37,380
+em final great của anh em nó còn này là gì công bố điểm không thì là chỉ cần căm công bố điểm
+
+390
+00:31:37,380 --> 00:31:47,740
+thôi là pháp lý great trên nhà thấy rồi chí này Ok xong mày làm mình đã xử lý xong cái
+
+391
+00:31:47,740 --> 00:32:00,760
+đúng không tiếp theo là thằng này chưa khá là mất thời gian đấy Ok thì thằng này mình sẽ xử lý như
+
+392
+00:32:00,760 --> 00:32:08,920
+thế nào anh em để ý cho mình này ở đây thì nó có những vai trò gì quản lý tài khoản này cấu
+
+393
+00:32:08,920 --> 00:32:16,480
+hình này chứ nhầm nhầm quản lý thì có biểu này chỉ tiêu hóa học này và phê duyệt các cái trường hợp
+
+394
+00:32:16,480 --> 00:32:27,520
+thì đầu tiên là gì đầu tiên thì chắc đắn rồi quản lý có hiểu 3D hay một sức có anh em mấy
+
+395
+00:32:27,520 --> 00:32:33,760
+thằng này bộ thì đây mình sẽ có gì đây mình sẽ có là nó sẽ có thể là tao này có quản lý
+
+396
+00:32:33,760 --> 00:32:47,320
+tạo là một này update này nó có biểu tham thiên một bữa trưa anh em nó Ok Nói chung là có thể
+
+397
+00:32:47,320 --> 00:32:59,020
+ít phải chưa tiếp nhau quản lý thử có biểu này sau đó thì là nó sẽ có thể là cấu hình cái này
+
+398
+00:32:59,020 --> 00:33:10,360
+nó sẽ có thể là nó đang trên này nó có một cái open open và close cái registration cái registration
+
+399
+00:33:10,360 --> 00:33:15,700
+Windows ấy nghĩa là có thể đóng và mở với cửa sổ đăng ký để chơi nhau thì nghĩa là mình sẽ có thể
+
+400
+00:33:15,700 --> 00:33:24,220
+kênh
+
+401
+00:33:24,220 --> 00:33:29,200
+Windows cửa sổ đăng ký để chơi nhắn thì nó có thể mở hoặc đóng mà
+
+402
+00:33:29,200 --> 00:33:39,820
+Ừ thì đây mình sẽ có thể để là còn trâu open and close
+
+403
+00:33:39,820 --> 00:33:52,120
+Thế thôi mình biết đơn giản với em nhé không cần cầu kỳ chơi nha 11 đủ ý là sao tiếp theo
+
+404
+00:33:52,120 --> 00:33:59,360
+mình sẽ có cái gì nhỉ hết rồi anh em ạ tiếp theo là mình không còn cái duyệt nữa đúng không thì
+
+405
+00:33:59,360 --> 00:34:21,620
+mình sẽ có là ở cô à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+406
+00:34:22,120 --> 00:34:27,820
+phê duyệt cái này phê duyệt toàn bộ đúng không anh em phê duyệt các cái trường hợp ngoại lệ đúng không
+
+407
+00:34:27,820 --> 00:34:38,260
+thì cái này thì vẫn là thuộc cái này đúng không anh ạ đó ok thì cái phê duyệt này thì nó sẽ làm gì
+
+408
+00:34:38,260 --> 00:34:48,520
+thì cái này nó sẽ là nó sẽ duyệt thủ công đúng không các cái cây đặc biệt anh em có cho là duyệt
+
+409
+00:34:48,520 --> 00:35:04,640
+cho việc thủ công và mình sẽ cho là để thủ công cái gì nhỉ mình cứ cho là ở khu
+
+410
+00:35:04,640 --> 00:35:09,460
+space cây
+
+411
+00:35:09,460 --> 00:35:22,720
+Ok đấy để này thôi em nhé tiếp theo nữa thì chắc chắn rồi đó là gì nhỉ Đó là báo cáo của
+
+412
+00:35:22,720 --> 00:35:35,960
+anh em thì cái này nó sẽ nằm trong cái system rồi nó đây mà chơi nhé à à à à à à à à à à à à à à à
+
+413
+00:35:35,960 --> 00:35:43,460
+đó là à quên quên nhấc nhầm nhầm nhầm anh em nhé vẫn chưa xong cái này là chưa xong anh em nhé
+
+414
+00:35:43,460 --> 00:35:51,260
+bởi vì đây anh em nhìn nhé cái này đến tận đây này anh em nhé em này đây là trường hợp ngoại lệ
+
+415
+00:35:51,260 --> 00:35:57,560
+rồi nhá Thực ra cái này anh em có thể có có thể không đều được rồi chứ nhé Nhưng mà ở đây nó cho
+
+416
+00:35:57,560 --> 00:36:03,020
+thế rồi thì mình vẫn cho hết vào anh em nhé Ok thì em nhìn này em nhìn cho mình nhé em này Zen
+
+417
+00:36:03,020 --> 00:36:05,440
+cái này nó là một use case
+
+418
+00:36:05,440 --> 00:36:06,960
+đúng không? thì cái này nó là gì?
+
+419
+00:36:07,420 --> 00:36:09,080
+nó là generate report
+
+420
+00:36:09,080 --> 00:36:11,280
+đúng không? bởi vì là nó sẽ có là
+
+421
+00:36:11,280 --> 00:36:13,520
+cái report của việc là tham gia
+
+422
+00:36:13,520 --> 00:36:14,520
+và phân phối điểm đúng không?
+
+423
+00:36:14,800 --> 00:36:16,640
+thì bây giờ mình sẽ cho là generate report
+
+424
+00:36:16,640 --> 00:36:19,140
+nó sẽ là 12 này
+
+425
+00:36:19,140 --> 00:36:20,680
+generate
+
+426
+00:36:20,680 --> 00:36:22,640
+report
+
+427
+00:36:22,640 --> 00:36:24,600
+đúng không anh em?
+
+428
+00:36:25,020 --> 00:36:26,920
+thì cái này nó sẽ thuộc vào vẫn là cái này
+
+429
+00:36:26,920 --> 00:36:28,980
+đó ok
+
+430
+00:36:28,980 --> 00:36:30,800
+thì cái này nó sẽ chỉ là
+
+431
+00:36:30,800 --> 00:36:40,820
+thống kê đăng ký thôi đúng không thì nó sẽ là export export này registration này
+
+432
+00:36:40,820 --> 00:36:46,300
+and phân phối điểm đúng không
+
+433
+00:36:46,300 --> 00:36:52,760
+distribution ok
+
+434
+00:36:52,760 --> 00:37:04,580
+à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+435
+00:37:04,580 --> 00:37:09,620
+mình sẽ có cái gì đây system admin đúng không thì mình sẽ có là quản lý tài khoản đúng không
+
+436
+00:37:09,620 --> 00:37:21,740
+Chắc chắn rồi thì mình sẽ phải có là mẹ đi đúng không user account đúng anh em thì ở đây thì mình
+
+437
+00:37:21,740 --> 00:37:37,580
+cái này là cái xếp tầm áp nhìn nó nó quen mồm đọc không Ok thì đây nhá Ở đây thì mình sẽ có cái gì
+
+438
+00:37:37,580 --> 00:37:45,140
+thì ở đây mình sẽ quản lý tài khoản thì chắc chắn rồi thì đó là mình sẽ chỉ là cái quản lý tài khoản
+
+439
+00:37:45,140 --> 00:37:52,520
+chưa đâu xem trên này nó ghi như nào thì mình sẽ ghi nguyên như thế không bởi vì là quản lý tài
+
+440
+00:37:52,520 --> 00:37:57,860
+khoản thì nó chỉ quản lý của tài khoản không đấy nó chỉ thế này không có quản lý tài khoản thì nó
+
+441
+00:37:57,860 --> 00:38:10,700
+là quản lý tài khoản trên nha Ok thế đâu tiếp theo cái 14 này có 14 thì sao 14 thì là mình sẽ có là
+
+442
+00:38:10,700 --> 00:38:18,260
+cái cuối cùng hết rồi cái này thì có mỗi cái quản lý tài khoản rồi mấy cái này thì không cần anh em
+
+443
+00:38:18,260 --> 00:38:22,820
+nhá Tại vì mấy cái này nằm trong tài khoản hết rồi đúng không cấu hình hệ thống hay là backup
+
+444
+00:38:22,820 --> 00:38:33,140
+dữ liệu thì nó vẫn thế thôi thôi nha thì chỉ có mỗi là đến cái cuối nhá cái này có cái gì thì
+
+445
+00:38:33,140 --> 00:38:39,820
+chắc chắn rồi nó có một cái thôi đó là gửi đi thông báo tự động đúng không thì mình sẽ chỉ cần
+
+446
+00:38:39,820 --> 00:38:57,640
+gọi với là cái này nó là xem auto nội dung xe tải xe chơi nhạc rồi nó bán tự động thôi
+
+447
+00:38:57,640 --> 00:39:14,120
+cái này thì nó chỉ là send email email ví dụ như bạn gọi email email còn phụ có thế rồi ok
+
+448
+00:39:14,120 --> 00:39:22,600
+nhé Thì đấy là 14g cây cây nhá Ok vậy là mình đã xử lý xong cái này nó anh em ở đây mình sẽ xử lý
+
+449
+00:39:22,600 --> 00:39:28,100
+ở đây thì nó sẽ tiếp theo này nó bảo mình làm vĩ cái này đúng không anh em đó
+
+450
+00:39:28,100 --> 00:39:35,980
+ra này nó nghe thì bây giờ mình xem gì đó là bây giờ mình sẽ là vào đây này
+
+451
+00:39:35,980 --> 00:39:48,040
+anh em tùy anh em nhé Nếu mà anh em nào mà dùng bất cứ phần mềm nào cũng được anh em nhé Đây mình
+
+452
+00:39:48,040 --> 00:39:52,600
+dưới hạn anh em nói chung là mình tải một lúc nhiều phần mềm lắm cho nên là tùy anh em nói chung
+
+453
+00:39:52,600 --> 00:39:58,300
+là tùy anh em cái này thì mình đang dùng là Star ML nhá đó thì nếu mà anh em vào này anh em bấm cho
+
+454
+00:39:58,300 --> 00:40:04,540
+mình vào Model này Add diagram này chọn cho mình use case diagram này đó sau đó thì bước đầu tiên
+
+455
+00:40:04,540 --> 00:40:08,680
+nhá anh em làm đúng cho mình ba bước đầu tiên này cái đầu tiên là vào phát anh em phải làm cho mình
+
+456
+00:40:08,680 --> 00:40:15,340
+như sau thứ nhất là anh em sẽ chọn cho mình là use case subject này đấy cái này nó chính là cái gì anh
+
+457
+00:40:15,340 --> 00:40:27,520
+anh em biết đâu Chính là cái gì nhỉ bao nhiêu lý system nhá thì ở đây nhá mình sẽ là cái chữ nhật
+
+458
+00:40:27,520 --> 00:40:31,540
+cái này mình đã nói đi trước với anh em từ trước rồi đúng không Thì bây giờ nhớ anh em bấm cho mình
+
+459
+00:40:31,540 --> 00:40:41,860
+vào đây này em lên đây nhá đầu tiên là cái tên nó gọi đây này tin đây này chưa điện thoại mà anh em
+
+460
+00:40:41,860 --> 00:41:01,900
+anh em sẽ lấy cho mình đây em bấm đây cho mình nhá đó là cái x tờ đúng không x tờ thì bây giờ mình đang
+
+461
+00:41:01,900 --> 00:41:06,280
+1, 2, 3, 4, 5
+
+462
+00:41:06,280 --> 00:41:07,760
+Để xem anh em
+
+463
+00:41:07,760 --> 00:41:17,460
+Lại tiếu 1
+
+464
+00:41:17,460 --> 00:41:20,520
+Ok đây, mình nhấp ở đây nhé
+
+465
+00:41:20,520 --> 00:41:21,900
+Sau đó thì anh em đặt tên cho mình
+
+466
+00:41:24,480 --> 00:41:26,400
+Để 2 pin này cho dễ nhìn nhé anh em nhé
+
+467
+00:41:26,400 --> 00:41:28,140
+Ok, đó, 5
+
+468
+00:41:28,140 --> 00:41:30,460
+Thì bây giờ mình sẽ copy tên của mấy thằng ấy vào đây
+
+469
+00:41:30,460 --> 00:41:32,040
+thằng nhất là Steven đó
+
+470
+00:41:32,040 --> 00:41:36,360
+ok thứ 2 này
+
+471
+00:41:36,360 --> 00:41:38,220
+copy đi nhỏ nhảy
+
+472
+00:41:38,220 --> 00:41:42,860
+3 là
+
+473
+00:41:42,860 --> 00:41:50,080
+nói chung là anh em vào anh em cứ làm y như mình nhá
+
+474
+00:41:50,080 --> 00:41:51,720
+bước đầu tiên đừng nghĩ nhiều
+
+475
+00:41:51,720 --> 00:41:53,880
+đó là mình sẽ phải lấy hết ra đã
+
+476
+00:41:53,880 --> 00:41:55,160
+sau đó mình tính sau
+
+477
+00:41:55,160 --> 00:41:57,100
+ok 5
+
+478
+00:41:57,100 --> 00:41:58,880
+nhưng mà cái này cực kỳ đặc biệt anh em
+
+479
+00:41:58,880 --> 00:42:00,160
+này
+
+480
+00:42:00,460 --> 00:42:01,780
+Cái này cực kì lưu ý cho mình nhé
+
+481
+00:42:01,780 --> 00:42:03,440
+Cái x tờ này nhé
+
+482
+00:42:03,440 --> 00:42:05,500
+Nó là cái x tờ phụ
+
+483
+00:42:05,500 --> 00:42:06,280
+Đúng không?
+
+484
+00:42:06,680 --> 00:42:07,660
+Thì anh em phải thêm cho mình
+
+485
+00:42:07,660 --> 00:42:15,700
+Anh em phải thêm cho mình nhé
+
+486
+00:42:15,700 --> 00:42:16,760
+Đó là
+
+487
+00:42:30,460 --> 00:42:38,200
+dưới nhé mình sẽ bạn mình mới dùng cái này mình
+
+488
+00:42:38,200 --> 00:42:48,760
+còn anh em nhớ anh em chờ mình một chút để mình nghiên cứu lại một chút
+
+489
+00:43:18,760 --> 00:43:33,940
+cho nó đi tôi biết mà luôn đi Ok đấy thì anh nha Ok đó thì tiếp theo mình sẽ có là cái gì đây biết
+
+490
+00:43:33,940 --> 00:43:39,820
+cái gì cây và anh em nhé Đây mình sẽ có 1 2 14 cái đúng không nha Nó bảo là ít nhất là 8 mà thì
+
+491
+00:43:39,820 --> 00:43:50,680
+cho 14 cái trên nha thì 14 cái này mình sẽ cho cái gì em bấm vào đây cho mình này cho mình 14
+
+492
+00:43:50,680 --> 00:44:12,220
+ra một hai này chết bóng nhỏ một này hai này ba này bốn này năm sáu bảy tám chín người 11 12 13 14
+
+493
+00:44:12,220 --> 00:44:16,460
+Ừ ok chơi nha cứ thêm như thế đã được chưa sau đó thì mình bắt đầu như hết
+
+494
+00:44:16,460 --> 00:44:26,900
+vào thì cho anh em anh em cứ đi hết là cho mình đã thì đây ạ Út sạch và cho mình một ngày à
+
+495
+00:44:26,900 --> 00:44:30,080
+2 này
+
+496
+00:44:30,080 --> 00:44:46,780
+rồi rồi bước này anh em cứ làm cho mình ba bước đầu tiên thì anh em cứ làm đơn giản này cho mình
+
+497
+00:44:46,780 --> 00:44:48,180
+3
+
+498
+00:44:48,180 --> 00:44:56,040
+4
+
+499
+00:44:56,040 --> 00:45:01,960
+5
+
+500
+00:45:16,780 --> 00:45:45,640
+Ok mình đang phải cân nó nào làm sao để cho nó đẹp nhất anh em nhé
+
+501
+00:45:45,640 --> 00:45:47,820
+chồng anh nhau
+
+502
+00:45:47,820 --> 00:45:53,460
+đẩy này sang đây
+
+503
+00:45:53,460 --> 00:46:05,400
+dễ bởi vì hai cái kia một chiếc hơi nhiều Ok Ok Đây là không Cái này thì
+
+504
+00:46:05,400 --> 00:46:12,820
+mình sẽ nhắc sang đây để này nó đẹp anh em nhé cho nó dễ nhìn em ạ à
+
+505
+00:46:15,640 --> 00:46:41,980
+Ok hiện tại mình đang để tạm như này đã ok à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+506
+00:46:45,640 --> 00:47:03,760
+Ok xong đó thì nha bước đầu tiên xong vậy thì bây giờ anh em bắt đầu vào này đầu tiên là anh
+
+507
+00:47:03,760 --> 00:47:10,000
+em sử dụng cái xong xin tết trên đồng cái association này thì bây giờ anh em bấm vào
+
+508
+00:47:10,000 --> 00:47:28,240
+anh em với cái nào thì em sẽ nói cái đấy sẽ nhau à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+509
+00:47:28,240 --> 00:47:58,220
+à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+510
+00:47:58,220 --> 00:48:06,500
+Ok mình để này trong việc anh em nhé
+
+511
+00:48:06,500 --> 00:48:18,320
+Ok thế này nó không bị trồng lên nhau anh nhỏ Ok tiếp theo này anh em cứ làm như mình thôi
+
+512
+00:48:18,320 --> 00:48:38,140
+anh vào anh em cứ giã này cho mình à à Ừ ok 3 này cả nhà đúng rồi đúng rồi mấy cái này thì một thôi
+
+513
+00:48:38,140 --> 00:48:49,120
+rồi nha đó sao thì xinh nha bây giờ bố này nó xong có như vậy là anh em đã xong rất là nhiều
+
+514
+00:48:49,120 --> 00:48:54,640
+người em nhá anh em đã gần như là xong gần xong rồi thì xinh nha bây bước tiếp theo là anh em sẽ
+
+515
+00:48:54,640 --> 00:49:00,640
+xác định cái quan hệ nó là xong rồi xinh nha đó như là quan hệ của nó mình sẽ xử lý như nào thì
+
+516
+00:49:00,640 --> 00:49:07,360
+đó là mình sẽ xử lý cái in lúc và cái xe nói nha thì mình sẽ xử lý in lúc và xe như nào thì ở đây
+
+517
+00:49:07,360 --> 00:49:23,260
+mình sẽ có là cái lúc thì Ừ ok em mình tiếp tục nhá Nãy mình lại có người gọi Ok Ok thì bây giờ nhá
+
+518
+00:49:23,260 --> 00:49:28,900
+mình đang nói đâu nhỉ Bây giờ là cái quan hệ đúng anh em thì mình sẽ là mình sẽ có cái quan hệ là
+
+519
+00:49:28,900 --> 00:49:35,200
+include và xe nó không bị đánh hướng dẫn anh em trong phần lý thuyết rồi include là khi nào đó
+
+520
+00:49:35,200 --> 00:49:45,460
+là ví dụ mình nói luôn trong bài này ví dụ như là cái UK3 này đúng không là cái gì Cái này là cái này
+
+521
+00:49:45,460 --> 00:49:55,360
+là cái này là sắp mít sắp mít registration đúng không thì cái này là cái khi mà sinh viên gửi đi
+
+522
+00:49:55,360 --> 00:50:03,220
+cái yêu cầu đăng ký đúng không gửi yêu cầu đăng ký thì nó sẽ thế nào mỗi một lần mà để cái này trước
+
+523
+00:50:03,220 --> 00:50:05,660
+Mỗi khi mà sinh viên đột đơn đăng ký
+
+524
+00:50:05,660 --> 00:50:07,360
+Thì hệ thống sẽ phải làm gì nhỉ
+
+525
+00:50:07,360 --> 00:50:10,160
+Thì hệ thống sẽ luôn luôn bắt buộc
+
+526
+00:50:10,160 --> 00:50:12,100
+Phải là kiểm tra điều kiện
+
+527
+00:50:12,100 --> 00:50:13,420
+Tiên quyết đúng không
+
+528
+00:50:13,420 --> 00:50:14,440
+Đây này anh em nhé
+
+529
+00:50:14,440 --> 00:50:16,860
+Đó đây này
+
+530
+00:50:16,860 --> 00:50:18,120
+Mình sẽ kéo này ra đây một chút
+
+531
+00:50:18,120 --> 00:50:21,840
+Và mình sẽ kéo này ra đây một chút
+
+532
+00:50:29,060 --> 00:50:29,420
+Đó
+
+533
+00:50:29,420 --> 00:50:31,240
+Mình sẽ kéo thẳng ra đây cho anh em thấy nhìn này
+
+534
+00:50:31,240 --> 00:50:32,060
+Đó
+
+535
+00:50:32,060 --> 00:50:34,160
+Thì đầu tiên nhá
+
+536
+00:50:34,160 --> 00:50:37,040
+Thì khi mà sinh viên gửi cái này đi
+
+537
+00:50:37,040 --> 00:50:38,300
+Gửi yêu cầu này đi đúng không
+
+538
+00:50:38,300 --> 00:50:40,760
+Thì nó sẽ làm mỗi khi mà gửi cái này
+
+539
+00:50:40,760 --> 00:50:41,620
+Thì nó phải check cái này
+
+540
+00:50:41,620 --> 00:50:42,720
+Đúng không
+
+541
+00:50:42,720 --> 00:50:44,660
+Đó chính vì vậy
+
+542
+00:50:44,660 --> 00:50:45,720
+Cái này gửi đi
+
+543
+00:50:45,720 --> 00:50:46,760
+Thì check cái này
+
+544
+00:50:46,760 --> 00:50:48,220
+Hành vi này nó luôn xảy ra
+
+545
+00:50:48,220 --> 00:50:49,620
+Không thể bỏ qua đúng không
+
+546
+00:50:49,620 --> 00:50:51,440
+Nghĩa là gửi cái này thì phải check cái này
+
+547
+00:50:51,440 --> 00:50:53,920
+Đấy là điều mà chắc chắn nó luôn luôn xảy ra đúng không
+
+548
+00:50:53,920 --> 00:50:56,060
+Như mình đã hướng dẫn anh em ở trong kỹ thuyết rồi
+
+549
+00:50:56,060 --> 00:50:57,180
+Đó đúng không
+
+550
+00:50:57,180 --> 00:50:59,760
+Nó luôn luôn thế nào đấy đúng không
+
+551
+00:50:59,760 --> 00:51:01,600
+Buộc phải kiểm tra thế nào đấy
+
+552
+00:51:01,600 --> 00:51:07,780
+anh em nó tương tự như mình bái đăng ký môn học thì bắt buộc là phải trước phải phải đăng nhập đúng không
+
+553
+00:51:07,780 --> 00:51:14,140
+phải login thì bây giờ cái này tương tự như vậy để mà gửi được cái request này thì phải check cái này
+
+554
+00:51:14,140 --> 00:51:21,280
+đúng không thì đây nó chính là include đúng không anh em thì nó chính là đây bấm vào include này
+
+555
+00:51:21,280 --> 00:51:32,380
+nhớ từ đây sang đây được xin nhé Đó ok chưa đó Vậy là anh em đã xử lý xong với quan hệ nhá tiếp
+
+556
+00:51:32,380 --> 00:51:36,820
+theo này cái in của lúc đã bắt buộc đúng không thì đây là bắt buộc rồi chứ chưa đấy là giải
+
+557
+00:51:36,820 --> 00:51:49,720
+quyết xong cái gì đâu Cái đầu tiên của đề nhắc đây này lúc từ chưa đó Ok cho anh em đó thì tiếp theo
+
+558
+00:51:51,280 --> 00:51:53,460
+tiếp theo này
+
+559
+00:51:53,460 --> 00:51:55,500
+mình sẽ có cái gì
+
+560
+00:51:55,500 --> 00:51:57,480
+tiếp theo là mình sẽ có là
+
+561
+00:51:57,480 --> 00:51:58,640
+xten đúng không
+
+562
+00:51:58,640 --> 00:52:01,420
+thì bây giờ nếu mà xten đúng không thì mình sẽ có cái gì
+
+563
+00:52:01,420 --> 00:52:02,660
+rất đơn giản thôi
+
+564
+00:52:02,660 --> 00:52:04,720
+xten là điều kiện đúng không
+
+565
+00:52:04,720 --> 00:52:06,840
+là hành vi mà kiểu mở rộng có điều kiện
+
+566
+00:52:06,840 --> 00:52:09,160
+không phải lúc nào cũng xảy ra
+
+567
+00:52:09,160 --> 00:52:09,860
+được chưa anh em
+
+568
+00:52:09,860 --> 00:52:11,660
+mở rộng có điều kiện
+
+569
+00:52:11,660 --> 00:52:12,600
+thì nghĩa là sao
+
+570
+00:52:12,600 --> 00:52:15,360
+nếu mà lớp gửi cái này đi này
+
+571
+00:52:15,360 --> 00:52:16,700
+lớp mà lại đầy
+
+572
+00:52:16,700 --> 00:52:19,020
+mình kéo nhỏ này lại
+
+573
+00:52:19,020 --> 00:52:21,120
+kéo này thì cái này tí nữa
+
+574
+00:52:21,120 --> 00:52:27,600
+đúng không phải khi mà lớp đời đúng không đó thì nó sẽ nhắm sinh viên vào trong danh khách trở đúng
+
+575
+00:52:27,600 --> 00:52:34,140
+không nó vậy thì cái này nó chính là cái điều kiện này mở rộng này thì đây nó sẽ lấy xe này
+
+576
+00:52:34,140 --> 00:52:51,640
+nó kia chưa à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+577
+00:52:51,640 --> 00:53:05,380
+là từ cái xe này thì cái này ở trên bấm nhầm đây em nhá mình sẽ phải nói đây đó như này đứng nguyên
+
+578
+00:53:05,380 --> 00:53:11,740
+nhau đó thì cái này nó sẽ là gì nó sẽ là cái y4 này xe thế này như là chỉ khi khoa học mà đầy
+
+579
+00:53:11,740 --> 00:53:19,660
+chỉ tiêu không có nghĩa là khi mà đầy chỉ khi mà không có đầy đúng không thì mới có thể là vào được
+
+580
+00:53:19,660 --> 00:53:31,780
+này ở trên nha đó nhớ cho mình nhá Ừ ok rồi đó Vậy thì là cái này nói tên đúng không thì còn
+
+581
+00:53:31,780 --> 00:53:38,680
+một cái nữa nữa này thì là cái nằm trên này rồi xin nghe cái này chưa Thì cái này nó sẽ xảy ra
+
+582
+00:53:38,680 --> 00:53:46,180
+khi nào nó nghe thì chắc chắn rồi anh em nhìn anh em đọc cái này chỗ gửi thông báo tự động này đây
+
+583
+00:53:46,180 --> 00:54:02,260
+đây nhé đây khi mà lúc lúc đầy nhắm vào danh sách chờ này sau đó thì sao thì khi mà cái thằng này
+
+584
+00:54:02,260 --> 00:54:11,500
+mà được thấy vào lớp này thì sẽ hệ thống sẽ auto thông báo đúng không và tự động cho cái thằng này
+
+585
+00:54:11,500 --> 00:54:18,400
+cái danh sách đó thì cái này nhá nó phải liên quan anh em nhìn này nhá thì em có phải thấy nó liên
+
+586
+00:54:18,400 --> 00:54:25,420
+quan là từ cái thằng này không với cái thằng thằng quên đi theo thì cái là sao khi mà có chú chống ấy
+
+587
+00:54:25,420 --> 00:54:31,780
+thì thế nào hệ thống tự động thông báo cho thằng sinh viên trong danh sách trong sinh viên đầu danh
+
+588
+00:54:31,780 --> 00:54:39,820
+sách đúng không đó thì có phải là mình sẽ có mình sẽ có là từ thằng này mình sẽ có lại tên với cái
+
+589
+00:54:39,820 --> 00:54:40,440
+Đó, đây này
+
+590
+00:54:40,440 --> 00:54:47,500
+Đó, ok chứ anh em
+
+591
+00:54:47,500 --> 00:54:49,260
+Đó, đó là mình quan hệ nha
+
+592
+00:54:49,260 --> 00:54:50,220
+Đó
+
+593
+00:54:50,220 --> 00:54:53,460
+Ok chứ anh em
+
+594
+00:54:53,460 --> 00:54:55,180
+Đấy chưa, đó
+
+595
+00:54:55,180 --> 00:54:57,480
+Thì ở đây
+
+596
+00:54:57,480 --> 00:54:58,840
+Cái này thì
+
+597
+00:54:58,840 --> 00:55:01,660
+Ok, xong rồi
+
+598
+00:55:01,660 --> 00:55:03,880
+Đó, thì bây giờ mình sẽ
+
+599
+00:55:03,880 --> 00:55:05,480
+Nhìn qua lại một chút
+
+600
+00:55:05,480 --> 00:55:08,000
+Ok, anh em lại chờ một chút
+
+601
+00:55:08,000 --> 00:55:10,620
+Ok mình sẽ tiếp tục nói anh em nhé
+
+602
+00:55:10,620 --> 00:55:12,140
+Mình cứ bị gián đoạn anh em ạ
+
+603
+00:55:12,140 --> 00:55:14,840
+Ok vậy là bài này như này là coi như là xong anh em nhé
+
+604
+00:55:14,840 --> 00:55:16,620
+Bài này đến đây là xong anh em nhé
+
+605
+00:55:16,620 --> 00:55:17,960
+Bởi vì sao mình nói vậy
+
+606
+00:55:17,960 --> 00:55:19,220
+Thực ra bài này ấy
+
+607
+00:55:19,220 --> 00:55:21,820
+Khi mà mình đọc đề anh em ạ
+
+608
+00:55:21,820 --> 00:55:23,700
+Thì bài này khi mà đọc đề ấy
+
+609
+00:55:23,700 --> 00:55:24,860
+Mình không thấy có chỗ nào ấy
+
+610
+00:55:24,860 --> 00:55:25,920
+Nó nói về việc là
+
+611
+00:55:25,920 --> 00:55:28,300
+Là có một cái thằng nào đấy
+
+612
+00:55:28,300 --> 00:55:29,260
+Bao hết
+
+613
+00:55:29,260 --> 00:55:31,060
+Nghĩa là nó sẽ không có cái
+
+614
+00:55:31,060 --> 00:55:32,560
+Generalization
+
+615
+00:55:32,560 --> 00:55:34,000
+Nghĩa là cái kế thừa anh em nhé
+
+616
+00:55:34,000 --> 00:55:35,420
+Bởi vì sao mình nói vậy
+
+617
+00:55:35,420 --> 00:55:36,280
+Bởi vì là
+
+618
+00:55:36,280 --> 00:55:38,220
+nếu mà bình thường ấy
+
+619
+00:55:38,220 --> 00:55:39,860
+thì anh em nhìn nhá
+
+620
+00:55:39,860 --> 00:55:42,800
+nếu mà chỗ này mà dùng
+
+621
+00:55:42,800 --> 00:55:43,820
+để vẽ cái
+
+622
+00:55:43,820 --> 00:55:46,740
+generalization cũng được thôi
+
+623
+00:55:46,740 --> 00:55:47,820
+bởi vì là cái thằng system
+
+624
+00:55:47,820 --> 00:55:49,040
+administrator
+
+625
+00:55:49,040 --> 00:55:51,760
+administrator này này
+
+626
+00:55:51,760 --> 00:55:54,280
+thì nó thế nào? thì nó lại có cái là
+
+627
+00:55:54,280 --> 00:55:55,940
+quản lý tất cả các tài khoản user
+
+628
+00:55:55,940 --> 00:55:58,880
+nếu mà thằng này có thể quản lý tất cả tài khoản user
+
+629
+00:55:58,880 --> 00:56:00,300
+thì lại
+
+630
+00:56:00,300 --> 00:56:02,220
+nó cũng không rõ lắm
+
+631
+00:56:02,220 --> 00:56:03,600
+nói chung là cái này ấy
+
+632
+00:56:03,600 --> 00:56:05,740
+thì thường là nếu mà để có cái
+
+633
+00:56:05,740 --> 00:56:08,320
+Nếu mà có thể nhá
+
+634
+00:56:08,320 --> 00:56:09,860
+Có thể nó sẽ như này anh em nhá
+
+635
+00:56:09,860 --> 00:56:11,260
+Nó sẽ là cái thằng
+
+636
+00:56:11,260 --> 00:56:14,860
+Thằng sinh viên và giảng viên này
+
+637
+00:56:14,860 --> 00:56:16,360
+Nó sẽ đều là con
+
+638
+00:56:16,360 --> 00:56:18,360
+Và cả thằng này nữa đều là con của
+
+639
+00:56:18,360 --> 00:56:19,280
+Cái thằng này
+
+640
+00:56:19,280 --> 00:56:20,640
+Được chứ anh em
+
+641
+00:56:20,640 --> 00:56:22,600
+Thì lúc đấy mình sẽ vẽ được cái kế thừa
+
+642
+00:56:22,600 --> 00:56:25,080
+Tuy nhiên thì bài này nó cũng không bảo bắt buộc
+
+643
+00:56:25,080 --> 00:56:27,580
+Cho nên là mình cũng không cần vẽ vào thêm anh em nhá
+
+644
+00:56:27,580 --> 00:56:29,920
+Cái này nó không bắt buộc nên là mình chả vẽ thêm
+
+645
+00:56:29,920 --> 00:56:31,640
+Mà chính trong coserai anh em nhá
+
+646
+00:56:31,640 --> 00:56:32,620
+Nó cũng không bắt buộc
+
+647
+00:56:32,620 --> 00:56:33,520
+Được chứ anh em
+
+648
+00:56:33,520 --> 00:56:35,460
+thì thường ấy, nếu mà để cho nó
+
+649
+00:56:35,460 --> 00:56:37,440
+mà chắc chắn nhất ấy, thì là mình sẽ
+
+650
+00:56:37,440 --> 00:56:39,140
+có thêm một cái tờ nữa ở đây này
+
+651
+00:56:39,140 --> 00:56:40,780
+mình sẽ đặt nó là
+
+652
+00:56:40,780 --> 00:56:41,520
+regist
+
+653
+00:56:41,520 --> 00:56:43,420
+đây này
+
+654
+00:56:43,420 --> 00:56:46,940
+nhưng mà lúc mình nói với anh em
+
+655
+00:56:46,940 --> 00:56:47,740
+cái
+
+656
+00:56:47,740 --> 00:56:49,840
+cái lý thuyết ấy
+
+657
+00:56:49,840 --> 00:56:53,400
+thì ví dụ mình để như này
+
+658
+00:56:53,400 --> 00:56:55,820
+thì tất cả mấy thằng này
+
+659
+00:56:55,820 --> 00:56:56,840
+đều là con của thằng này
+
+660
+00:56:56,840 --> 00:56:59,580
+tất cả mấy thằng này là con của thằng này
+
+661
+00:56:59,580 --> 00:57:01,500
+và thằng này nó sẽ đập vào cái login
+
+662
+00:57:01,500 --> 00:57:03,040
+nhưng mà ở đây nó không có cái login
+
+663
+00:57:03,040 --> 00:57:09,040
+là gì thì trên nha trên là không cần thiết trên nha đó nói chung là bài này không cần thiết được
+
+664
+00:57:09,040 --> 00:57:13,480
+chưa Và như trong có sẽ là nó cũng không cần tiết cho nên là mình không nói nhiều vì cái này
+
+665
+00:57:13,480 --> 00:57:17,320
+với anh em nhé Và bây giờ để anh em chắc chắn hiểu lại một lần nữa mình sẽ nói cho anh em quan
+
+666
+00:57:17,320 --> 00:57:22,900
+hệ bởi vì có lẽ là cái khó nhất là cái quan hệ thôi Ok thì chỗ này nó sẽ như này em nhé Thì bây
+
+667
+00:57:22,900 --> 00:57:26,860
+giờ nhé ví dụ đang như này không ạ Bây giờ mình xóa bọn mình mình nói lại mà thôi chả xóa nữa
+
+668
+00:57:26,860 --> 00:57:33,520
+cái này đi nào bây giờ nhá anh em nhìn này anh em nhớ cho mình này in cơ lúc là gì là là bao gồm nó
+
+669
+00:57:33,520 --> 00:57:41,740
+không anh em thêm dài nhập nhớ cho mình như này nhá là gì đó là khi mà mình sắp biết đúng không
+
+670
+00:57:41,740 --> 00:57:50,920
+nó thì luôn luôn phải trách cái này thì mới gửi đi được rồi xin em anh em nhớ cho mình nhá để mà gửi
+
+671
+00:57:50,920 --> 00:57:59,020
+cái cái quét này có gửi được cái đăng ký này thì phải kiểm tra điều kiện được chưa đó thì nghĩa là
+
+672
+00:57:59,020 --> 00:58:04,180
+cái thằng này gọi thằng này được xin nhé mà gọi thì là mình sẽ nhắm mũi tên về đây nhớ cho mình
+
+673
+00:58:04,180 --> 00:58:11,140
+nhé để mà gửi được cái cái đăng ký này thì phải gọi thằng này chết cho nên mình dùng in cân lút
+
+674
+00:58:11,140 --> 00:58:17,920
+thì luôn luôn phải gọi thằng này chết được chưa đó thì nghĩa là bao gồm mà thì nghĩa là sắp biết
+
+675
+00:58:17,920 --> 00:58:24,460
+đồ chơi sẽ bao gồm điều kiện thì mới gửi đi được thì mình sẽ có cái nút vào mũi tên cắm như này đó
+
+676
+00:58:24,460 --> 00:58:29,260
+rồi chưa Đấy là mình cũng luôn nhá quan hệ này tiếp theo là cái này không ạ thì em có nhớ cho
+
+677
+00:58:29,260 --> 00:58:35,440
+mình ít tên không là nó sẽ mở rộng nó mở rộng là nó có điều kiện nó là có hoặc là không như là những
+
+678
+00:58:35,440 --> 00:58:40,900
+điều kiện đấy thì đây có phải là khu lớp thì mình mới có cái thằng à nhớ cho mình nhớ chiều mũi tên
+
+679
+00:58:40,900 --> 00:58:48,160
+cắm lại cây chính như là sao ví dụ nhá Nếu mà không có cái danh sách chờ được chưa thì nó có
+
+680
+00:58:48,160 --> 00:58:54,020
+người đi được không có câu trả lời là có nhá đúng không nó vẫn gửi được yêu cầu hàng gửi được cái
+
+681
+00:58:54,020 --> 00:58:58,600
+đăng ký đi nhưng mà phụ nữ kệ thôi đúng không Nhưng mà bây giờ nó sinh ra cái này để làm gì
+
+682
+00:58:58,600 --> 00:59:05,080
+như là có điều kiện này có hoặc không đúng không thì như là khi mà lớp mà đầy người rồi thì nó nhắm
+
+683
+00:59:05,080 --> 00:59:12,220
+mũi tên được chưa đó và kiếm chiều cũng tên nó luôn trỏ vào cái thằng yêu cây chính là trên em
+
+684
+00:59:12,220 --> 00:59:18,100
+nhớ cho mình nhá và tiếp theo này cái này tương tự như vậy nhá Thì giờ anh em nhìn nó luôn trỏ
+
+685
+00:59:18,100 --> 00:59:22,720
+vào những cái chính nhé mũi tên luôn trỏ mấy cái chính đấy lý do mình nói sao như là bây giờ trong
+
+686
+00:59:22,720 --> 00:59:29,320
+danh sách trời đúng không Nếu mà lớp mà đầy rồi đúng không đó khi mà nó sẽ gửi email tự động mà
+
+687
+00:59:29,320 --> 00:59:33,520
+nó sẽ gửi cho thằng email cho thằng tự đầu tiên tự động gửi email cho thằng đầu tiên đúng không
+
+688
+00:59:33,520 --> 00:59:38,800
+đó thì có phải là có cái này cũng được mà không có cũng chả sao bởi vì nằm trong danh sách trời rồi mà
+
+689
+00:59:39,340 --> 00:59:42,480
+cái việc là người không Nó là nhiều có thể có
+
+690
+00:59:42,940 --> 00:59:44,300
+hoặc không đúng không
+
+691
+00:59:44,300 --> 00:59:48,640
+cho nên là cái thằng yêu cây chính rất là thằng này đúng không Và cái này chỉ là điều kiện mở rộng ra
+
+692
+00:59:48,820 --> 00:59:52,140
+có khi mình dùng ít em và cái mũi tên cắm vào cái yêu cây chính
+
+693
+00:59:52,280 --> 00:59:57,900
+cái trường đó đó là cái này em cần nắm rõ cho mình nhé đó anh em có nhớ cái mẹo gì
+
+694
+00:59:58,580 --> 01:00:02,400
+là nếu mà muốn chất cái gì đấy là đi kèm cái điều kiện bắt buộc
+
+695
+01:00:02,400 --> 01:00:09,000
+Ừ đấy còn nếu mà có cái điều kiện có có không đây này thì mình sẽ dùng ít tên được xây nhau
+
+696
+01:00:09,000 --> 01:00:16,800
+đó Ok đó Vậy thì đấy là cái bài bài này nhá Ừ ok mình sẽ chụp cái này lại này
+
+697
+01:00:16,800 --> 01:00:27,520
+Ok mình sẽ nhắm vào đây cho anh em tham khảo nhé Ok vậy là mình đã hoàn thành xong trên nha
+
+698
+01:00:27,520 --> 01:00:35,560
+Ừ ok vẫn nhìn rõ đó Ok vậy là mình đã hoàn thành xong bài hành nhá Ngoài ra thì còn rất nhiều bài
+
+699
+01:00:35,560 --> 01:00:43,000
+trên nhau đó Ok thì em thích luyện tập nhé Ok bây giờ nhé thì cho mình xin dừng lại đây thôi à
+

@@ -1,0 +1,12 @@
+Tôi đã hoàn thành việc đọc và giải đề thi thật `de1.txt` theo đúng quy trình 4 giai đoạn, dựa trên các khuôn mẫu và checklist trong Rubric.
+
+Bạn có thể xem trực tiếp kết quả trong file đã được tạo ra: [`batch_de1.md`](file:///Users/duongnad/Documents/project/SWE/page/out/batch_de1.md)
+
+**Tóm tắt các yêu cầu bắt buộc đã được xử lý:**
+- **Câu 2:** Đã xác định và nói RÕ RÀNG type là "White-box testing" (Unit level) và "Black-box testing" (Higher levels) ở phần (a).
+- **Câu 3:** Đã trích xuất ĐÚNG số lượng yêu cầu theo chuẩn của đề là 5 Functional requirements, 3 Performance requirements, và 2 Usability requirements.
+- **Câu 4:** Đã viết đủ 5 user story ứng với chức năng ở câu 3, đảm bảo vai trò là con người thực sự ("As a Receptionist", "As a Doctor"...) chứ KHÔNG dùng "As a system".
+- **Câu 5:** Đã chọn và giải thích rõ 2 pattern phù hợp (Observer và Singleton) bám sát các luồng dữ kiện như phát cảnh báo khẩn và chịu tải lớn trong Case Study.
+- **Câu 6:** Sơ đồ Story Map đã được định dạng chuẩn thành 2 phần (A. Activities and User tasks / B. Releases) và trình bày đánh số chuẩn hệ thống EOS. 
+
+Quá trình "Tự chấm" (Giai đoạn 4) cũng đã được in ra trong file và phần bài làm hoàn chỉnh nhất nằm tại mục `## BẢN NỘP`.

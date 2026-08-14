@@ -1,0 +1,1416 @@
+1
+00:00:00,000 --> 00:00:07,120
+Ok, hello anh em nhé. Trong video này mình sẽ hướng dẫn anh em làm câu 1 để anh em có thể ăn chắc câu 1 này nhé.
+
+2
+00:00:07,320 --> 00:00:09,340
+Câu 1 này 2 điểm và nó rất là dễ anh em nhé.
+
+3
+00:00:09,800 --> 00:00:13,340
+Ok, thì ở đây mình đã chuẩn bị sẵn template cho anh em rồi, cho anh em copy luôn.
+
+4
+00:00:13,900 --> 00:00:16,320
+Bởi vì mình nghĩ là thi trên PA thôi anh em ạ.
+
+5
+00:00:16,600 --> 00:00:18,660
+Bởi vì trong này mình thấy trong đề là nó có bài vẽ.
+
+6
+00:00:19,360 --> 00:00:24,040
+Cho nên là nếu mà có bài vẽ thì thường là đi với gã PA cơ.
+
+7
+00:00:24,500 --> 00:00:25,020
+Ok anh em.
+
+8
+00:00:25,020 --> 00:00:28,080
+Ok thì bây giờ nhé
+
+9
+00:00:28,080 --> 00:00:30,740
+Mình sẽ hướng dẫn anh em qua một chút
+
+10
+00:00:30,740 --> 00:00:32,000
+Về lý thuyết nhé
+
+11
+00:00:32,000 --> 00:00:34,620
+Thì trong câu 1 này anh em chỉ cần biết cho mình
+
+12
+00:00:34,620 --> 00:00:35,880
+Hai thứ thôi
+
+13
+00:00:35,880 --> 00:00:37,380
+Về cái
+
+14
+00:00:37,380 --> 00:00:40,540
+Các cái mô hình làm mềm
+
+15
+00:00:40,540 --> 00:00:41,620
+Thiết kế phần mềm này anh em nhé
+
+16
+00:00:41,620 --> 00:00:44,480
+Thì anh em sẽ biết cho mình đúng 2 cái thôi
+
+17
+00:00:44,480 --> 00:00:45,600
+Đó là cái
+
+18
+00:00:45,600 --> 00:00:50,060
+Waterfall và cái
+
+19
+00:00:50,060 --> 00:00:51,740
+Agile anh em nhé
+
+20
+00:00:51,740 --> 00:00:53,560
+Thì mình nói cái này trước
+
+21
+00:00:53,560 --> 00:00:55,000
+Waterfall này
+
+22
+00:00:55,020 --> 00:00:57,980
+Nó là một cái thang nước đúng như cái tên luôn anh em nhé
+
+23
+00:00:57,980 --> 00:01:00,320
+Nó là như một cái thang nước đấy anh em ạ
+
+24
+00:01:00,320 --> 00:01:01,400
+Đây nó như này
+
+25
+00:01:01,400 --> 00:01:03,100
+Đúng không? Ví dụ nhé
+
+26
+00:01:03,100 --> 00:01:04,360
+Thang nước này này
+
+27
+00:01:04,360 --> 00:01:05,760
+Nó sẽ có cái hình như này
+
+28
+00:01:05,760 --> 00:01:08,640
+Ví dụ bây giờ anh em tưởng hiểu là anh em tưởng tượng cái thang nước nhé
+
+29
+00:01:08,640 --> 00:01:10,480
+Nước nó chảy xuống này, đâm xuống này
+
+30
+00:01:10,480 --> 00:01:12,360
+Đấy nước nó chảy từ thác
+
+31
+00:01:12,360 --> 00:01:13,900
+Nó đâm từ trên xuống đúng không?
+
+32
+00:01:14,400 --> 00:01:17,960
+Thì anh em như anh em thấy là nước nó chỉ có thể chảy
+
+33
+00:01:17,960 --> 00:01:19,840
+Xoay dòng từ trên đỉnh này xuống dưới
+
+34
+00:01:19,840 --> 00:01:20,720
+Đúng không?
+
+35
+00:01:21,000 --> 00:01:22,520
+Đấy là đỉnh thác ấy xuống dưới
+
+36
+00:01:22,520 --> 00:01:24,960
+Và nó không thể nước, nó không thể quay lại được lên trên
+
+37
+00:01:24,960 --> 00:01:26,100
+Nó không thể chạy ngược lên trên
+
+38
+00:01:26,100 --> 00:01:26,900
+Đúng không anh em?
+
+39
+00:01:27,300 --> 00:01:29,760
+Và nó sẽ tương tự như cái hình bậc thang này này
+
+40
+00:01:29,760 --> 00:01:32,600
+Đó, thì ví dụ khi anh em thiết kế một phần mềm đúng không?
+
+41
+00:01:32,920 --> 00:01:35,220
+Thì anh em sẽ cần làm các bước như là requirement này
+
+42
+00:01:35,220 --> 00:01:38,300
+Ví dụ anh em sẽ cần làm các bước là requirement này
+
+43
+00:01:38,300 --> 00:01:40,520
+Hay là thiết kế này, design này
+
+44
+00:01:40,520 --> 00:01:42,060
+Sau đó thì là code này
+
+45
+00:01:42,060 --> 00:01:43,600
+Sau đó thì là test này
+
+46
+00:01:43,600 --> 00:01:45,460
+Và cuối cùng là anh em deploy lên
+
+47
+00:01:45,460 --> 00:01:46,500
+Đúng không?
+
+48
+00:01:47,080 --> 00:01:47,960
+Đó, ví dụ như vậy
+
+49
+00:01:47,960 --> 00:01:51,380
+Thì bây giờ cái waterfall này nó sẽ hoạt động như nào?
+
+50
+00:01:51,380 --> 00:01:53,680
+Nghĩa là khi mà bây giờ mình bắt tay
+
+51
+00:01:53,680 --> 00:01:54,780
+Và làm một phần mềm
+
+52
+00:01:54,780 --> 00:01:57,320
+Ví dụ mình làm xong cái requirement
+
+53
+00:01:57,320 --> 00:01:58,900
+Mình nhảy sang cái design rồi
+
+54
+00:01:58,900 --> 00:02:02,000
+Thì mình sẽ không thể quay trở lại cái requirement nữa
+
+55
+00:02:02,000 --> 00:02:02,880
+Được chứ nhé
+
+56
+00:02:02,880 --> 00:02:05,360
+Nghĩa là mình làm cái này là mình chỉ có thể tiếp tục
+
+57
+00:02:05,360 --> 00:02:06,700
+Tiếp tục đi xuống thôi
+
+58
+00:02:06,700 --> 00:02:09,420
+Chứ không thể quay lại cái trước để chỉnh sửa nữa
+
+59
+00:02:09,420 --> 00:02:11,960
+Đó là cái waterfall nhé
+
+60
+00:02:11,960 --> 00:02:13,480
+Thì anh em chỉ cần nhớ vậy thôi
+
+61
+00:02:13,480 --> 00:02:15,720
+Đó tiếp theo là cái Agile
+
+62
+00:02:15,720 --> 00:02:18,960
+Thì anh em chỉ cần hiểu đơn giản thôi
+
+63
+00:02:18,960 --> 00:02:21,660
+là cái Agile này lại khác một chút
+
+64
+00:02:21,660 --> 00:02:23,360
+là bây giờ nó sẽ linh hoạt hơn
+
+65
+00:02:23,360 --> 00:02:24,380
+cái này là nó cú định
+
+66
+00:02:24,380 --> 00:02:25,060
+đúng không anh em
+
+67
+00:02:25,060 --> 00:02:27,260
+còn
+
+68
+00:02:27,260 --> 00:02:30,640
+cái Agile này nó sao
+
+69
+00:02:30,640 --> 00:02:32,180
+nó sẽ linh hoạt hơn
+
+70
+00:02:32,180 --> 00:02:33,920
+ví dụ nhé, tùy qua em bật này
+
+71
+00:02:33,920 --> 00:02:35,600
+nó sẽ tiếp theo này
+
+72
+00:02:35,600 --> 00:02:37,120
+nó sẽ đi theo vòng tròn nhé
+
+73
+00:02:37,120 --> 00:02:40,060
+ví dụ đây là design này
+
+74
+00:02:40,060 --> 00:02:42,720
+sau đó thì là code này
+
+75
+00:02:42,720 --> 00:02:44,620
+sau đó thì lại đi tiếp
+
+76
+00:02:44,620 --> 00:02:46,660
+sang là
+
+77
+00:02:46,660 --> 00:02:47,880
+test này
+
+78
+00:02:47,880 --> 00:02:54,840
+này rồi lại đi sang là đi coi này đó mình sẽ nhắc thì nghĩa là sau khi ông bảo hoàn thành hết này
+
+79
+00:02:54,840 --> 00:02:58,560
+rồi đúng không Ví dụ có một người khách hàng đang yêu cầu các bạn thiết kế phần mềm thì người khách
+
+80
+00:02:58,560 --> 00:03:04,320
+hàng này khách hàng này sẽ thế nào khách hàng này sẽ yêu cầu tiếp làm tiếp thì các bạn sẽ lại
+
+81
+00:03:04,320 --> 00:03:09,840
+có cái gì quen mình là các bạn lại làm tiếp làm lại làm lại làm thêm update các thứ thì nó sẽ gọi
+
+82
+00:03:09,840 --> 00:03:14,880
+linh hoạt hơn được trên nhau đó em chỉ cần nhớ giúp mình hai cái này thôi Cái này thì linh hoạt
+
+83
+00:03:14,880 --> 00:03:21,240
+em chỉ nhớ đơn giản này thôi hiểu sơ qua cơ bản này thôi nó mình sẽ chọn tâm anh em không cần phải
+
+84
+00:03:21,240 --> 00:03:27,300
+hiểu nhiều nhé Ok thì câu một như thế này anh em câu một như thế này thì anh em sẽ quan tâm những
+
+85
+00:03:27,300 --> 00:03:32,580
+cái gì đó là anh em sẽ quan tâm cho mình trước tiên anh em nhìn cái này bài cho mình này nó sẽ
+
+86
+00:03:32,580 --> 00:03:39,120
+cho em cái test một cái anh chứ là một cái cây ta đi mà cho anh em cái cây ta đi này thì đầu tiên
+
+87
+00:03:39,120 --> 00:03:41,120
+Đầu tiên nó yêu cầu anh em gì?
+
+88
+00:03:41,120 --> 00:03:43,120
+Nó yêu cầu anh em là
+
+89
+00:03:43,120 --> 00:03:45,120
+Chọn một cái model
+
+90
+00:03:45,120 --> 00:03:47,120
+Thường thì là Agile
+
+91
+00:03:47,120 --> 00:03:49,120
+Thường thì là Agile
+
+92
+00:03:49,120 --> 00:03:51,120
+Thường thì là Agile
+
+93
+00:03:51,120 --> 00:03:53,120
+Anh em cứ nhớ cho mình
+
+94
+00:03:53,120 --> 00:03:55,120
+Nói chung là anh em luyện đế mình
+
+95
+00:03:55,120 --> 00:03:57,120
+Để thử nhé
+
+96
+00:03:57,120 --> 00:03:59,120
+Nhưng mà nếu mà anh em luyện với mình
+
+97
+00:03:59,120 --> 00:04:01,120
+Thì mình sẽ cho hết các dạng
+
+98
+00:04:01,120 --> 00:04:03,120
+Thường thì là Agile
+
+99
+00:04:03,120 --> 00:04:05,120
+Để thử nhé
+
+100
+00:04:05,120 --> 00:04:07,120
+Xóa bọn cái này đi
+
+101
+00:04:07,120 --> 00:04:10,500
+cái này nó vẫn như thế thôi
+
+102
+00:04:10,500 --> 00:04:14,260
+nên mai tí nữa
+
+103
+00:04:14,260 --> 00:04:16,140
+mình sẽ hướng dẫn anh em cách chỉnh sửa cho mày luôn
+
+104
+00:04:16,140 --> 00:04:17,680
+thì bây giờ nhé
+
+105
+00:04:17,680 --> 00:04:19,120
+để nó yêu cầu anh em gì
+
+106
+00:04:19,120 --> 00:04:21,660
+nó sẽ yêu cầu anh em là chọn 1 cái model
+
+107
+00:04:21,660 --> 00:04:23,160
+và sau đó giải thích
+
+108
+00:04:23,160 --> 00:04:26,060
+thì đầu tiên thường là anh em sẽ chọn cái model
+
+109
+00:04:26,060 --> 00:04:27,540
+này chọn model nhé
+
+110
+00:04:27,540 --> 00:04:29,120
+thì thường là anh em sẽ chọn model
+
+111
+00:04:29,120 --> 00:04:31,060
+thường là sẽ chọn Agile này
+
+112
+00:04:31,060 --> 00:04:32,700
+sau đó thì anh em sẽ hỏi làm gì
+
+113
+00:04:32,700 --> 00:04:33,620
+justify
+
+114
+00:04:33,620 --> 00:04:42,260
+giới thiệu file chưa giúp tìm file nó theo bố nhí bắt buộc đó là cái gì thứ nhất là anh em sẽ có là
+
+115
+00:04:42,260 --> 00:04:48,320
+nó sẽ phải trả lời cho câu hỏi quay mừng này nó còn bị hay không đó tiếp theo là có cần làm từng phần
+
+116
+00:04:48,320 --> 00:04:58,340
+và feedback hay không và thứ ba là rủi ro có rủi ro như là hiệu suất hay là bảo mật đấy anh em tiếp
+
+117
+00:04:58,340 --> 00:05:08,420
+là vì quy mô tim này thời gian và quản lý thay đổi thì cho anh em và cái câu 1.2 đấy thì nó hỏi anh
+
+118
+00:05:08,420 --> 00:05:13,100
+em là chọn nó bảo anh em là chọn một cái model khác nó bảo anh em là chọn một model khác rồi
+
+119
+00:05:13,100 --> 00:05:19,820
+thường nhà mình sẽ chọn waterfall luôn và so sánh hai cái này thì nó sẽ yêu cầu anh em là làm và ít
+
+120
+00:05:19,820 --> 00:05:26,000
+nhất là hai cái ưu điểm và hai nhược điểm của mỗi cái để cho anh em đó thì anh em nhìn em form này
+
+121
+00:05:26,000 --> 00:05:32,960
+anh em làm thế rồi Ok thì đây mình sẽ giải thích luôn nhá mình sẽ dẫn anh em mẹo làm luôn này lúc
+
+122
+00:05:32,960 --> 00:05:41,300
+nào ấy em nhìn nhá đầu tiên này lúc nào thì em lấy nguyên cho mình cái này thì cho anh em lấy
+
+123
+00:05:41,300 --> 00:05:47,540
+nguyên cho mình này sau đó đi sao để đến mình sẽ chỉ thay đổi đến những chỗ mình thay đổi này thì
+
+124
+00:05:47,540 --> 00:05:53,600
+em sẽ quan tâm cho mình ví dụ cái này không đó tên hệ điền tên hệ thống mua thì anh em nhé Điền tên
+
+125
+00:05:53,600 --> 00:05:55,700
+xem cho mình này tên hệ thống ở chỗ nào
+
+126
+00:05:55,700 --> 00:05:57,280
+xem xem nhé
+
+127
+00:05:57,280 --> 00:05:59,680
+đọc qua này anh em scan nhanh nhé
+
+128
+00:05:59,680 --> 00:06:01,100
+scan qua cái đề nhanh vào
+
+129
+00:06:01,100 --> 00:06:03,400
+đây anh em nhìn nhé cost này
+
+130
+00:06:03,400 --> 00:06:03,800
+đấy
+
+131
+00:06:03,800 --> 00:06:07,140
+ok chưa
+
+132
+00:06:07,140 --> 00:06:09,020
+anh em nhìn lướt qua thôi
+
+133
+00:06:09,020 --> 00:06:11,580
+anh em nhìn cho mình xem cái tên của cái bồ dếch này là gì
+
+134
+00:06:11,580 --> 00:06:12,660
+đúng chứ anh em
+
+135
+00:06:12,660 --> 00:06:14,780
+hoặc là có một cái miệng nữa
+
+136
+00:06:14,780 --> 00:06:16,420
+đó là anh em nhìn các câu dưới
+
+137
+00:06:16,420 --> 00:06:17,840
+thì anh em sẽ thấy
+
+138
+00:06:17,840 --> 00:06:21,000
+nhìn các câu dưới thì anh em có thể thấy được
+
+139
+00:06:21,000 --> 00:06:26,280
+sẽ hướng dẫn nhé ngày mai làm gì tổng phát thì mình sẽ hướng dẫn nhiều mẹ hơn nói chung ở đây
+
+140
+00:06:26,280 --> 00:06:32,520
+mình sẽ hướng dẫn anh em cách để xử lý bài này nhé Ok đấy xong cái đầu tiên này đấy em dám nhất đây
+
+141
+00:06:32,520 --> 00:06:39,300
+ví dụ đây mình dám luôn đấy anh em đó tiếp theo này em có tiếp vứt vào đây mình nhiên đi CPI anh
+
+142
+00:06:39,300 --> 00:06:46,560
+nhớ bởi vì nó cốt cái bài vẽ cho nên là chỉ có thể thi trên EPA được thôi đó cho nên là thế mà
+
+143
+00:06:46,560 --> 00:06:47,820
+anh em copy vết được nhá
+
+144
+00:06:47,820 --> 00:06:50,020
+còn không thì anh em cứ hạp phục hết cho mình cái form này
+
+145
+00:06:50,020 --> 00:06:52,380
+được chưa, ok tiếp theo này
+
+146
+00:06:52,380 --> 00:06:54,620
+anh em cứ lấy tiếp này, using cái gì đấy
+
+147
+00:06:54,620 --> 00:06:56,540
+anh em có một cái lưu ý cho mình này
+
+148
+00:06:56,540 --> 00:06:58,980
+đây là ví dụ nhá
+
+149
+00:06:58,980 --> 00:07:00,000
+ví dụ này, anh em
+
+150
+00:07:00,000 --> 00:07:02,580
+paper này dựa trên những cái phương pháp nào
+
+151
+00:07:02,580 --> 00:07:04,540
+paper này, hay là thủ công này
+
+152
+00:07:04,540 --> 00:07:05,980
+anh em nhìn những cái từ như này
+
+153
+00:07:05,980 --> 00:07:07,220
+thì anh em
+
+154
+00:07:07,220 --> 00:07:08,740
+nó là cái
+
+155
+00:07:08,740 --> 00:07:12,520
+quy trình cũ
+
+156
+00:07:12,520 --> 00:07:13,700
+được chưa, đó
+
+157
+00:07:13,700 --> 00:07:15,520
+cho nên là bây giờ nhá, ví dụ nhá
+
+158
+00:07:15,520 --> 00:07:17,260
+trong bài này mình sẽ nước qua này
+
+159
+00:07:17,260 --> 00:07:18,680
+đây mình sẽ
+
+160
+00:07:18,680 --> 00:07:21,260
+nước qua trong đề nhé
+
+161
+00:07:21,260 --> 00:07:22,980
+anh em có thể tìm cho mình
+
+162
+00:07:22,980 --> 00:07:25,280
+như nào kiểu là scan nhanh
+
+163
+00:07:25,280 --> 00:07:26,800
+qua xem là nó sẽ
+
+164
+00:07:26,800 --> 00:07:28,820
+đây này ví dụ đây nhé
+
+165
+00:07:28,820 --> 00:07:31,260
+still and submit này paper này
+
+166
+00:07:31,260 --> 00:07:32,880
+đấy cho anh em
+
+167
+00:07:32,880 --> 00:07:35,380
+đó tiếp theo này
+
+168
+00:07:35,380 --> 00:07:36,780
+đây
+
+169
+00:07:36,780 --> 00:07:38,700
+cái này là gì là cái bảng tính đúng không
+
+170
+00:07:38,700 --> 00:07:40,800
+thì đây nó là quy trình cũ
+
+171
+00:07:40,800 --> 00:07:42,380
+đấy anh em chỉ cần tìm cho mình như thế này thôi
+
+172
+00:07:42,380 --> 00:07:44,400
+đó anh em điền vào đây
+
+173
+00:07:44,400 --> 00:07:47,240
+Anh em thay vào đây
+
+174
+00:07:47,240 --> 00:07:49,020
+Đây
+
+175
+00:07:49,020 --> 00:07:51,360
+Ví dụ trong cái bài này đúng không
+
+176
+00:07:51,360 --> 00:07:53,980
+Anh em chỉ cần ghi như này thôi
+
+177
+00:07:53,980 --> 00:07:54,980
+Đây
+
+178
+00:07:54,980 --> 00:07:56,040
+Bây giờ
+
+179
+00:07:56,040 --> 00:07:57,020
+Đấy
+
+180
+00:07:57,020 --> 00:07:57,460
+Đấy
+
+181
+00:07:57,460 --> 00:07:58,060
+Đấy
+
+182
+00:07:58,060 --> 00:07:58,160
+Đấy
+
+183
+00:07:58,160 --> 00:07:58,260
+Đấy
+
+184
+00:07:58,260 --> 00:07:58,300
+Đấy
+
+185
+00:07:58,300 --> 00:07:58,320
+Đấy
+
+186
+00:07:58,320 --> 00:07:58,340
+Đấy
+
+187
+00:07:58,340 --> 00:07:58,360
+Đấy
+
+188
+00:07:58,360 --> 00:07:58,380
+Đấy
+
+189
+00:07:58,380 --> 00:07:58,380
+
+
+190
+00:07:58,380 --> 00:07:58,400
+Đấy
+
+191
+00:07:58,400 --> 00:07:58,420
+Đấy
+
+192
+00:07:58,420 --> 00:07:58,440
+Đấy
+
+193
+00:07:58,440 --> 00:07:58,460
+Đấy
+
+194
+00:07:58,460 --> 00:07:58,480
+Đấy
+
+195
+00:07:58,480 --> 00:07:58,500
+Đấy
+
+196
+00:07:58,500 --> 00:07:58,540
+Đấy
+
+197
+00:07:58,540 --> 00:07:58,560
+Đấy
+
+198
+00:07:58,560 --> 00:07:58,580
+Đấy
+
+199
+00:07:58,580 --> 00:07:58,620
+Đấy
+
+200
+00:07:58,620 --> 00:07:58,640
+Đấy
+
+201
+00:07:58,640 --> 00:07:58,660
+Đấy
+
+202
+00:07:58,660 --> 00:07:58,660
+
+
+203
+00:07:58,660 --> 00:07:58,680
+Đấy
+
+204
+00:07:58,680 --> 00:07:58,700
+Đấy
+
+205
+00:07:58,700 --> 00:07:58,720
+Đấy
+
+206
+00:07:58,720 --> 00:07:58,740
+Đấy
+
+207
+00:07:58,740 --> 00:07:58,780
+Đấy
+
+208
+00:07:58,780 --> 00:07:58,820
+Đấy
+
+209
+00:07:58,820 --> 00:07:58,840
+Đấy
+
+210
+00:07:58,840 --> 00:07:58,900
+Đấy
+
+211
+00:07:58,900 --> 00:07:58,940
+Đấy
+
+212
+00:07:58,940 --> 00:07:59,000
+Đấy
+
+213
+00:07:59,000 --> 00:07:59,060
+Đấy
+
+214
+00:07:59,060 --> 00:07:59,100
+Đấy
+
+215
+00:07:59,100 --> 00:07:59,160
+Đấy
+
+216
+00:07:59,160 --> 00:07:59,180
+Đấy
+
+217
+00:07:59,180 --> 00:07:59,220
+Đấy
+
+218
+00:07:59,220 --> 00:07:59,240
+Đấy
+
+219
+00:07:59,240 --> 00:07:59,260
+Đấy
+
+220
+00:07:59,260 --> 00:07:59,260
+
+
+221
+00:07:59,260 --> 00:07:59,260
+
+
+222
+00:07:59,260 --> 00:07:59,360
+Đấy
+
+223
+00:07:59,360 --> 00:07:59,380
+Đấy
+
+224
+00:08:14,400 --> 00:08:24,240
+ở thứ hai này đây bắt đầu sang này này thì hệ thống này đúng không sử dụng nhóm biệt ở đây thì
+
+225
+00:08:24,240 --> 00:08:31,260
+ví dụ nhá anh em nhìn này thì kê vai 4 nhóm user này ví dụ như là tiêu đen này đây là anh em chỉ
+
+226
+00:08:31,260 --> 00:08:36,300
+tìm kiếm thôi không quy mô nhá thì ví dụ khoan khoan
+
+227
+00:08:36,300 --> 00:08:42,540
+3.4 nhóm này
+
+228
+00:08:42,540 --> 00:08:46,620
+ok
+
+229
+00:08:46,620 --> 00:08:53,220
+kia đây anh em có thể nhìn lên đây này ví dụ nhá
+
+230
+00:08:54,180 --> 00:09:01,140
+khi nó tự sao để ví dụ anh em gì này tiêu đơn này đừng không không ở đây thì mình sẽ có là cái gì
+
+231
+00:09:01,260 --> 00:09:12,960
+đó bạn là tìm chỗ này nhá à đúng rồi chỗ này là anh em sẽ liệt kê ra có liệt kê ra các nhóm mà sử dụng
+
+232
+00:09:12,960 --> 00:09:21,480
+từ trên nhau nghĩa là sao nhỉ ví dụ như là cái này nó kiểu là cái hệ thống này nó sẽ phục vụ cho những
+
+233
+00:09:21,480 --> 00:09:26,940
+nhóm người dùng khác nhau nào ấy trên nhau nó phục vụ cho nhóm nào ấy thì anh em tìm những cái từ như
+
+234
+00:09:26,940 --> 00:09:35,760
+là cái này này hay là cái này cái này vân vân thì bây giờ anh em nhìn này nó bảo là liệt kê mình sẽ
+
+235
+00:09:35,760 --> 00:09:41,760
+liệt kê của 3 đến 4 cái đó thì bây giờ mình có thể nhìn qua nhanh nhá ví dụ anh em nhìn này chắc chắn
+
+236
+00:09:41,760 --> 00:09:47,940
+là con still được rồi đúng không anh em đó chắc chắn là con sinh viên rồi sau đó anh em tìm lướt
+
+237
+00:09:47,940 --> 00:09:56,820
+nhanh xem có cái gì nữa không anh em có nhìn nhanh nhá thì ở đây mình sẽ có là 8.000 tiêu đơn này 400
+
+238
+00:09:56,820 --> 00:10:05,760
+là nhân viên này thì anh em nghĩ là cái này khi mà nói này thì thường là nhân viên này sẽ thường
+
+239
+00:10:05,760 --> 00:10:19,320
+là giảng viên đấy thì anh em đâu xem nào mà anh em copy luôn đúng rồi quên mất anh em có thể có
+
+240
+00:10:19,320 --> 00:10:36,780
+ra nhanh nhé Đây ví dụ mình có là tìm nhanh đây đây đây anh em đây quên mất mình vừa mới bôi động
+
+241
+00:10:36,780 --> 00:10:45,600
+rồi mình quy mắt đấy đi xe nhau nó thì anh em lấy mấy cái này ra nhá biết ta tìm nói chung là phải
+
+242
+00:10:45,600 --> 00:10:50,580
+này hơi mất thời gian chút nhưng mà em phải lướt qua thì tìm nhé tìm mấy cái này là tiêu đơn này
+
+243
+00:10:50,580 --> 00:11:04,380
+ok nói chung là anh em sẽ phải tìm kiếm như thế này ra nhé Ok đấy là vì cái này nhé tiếp
+
+244
+00:11:04,380 --> 00:11:05,720
+Lại có tiếp
+
+245
+00:11:05,720 --> 00:11:06,680
+Đúng không
+
+246
+00:11:06,680 --> 00:11:09,860
+Ở chỗ này
+
+247
+00:11:09,860 --> 00:11:12,740
+Chỗ này thì
+
+248
+00:11:12,740 --> 00:11:16,340
+Anh em nhớ cho mình nhé
+
+249
+00:11:16,340 --> 00:11:17,680
+Ví dụ ở đây này
+
+250
+00:11:17,680 --> 00:11:19,760
+Anh em viết chỗ này là
+
+251
+00:11:19,760 --> 00:11:21,840
+Cái Agile này cho phép này
+
+252
+00:11:21,840 --> 00:11:24,060
+Cái đội ngũ phát triển
+
+253
+00:11:24,060 --> 00:11:25,860
+Bàn giao các cái
+
+254
+00:11:25,860 --> 00:11:27,540
+Hệ chức năng
+
+255
+00:11:27,540 --> 00:11:29,280
+Theo từng giai đoạn
+
+256
+00:11:29,280 --> 00:11:29,880
+Đúng không
+
+257
+00:11:29,880 --> 00:11:32,140
+Cái này là theo từng giai đoạn
+
+258
+00:11:32,140 --> 00:11:34,080
+Đây là anh em viết đúng như này nhé
+
+259
+00:11:34,080 --> 00:11:40,760
+anh em cứ biết đúng như này ví dụ là phim từ 2 đến 4 tuần ví dụ nhé Bây giờ mình anh em cứ để
+
+260
+00:11:40,760 --> 00:11:52,140
+im này đó thì chỗ này chỗ này nhá anh em bên nguyên mà cho mình anh em bên nguyên mà cho mình
+
+261
+00:11:52,140 --> 00:11:53,800
+Được chưa? Bên nguyên vào
+
+262
+00:11:53,800 --> 00:11:58,820
+Mất lại cái dáng của nó
+
+263
+00:11:58,820 --> 00:12:02,260
+Ok, đấy, anh em bên nguyên vào cho mình
+
+264
+00:12:02,260 --> 00:12:03,120
+Không phải nghĩ
+
+265
+00:12:03,120 --> 00:12:05,140
+Được chưa? Đó
+
+266
+00:12:05,140 --> 00:12:16,200
+Ok, chỗ này bên nguyên vào cho mình nhá
+
+267
+00:12:16,200 --> 00:12:17,580
+Đó, tiếp theo này
+
+268
+00:12:17,580 --> 00:12:19,360
+Chỗ này nhá
+
+269
+00:12:20,420 --> 00:12:21,460
+Chỗ này ý là
+
+270
+00:12:21,460 --> 00:12:33,100
+là nói là cái chỗ này ý là sao ý chỗ này nói là nó sẽ có là cái kiểu là nó đảm bảo là nó sẽ nó có
+
+271
+00:12:33,100 --> 00:12:40,000
+đảm bảo được là nó sẽ nhận được phản hồi thường xuyên đấy và tất cả các bên liên quan đấy thì
+
+272
+00:12:40,000 --> 00:12:44,560
+anh em thì cái này nó nằm trong câu hỏi của đề cho nên anh em cũng biết đúng như này cho mình
+
+273
+00:12:44,560 --> 00:12:48,040
+tiếp theo là phần rủi ro
+
+274
+00:12:48,040 --> 00:12:51,440
+cái yếu tố rủi ro đúng không
+
+275
+00:12:51,440 --> 00:12:52,840
+ví dụ anh em sẽ
+
+276
+00:12:52,840 --> 00:12:54,660
+liệt kê ra đúng không
+
+277
+00:12:54,660 --> 00:12:55,960
+ví dụ nhé
+
+278
+00:12:55,960 --> 00:12:58,880
+thường thì anh em sẽ nhìn cho mình
+
+279
+00:12:58,880 --> 00:12:59,080
+đây
+
+280
+00:12:59,080 --> 00:13:01,480
+xử lý ít nhất này
+
+281
+00:13:01,480 --> 00:13:04,080
+1 nghìn này
+
+282
+00:13:04,080 --> 00:13:05,500
+thì anh em viết vào
+
+283
+00:13:05,500 --> 00:13:08,000
+nói chung là anh em phải chỉnh sửa 1 chút thôi là được
+
+284
+00:13:08,000 --> 00:13:09,680
+dưới 3 giây này
+
+285
+00:13:09,680 --> 00:13:11,600
+đây là cái rủi ro
+
+286
+00:13:11,600 --> 00:13:14,420
+tiếp theo là cái này này
+
+287
+00:13:14,560 --> 00:13:18,420
+Đấy được chưa anh em
+
+288
+00:13:18,420 --> 00:13:20,960
+Nói chung là anh em chỉ cần chỉnh sửa một chút thôi
+
+289
+00:13:20,960 --> 00:13:22,560
+Scan qua đề một chút
+
+290
+00:13:22,560 --> 00:13:23,620
+Là được
+
+291
+00:13:23,620 --> 00:13:26,180
+Tiếp theo thì là anh em sẽ xử lý cái tiếp theo
+
+292
+00:13:26,180 --> 00:13:27,740
+Là cái
+
+293
+00:13:27,740 --> 00:13:31,360
+Cái nào nhỉ đang đổi
+
+294
+00:13:31,360 --> 00:13:31,700
+Đây
+
+295
+00:13:31,700 --> 00:13:32,640
+Được chưa
+
+296
+00:13:32,640 --> 00:13:34,800
+Cái này thì anh em cứ vứt vào hết cho mình
+
+297
+00:13:34,800 --> 00:13:36,320
+Sau đó thì anh em sẽ
+
+298
+00:13:36,320 --> 00:13:37,800
+Vứt cho mình cái
+
+299
+00:13:37,800 --> 00:13:38,960
+Tiếp tục là cái này
+
+300
+00:13:38,960 --> 00:13:39,440
+Đúng không
+
+301
+00:13:39,440 --> 00:13:41,180
+Thì đây là đang hỏi quy mô đúng không
+
+302
+00:13:41,180 --> 00:13:42,040
+Thì 8000
+
+303
+00:13:42,040 --> 00:13:44,200
+Đây là đang chưa đủ nhé
+
+304
+00:13:44,200 --> 00:13:47,620
+8.000 và cái này nữa này
+
+305
+00:13:47,620 --> 00:13:49,500
+Đây em nhân
+
+306
+00:13:49,500 --> 00:13:50,620
+Nếu mà viết đủ là phải cái này
+
+307
+00:13:50,620 --> 00:13:51,820
+8.400 này
+
+308
+00:13:51,820 --> 00:13:55,720
+Thì đây là mình đang ví dụ thôi
+
+309
+00:13:55,720 --> 00:13:57,260
+Mình để đây chưa viết xong đâu
+
+310
+00:13:57,260 --> 00:13:59,360
+Thì anh em tự xử lý và nốt nhé
+
+311
+00:13:59,360 --> 00:14:00,800
+Tiếp theo này
+
+312
+00:14:00,800 --> 00:14:02,680
+Tên tổ chức đúng không
+
+313
+00:14:02,680 --> 00:14:04,560
+Tên tổ chức trong này
+
+314
+00:14:04,560 --> 00:14:06,280
+Thì mình sẽ
+
+315
+00:14:06,280 --> 00:14:09,140
+Xem trong này xem nó là cái gì
+
+316
+00:14:09,140 --> 00:14:09,780
+Đúng không
+
+317
+00:14:09,780 --> 00:14:11,480
+Thì ở trong này thì nó sẽ là
+
+318
+00:14:11,480 --> 00:14:25,820
+là đồ in university để xinh em đó sẽ gửi university đó ok chưa bước vào và à à Ừ ok
+
+319
+00:14:25,820 --> 00:14:35,800
+đấy thế thôi phần này đi chắc có mỗi cái này tên tổ chức này và cái này cũng về để nguyên này cho
+
+320
+00:14:35,800 --> 00:14:48,700
+và tiếp theo này thì là cái tiếp theo là cái model nào mà để lấy ra so sánh anh em nhé
+
+321
+00:14:48,700 --> 00:14:54,200
+thì đây này mình sẽ lấy cái này để cho anh em nói chung là bây giờ anh em chỉ cần xem cho mình nhé
+
+322
+00:14:54,200 --> 00:14:59,240
+anh em xem rồi anh em thay thôi nói chung là cái này anh em sẽ xem và thay thôi mình để tên
+
+323
+00:14:59,240 --> 00:15:06,240
+được rồi anh em đó phần công một anh em chỉ cần luyện như vậy thôi là được thì xinh nha đó đây
+
+324
+00:15:06,240 --> 00:15:13,820
+tí nữa thì mình sẽ đẩy trang web mình sẽ để cả em lưu ý trong web của mình nhá thì là trong web của
+
+325
+00:15:13,820 --> 00:15:24,260
+mình thì mình có đẩy cả các ý để anh em trong web của mình thì ở trong cái phần nếu anh em mua
+
+326
+00:15:24,260 --> 00:15:39,080
+vào cái chỗ này sau đó anh em xem cho mình đây và lý thuyết này em ơi nhá quên mất
+
+327
+00:15:39,080 --> 00:15:51,880
+đây em vào như này này vài lâu nhé Ôi trời ơi còn chưa được cấp quyền này
+
+328
+00:15:51,880 --> 00:15:56,680
+ở chỗ này mình đã update cho nên mình chưa có
+
+329
+00:15:56,680 --> 00:16:03,820
+Ok anh em chờ mình chút
+
+330
+00:16:03,820 --> 00:16:14,320
+xem dẫn anh em luôn
+
+331
+00:16:14,320 --> 00:16:27,920
+Ok đây anh em nhé, ví dụ anh em vào này, anh em xem chỗ SRE này
+
+332
+00:16:27,920 --> 00:16:57,920
+ở vừa cấp quyền rồi mà à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+333
+00:16:57,920 --> 00:17:05,300
+đề mình đang để ví dụ đi sáu nhé anh em mở ra này tất cả các đề mình đều up lên đây em nhé anh em
+
+334
+00:17:05,300 --> 00:17:11,000
+luyện tập ở đây này thì một thì hai thì ba đây này mình xin nhé thì đây là mình làm theo đúng từng đề
+
+335
+00:17:11,000 --> 00:17:16,340
+một anh em nhé đó mình làm theo anh em học đến đâu anh em làm cái đấy để luyện luôn còn anh em
+
+336
+00:17:16,340 --> 00:17:22,520
+là thắc mắc thì anh em cứ nhắn tin hỏi mình nhé Ok thì mình sẽ làm các video để mình hướng dẫn anh
+
+337
+00:17:22,520 --> 00:17:26,840
+em thì nói chung là ví dụ như câu 1 anh em chỉ cần thay tên hay từ thôi anh em đọc khoa là được
+
+338
+00:17:26,840 --> 00:17:28,840
+Đây mình hướng dẫn anh em một chút rồi đó
+
+339
+00:17:28,840 --> 00:17:30,840
+Anh em chỉ cần thay một chút thôi
+
+340
+00:17:30,840 --> 00:17:32,840
+Ví dụ cái này này
+
+341
+00:17:32,840 --> 00:17:34,840
+Anh em thay một tí tên thôi là xong
+
+342
+00:17:34,840 --> 00:17:37,840
+Không cần nghĩ nhiều, nói chung bài này nó có form rồi
+
+343
+00:17:37,840 --> 00:17:41,840
+Đó, cho nên là anh em, VT anh em cứ chỉ cần thay từ thôi là xong
+
+344
+00:17:41,840 --> 00:17:43,840
+Được chưa anh em? Đó
+
+345
+00:17:43,840 --> 00:17:48,840
+Ở đây nhé, một là anh em sẽ điền vào anh em làm bài như thi thật luôn
+
+346
+00:17:48,840 --> 00:17:50,840
+Sau đó anh em chấm điểm vào AI này
+
+347
+00:17:50,840 --> 00:17:53,840
+Bài anh em để chấm điểm vào AI anh em nhập cho mình cái này vào đây
+
+348
+00:17:53,840 --> 00:17:54,840
+Bấm vào đây hướng dẫn này
+
+349
+00:17:54,840 --> 00:18:04,440
+anh em xem hướng dẫn nhé xem dẫn cách đấy này đấy ok chưa anh em nhập vào sau khi nhập vào thì em
+
+350
+00:18:04,440 --> 00:18:14,280
+sẽ có cái con này chưa đó sau đó anh em tôi làm xong rồi chấm điểm đấy nó sẽ chấm điểm cho anh
+
+351
+00:18:14,280 --> 00:18:19,460
+em nhé và em sẽ đó anh em bấm vào đây này thì ở đây nó sẽ hiện đáp án mẫu đây này đó cho anh
+
+352
+00:18:19,460 --> 00:18:26,520
+ok thì đấy là về khi sáu còn khi một nữa mình sẽ lên và mình nói chung là anh em mua thì sẽ
+
+353
+00:18:26,520 --> 00:18:31,940
+tất trên web rồi mà anh em thể hiện tập đầy đủ hết nhá Ok thì video này mình sẽ dừng ở đây nó
+
+354
+00:18:31,940 --> 00:18:45,700
+nó chua câu một thì dễ thôi em nhé Chỉ cần làm cơ bản thôi anh xin em ok à à à à à à à à à à à
+

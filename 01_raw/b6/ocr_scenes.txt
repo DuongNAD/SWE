@@ -1,0 +1,583 @@
+### 01:31
+Ở cốc cốc  Luện tập Q3 - Google Do X  & SWE202 - Google Drive  +  Lal
+< →  docs.google.com/document/d/10yBA2V0O|zzHeLk0BWJHkgfxZQICJ2qUkPuKJ6Dpagl/edit?tab=t.0  +I0 =
+88  • Tất cả dấu trang
+Luyện tập Q3  +
+Share
+File Edit View Insert Format Tools Extensions Help
+9sca A S 100% - Normal text •  Arial  | - 11] +  BIUADGE  / Editing
+Hey st is suppo contrasts with scare Yuenies Glumnig
+results in under 2 seconds. Payment processing must comply with PCI-DSS standards, and  1 of 21
+patron data must be encrypted using AES-256. The system must have a 99.9% uptime and
+feature a responsive design for both desktop and mobile web browsers.
+Question 3: UC Specification (15 points)
+Write a complete Use Case Specification for the use case 'Reserve a Book'.
+UC SPECIFICATION
+TEMPLATE
+Use Case Name  Reserve a Book
+Use Case ID  UC-Lib-01
+Actor(s)  Patron (primary); System (secondary)
+^ V O  ENG  8:54 PM
+US
+
+### 01:32
+Ởi cốc cốc  Luyện tập Q3 - Google Docs  SWE202 - Google Drive  +  Ca
+< >  drive.google.com/drive/u/0/folders/16ZsDgSYH6tqRzhDEM8kkD-KQ8cFJvOSP  I CD
+88  • Tất cả dấu trang
++
+X  SWE202c_Practical_Exam_Sample.docx.pdf  Open with Google Docs  +  :  * Share
+Question 2: UC Modeling (15 points)
+My D
+Identify 4 actors in the Course Registration System. For each actor, state their primary goal and
+whether they are a primary or secondary actor. (3 points)
+2. List at least 6 use cases for the CRS. For each use case, state the initiating actors) and a one-sentence
+description of the goal. (4 points)
+Draw a complete UML. Use Case Diagram for the CRS. The diagram must include: (8 points)
+All identified actors, placed correctly inside or outside the system boundary
+5 as with mal
+All major use cases inside the system boundary rectangle
+Recant  At least ONE <<include>> relationship — provide a brief written rationale
+At Icast ONE <<extend>> relationship — provide a brief written rationale
+Sia mal  • Any actor-generalisation relationships that apply
+<
+Spain
+Question 3: UC Specification (15 points)
+Sioranal  Write a complete Use Case Specification for the use case 'Register for Course'. Use the template below and
+fill in EVERY field. Partial or missing sections will receive partial credit only.
+Tan 1B1-  UC SPECIFICATION TEMPLATE
+bel more stole  Use Case Name  Register for Course
+Use Case ID  UC-03
+Actor(s)  Student (primary); System (secondary)
+Preconditions  • Student is authenticated and logged in. • Registration window is currently open.
+• Student has met all prerequisites for the chosen course.
+Page  2  -
+Author: <Fill Student ID here»  <Fill exam date here
+ENG  8:55 PM
+US  4/23/2026
+
+### 01:33
+Ở cốc cốc  5 Luện tập Q3 - Google Doc  & SWE202 - Google Drive  +  La ..
+< >  docs.google.com/document/d/10yBA2V0OlzzHeLk0BWJHkgfxZQICJ2qUkPuKJ6Dpagl/edit?tab=t.0  ∞ | D  110 =
+88  • Tất cả dấu trang
+Luyện tập Q3  +
+• Share
+File Edit View Insert Format Tools Extensions Help
+as caA S 100% - Normal text =  Arial  | - 11] +  0 Editing
+7...!..
+results in under 2 seconds. Payment processing must comply with PCI-DSS standards, and
+=  patron data must be encrypted using AES-256. The system must have a 99.9% uptime and
+feature a responsive design for both desktop and mobile web browsers.
+Question 3: UC Specification (15 points)
+Write a complete Use Case Specification for the use case 'Reserve a Book'.
+UC SPECIFICATION
+TEMPLATE
+Use Case Name  Reserve a Book
+Use Case ID  UC-Lib-01
+Actors)  Patron (primary); System (secondary)
+^ V O  ENG  8:55 PM
+US
+
+### 01:49
+Ở cốc cốc  Luyện tập Q2 - Google Docs  SWE202 - Google Drive  +  Ca
+drive.google.com/drive/u/0/folders/16ZsDgSYH6tqRzhDEM8kkD-KQ8cFJvOSP  I CO
+88  • Tất cả dấu trang
++
+X  SWE202c_Practical_Exam_Sample.docx.pdf  Open with Google Docs  :  * Share
+Question 2: UC Modeling (15 points)
+Identify 4 actors in the Course Registration System. For each actor, state their primary goal and
+whether they are a primary or secondary actor. (3 points)
+List at least 6 use cases for the CRS. For each use case, state the initiating actors) and a one-sentence
+description of the goal. (4 points)
+Draw a complete UML Use Case Diagram for the CRS. The diagram must include: (8 points)  f
+All identified actors, placed correctly inside or outside the system boundary
+Shand with
+All major use cases inside the system boundary rectangle
+Heconl  At least ONE <<include>> relationship - provide a brief written rationale
+At least ONE <<extend>> relationship — provide a brief written rationale
+• Any actor-generalisation relationships that apply
+Sumi
+Question 3: UC Specification (15 points)
+฿ Tell
+Write a complete Use Case Specification for the use case 'Register for Course'. Use the template below and
+fill in EVERY field. Partial or missing sections will receive partial credit only.
+UC SPECIFICATION TEMPLATE
+Use Case Name  Register for Course
+Use Case ID  UC-03
+Actor(s)  Student (primary); System (secondary)
+Preconditions  • Student is authenticated and logged in. • Registration window is currently open.
+• Student has met all prerequisites for the chosen course.
+Page  2  /  -
+Author: <Fill Student ID here»  <Fill exam date here>
+^  ENG  8:55 PM
+US  4/23/2026
+
+### 01:52
+Ở cốc cốc  • Luyện tập Q2 - Google Doc x  & SWE202 - Google Drive  +
+< →  @ docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  • | D
+• Tất cả dấu trang
+Luyện tập Q2  +
+Share
+File  Edit View  Insert Format Tools Extensions Help
+9 sca A S 100% - Normal text =  Arial  1 - 20  +  U  #*-E-E-  / Editing
+1..L..F  use case  intaung actor
+ID  Goal
+=  Browse course catalogue  Student  View course list
+and detail
+Check prerequisites  Student  Check condition
+before registration
+Submit registration request  Student  Register for a
+specific course
+Join waitlist  Student  Register when the
+course is full
+Track registration status  Student  View status
+View enrolled roster  Lecturer  View the list
+student enrolled the
+course
+Record grades  Lecturer  Input the midterm
+and final grades
+^ V Q  ENG  8:55 PM
+US  4/23/2026
+
+### 02:06
+Ở cốc cốc  Luện tập Q2 - Google Docs  SWE202 - Google Drive  +  La
+< →  drive.google.com/drive/u/0/folders/16ZsDgSYH6tqRzhDEM8kkD-KQ8cFJvOSP  I CO
+88  • Tất cả dấu trang
++
+X  SWE202c_Practical_Exam_Sample.docx.pdf  • Open with Google Docs  :  Share
+Question 2: UC Modeling (15 points)
+MY D
+Identify 4 actors in the Course Registration System. For each actor, state their primary goal and
+whether they are a primary or secondary actor. (3 points)
+2. List at least 6 use cases for the CRS. For each use case, state the initiating actors) and a one-sentence
+description of the goal. (4 points)
+Draw a complete UML Use Case Diagram for the CRS. The diagram must include: (8 points)
+All identitied actors, placed correctly inside or outside the system boundary
+All major use cases inside the system boundary rectangle
+Recant  At least ONE <<include>> relationship — provide a brief written rationale
+At least ONE <<extend>> relationship — provide a brief written rationale
+Staire  • Any actor-generalisation relationships that apply
+<
+Spatte
+Question 3: UC Specification (15 points)
+Write a complete Use Case Specification for the use case 'Register for Course'. Use the template below and
+fill in EVERY field. Partial or missing sections will receive partial credit only.
+UC SPECIFICATION TEMPLATE
+bel more Botage  Use Case Name  Register for Course
+Use Case ID  UC-03  @
+Actor(s) |  Student (primary); System (secondary)
+Preconditions  • Student is authenticated and logged in. • Registration window is currently open.
+• Student has met all prerequisites for the chosen course.
+Page  2  +
+Author: <Fill Student ID here>  <Fill exam date here
+ENG  8:55 PM
+US  4/23/2026
+
+### 02:11
+Ở cốc cốc  5 Luện tập Q2 - Google Do X  A SWE202 - Google Drive  +  La  ...
+< →  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+• Tất cả dấu trang
+Luyện tập Q2  +
+• -  Share
+File Edit  View Insert Format Tools Extensions Help
+Q s  A § 100% - Normal text •  Arial  | - 11] +  BA •
+ID  use case  Inmaung actor  Goal
+=  Browse course catalogue  Student  View course list
+and detail
+Check prerequisites  Student  Check condition
+before registration
+Submit registration request  Student  Register for a
+specific course
+Join waitlist  Student  Register when the
+course is full
+Track registration status  Student  View status
+View enrolled roster  Lecturer  View the list
+student enrolled the
+course
+Record grades  Lecturer  Input the midterm
+and final grades
+ENG  8:55 PM
+US  4/23/2026
+
+### 02:17
+Ở cốc cốc  Luyện tập Q2 - Google Docs  SWE202 - Google Drive  X  +  La
+drive.google.com/drive/u/0/folders/16ZsDgSYH6tqRzhDEM8kkD-KQ8cFJvOSP  I CO
+• Tất cả dấu trang
++
+X  SWE202c_Practical_Exam_Sample.docx.pdf  Open with Google Docs  +  :  Share
+whether they are a primary or secondary actor. (3 points)
+My D
+2.  List at least 6 use cases for the CRS. For each use case, state the initiating actors) and a one-sentence
+description of the goal. (4 points)
+Draw a complete UML. Use Case Diagram for the CRS. The diagram must include: (8 points)
+All identified actors, placed correctly inside or outside the system boundary
+All major use cases inside the system boundary rectangle
+En ConQue  •
+At least ONE <<include>> relationship — provide a brief written rationale
+At Icast ONE <<extend>> relationship — provide a brief written rationale
+Shortic with mel  • Any actor-generalisation relationships that apply
+Reconn
+Slater  Question 3: UC Specification (15 points)
+Write a complete Use Case Specification for the use case 'Register for Course'. Use the template below and
+fill in EVERY field. Partial or missing sections will receive partial credit only.
+UC SPECIFICATION TEMPLATE  Luyan En 451
+Use Case Name  Register for Course
+Use Case ID  UC-03
+Actor(s)  Student (primary); System (secondary)
+ael mate storage  Preconditions  • Student is authenticated and logged in. • Registration window is currently open.
+• Student has met all prerequisites for the chosen course.
+Author: <Fill Student ID here>  <Fill exam date here>
+Page  2  +
+ENG  8:55 PM
+US  4/23/2026
+
+### 02:54
+Ở cốc cốc  Luyện tập Q2 - Google Doc X  & SWE202 - Google Drive  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  I CD
+88  • Tất cả dấu trang
+Luyện tập Q2  +
+Share
+File  Edit View Insert Format Tools Extensions Help
+5  A, S 100% -  Normal text -  Arial  | - 11] +  BI UA O  E #SE•E•E
+6
+2, Liet ke use case
+Move Table  Use case  Initiating actor  Goal
+Browse course catalogue  Student  View course list
+and detail
+Check prerequisites  Student  Check condition
+before registration
+Submit registration request  Student  Register for a
+specific course
+Join waitlist  Student  Register when the
+course is full
+Track registration status  Student  View status
+View enrolled roster  Lecturer  View the list
+student enrolled the
+^ V Q  ENG  8:56 PM
+US  4/23/2026
+
+### 03:03
+Ở cốc cốc  Luyện tập Q2 - Google Docs  SWE202 - Google Drive  +  La
+→  drive.google.com/drive/u/0/folders/16ZsDgSYH6tqRzhDEM8kkD-KQ8cFJvOSP  ICO
+88  • Tất cả dấu trang
++
+SWE202c_Practical_Exam_Sample.docx.pdf  • Open with Google Docs  B  :  Share
+• Any actor-generalisation relationships that apply
+My D
+Question 3: UC Specification (15 points)
+Write a complete Use Case Specification for the use case 'Register for Course. Use the template below and
+My Dese  fill in EVERY field. Partial or missing sections will receive partial credit only.
+UC SPECIFICATION TEMPLATE
+Use Case Name  Register for Course
+Snares with me
+Use Case ID  UC-03
+Recant
+Actor(s)  Student (primary); System (secondary)
+Preconditions  • Student is authenticated and logged in. • Registration window is currently open.
+• Student has met all prerequisites for the chosen course.
+Spar
+Author: <Fill Student ID here>  <Fill exam date here
+Layan En 03.
+PRACTICAL EXAM - INTRODUCTION TO SOFTWARE ENGINEERING (SWE202c - 2026 Spring - Page 1)
+Post conditions  • Student is successfully enrolled in the course, OR • Student is placed on the
+waitlist if the course is full.
+Main Flow (Basic Path)  1. Student selects "Browse Courses' from the dashboard.
+2. System displays the list of available courses with seat availability.
+Page 2 p/ere 5 site
+6. System records the registration and updates seat count.
+ENG  Ф)  8:56 PM
+US  4/23/2026
+
+### 03:07
+Ở cốc cốc  5 Luện tập Q2 - Google Doc x  A SWE202 - Google Drive  Ca
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  CD
+88  • Tất cả dấu trang
+Luyện tập Q2  +
+Share
+File Edit View Insert Format Tools Extensions Help
+a sea A § 100% = Normal text -  Arial  | - 11] +  BIVA GEO  Editing
+responsible for inventory management, including updating stock levels and marking items as  T...l..
+"Damaged" or "Out of Stock." When inventory for a high-demand item falls below a certain
+threshold, the system automatically triggers a Restock Alert" to the Procurement Team.
+Managers oversee the platform by viewing real-time sales analytics, managing promotional
+discount codes, and handling customer refund requests for missing items.
+Technically, the IFS must integrate with a third-party Payment Gateway and a Mapping
+Service API. The system must handle up to 5,000 transactions per hour with a sub-2-second
+response time for checkout. Security is paramount; all payment data must be PCI-DSS
+compliant. If a payment falls, the system offers an optional "Retry Payment" path. The system
+must maintain 99.9% uptime, as any downtime directly results in lost revenue.
+Question 2: UC Modeling (1.5 points)
+1. Identify ALL actors in the IFS. For each actor, state their primary goal and whether they
+are a primary or secondary actor. (0.3 points)
+2. List at least EIGHT use cases for the IFS. For each use case, state the initiating actors)
+and a one-sentence description of the goal. (0.4 points)
+3. Draw a complete UML Use Case Diagram for the IFS. The diagram must include: (0.8
+points)
+• All identified actors and major use cases.
+• At least ONE <<include>> and ONE <<extend>> relationship with rationales.
+• Any actor-generalisation relationships that apply.
+^ V O  ENG  8:56 PM
+US  4/23/2026
+
+### 03:09
+Ở cốc cốc  Luện tập Q2 - Google Docs  SWE202 - Google Drive  +  Ca
+→  drive.google.com/drive/u/0/folders/16ZsDgSYH6tqRzhDEM8kkD-KQ8cFJvOSP  I CD
+• Tất cả dấu trang
++
+SWE202c_Practical_Exam_Sample.docx.pdf  • Open with Google Docs  +  B  :  * Share
+• Any actor-generalisation relationships that apply
+My D
+Question 3: UC Specification (15 points)
+Write a complete Use Case Specification for the use case 'Register for Course. Use the template below and
+fill in EVERY field. Partial or missing sections will receive partial credit only.
+Lo CompuTe  UC SPECIFICATION TEMPLATE
+Use Case Name  Register for Course
+Bhimao with ma
+Use Case ID  UC-03
+Actor(s)  Student (primary): System (secondary)
+Sausa  Preconditions  • Student is authenticated and logged in. • Registration window is currently open.
+• Student has met all prerequisites for the chosen course.
+Spaul
+Author: <Fill Student ID here>  <Fill exam date here>
+LUVEn I 03
+Storane
+PRACTICAL EXAM - INTRODUCTION TO SOFTWARE ENGINEERING (SWE202c - 2026 Spring - Page 1)
+Post conditions  • Student is successfully enrolled in the course, OR • Student is placed on the
+waitlist if the course is full.
+Main Flow (Basic Path)  1. Student selects "Browse Courses' from the dashboard.
+2. System displays the list of available courses with seat availability.
+Page  2  phere 5 sites
+6. System records the registration and updates seat count.
+ENG  8:56 PM
+US  4/23/2026
+
+### 06:05
+Ở cốc cốc  5 Luện tập Q2 - Google Doc X  & SWE202 - Google Drive  La
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  CD
+88  •• Tất cả dấu trang
+Luyện tập Q2  +
+Share
+File Edit View Insert Format Tools Extensions Help
+as da A §100% = Normal text -  Arial  - 11  +  Editing
+responsible for inventory management, including updating stack levels and marking items as  T... 1..
+"Damaged" or "Out of Stock." When inventory for a high-demand item falls below a certain
+threshold, the system automatically triggers a Restock Alert" to the Procurement Team.
+Managers oversee the platform by viewing real-time sales analytics, managing promotional
+discount codes, and handling customer refund requests for missing items.
+Technically, the IFS must integrate with a third-party Payment Gateway and a Mapping
+Service API. The system must handle up to 5,000 transactions per hour with a sub-2-second
+response time for checkout. Security is paramount; all payment data must be PCI-DSS
+compliant. If a payment fails, the system offers an optional "Retry Payment" path. The system
+must maintain 99.9% uptime, as any downtime directly results in lost revenue.
+Question 2: UC Modeling (1.5 points)
+1. Identify ALL actors in the IFS. For each actor, state their primary goal and whether they
+are a primary or secondary actor. (0.3 points)
+2. List at least EIGHT use cases for the IFS. For each use case, state the initiating actors)
+and a one-sentence description of the goal. (0.4 points)
+3. Draw a complete UML Use Case Diagram for the IFS. The diagram must include: (0.8
+points)
+All identified actors and major use cases.
+• At least ONE <<include>> and ONE <<extend>> relationship with rationales.
+• Any actor-generalisation relationships that apply.
+^ V Q  ENG  8:59 PM
+US  4/23/2026
+
+### 06:14
+Ở cốc cốc  Luyện tập Q3 - Google Docs  SWE202 - Google Drive  +  Ca
+< >  drive.google.com/drive/u/0/folders/16ZsDgSYH6tqRzhDEM8kkD-KQ8cFJvOSP  I CD
+88  • Tất cả dấu trang
++
+X  Por  SWE202c_Practical_Exam_Sample.docx.pdf  • Open with Google Docs  :  Share
+Author: <Fill Student ID here»  <Fill exam date here>
+New  My D
+My Drive
+PRACTICAL EXAM - INTRODUCTION TO SOFTWARE ENGINEERING (SWE202c - 2026 Spring - Page 1)
+Post conditions  • Student is successfully enrolled in the course, OR • Student is placed on the
+waitlist if the course is full.
+2, Bhares with me
+Main Flow (Basic Path)  1. Student selects 'Browse Courses' from the dashboard.
+Recant  2. System displays the list of available courses with seat availability.
+3. Student selects a course and clicks Register.
+Staura  4. System checks prerequisites → passed.
+5. System checks seat availability → seats available.
+6. System records the registration and updates seat count.
+Spain  7. System sends a confirmation notification to the student.
+8. Use case ends successfully.
+@ 1a  Alternative Flow A  At step 5, if the course is full:
+Al. System informs the student that no seats are available.  Luyen my 031
+@ Storanel  A2. System offers the option to join the waitlist.
+A3. Student confirms → System records the waitlist entry.
+A4. Use case ends (waitlisted).
+1 Man 1B Tea ang
+Alternative Flow B  At step 4, if prerequisite check fails:
+B1. System displays a message listing the unmet prerequisites.
+BaI MOE 101095  B2. Student is returned to the course list.
+B3. Use case ends without registration.
+Exception Flow  At any step, if a network or database error occurs:
+El. System displays an error message and logs the incident.
+E2. Student is advised to retry or contact Academic Staff.
+E3. Use case ends abnormally.
+Business Rules  pping time slots.
+Frequest.
+ENG  8:59 PM
+^  US  4/23/2026
+
+### 10:22
+Ở cốc cốc  5 Luện tập Q3 - Google Do X  & SWE202 - Google Drive  | +  La ..
+< →  docs.google.com/document/d/10yBA2V0O|zzHeLk0BWJHkgfxZQICJ2qUkPuKJ6Dpagl/edit?tab=t.0  " ®  @ |
+88  • Tất cả dấu trang
+Luyện tập Q3  +
+• a-  Share
+File Edit View Insert Format Tools Extensions Help
+a sea A § 100% - Normal text *  Arial  | - 11] +  BIUA•  SHEETEX  / Editing
+must be able to function offline temporarily if the Wifl or cellular signal drops inside the
+supermarket or apartment building elevators.
+Question 3: UC Specification (15 points)
+Write a complete Use Case Specification for the use case 'Checkout Shopping Cart".
+UC SPECIFICATION
+TEMPLATE
+Use Case Name  Checkout Shopping Cart
+ENG  9:03 PM
+
+### 10:22
+Ởi cốc cốc  Luyện tập Q3 - Google Docs  SWE202 - Google Drive  +
+drive.google.com/drive/u/0/folders/16ZsDgSYH6tqRzhDEM8kkD-KQ8cFJvOSP  I CD
+88  • Tất cả dấu trang
++
+X  POR  SWE202c_Practical_Exam_Sample.docx.pdf  Open with Google Docs  B  Share
+Alternative Flow A  At step 5, if the course is full:
+Al. System informs the student that no seats are available.
+A2. System offers the option to join the waitlist.
+A3. Student confirms → System records the waitlist entry.
+A4. Use case ends (waitlisted).
+Alternative Flow B  At step 4, if prerequisite check fails:
+My blue  B1. System displays a message listing the unmet prerequisites.
+B2. Student is returned to the course list.
+LO Comppier  B3. Use case ends without registration.
+Exception Flow  At any step, if a network or database error occurs:
+8. Shamminie  El. System displays an error message and logs the incident.
+E2. Student is advised to retry or contact Academic Stall.
+• Recent  E3. Use case ends abnormally.
+Business Rules  • A student may not register for courses with overlapping time slots.
+• Maximum credit load per semester is 24 credit hours.
+• Waitlist position is determined by timestamp of request.
+Non-Functional  • Response time for registration confirmation must be < 3 seconds.
+Requirements  • All data transmitted must be encrypted via TLS 1.2+.
+3 Tear
+Question 4: Non-Functional Requirements (10 points)
+(On 2C  From the case study, identify and classify at least SIX non-functional requirements (NFRs) into appropriate
+quality categories. For cach NFR, write one measurable acceptance criterion. Present your answer as a table
+Дo1 пест 320130  with the columns: Category | NFR Description | Acceptance Criterion. (9 points)
+Answers
+Category  NFR Description  Acceptance criterion
+Page  3  /  -  +
+ENG  Ф)  9:03 PM
+US  4/23/2026
+
+### 11:23
+Ở cốc cốc  5 Luện tập Q3 - Google Doc X  & SWE202 - Google Drive  +  La ..
+< →  docs.google.com/document/d/10yBA2V0OlzzHeLk0BWJHkgfxZQICJ2qUkPuKJ6Dpagl/edit?tab=t.0  ∞ | D  110 =
+88  • Tất cả dấu trang
+Luyện tập Q3 # G  • a-  • Share
+File Edit View Insert Format Tools Extensions Help
+a saaAS 100% - Normal text  Arial  | - 11] +  / Editing
+must be able to function offine temporarily If the Wi-fl or cellular signal drops inside the  7...1..
+=  supermarket or apartment building elevators.
+Question 3: UC Specification (15 points)
+Write a complete Use Case Specification for the use case 'Checkout Shopping Cart".
+UC SPECIFICATION
+TEMPLATE
+Use Case Name  Checkout Shopping Cart
+ENG  9:04 PM
+
+### 11:23
+Ở cốc cốc  Luyện tập Q3 - Google Docs  D - Google Drive  X  +
+→  drive.google.com/drive/u/0/folders/16ZsDgSYH6tqRzhDEM8kkD-KQ8cFJvOSP  I CO
+88  • Tất cả dấu trang
++
+Por  SWE202c_Practical_Exam_Sample.docx.pdf  Open with Google Docs  :  Share
+5. System checks seat availability → seats available.
+Nevi  My Dr  6. System records the registration and updates seat count
+7. System sends a confirmation notification to the student.
+8. Use case ends successfully.
+Alternative Flow A  At step 5, if the course is full:
+Al. System informs the student that no seats are available.
+My Util  A2. System offers the option to join the waitlist.
+A3. Student confirms → System records the waitlist entry.
+A4. Use case ends (waitlisted).
+Alternative Flow B  At step 4, if prerequisite check fails:
+B1. System displays a message listing the unmet prerequisites.
+Sharac vath nee  B2. Student is retumed to the course list.
+B3. Use case ends without registration.
+Reccor
+Exception Flow  At any step, if a network or database error occurs:
+Sinion  E1. System displays an error message and logs the incident.
+E2. Student is advised to retry or contact Academic Staff.
+E3. Use case ends abnormally.
+Spaul  Business Rules  • A student may not register for courses with overlapping time slots.
+• Maximum credit load per semester is 24 credit hours.
+• Waitlist position is determined by timestamp of request.
+→ StoragE  Non-Functional  • Response time for registration confirmation must be < 3 seconds.
+Requirements  • All data transmitted must be encrypted via TLS 1.2+.
+Question 4: Non-Functional Requirements (10 points)
+Bel mote motoge
+From the case study, identify and classify at least SIX non-functional requirements (NFRs) into appropriate
+quality categories. For each NFR, write one measurable acceptance criterion. Present your answer as a table
+with the columns: Category | NFR Description | Acceptance Criterion. (9 points)
+Answers
+Category  Page  3  +  Acceptance criterion
+ENG  ф)  9:04 PM
+US  4/23/2026
+
+### 11:33
+Ở cốc cốc  5 Luyện tập Q3 - Google Doc X  & SWE202 - Google Drive  +  La
+< >  docs.google.com/document/d/10yBA2V0O|zzHeLk0BWJHkgfxZQ|CJ2qUkPuKJ6Dpagl/edit?tab=t.0  " ®  • I CD
+88  C Tất cả dấu trang
+Luyện tập Q3 # G  +
+0 -  Share
+File Edit View Insert Format Tools Extensions Help
+asca A §100% =Normal text =  Arial  | - 11] +  I UA•  *-E-E•E  EX  / Editing
+6  7... l..
+must be able to function omhine temporaily If the Wi-Fl or céllular signal drops inside the
+supermarket or apartment building elevators.
+Question 3: UC Specification (15 points)
+Write a complete Use Case Specification for the use case 'Checkout Shopping Cart".
+UC SPECIFICATION
+TEMPLATE
+Use Case Name  Checkout Shopping Cart
+^ V Q  ENG  9:05 PM
+4/23/2026
+
+### 11:33
+Ở cốc cốc  Luyện tập Q3 - Google Docs  SWE202 - Google Drive  +  La
+drive.google.com/drive/u/0/folders/16ZsDgSYH6tqRzhDEM8kkD-KQ8cFJvOSP  I CO
+88  • Tất cả dấu trang
++
+SWE202c_Practical_Exam_Sample.docx.pdf  • Open with Google Docs  +  B  :  * Share
+Use Case ID  UC-03
+My D
+Actor(s)  Student (primary); System (secondary)
+Preconditions  • Student is authenticated and logged in. • Registration window is currently open.
+• Student has met all prerequisites for the chosen course.
+Author: <Fill Student ID here>  <Fill exam date here>
+Recant
+Siama  PRACTICAL EXAM - INTRODUCTION TO SOFTWARE ENGINEERING (SWE202c - 2026 Spring - Page 1)
+Spain  Post conditions  • Student is successfully enrolled in the course, OR • Student is placed on the
+waitlist if the course is full.
+฿ That  Main Flow (Basic Path)  1. Student selects 'Browse Courses' from the dashboard.
+2. System displays the list of available courses with seat availability.
+• Strage  3. Student selects a course and clicks 'Register'.
+4. System checks prerequisites → passed.
+5. System checks seat availability → seats available.
+6. System records the registration and updates seat count.
+7. System sends a confirmation notification to the student.
+Gel more stoco ge  8. Use case ends successfully.
+Alternative Flow A  At step 5, if the course is full:
+Al. System informs the student that no seats are available.
+A2. System offers the option to join the waitlist.
+A3. Student confirms → System records the waitlist entry.
+A4. Use case ends (waitlisted).
+Alternative Flow B
+(crequisites.
+ENG  - 4)  9:05 PM
+US  4/23/2026
+

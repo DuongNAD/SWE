@@ -1,0 +1,2 @@
+Đã hoàn thành trích xuất dữ liệu cho video `b7` từ `01_raw/b7/dossier.md` và ghi kết quả vào [`02_extract/b7.json`](file:///Users/duongnad/Documents/project/SWE/02_extract/b7.json) (Thống kê: 15 mục dàn bài, 6 bước quy trình, 7 thuật ngữ/khái niệm, 3 câu chữ mẫu, 3 lưu ý chấm điểm, 3 mẹo làm bài, 3 lỗi sai thường gặp, 2 sơ đồ/bảng chép đầy đủ).
+Đã nhận thông báo hệ thống về tác vụ tìm kiếm file trong nền; quá trình trích xuất cho video `b7` đã hoàn tất chính xác và lưu tại [`02_extract/b7.json`](file:///Users/duongnad/Documents/project/SWE/02_extract/b7.json).

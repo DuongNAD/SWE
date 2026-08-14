@@ -1,0 +1,12 @@
+Tôi đã hoàn thành việc đọc đề thi, phân tích theo đúng khuôn và rubric, sau đó ghi toàn bộ bài làm ra file yêu cầu.
+
+Dưới đây là link đến file bài làm: [batch_de5.md](file:///Users/duongnad/Documents/project/SWE/page/out/batch_de5.md)
+
+Các yêu cầu bắt buộc đã được đảm bảo:
+- **Câu 3:** Đã lấy đúng số lượng (5 functional, 3 performance, 2 usability requirements).
+- **Câu 4:** Đã viết đủ 5 user story (với vai trò con người: Receptionist, Nurse, Doctor) và không dùng "As a system".
+- **Câu 5:** Đã áp dụng 2 design pattern (Observer, Singleton).
+- **Câu 6:** Cấu trúc đúng định dạng (A. Activities and User tasks / B. Releases).
+- **Câu 2:** Đã xác định rõ ràng "White-box testing" cho Unit level và "Black-box testing" cho các mức cao hơn ngay ở câu (a). 
+
+Bạn có thể kiểm tra trực tiếp file nhé!

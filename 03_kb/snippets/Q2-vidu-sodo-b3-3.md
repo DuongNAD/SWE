@@ -1,0 +1,155 @@
+{
+  "id": "b3-3",
+  "so_do": [
+    {
+      "ts_day_du_nhat": "24:27",
+      "ts_xuat_hien": [
+        "03:26",
+        "03:46",
+        "03:56",
+        "07:56",
+        "12:18",
+        "13:21",
+        "14:02",
+        "15:32",
+        "15:45",
+        "15:58",
+        "17:11",
+        "17:23",
+        "18:57",
+        "24:27"
+      ],
+      "loai": "use_case_diagram",
+      "ten_bai_toan": "Patient Portal & Clinic Management System",
+      "phan_tu": [
+        {
+          "ten": "Patient",
+          "kieu": "actor"
+        },
+        {
+          "ten": "Doctor",
+          "kieu": "actor"
+        },
+        {
+          "ten": "Nurse",
+          "kieu": "actor"
+        },
+        {
+          "ten": "Medical Records Officer",
+          "kieu": "actor"
+        },
+        {
+          "ten": "Insurance Provider System",
+          "kieu": "actor",
+          "stereotype": "system"
+        },
+        {
+          "ten": "Book Appointment",
+          "kieu": "usecase"
+        },
+        {
+          "ten": "View Digital Prescription",
+          "kieu": "usecase"
+        },
+        {
+          "ten": "Cancel Appointment",
+          "kieu": "usecase"
+        },
+        {
+          "ten": "Download Lab Result",
+          "kieu": "usecase"
+        },
+        {
+          "ten": "Record Consultation Note",
+          "kieu": "usecase"
+        },
+        {
+          "ten": "Issue Electronic Prescriptions",
+          "kieu": "usecase"
+        },
+        {
+          "ten": "Recording Vital Signs",
+          "kieu": "usecase"
+        },
+        {
+          "ten": "Manage Sensitive Data",
+          "kieu": "usecase"
+        },
+        {
+          "ten": "Verify Coverage",
+          "kieu": "usecase"
+        },
+        {
+          "ten": "Process Billing",
+          "kieu": "usecase"
+        }
+      ],
+      "quan_he": [
+        {
+          "tu": "Patient",
+          "den": "Book Appointment",
+          "loai": "association"
+        },
+        {
+          "tu": "Patient",
+          "den": "View Digital Prescription",
+          "loai": "association"
+        },
+        {
+          "tu": "Patient",
+          "den": "Cancel Appointment",
+          "loai": "association"
+        },
+        {
+          "tu": "Patient",
+          "den": "Download Lab Result",
+          "loai": "association"
+        },
+        {
+          "tu": "Doctor",
+          "den": "Record Consultation Note",
+          "loai": "association"
+        },
+        {
+          "tu": "Doctor",
+          "den": "Issue Electronic Prescriptions",
+          "loai": "association"
+        },
+        {
+          "tu": "Nurse",
+          "den": "Recording Vital Signs",
+          "loai": "association"
+        },
+        {
+          "tu": "Medical Records Officer",
+          "den": "Manage Sensitive Data",
+          "loai": "association"
+        },
+        {
+          "tu": "Insurance Provider System",
+          "den": "Verify Coverage",
+          "loai": "association"
+        },
+        {
+          "tu": "Insurance Provider System",
+          "den": "Process Billing",
+          "loai": "association"
+        },
+        {
+          "tu": "Cancel Appointment",
+          "den": "Book Appointment",
+          "loai": "include",
+          "huong": "Cancel Appointment -> Book Appointment",
+          "nhan": "<<include>>"
+        }
+      ],
+      "plantuml": "@startuml\nleft to right direction\nactor Patient\nactor Doctor\nactor Nurse\nactor \"Medical Records Officer\" as MRO\nactor \"Insurance Provider System\" as IPS <<system>>\n\nrectangle \"Patient Portal & Clinic Management System\" {\n  usecase \"Book Appointment\" as UC1\n  usecase \"View Digital Prescription\" as UC2\n  usecase \"Cancel Appointment\" as UC3\n  usecase \"Download Lab Result\" as UC4\n  usecase \"Record Consultation Note\" as UC5\n  usecase \"Issue Electronic Prescriptions\" as UC6\n  usecase \"Recording Vital Signs\" as UC7\n  usecase \"Manage Sensitive Data\" as UC8\n  usecase \"Verify Coverage\" as UC9\n  usecase \"Process Billing\" as UC10\n}\n\nPatient -- UC1\nPatient -- UC2\nPatient -- UC3\nPatient -- UC4\nDoctor -- UC5\nDoctor -- UC6\nNurse -- UC7\nMRO -- UC8\nIPS -- UC9\nIPS -- UC10\nUC3 .> UC1 : <<include>>\n@enduml",
+      "ghi_chu": "Sơ đồ vẽ Use Case, hoàn thiện đầy đủ nhất ở phút 24:27. Các ảnh trước đó biểu diễn quá trình xây dựng sơ đồ."
+    }
+  ],
+  "bang": [],
+  "anh_bo_qua": [
+    "01m15s.jpg — ảnh văn bản mô tả case study",
+    "01m26s.jpg — ảnh cửa sổ khởi động StarUML"
+  ]
+}

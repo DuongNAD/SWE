@@ -1,0 +1,275 @@
+{
+  "id": "b5",
+  "tieu_de_tu_suy_ra": "Luyện tập Q5 - Hướng dẫn làm câu 5: Domain Class Descriptions và UML Class Diagram",
+  "cau_hoi_lien_quan": [
+    "Q5"
+  ],
+  "do_dai_phut": 52.7,
+  "dan_bai": [
+    {
+      "ts": "00:00",
+      "muc": "Giới thiệu tổng quan yêu cầu Question 5 (Class Diagram - 25 điểm): Part 1 lập bảng Domain Class Descriptions (10 điểm) và Part 2 vẽ UML Class Diagram (15 điểm)."
+    },
+    {
+      "ts": "01:00",
+      "muc": "Đọc các gợi ý class trong đề bài (User, Student, Lecturer, AcademicStaff, SystemAdmin, Course, CourseOffering, Registration, Waitlist, Grade, Semester, Report). Khuyên nên làm tất cả các class gợi ý để tối đa điểm."
+    },
+    {
+      "ts": "01:30",
+      "muc": "Hướng dẫn cấu trúc bảng Part 1: Domain Class Descriptions với 5 cột (#, Class Name, Attributes, Methods, Responsibility)."
+    },
+    {
+      "ts": "02:30",
+      "muc": "Phân tích và hướng dẫn xây dựng Class User («abstract»): Suy từ các phương thức (login, logout, updateProfile) ra các thuộc tính (userId, fullName, email, passwordHash, role)."
+    },
+    {
+      "ts": "05:00",
+      "muc": "Phân tích chi tiết 11 class còn lại (Student, Lecturer, AcademicStaff, SystemAdmin, Course, CourseOffering, Registration, Waitlist, Grade, Semester, Report) kèm kiểu dữ liệu và trách nhiệm."
+    },
+    {
+      "ts": "14:00",
+      "muc": "Mở phần mềm StarUML, tạo 12 class box lên canvas để chuẩn bị vẽ UML Class Diagram."
+    },
+    {
+      "ts": "15:00",
+      "muc": "Thiết lập stereotype «abstract» cho class User trong StarUML, cấu hình visibility cho thuộc tính (private) và phương thức (public)."
+    },
+    {
+      "ts": "17:30",
+      "muc": "Nhập toàn bộ thuộc tính (attributes + data types) và phương thức (methods + return types) cho tất cả 12 class vào StarUML."
+    },
+    {
+      "ts": "32:00",
+      "muc": "Thực hiện mối quan hệ Kế thừa (Generalization): Nối 4 class con (Student, Lecturer, AcademicStaff, SystemAdmin) trỏ về class cha User («abstract»)."
+    },
+    {
+      "ts": "33:00",
+      "muc": "Thực hiện mối quan hệ Liên kết (Association): Nối các cặp class tương tác trực tiếp (Course - CourseOffering, CourseOffering - Registration, Student - Registration, Lecturer - Grade)."
+    },
+    {
+      "ts": "40:30",
+      "muc": "Thực hiện mối quan hệ Tập hợp (Aggregation & Composition): Phân biệt Aggregation (Waitlist - CourseOffering) và Composition (Semester - CourseOffering) kèm giải thích lý do (justification)."
+    },
+    {
+      "ts": "43:30",
+      "muc": "Thực hiện mối quan hệ Phụ thuộc (Dependency): Dùng nét đứt nối từ AcademicStaff sang Report dựa trên phương thức generateReport(): Report."
+    },
+    {
+      "ts": "45:30",
+      "muc": "Thêm chỉ số số lượng (Multiplicity labels: 1, 1..*, 0..*) vào hai đầu của mối quan hệ Association và hoàn thiện sơ đồ."
+    },
+    {
+      "ts": "52:00",
+      "muc": "Tổng kết bài giảng Q5 và nhắc nhở sinh viên về việc theo dõi thông tin hình thức nộp bài thi."
+    }
+  ],
+  "quy_trinh_lam_bai": [
+    {
+      "buoc": 1,
+      "ten_buoc": "Lập bảng Part 1 - Domain Class Descriptions",
+      "lam_gi_cu_the": "Kẻ bảng 5 cột: # | Class Name | Attributes (with data types) | Methods | Responsibility. Liệt kê toàn bộ các class được gợi ý trong đề bài (User, Student, Lecturer, AcademicStaff, SystemAdmin, Course, CourseOffering, Registration, Waitlist, Grade, Semester, Report).",
+      "dau_vao": "Danh sách Suggested classes trong đề bài Question 5",
+      "dau_ra": "Khung bảng Part 1 gồm 12 class với đầy đủ các cột thông tin",
+      "cau_noi_goc": "đầu tiên nó gợi ý cho anh em class nào thì anh em cứ viết hết vào cho mình nhé mặc dù nó bảo lấy tầm 6 cái thôi nhưng mà anh em cứ viết vào cho mình",
+      "ts": "01:30"
+    },
+    {
+      "buoc": 2,
+      "ten_buoc": "Xác định thuộc tính và phương thức cho Class cha User",
+      "lam_gi_cu_the": "Đánh dấu User là «abstract». Viết phương thức trước (login(email, pwd): Boolean, logout(): void, updateProfile(data): void), sau đó suy ngược ra các thuộc tính bắt buộc (userId: String, fullName: String, email: String, passwordHash: String, role: String).",
+      "dau_vao": "Yêu cầu người dùng chung trong Case Study",
+      "dau_ra": "Chi tiết thuộc tính và phương thức cho Class User «abstract»",
+      "cau_noi_goc": "Anh em cứ để ý cho mình là anh em viết cho mình method trước Xong anh em chế ra Attribute",
+      "ts": "02:30"
+    },
+    {
+      "buoc": 3,
+      "ten_buoc": "Hoàn thiện chi tiết attributes, data types và methods cho các class còn lại",
+      "lam_gi_cu_the": "Lần lượt điền ít nhất 3 thuộc tính kèm kiểu dữ liệu (String, int, float, DateTime, Boolean, List) và 2 phương thức cho 11 class con và domain class khác (Student, Lecturer, AcademicStaff, SystemAdmin, Course, CourseOffering, Registration, Waitlist, Grade, Semester, Report).",
+      "dau_vao": "Case Study đề thi và chức năng của từng nhóm người dùng / thực thể",
+      "dau_ra": "Bảng Part 1 đầy đủ 12 class với chi tiết thuộc tính, kiểu dữ liệu, phương thức và trách nhiệm",
+      "cau_noi_goc": "mỗi 1 user nó cũng phải có 1 ID khác nhau... anh em chỉ cần dựa vào cái cây ta đi anh em biết được mê thớt ngay",
+      "ts": "05:00"
+    },
+    {
+      "buoc": 4,
+      "ten_buoc": "Vẽ mối quan hệ Kế thừa (Generalization) trong UML Diagram",
+      "lam_gi_cu_the": "Sử dụng công cụ Generalization (mũi tên tam giác rỗng). Nối 4 class con (Student, Lecturer, AcademicStaff, SystemAdmin) chỉ về class cha User («abstract»).",
+      "dau_vao": "Class User «abstract» và 4 class người dùng cụ thể",
+      "dau_ra": "4 đường Generalization trỏ từ Student, Lecturer, AcademicStaff, SystemAdmin về User",
+      "cau_noi_goc": "4 thằng này đều là người dùng hệ thống đúng không anh em? thì chính 4 thằng này nó sẽ chính là thằng con của thằng này và nó sẽ kế thừa",
+      "ts": "32:00"
+    },
+    {
+      "buoc": 5,
+      "ten_buoc": "Vẽ các mối quan hệ Liên kết (Association)",
+      "lam_gi_cu_the": "Dùng đường Association nối các cặp class có liên kết trực tiếp với nhau: Course – CourseOffering (has), CourseOffering – Registration (for), Student – Registration (submit), Lecturer – Grade (manage).",
+      "dau_vao": "Các class có sự tương tác chức năng trực tiếp",
+      "dau_ra": "Các đường nối Association giữa các cặp class",
+      "cau_noi_goc": "Nó chỉ là một cái liên kết bình thường thôi Như là hai cái thằng class này nó sẽ có gì đấy liên quan đến nhau",
+      "ts": "33:00"
+    },
+    {
+      "buoc": 6,
+      "ten_buoc": "Vẽ mối quan hệ Tập hợp (Aggregation và Composition)",
+      "lam_gi_cu_the": "Phân biệt và vẽ:\n- Aggregation (hình thoi rỗng): Nối từ Waitlist đến CourseOffering (vì xóa CourseOffering thì sinh viên trong Waitlist vẫn tồn tại).\n- Composition (hình thoi đặc): Nối từ Semester đến CourseOffering (vì xóa Semester thì toàn bộ CourseOffering trong kỳ đó bị tiêu hủy theo).",
+      "dau_vao": "Các quan hệ chứa đựng/tập hợp giữa Waitlist-CourseOffering và Semester-CourseOffering",
+      "dau_ra": "Đường Aggregation (thoi rỗng) giữa Waitlist và CourseOffering; Đường Composition (thoi đặc) giữa Semester và CourseOffering",
+      "cau_noi_goc": "nếu mà mình xóa bỏ thằng này thì cái thằng quên ít không bị ảnh hưởng gì... Còn composition... nếu mà mình xóa bỏ thằng này Thì thằng này nó sẽ mất luôn",
+      "ts": "40:30"
+    },
+    {
+      "buoc": 7,
+      "ten_buoc": "Vẽ mối quan hệ Phụ thuộc (Dependency)",
+      "lam_gi_cu_the": "Dùng đường nét đứt có mũi tên (Dependency) trỏ từ AcademicStaff sang Report vì phương thức generateReport(): Report trong AcademicStaff nhận/trả về kiểu dữ liệu Class Report.",
+      "dau_vao": "Phương thức generateReport(): Report trong AcademicStaff",
+      "dau_ra": "Mũi tên nét đứt Dependency từ AcademicStaff trỏ đến Report",
+      "cau_noi_goc": "khi Zenith cái report... thằng academic staff này nó đang phụ thuộc vào thằng này... mình sẽ dùng lá dependency",
+      "ts": "43:30"
+    },
+    {
+      "buoc": 8,
+      "ten_buoc": "Thêm chỉ số số lượng (Multiplicity Labels)",
+      "lam_gi_cu_the": "Bổ sung chỉ số Multiplicity ở CẢ HAI ĐẦU của các đường Association. Ví dụ: Course (1) --- (1..*) CourseOffering; Student (1) --- (0..*) Registration; CourseOffering (1) --- (1) Registration; Lecturer (1) --- (0..*) Grade.",
+      "dau_vao": "Yêu cầu multiplicity labels at both ends trong đề bài",
+      "dau_ra": "Các nhãn chỉ số 1, 1..*, 0..* hiển thị đầy đủ tại hai đầu các mối quan hệ Association",
+      "cau_noi_goc": "Phải có Multiplicity... 1 cost thì nó có thể tạo ra 1 hoặc nhiều lớp khác nhau... 1 học sinh thì có thể đăng ký 0 hoặc nhiều",
+      "ts": "45:30"
+    }
+  ],
+  "vi_du_giang_vien_lam": [
+    {
+      "de_bai_goc": "Question 5: Class Diagram (25 points)\n1. Identify at least SIX key domain classes for the Course Registration System. For each class, specify at minimum three attributes (with data types) and two methods. Present this as a structured list or mini class-description table before drawing the diagram. (10 points)\n2. Draw a complete UML Class Diagram that includes: (15 points)\n• All identified classes with their full attribute and method compartments Author: PRACTICAL EXAM - INTRODUCTION TO SOFTWARE ENGINEERING (SWE202c - 2026 Spring - Page 1)\n• At least ONE inheritance (generalization) relationship - for example, User as a base class for Student, Lecturer, and AcademicStaff\n• At least TWO association relationships with correct multiplicity labels at both ends\n• At least ONE aggregation OR composition relationship, with the correct diamond notation and a written justification\n• At least ONE dependency relationship\nSuggested classes (you may add or rename): User, Student, Lecturer, AcademicStaff, SystemAdmin, Course, CourseOffering, Registration, Waitlist, Grade, Semester, Report.",
+      "bai_lam_hoan_chinh": "Part 1 • Domain Class Descriptions\n\n# | Class Name | Attributes | Methods | Responsibility\n1 | User «abstract» | userId:String, fullName:String, email:String, passwordHash:String, role:String | login(email,pwd):Boolean, logout():void, updateProfile(data):void | Store basic user info and handle login/logout\n2 | Student | studentId:String, program:String, yearLevel:int, gpa:float, creditEarned:int | browseCatalog():List, submitRegistration():Registration, viewTranscript():List | Student can view courses and register\n3 | Lecturer | staffId:String, department:String, specialisation:String | viewRoster():List, recordGrade():void, releaseGrades():void | Manage students and grades\n4 | AcademicStaff | staffId:String, department:String, adminLevel:int | openRegistrationWindow():void, approveException():void, generateReport():Report | Manage registration and reports\n5 | SystemAdmin | adminId:String, accessLevel:int, lastBackup:DateTime | manageUserAccount():void, configureSystem():void, runBackup():void | Manage system and user accounts\n6 | Course | courseCode:String, title:String, credits:int, description:String, prerequisites:List | checkPrerequisites():Boolean, getOfferings():List | Store course info and rules\n7 | CourseOffering | offeringId:String, schedule:String, room:String, quota:int, enrolledCount:int, status:String | isAvailable():Boolean, getEnrolledStudents():List, addToWaitlist():void | Course in semester with limited seats\n8 | Registration | registrationId:String, submittedAt:DateTime, status:String, approvedBy:String | approve():void, reject():void, cancel():void | Store registration request\n9 | Waitlist | waitlistId:String, position:int, joinedAt:DateTime | promoteNext():Student, removeEntry():void, getPosition():int | Manage waiting list\n10 | Grade | gradeId:String, midtermScore:float, finalScore:float, letterGrade:String, isReleased:Boolean | calculate():String, release():void, getGPA():float | Store and calculate scores\n11 | Semester | semesterId:String, name:String, startDate:Date, endDate:Date, regWindowOpen:Boolean | openRegistration():void, closeRegistration():void, isActive():Boolean | Control semester timeline\n12 | Report | reportId:String, type:String, generatedAt:DateTime, generatedBy:String, content:String | generate():void, export():File, schedule():void | Create and export reports\n\nPart 2 • UML Class Diagram Structure:\n\n1. Generalization (Kế thừa):\n   User «abstract»\n   ├── Student\n   ├── Lecturer\n   ├── AcademicStaff\n   └── SystemAdmin\n\n2. Association (Liên kết) & Multiplicity:\n   Course (1) ────────── (1..*) CourseOffering [Label: has]\n   Student (1) ────────── (0..*) Registration  [Label: submit]\n   CourseOffering (1) ── (1) Registration      [Label: for]\n   Lecturer (1) ───────── (0..*) Grade         [Label: manage]\n\n3. Aggregation (Tập hợp rỗng - Ký hiệu thoi rỗng <>):\n   CourseOffering (1) <>──────── (0..*) Waitlist\n   Justification: CourseOffering contains Waitlist entries. If CourseOffering is dropped, student entries are preserved in external log records.\n\n4. Composition (Tập hợp đặc - Ký hiệu thoi đặc <* >):\n   Semester (1) <* >──────── (1..*) CourseOffering\n   Justification: CourseOffering is bound to a specific Semester. If a Semester is deleted, all CourseOfferings scheduled in that semester are completely destroyed.\n\n5. Dependency (Phụ thuộc - Nét đứt ..>):\n   AcademicStaff ..> Report [Label: generate, via method generateReport(): Report]",
+      "giang_giai": "Giảng viên liệt kê trọn vẹn cả 12 class gợi ý vào bảng Part 1 với đầy đủ 3+ thuộc tính (có ghi rõ data types) và 2+ phương thức kèm trách nhiệm. Sang Part 2, giảng viên sử dụng StarUML xây dựng Class Diagram hoàn chỉnh đáp ứng đủ 5 thành phần mối quan hệ: Generalization (Kế thừa từ User abstract), Association (Liên kết giữa các đối tượng tương tác có Multiplicity labels 1, 1..*, 0..*), Aggregation (Waitlist <>-- CourseOffering), Composition (Semester <* >-- CourseOffering), và Dependency (AcademicStaff ..> Report).",
+      "ts": "01:30"
+    }
+  ],
+  "khai_niem": [
+    {
+      "thuat_ngu": "Generalization (Kế thừa)",
+      "dinh_nghia_theo_giang_vien": "Mối quan hệ kế thừa trong UML biểu diễn quan hệ cha-con (is-a). Class con kế thừa toàn bộ thuộc tính và phương thức của class cha. Mũi tên có đầu tam giác rỗng trỏ từ class con về class cha.",
+      "vi_du": "Student, Lecturer, AcademicStaff, SystemAdmin kế thừa từ class cha User «abstract».",
+      "ts": "32:00"
+    },
+    {
+      "thuat_ngu": "Association (Liên kết)",
+      "dinh_nghia_theo_giang_vien": "Mối quan hệ liên kết cơ bản giữa các class có sự tương tác logic với nhau. Bắt buộc phải có nhãn chỉ số số lượng (Multiplicity) ghi rõ ở cả hai đầu liên kết.",
+      "vi_du": "Course (1) --- (1..*) CourseOffering (một môn học có 1 hoặc nhiều lớp mở trong học kỳ).",
+      "ts": "33:00"
+    },
+    {
+      "thuat_ngu": "Aggregation (Tập hợp rỗng)",
+      "dinh_nghia_theo_giang_vien": "Mối quan hệ tập hợp lỏng lẻo (has-a). Ký hiệu bằng hình thoi rỗng ở phía class chứa. Class phần tử đóng góp tạo nên class chứa, nhưng nếu class chứa bị xóa thì class phần tử vẫn tồn tại độc lập.",
+      "vi_du": "CourseOffering và Waitlist (xóa lớp học CourseOffering thì danh sách sinh viên chờ Waitlist không bị tiêu hủy hoàn toàn).",
+      "ts": "40:30"
+    },
+    {
+      "thuat_ngu": "Composition (Tập hợp đặc)",
+      "dinh_nghia_theo_giang_vien": "Mối quan hệ tập hợp chặt chẽ (part-of). Ký hiệu bằng hình thoi đặc màu đen ở phía class chứa. Class phần tử thuộc sở hữu hoàn toàn của class chứa, nếu class chứa bị xóa thì class phần tử bị xoá/tiêu hủy theo.",
+      "vi_du": "Semester và CourseOffering (xóa học kỳ Semester thì tất cả các lớp mở CourseOffering trong học kỳ đó bị xóa hoàn toàn).",
+      "ts": "42:00"
+    },
+    {
+      "thuat_ngu": "Dependency (Phụ thuộc)",
+      "dinh_nghia_theo_giang_vien": "Mối quan hệ phụ thuộc tạm thời giữa 2 class, biểu diễn bằng đường nét đứt có mũi tên. Xảy ra khi một class sử dụng class khác làm tham số, kiểu trả về hoặc biến cục bộ trong phương thức.",
+      "vi_du": "AcademicStaff phụ thuộc vào Report thông qua phương thức generateReport(): Report.",
+      "ts": "43:30"
+    }
+  ],
+  "cau_chu_mau": [
+    {
+      "dung_khi": "Khai báo thuộc tính trong compartment của UML Class Diagram",
+      "mau": "+ attributeName : DataType (nếu public) hoặc - attributeName : DataType (nếu private)",
+      "ts": "16:00"
+    },
+    {
+      "dung_khi": "Khai báo phương thức trong compartment của UML Class Diagram",
+      "mau": "+ methodName(paramName: ParamType) : ReturnType",
+      "ts": "17:00"
+    },
+    {
+      "dung_khi": "Viết câu giải thích lý do chọn quan hệ Aggregation / Composition (Justification)",
+      "mau": "[Class A] has a [Composition/Aggregation] relationship with [Class B] because [reason: deleting Class A deletes/does not delete Class B].",
+      "ts": "42:00"
+    }
+  ],
+  "luu_y_cham_diem": [
+    {
+      "noi_dung": "Question 5 chiếm 25 điểm (số điểm cao nhất trong toàn bộ bài thi SWE202c): Part 1 chiếm 10 điểm, Part 2 chiếm 15 điểm.",
+      "muc_do": "chac_chan",
+      "ts": "00:00"
+    },
+    {
+      "noi_dung": "Đề bài yêu cầu liệt kê ít nhất 6 class, nhưng trong bảng gợi ý có 12 class thì nên làm trọn vẹn cả 12 class vào bảng Part 1 để ăn điểm tối đa.",
+      "muc_do": "co_the",
+      "ts": "01:30"
+    },
+    {
+      "noi_dung": "Tất cả các thuộc tính trong Part 1 và trên sơ đồ UML bắt buộc phải ghi kèm kiểu dữ liệu (data types) như String, int, float, DateTime, Boolean, List.",
+      "muc_do": "chac_chan",
+      "ts": "00:30"
+    },
+    {
+      "noi_dung": "Mối quan hệ Association trong sơ đồ UML bắt buộc phải có chỉ số Multiplicity ghi rõ ở CẢ HAI ĐẦU (ví dụ 1 và 1..*, 1 và 0..*), nếu thiếu sẽ bị trừ điểm.",
+      "muc_do": "chac_chan",
+      "ts": "45:30"
+    },
+    {
+      "noi_dung": "Khi vẽ Aggregation hoặc Composition, bắt buộc phải viết kèm câu giải thích lý do (written justification) giải thích sự phụ thuộc tồn tại giữa 2 class.",
+      "muc_do": "chac_chan",
+      "ts": "40:30"
+    }
+  ],
+  "meo_lam_bai": [
+    {
+      "meo": "Mẹo suy ra thuộc tính từ phương thức: Nhìn vào các phương thức chính của class (ví dụ login(email, pwd)), suy ngược ngay ra các thuộc tính bắt buộc của class đó (email, passwordHash, userId).",
+      "ts": "02:30"
+    },
+    {
+      "meo": "Mẹo quy ước quyền truy cập (Visibility): Mọi thuộc tính (Attributes) để quyền private (-), mọi phương thức (Methods) để quyền public (+).",
+      "ts": "18:30"
+    },
+    {
+      "meo": "Mẹo chọn cặp class làm Aggregation và Composition chuẩn nhất: Chọn Waitlist - CourseOffering cho Aggregation (hình thoi rỗng), chọn Semester - CourseOffering cho Composition (hình thoi đặc).",
+      "ts": "40:30"
+    },
+    {
+      "meo": "Mẹo xác định mối quan hệ Dependency: Tìm phương thức có kiểu trả về là một Class khác (ví dụ generateReport(): Report trong AcademicStaff) -> nối đường nét đứt mũi tên từ AcademicStaff sang Report.",
+      "ts": "44:00"
+    }
+  ],
+  "loi_sai_thuong_gap": [
+    {
+      "loi": "Quên không ghi kiểu dữ liệu (data type) cho thuộc tính trong bảng Part 1 hoặc trong class compartment.",
+      "cach_tranh": "Luôn viết theo đúng chuẩn attributeName : DataType (ví dụ userId : String, credits : int, gpa : float).",
+      "ts": "00:30"
+    },
+    {
+      "loi": "Nhầm lẫn ký hiệu giữa Aggregation (thoi rỗng) và Composition (thoi đặc).",
+      "cach_tranh": "Ghi nhớ: Composition là phụ thuộc sinh tử (xóa cha con chết -> thoi đặc), Aggregation là tập hợp lỏng (xóa cha con vẫn sống -> thoi rỗng).",
+      "ts": "43:00"
+    },
+    {
+      "loi": "Thiếu chỉ số Multiplicity ở hai đầu của đường Association.",
+      "cach_tranh": "Rà soát lại từng đường Association và điền đủ 2 đầu (ví dụ 1 --- 1..* hoặc 1 --- 0..*).",
+      "ts": "45:30"
+    }
+  ],
+  "prompt_ai_giang_vien_dung": [],
+  "so_do_va_bang": [
+    {
+      "ts": "01:30",
+      "loai": "khac",
+      "noi_dung_chep_lai": "Part 1 • Domain Class Descriptions\n# | Class Name | Attributes | Methods | Responsibility\n1 | User «abstract» | userId:String, fullName:String, email:String, passwordHash:String, role:String | login(email,pwd):Boolean, logout():void, updateProfile(data):void | Store basic user info and handle login/logout\n2 | Student | studentId:String, program:String, yearLevel:int, gpa:float, creditEarned:int | browseCatalog():List, submitRegistration():Registration, viewTranscript():List | Student can view courses and register\n3 | Lecturer | staffId:String, department:String, specialisation:String | viewRoster():List, recordGrade():void, releaseGrades():void | Manage students and grades\n4 | AcademicStaff | staffId:String, department:String, adminLevel:int | openRegistrationWindow():void, approveException():void, generateReport():Report | Manage registration and reports\n5 | SystemAdmin | adminId:String, accessLevel:int, lastBackup:DateTime | manageUserAccount():void, configureSystem():void, runBackup():void | Manage system and user accounts\n6 | Course | courseCode:String, title:String, credits:int, description:String, prerequisites:List | checkPrerequisites():Boolean, getOfferings():List | Store course info and rules\n7 | CourseOffering | offeringId:String, schedule:String, room:String, quota:int, enrolledCount:int, status:String | isAvailable():Boolean, getEnrolledStudents():List, addToWaitlist():void | Course in semester with limited seats\n8 | Registration | registrationId:String, submittedAt:DateTime, status:String, approvedBy:String | approve():void, reject():void, cancel():void | Store registration request\n9 | Waitlist | waitlistId:String, position:int, joinedAt:DateTime | promoteNext():Student, removeEntry():void, getPosition():int | Manage waiting list\n10 | Grade | gradeId:String, midtermScore:float, finalScore:float, letterGrade:String, isReleased:Boolean | calculate():String, release():void, getGPA():float | Store and calculate scores\n11 | Semester | semesterId:String, name:String, startDate:Date, endDate:Date, regWindowOpen:Boolean | openRegistration():void, closeRegistration():void, isActive():Boolean | Control semester timeline\n12 | Report | reportId:String, type:String, generatedAt:DateTime, generatedBy:String, content:String | generate():void, export():File, schedule():void | Create and export reports"
+    },
+    {
+      "ts": "47:30",
+      "loai": "class_diagram",
+      "noi_dung_chep_lai": "UML CLASS DIAGRAM SPECIFICATION:\n\n1. Inheritance (Generalization):\n   User «abstract»\n   ├── Student\n   ├── Lecturer\n   ├── AcademicStaff\n   └── SystemAdmin\n\n2. Associations & Multiplicities:\n   Course (1) ────────── (1..*) CourseOffering  [Label: has]\n   Student (1) ────────── (0..*) Registration   [Label: submit]\n   CourseOffering (1) ── (1) Registration       [Label: for]\n   Lecturer (1) ───────── (0..*) Grade          [Label: manage]\n\n3. Aggregation:\n   CourseOffering (1) <>──────── (0..*) Waitlist\n\n4. Composition:\n   Semester (1) <* >──────── (1..*) CourseOffering\n\n5. Dependency:\n   AcademicStaff ..> Report [Label: generate]"
+    }
+  ],
+  "cho_khong_ro": [],
+  "ghi_chu_ngoai_khoa": [],
+  "do_bao_phu": "đã đọc hết dossier: có"
+}

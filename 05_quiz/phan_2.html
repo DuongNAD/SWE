@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="vi"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Quiz SWE202c — Phần 2/5 — 50 câu</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--fg:#16181d;--muted:#6b7280;--line:#e3e6eb;
+--ok:#0f9d58;--okbg:#e6f4ea;--no:#d93025;--nobg:#fce8e6;--acc:#1a73e8;--accbg:#e8f0fe;
+--tip:#8a5a00;--tipbg:#fff8e1;--tipline:#f2d98c}
+@media(prefers-color-scheme:dark){:root{--bg:#15171c;--card:#1e2128;--fg:#e8eaed;--muted:#9aa0a6;
+--line:#2f333c;--okbg:#12281a;--nobg:#2b1512;--accbg:#17243b;--ok:#63d297;--no:#f28b82;--acc:#8ab4f8;
+--tip:#f5c96b;--tipbg:#2a2415;--tipline:#4d4327}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);
+font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:780px;margin:0 auto;padding:20px 16px 90px}
+h1{font-size:20px;margin:0 0 4px}
+.sub{color:var(--muted);font-size:14px;margin-bottom:14px}
+.bar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
+button{font:inherit;cursor:pointer;border:1px solid var(--line);background:var(--card);
+color:var(--fg);border-radius:8px;padding:8px 14px}
+button:hover{border-color:var(--acc)}
+button.primary{background:var(--acc);color:#fff;border-color:var(--acc)}
+button:disabled{opacity:.45;cursor:not-allowed}
+button.on{border-color:var(--ok);color:var(--ok)}
+.prog{height:6px;background:var(--line);border-radius:99px;overflow:hidden;margin-bottom:18px}
+.prog>i{display:block;height:100%;background:var(--acc);width:0;transition:width .25s}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px}
+.meta{color:var(--muted);font-size:13px;margin-bottom:10px;display:flex;
+justify-content:space-between;gap:10px;flex-wrap:wrap}
+.q{font-size:17px;font-weight:600;margin-bottom:14px;white-space:pre-wrap}
+.opt{display:flex;gap:11px;align-items:flex-start;border:1px solid var(--line);
+border-radius:10px;padding:11px 13px;margin-bottom:8px;cursor:pointer;
+transition:border-color .12s,background .12s;user-select:none}
+.opt:hover{border-color:var(--acc)}
+.box{flex:none;width:19px;height:19px;margin-top:2px;border:2px solid var(--muted);
+display:flex;align-items:center;justify-content:center;font-size:12px;color:#fff;line-height:1}
+.box.sq{border-radius:5px}.box.ci{border-radius:50%}
+.opt.sel{border-color:var(--acc);background:var(--accbg)}
+.opt.sel .box{background:var(--acc);border-color:var(--acc)}
+.opt.ok{border-color:var(--ok);background:var(--okbg)}
+.opt.ok .box{background:var(--ok);border-color:var(--ok)}
+.opt.no{border-color:var(--no);background:var(--nobg)}
+.opt.no .box{background:var(--no);border-color:var(--no)}
+.opt.done{cursor:default}
+.k{font-weight:700;min-width:20px}
+.fb{margin-top:12px;padding:11px 13px;border-radius:10px;font-weight:600}
+.fb.ok{background:var(--okbg);color:var(--ok)}
+.fb.no{background:var(--nobg);color:var(--no)}
+.tip{margin-top:12px;padding:12px 14px;border-radius:10px;background:var(--tipbg);
+border:1px solid var(--tipline);color:var(--fg)}
+.tip h4{margin:0 0 7px;font-size:13px;letter-spacing:.04em;text-transform:uppercase;color:var(--tip)}
+.hook{font-weight:700;font-size:16px;margin-bottom:5px}
+.tip p{margin:4px 0;font-size:15px}
+.trap{color:var(--no);font-weight:500}
+.nav{display:flex;gap:8px;margin-top:16px;flex-wrap:wrap;align-items:center}
+.stat{font-size:14px;color:var(--muted)}
+kbd{font:12px ui-monospace,monospace;background:var(--line);border-radius:4px;padding:1px 5px}
+.hint{margin-top:14px;font-size:13px;color:var(--muted)}
+.parts{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px}
+.parts a{font-size:14px;text-decoration:none;color:var(--acc);border:1px solid var(--line);
+border-radius:8px;padding:5px 11px}
+.parts a:hover{border-color:var(--acc)}
+.parts a.now{background:var(--accbg);border-color:var(--acc);font-weight:700}
+.parts small{color:var(--muted);font-weight:400}
+</style></head><body><div class="wrap">
+<h1>Quiz SWE202c — Phần 2/5</h1>
+<div class="sub" id="sub"></div>
+<div class="parts"><a href="quiz.html">Tất cả</a><a href="phan_1.html">Phần 1<small> · 1–50</small></a><a href="phan_2.html" class="now">Phần 2<small> · 51–100</small></a><a href="phan_3.html">Phần 3<small> · 101–150</small></a><a href="phan_4.html">Phần 4<small> · 151–200</small></a><a href="phan_5.html">Phần 5<small> · 201–260</small></a></div>
+<div class="bar">
+  <button id="shuffle">Xáo trộn</button>
+  <button id="wrongOnly">Ôn câu sai</button>
+  <button id="repeat">Lặp câu sai</button>
+  <button id="reset">Làm lại từ đầu</button>
+</div>
+<div class="prog"><i id="pbar"></i></div>
+<div class="card" id="card"></div>
+<div class="nav">
+  <button id="prev">← Câu trước</button>
+  <button id="check" class="primary">Kiểm tra</button>
+  <button id="tipBtn">💡 Gợi ý</button>
+  <button id="next">Câu sau →</button>
+  <span class="stat" id="stat"></span>
+</div>
+<div class="hint">Phím tắt: <kbd>A</kbd>–<kbd>E</kbd> chọn · <kbd>Enter</kbd> kiểm tra / câu sau ·
+<kbd>←</kbd> <kbd>→</kbd> chuyển câu · <kbd>H</kbd> gợi ý</div>
+</div>
+<script>
+const DATA = [{"slide": 57, "q": "In software development, what is the primary objective of conducting a retrospective meeting in Agile methodologies?", "opts": {"A": "To reflect on past iterations and improve future processes", "B": "To assign tasks for the next sprint", "C": "To evaluate individual team member performance", "D": "To finalize user stories for release"}, "ans": ["A"], "hook": "retrospective meeting → improve future processes", "why": "Họp cải tiến quy trình retrospective trong Agile được thực hiện ở cuối mỗi sprint nhằm nhìn lại quá trình đã qua và tìm cách cải thiện hiệu quả làm việc cho các sprint tiếp theo.", "trap": "C sai vì retrospective tập trung vào cải tiến quy trình của cả nhóm chứ không dùng để đánh giá hay chỉ trích hiệu suất của từng cá nhân."}, {"slide": 59, "q": "Which of the following CANNOT be shown on a Gantt chart?", "opts": {"A": "the task dependencies", "B": "the time estimates for each task", "C": "the resource assignment for each task", "D": "the tasks that lie on the critical path", "E": "the progress of each task"}, "ans": ["D"], "hook": "Gantt chart CANNOT → critical path (D)", "why": "Gantt chart chỉ tập trung vào tiến độ và thời gian theo lịch biểu chứ không phân tích mạng lưới công việc để xác định đường găng như sơ đồ PERT hay CPM.", "trap": "A sai vì Gantt chart hiện đại vẫn có thể hiển thị các mũi tên liên kết giữa các task."}, {"slide": 60, "q": "Which of the following is not an emphasis of an Agile development process?", "opts": {"A": "individuals and interactions", "B": "comprehensive test plan", "C": "client involvement/collaboration", "D": "working software", "E": "responsiveness to change"}, "ans": ["B"], "hook": "Not Agile → comprehensive test plan", "why": "Tuyên ngôn Agile ưu tiên phần mềm chạy tốt hơn là việc lập kế hoạch hay tài liệu hóa quá chi tiết và toàn diện.", "trap": "A sai vì Agile luôn nhấn mạnh tương tác giữa các cá nhân hơn là quy trình và công cụ."}, {"slide": 61, "q": "Which of the following IS NOT a software quality assurance activity?", "opts": {"A": "standards enforcement", "B": "program testing", "C": "artifact reviews", "D": "software configuration management", "E": "people training"}, "ans": ["E"], "hook": "NOT quality assurance → people training", "why": "Đào tạo nhân sự là hoạt động quản lý nguồn lực và phát triển tổ chức chứ không trực tiếp kiểm soát hay đảm bảo chất lượng của sản phẩm phần mềm.", "trap": "D sai vì nhiều người nghĩ quản lý cấu hình không liên quan đến chất lượng, nhưng thực tế nó giúp kiểm soát phiên bản và tính nhất quán của sản phẩm nên vẫn là hoạt động QA."}, {"slide": 62, "q": "Which of the following is NOT true about design patterns?", "opts": {"A": "They help novices behave like experts.", "B": "They are described using program code.", "C": "They represent a solution to a problem in a context.", "D": "They can be used to handle nonfunctional requirements.", "E": "They make extensive use of inheritance and delegation."}, "ans": ["B"], "hook": "design patterns NOT true → described using program code (B)", "why": "Design patterns là các giải pháp trừu tượng, mô tả cách giải quyết vấn đề chứ không phải bản thân đoạn mã cụ thể.", "trap": "D sai vì design patterns có thể giúp xử lý các non-functional requirements như hiệu năng (ví dụ: Singleton) hoặc khả năng mở rộng (ví dụ: Strategy)."}, {"slide": 63, "q": "Which statement is NOT true about a state in a state machine diagram?", "opts": {"A": "It has duration.", "B": "It can be anonymous (unnamed).", "C": "It can only be entered by the triggering of an event.", "D": "It may be characterized by the value of one or more attributes.", "E": "It may be characterized by the existence of a link to another object."}, "ans": ["C"], "hook": "state machine diagram NOT true → only entered by event", "why": "Một state trong state machine diagram vẫn có thể được đi vào trực tiếp thông qua initial state hoặc các chuyển trạng thái không điều kiện mà không cần có event kích hoạt.", "trap": "A sai vì state thể hiện một khoảng thời gian đối tượng duy trì một điều kiện nào đó nên nó bắt buộc phải có duration."}, {"slide": 64, "q": "Which of the following is NOT a way to deal with risks in software development?", "opts": {"A": "avoid (replan or change requirements)", "B": "ignore (act as if it won't happen)", "C": "mitigate (devise tests to see if it occurs)", "D": "confine (restrict the scope of its effect)", "E": "monitor (constantly be on the lookout for it)"}, "ans": ["B"], "hook": "NOT deal with risks → ignore", "why": "Trong quản lý rủi ro của phát triển phần mềm, việc phớt lờ rủi ro là một hành động vô trách nhiệm và không được coi là một chiến lược giải quyết rủi ro hợp lệ.", "trap": "C sai vì mitigate là chiến lược giảm thiểu rủi ro rất phổ biến nên không thể là đáp án cho câu hỏi chọn phương án KHÔNG phải."}, {"slide": 65, "q": "Which of the following is NOT a configuration management activity?", "opts": {"A": "change management", "B": "version management", "C": "risk management", "D": "release management", "E": "system building"}, "ans": ["C"], "hook": "configuration management NOT → risk management (C)", "why": "Risk management thuộc về quản lý dự án chung chứ không nằm trong các hoạt động kỹ thuật của quản lý cấu hình phần mềm.", "trap": "E sai vì system building là một bước kỹ thuật bắt buộc để tạo ra sản phẩm từ các thành phần cấu hình nên sinh viên dễ nhầm là không thuộc configuration management."}, {"slide": 66, "q": "Which of the following is NOT an issue when considering \"programming-in-the-large\"?", "opts": {"A": "Understanding user requirements", "B": "Applying appropriate software development processes", "C": "Building models of a system", "D": "Validating user input.", "E": "Making design trade-offs"}, "ans": ["D"], "hook": "programming-in-the-large → Validating user input", "why": "Programming-in-the-large liên quan đến các vấn đề quản lý, tổ chức và cấu trúc hệ thống lớn, không phải chi tiết kỹ thuật như kiểm tra đầu vào người dùng.", "trap": "A sai vì việc hiểu yêu cầu người dùng là một thách thức lớn khi phát triển phần mềm quy mô lớn."}, {"slide": 67, "q": "Which of the following is NOT included in the \"Four P's in Software Development\"?", "opts": {"A": "people", "B": "plan", "C": "process", "D": "product", "E": "project"}, "ans": ["B"], "hook": "Four P's NOT → plan (B)", "why": "Mô hình quản lý dự án phần mềm 4P bao gồm People, Product, Process và Project chứ không chứa Plan.", "trap": "E sai vì Project thường bị nhầm là không thuộc 4P do trùng âm đầu với Product và Process trong khi thực tế Plan mới là từ bị loại."}, {"slide": 68, "q": "Which of the following is NOT a property of an attribute in the UML?", "opts": {"A": "data type", "B": "multiplicity", "C": "visibility", "D": "signature", "E": "changeability"}, "ans": ["D"], "hook": "attribute in UML NOT → signature (D)", "why": "Signature hay chữ ký là đặc trưng của phương thức hoặc hàm chứ không phải là thuộc tính của một attribute trong UML.", "trap": "B sai vì multiplicity hoàn toàn có thể là thuộc tính của attribute để chỉ ra số lượng phần tử của thuộc tính đó."}, {"slide": 69, "q": "Which of the following is NOT a software engineering activity?", "opts": {"A": "knowledge acquisition", "B": "hiring programmers", "C": "problem solving", "D": "rationale management", "E": "modeling"}, "ans": ["B"], "hook": "NOT software engineering activity → hiring programmers", "why": "Hiring programmers là hoạt động quản trị nhân sự thuộc phòng HR chứ không phải là một hoạt động kỹ thuật hay quản lý kỹ thuật trực tiếp trong quy trình xây dựng phần mềm.", "trap": "A sai vì knowledge acquisition là hoạt động thu thập và tìm hiểu kiến thức miền nghiệp vụ để xây dựng phần mềm nên vẫn thuộc kỹ nghệ phần mềm."}, {"slide": 70, "q": "Which of the following is NOT a characteristics of software quality?", "opts": {"A": "portable", "B": "profitable", "C": "correct", "D": "reusable", "E": "reliable"}, "ans": ["B"], "hook": "software quality NOT → profitable (B)", "why": "Chất lượng phần mềm tập trung vào các đặc tính kỹ thuật và vận hành như tính đúng đắn, khả năng tái sử dụng hay tính di động, trong khi khả năng sinh lời là mục tiêu kinh doanh thương mại chứ không phải đặc tính chất lượng của bản thân phần mềm.", "trap": "A sai vì portable dễ bị nhầm là không liên quan, nhưng thực tế tính di động là một đặc tính chất lượng phần mềm quan trọng trong chuẩn ISO/IEC 25010."}, {"slide": 71, "q": "Which of the following should NOT be included in the use-case detailed specification?", "opts": {"A": "participating actors", "B": "developing tools", "C": "preconditions", "D": "flow of events", "E": "postconditions"}, "ans": ["B"], "hook": "use-case detailed specification NOT → developing tools (B)", "why": "Tài liệu đặc tả chi tiết use case chỉ tập trung mô tả hành vi hệ thống và tương tác của người dùng chứ không chứa các thông tin kỹ thuật về công cụ phát triển phần mềm.", "trap": "A sai vì nhiều sinh viên nhầm lẫn actor chỉ nằm ở sơ đồ use case tổng quan, nhưng thực tế danh sách các actor tham gia vẫn phải được liệt kê chi tiết trong tài liệu đặc tả."}, {"slide": 72, "q": "Which statement is NOT true about software engineering?", "opts": {"A": "It is an ad-hoc development effort.", "B": "It deals with multiple versions of the software.", "C": "It should build a quality system.", "D": "It requires a team effort.", "E": "It should solve a real user problem."}, "ans": ["A"], "hook": "NOT true software engineering → ad-hoc", "why": "Software engineering là quá trình phát triển phần mềm có kỷ luật, quy trình và kế hoạch rõ ràng chứ không phải là một nỗ lực tự phát, tùy tiện như ad-hoc.", "trap": "D sai vì nhiều người nghĩ lập trình viên có thể làm việc độc lập nên chọn nhầm, nhưng thực tế software engineering quy mô lớn luôn đòi hỏi sự phối hợp của một đội ngũ."}, {"slide": 73, "q": "Which statement is NOT true about a use case?", "opts": {"A": "It describes actor/system interaction", "B": "It represents part of the system's user interface.", "C": "It is an abstraction of one or more scenarios", "D": "It can be represented as a UML class.", "E": "It is always initiated by an actor."}, "ans": ["B"], "hook": "Use case NOT true → represents user interface (B)", "why": "Use case mô tả tương tác giữa người dùng và hệ thống, không phải là một phần của giao diện người dùng (UI) trực tiếp.", "trap": "D sai vì use case được biểu diễn bằng UML use case diagram, không phải class diagram."}, {"slide": 74, "q": "Which statement is NOT true about a use-case actor?", "opts": {"A": "An actor can represent a person.", "B": "An actor also can be represented by a domain model class.", "C": "An actor represents a role a user can play.", "D": "An actor can represent an internal database.", "E": "An actor can represent a system."}, "ans": ["D"], "hook": "actor NOT true → internal database", "why": "Actor là một vai trò bên ngoài tương tác với hệ thống, không phải là thành phần bên trong như database.", "trap": "B sai vì actor có thể là một hệ thống bên ngoài, nhưng không thể là một class trong domain model nội bộ."}, {"slide": 75, "q": "Which reason for the failure of or problems with software development is NOT related to requirements capture?", "opts": {"A": "incomplete requirements captured", "B": "lack of user involvement", "C": "unrealistic user expectations", "D": "lack of resources", "E": "changing requirements and specifications"}, "ans": ["D"], "hook": "failure NOT related to requirements → lack of resources", "why": "Thiếu hụt nguồn lực như ngân sách hay nhân sự thuộc về quản lý dự án chứ không liên quan trực tiếp đến quá trình thu thập và định nghĩa yêu cầu phần mềm.", "trap": "E sai vì sự thay đổi liên tục của yêu cầu và đặc tả kỹ thuật vẫn là vấn đề trực tiếp thuộc nhóm quy trình quản lý yêu cầu khách hàng."}, {"slide": 76, "q": "According to the best practices of analysis object interaction, which one of the following interactions should NOT be allowed?", "opts": {"A": "interactions between a boundary object and a control object", "B": "interactions between two control objects", "C": "interactions between a boundary object and an entity object", "D": "interactions between two boundary objects", "E": "interactions between a control object and an entity object"}, "ans": ["D"], "hook": "NOT allowed interaction → two boundary objects", "why": "Theo quy tắc phân tích tương tác đối tượng Robustness Diagram, hai đối tượng giao diện boundary không được phép tương tác trực tiếp với nhau mà phải thông qua một đối tượng điều khiển control.", "trap": "C sai vì tương tác giữa boundary và entity cũng bị cấm trong Robustness Diagram, nhưng đáp án D (hai boundary tương tác với nhau) là lỗi nghiêm trọng nhất và luôn luôn bị cấm tuyệt đối trong mọi tài liệu thiết kế chuẩn."}, {"slide": 77, "q": "If an organization has a standards handbook for software development, then which of the following probably is NOT true?", "opts": {"A": "A project can decide to not follow any standards.", "B": "A project can decide to ignore a standard.", "C": "A project can decide to use a standard as is.", "D": "A project can decide to modify a standard.", "E": "A project can decide to create a new standard."}, "ans": ["A"], "hook": "standards handbook → NOT true: not follow any", "why": "Dù tổ chức cho phép tùy biến, bỏ qua hoặc tạo mới tiêu chuẩn nhưng một dự án phần mềm không thể tùy tiện quyết định không tuân theo bất kỳ tiêu chuẩn nào cả.", "trap": "B sai vì việc bỏ qua một tiêu chuẩn cụ thể (ignore a standard) vẫn được phép nếu dự án đó không áp dụng quy trình tương ứng, khác với việc vô kỷ luật hoàn toàn ở đáp án A."}, {"slide": 79, "q": "Which statement about the UML (Unified Modeling Language) is true?", "opts": {"A": "The UML makes us think about the world in a certain way.", "B": "The UML can be used to model only software systems.", "C": "The UML can be used for only object-oriented software systems.", "D": "The UML is a software development process.", "E": "The UML provides a fixed set of modeling elements."}, "ans": ["A"], "hook": "UML is true → think about the world", "why": "UML không chỉ là công cụ vẽ mà còn là một ngôn ngữ mô hình hóa giúp định hình cách chúng ta tư duy và nhìn nhận thế giới thực theo hướng đối tượng.", "trap": "D sai vì UML chỉ là một ngôn ngữ mô hình hóa trực quan chứ bản thân nó không phải là một quy trình phát triển phần mềm."}, {"slide": 80, "q": "Which statement is true about system testing and acceptance testing?", "opts": {"A": "System testing is done after acceptance testing.", "B": "System testing is done by the developers; acceptance testing is done by the client.", "C": "System testing is done at the client's site; acceptance testing is done at the developer's site.", "D": "System testing is done by the client; acceptance testing is done by the developers.", "E": "None of the above is true."}, "ans": ["B"], "hook": "System testing and acceptance testing → System developers, Acceptance client", "why": "System testing do đội ngũ phát triển thực hiện để kiểm thử toàn bộ hệ thống, trong khi acceptance testing do khách hàng thực hiện để nghiệm thu sản phẩm.", "trap": "A sai vì system testing phải được thực hiện trước để đảm bảo hệ thống chạy ổn định rồi mới bàn giao cho khách hàng làm acceptance testing."}, {"slide": 82, "q": "True or False: A neural network gives output in the hidden layer.", "opts": {"A": "False", "B": "True"}, "ans": ["A"], "hook": "neural network output → False", "why": "Mạng nơ-ron nhân tạo chỉ đưa ra kết quả đầu ra ở lớp đầu ra chứ không phải ở lớp ẩn.", "trap": "B sai vì lớp ẩn chỉ đóng vai trò xử lý trung gian và trích xuất đặc trưng chứ không xuất kết quả trực tiếp."}, {"slide": 83, "q": "True or False: A random forest combines multiple decision trees, reducing overfitting and improving accuracy.", "opts": {"A": "False", "B": "True"}, "ans": ["B"], "hook": "random forest → True", "why": "Random forest kết hợp nhiều decision trees giúp giảm hiện tượng overfitting và tăng độ chính xác nhờ cơ chế bỏ phiếu số đông của các cây quyết định độc lập.", "trap": "A sai vì nhầm tưởng việc kết hợp nhiều cây sẽ làm mô hình phức tạp hơn và dễ gây overfitting hơn."}, {"slide": 84, "q": "True or False: AI-powered tools like Amazon Q Developer can identify synchronization issues in Java code during automated code reviews.", "opts": {"A": "True", "B": "False"}, "ans": ["A"], "hook": "Amazon Q Developer → synchronization issues → True", "why": "Các công cụ AI hiện đại như Amazon Q Developer có khả năng phân tích luồng dữ liệu và phát hiện các lỗi đồng bộ hóa phức tạp như deadlock hay race condition trong mã nguồn Java.", "trap": "B sai vì nghĩ rằng AI chỉ kiểm tra được cú pháp cơ bản chứ không thể phát hiện lỗi logic đồng bộ hóa đa luồng phức tạp."}, {"slide": 85, "q": "True or False: A company introducing AI-based chatbots to improve customer support is an example of digital transformation.", "opts": {"A": "True", "B": "False"}, "ans": ["A"], "hook": "AI-based chatbots → True", "why": "Việc áp dụng chatbot AI để cải tiến quy trình chăm sóc khách hàng là một ví dụ điển hình của chuyển đổi số nhằm thay đổi cách thức doanh nghiệp tương tác và tạo giá trị.", "trap": "B sai vì nghĩ rằng chuyển đổi số phải là cái gì đó to tát thay đổi toàn bộ tập đoàn, trong khi việc ứng dụng AI vào một quy trình cụ thể như customer support đã đủ để coi là digital transformation."}, {"slide": 86, "q": "True or False: An online bookstore struggling with clunky checkouts, delivery delays, and a lack of personalized recommendations can succeed by focusing on the four domains of digital transformation.", "opts": {"A": "False", "B": "True"}, "ans": ["B"], "hook": "struggling with clunky checkouts → True", "why": "Bốn lĩnh vực của chuyển đổi số gồm quy trình, công nghệ, dữ liệu và tổ chức sẽ giúp giải quyết triệt để các vấn đề về thanh toán, vận chuyển và cá nhân hóa của nhà sách.", "trap": "A sai vì nghĩ rằng chuyển đổi số chỉ là lý thuyết chung chung không giải quyết được các lỗi kỹ thuật cụ thể của hệ thống."}, {"slide": 87, "q": "True or False: A neural network is created to mimic how computer chips work on a deeper level and some biological concepts.", "opts": {"A": "True", "B": "False"}, "ans": ["B"], "hook": "neural network → False", "why": "Mạng nơ-ron nhân tạo được thiết kế để mô phỏng cách hoạt động của bộ não sinh học chứ không phải để bắt chước cách hoạt động của chip máy tính.", "trap": "A sai vì dễ bị nhầm lẫn bởi cụm từ biological concepts mà quên mất vế computer chips là hoàn toàn sai lệch bản chất."}, {"slide": 88, "q": "True or false: AI tools can only generate boilerplate code for specific programming languages.", "opts": {"A": "True", "B": "False"}, "ans": ["B"], "hook": "AI tools can only → False", "why": "Các công cụ AI hiện nay rất đa năng, có thể tạo ra nhiều loại code phức tạp và hỗ trợ hầu hết các ngôn ngữ lập trình chứ không chỉ giới hạn ở boilerplate code cho một số ngôn ngữ cụ thể.", "trap": "A sai vì chữ only mang tính chất tuyệt đối và phủ nhận khả năng tạo code logic phức tạp hoặc đa ngôn ngữ của AI hiện đại."}, {"slide": 89, "q": "True or false: AI-generated boilerplate code often requires developer review before integration.", "opts": {"A": "True", "B": "False"}, "ans": ["A"], "hook": "AI-generated boilerplate → True", "why": "Mã nguồn do AI tự động tạo ra vẫn có thể chứa lỗi logic hoặc bảo mật nên luôn cần lập trình viên kiểm tra lại trước khi tích hợp vào hệ thống.", "trap": "B sai vì tin tưởng tuyệt đối vào AI mà không qua kiểm duyệt sẽ dễ dẫn đến các lỗi hệ thống nghiêm trọng."}, {"slide": 90, "q": "True or false: AI tools guarantee error-free boilerplate code for all projects.", "opts": {"A": "True", "B": "False"}, "ans": ["B"], "hook": "AI tools guarantee → False", "why": "Công cụ AI không bao giờ đảm bảo tạo ra mã nguồn hoàn toàn không có lỗi cho mọi dự án vì chúng vẫn có thể tạo ra lỗi logic hoặc mã nguồn lỗi thời.", "trap": "A sai vì từ guarantee mang tính tuyệt đối, trong thực tế phát triển phần mềm không có công cụ nào đảm bảo 100% không có lỗi."}, {"slide": 91, "q": "True or False: Chain-of-thought prompting encourages AI to break down problems step-by-step to generate better results.", "opts": {"A": "True", "B": "False"}, "ans": ["A"], "hook": "Chain-of-thought → step-by-step", "why": "Chain-of-thought hướng dẫn mô hình tư duy theo từng bước để tăng độ chính xác của kết quả.", "trap": "B sai vì Chain-of-thought chính là kỹ thuật giúp AI suy luận logic thay vì đưa ra kết quả trực tiếp."}, {"slide": 92, "q": "True or False: Generating a new piece of music in the style of Beethoven is a task that Generative AI can accomplish.", "opts": {"A": "True", "B": "False"}, "ans": ["A"], "hook": "Beethoven music → Generative AI True", "why": "Generative AI có khả năng học hỏi các mẫu và phong cách từ dữ liệu hiện có để tạo ra nội dung mới, bao gồm cả âm nhạc theo phong cách của các nhà soạn nhạc nổi tiếng.", "trap": "B sai vì việc tạo ra nội dung mới dựa trên phong cách đã học là một ứng dụng điển hình của Generative AI."}, {"slide": 93, "q": "True or False: Networking is one of the four key domains of digital transformation.", "opts": {"A": "True", "B": "False"}, "ans": ["B"], "hook": "digital transformation domains → False", "why": "Bốn lĩnh vực chính của chuyển đổi số bao gồm Technology, Data, Process, và Organizational Change chứ không có Networking.", "trap": "A sai vì dễ nhầm lẫn Networking là một phần của hạ tầng công nghệ trong chuyển đổi số."}, {"slide": 94, "q": "True or False. Neural networks are composed of layers, including input, hidden, and output layers, where neurons in each layer are connected to neurons in the next layer.", "opts": {"A": "True", "B": "False"}, "ans": ["A"], "hook": "Neural network → input, hidden, output layers", "why": "Mạng nơ-ron được cấu tạo bởi các lớp gồm lớp đầu vào, lớp ẩn và lớp đầu ra, với các nơ-ron trong mỗi lớp kết nối với nơ-ron của lớp kế tiếp.", "trap": "B sai vì mô tả cấu trúc của mạng nơ-ron là hoàn toàn chính xác."}, {"slide": 96, "q": "What is a primary use case for Generative AI in Java? Select all that apply.", "opts": {"A": "Explaining Java-specific design patterns.", "B": "Writing boilerplate code for APIs.", "C": "Detecting vulnerabilities in deployed systems.", "D": "Deploying applications directly."}, "ans": ["A", "B"], "hook": "Generative AI Java → design patterns, boilerplate", "why": "Generative AI xuất sắc trong việc tạo và giải thích nội dung dựa trên dữ liệu hiện có, rất phù hợp cho việc giải thích các mẫu thiết kế và viết code lặp đi lặp lại.", "trap": "C sai vì phát hiện lỗ hổng trong hệ thống đã triển khai thường cần phân tích runtime và các công cụ bảo mật chuyên biệt, không phải là ứng dụng chính của Generative AI; D sai vì triển khai ứng dụng là một quy trình DevOps yêu cầu công cụ CI/CD, không phải chức năng trực tiếp của Generative AI."}, {"slide": 97, "q": "What are the main features of Amazon Q Developer? Select all that apply", "opts": {"A": "Debugging runtime errors automatically.", "B": "Code generation.", "C": "Automating production deployment.", "D": "Explaining existing code logic."}, "ans": ["B", "D"], "hook": "Amazon Q Developer → Code generation, Explaining code", "why": "Amazon Q Developer là trợ lý AI tập trung vào việc hỗ trợ lập trình viên viết code mới và giải thích hiểu rõ các đoạn code hiện có.", "trap": "A sai vì Amazon Q Developer hỗ trợ phát hiện lỗi và đề xuất sửa lỗi trong code chứ không tự động sửa lỗi runtime khi chương trình đang chạy."}, {"slide": 98, "q": "What should you do if an explanation is too complex? Select all that apply.", "opts": {"A": "Assume the explanation is wrong.", "B": "Ignore the AI and find an alternative tool.", "C": "Request a simpler explanation for beginners.", "D": "Ask for examples to clarify the explanation."}, "ans": ["C", "D"], "hook": "explanation too complex → simpler explanation, examples", "why": "Khi giải thích của AI quá phức tạp, cách xử lý tối ưu là yêu cầu một giải thích đơn giản hơn cho người mới bắt đầu và yêu cầu thêm ví dụ thực tế để làm rõ vấn đề.", "trap": "B sai vì việc bỏ qua AI ngay lập tức và tìm công cụ khác là quá vội vàng khi chưa thử các câu lệnh prompt tối ưu hơn."}, {"slide": 99, "q": "What are some best practices when interacting with ChatGPT for Java-related queries? Select all that apply.", "opts": {"A": "Using clear and specific prompts.", "B": "Asking for real-time error detection in IDEs.", "C": "Providing context to clarify the problem.", "D": "Avoiding detailed follow-up questions."}, "ans": ["A", "C"], "hook": "ChatGPT Java queries → clear specific prompts, providing context", "why": "Để nhận được câu trả lời chính xác nhất từ ChatGPT khi hỏi về Java, người dùng cần cung cấp câu lệnh rõ ràng, cụ thể và bổ sung đầy đủ ngữ cảnh của vấn đề.", "trap": "B sai vì ChatGPT là mô hình ngôn ngữ lớn hoạt động độc lập, không thể tự phát hiện lỗi thời gian thực ngay trong IDE của người dùng được."}, {"slide": 100, "q": "Which features are available in GitHub Copilot for Java developers? Select all that apply.", "opts": {"A": "Conversational support for debugging.", "B": "Built-in IDE debugging tools.", "C": "Code generation for entire blocks.", "D": "Autocompletion of functions and methods."}, "ans": ["C", "D"], "hook": "GitHub Copilot → Code block, Autocomplete", "why": "GitHub Copilot là công cụ AI hỗ trợ viết code thông qua việc gợi ý hoàn thiện hàm hoặc tạo các đoạn mã dựa trên ngữ cảnh.", "trap": "A sai vì Copilot không trực tiếp tích hợp trình gỡ lỗi (debugger) mà chỉ gợi ý sửa lỗi qua chat."}, {"slide": 101, "q": "Which statements are true after a model has been trained on data? Select all that apply.", "opts": {"A": "AI can make predictions or decisions without needing explicit instructions for every scenario.", "B": "AI needs explicit guidance for every scenario in order to make decisions.", "C": "AI cannot make decisions.", "D": "AI is designed to mimic human decision-making processes."}, "ans": ["A", "D"], "hook": "trained model → predictions without instructions, mimic human", "why": "Mô hình AI sau khi huấn luyện có khả năng tự suy luận dựa trên dữ liệu đã học thay vì tuân thủ các quy tắc cứng nhắc.", "trap": "B sai vì mô hình đã huấn luyện không yêu cầu hướng dẫn chi tiết cho từng trường hợp cụ thể."}, {"slide": 102, "q": "How does Amazon Q Developer improve the Java coding experience for developers? (Select all that apply)", "opts": {"A": "Completely replaces the need for testing.", "B": "Provides contextual code suggestions to speed up coding.", "C": "Highlights potential errors and suggests fixes.", "D": "Enhances code optimization and efficiency."}, "ans": ["B", "C", "D"], "hook": "Amazon Q Developer Java → suggestions, errors, optimization", "why": "Amazon Q Developer hỗ trợ lập trình viên Java bằng cách gợi ý mã nguồn theo ngữ cảnh, phát hiện lỗi để sửa và tối ưu hóa hiệu suất code, nhưng không thể thay thế hoàn toàn việc kiểm thử.", "trap": "A sai vì AI hỗ trợ lập trình không bao giờ thay thế hoàn toàn được quy trình testing thủ công và tự động của con người."}, {"slide": 103, "q": "A Generative AI model creates a recipe by learning from thousands of cookbooks and generates a song by analyzing popular music trends. Which concepts describe how AI works to create content like recipes and songs? Select all that apply.", "opts": {"A": "Identifying patterns in large datasets (e.g., cookbooks or music) and creating new outputs based on those learned patterns.", "B": "Pattern recognition from large datasets.", "C": "Use of explicit, hard-coded instructions like if, if-else, for, switch.", "D": "Generating outputs based on learned patterns without relying on extensive datasets.\\"}, "ans": ["A", "B"], "hook": "creates a recipe / generates a song → Pattern recognition / large datasets", "why": "Generative AI hoạt động bằng cách nhận diện các quy luật từ tập dữ liệu lớn đã học để tạo ra nội dung mới như công thức nấu ăn hay bài hát.", "trap": "D sai vì AI tạo sinh bắt buộc phải dựa vào các tập dữ liệu lớn cực kỳ phong phú chứ không thể tạo ra kết quả tốt mà không cần chúng."}, {"slide": 104, "q": "A developer uses GitHub Copilot while working on a Java project. Which tasks can GitHub Copilot assist with? Select all that apply.", "opts": {"A": "Auto-completing code based on existing comments and patterns.", "B": "Suggesting code snippets for common tasks.", "C": "Debugging errors during runtime.", "D": "Ensuring that the generated code can adapt itself to accommodate new requirements during run time."}, "ans": ["A", "B"], "hook": "Copilot → Auto-complete, Snippets", "why": "GitHub Copilot là một công cụ AI hỗ trợ lập trình viên bằng cách tự động hoàn thành mã và gợi ý các đoạn mã.", "trap": "C sai vì Copilot không phải là công cụ debug lỗi runtime, D sai vì Copilot không đảm bảo khả năng thích ứng của mã trong lúc chạy."}, {"slide": 105, "q": "A developer is debugging a large Java application with syntax errors and code optimization needs. They want a tool that provides real-time fixes and suggestions directly within their IDE. Which Generative AI tools should they consider? Select all that apply.", "opts": {"A": "ChatGPT", "B": "IntelliJ IDEA", "C": "GitHub Copilot", "D": "Amazon Q Developer"}, "ans": ["C", "D"], "hook": "real-time, IDE, Java → Copilot, Amazon Q", "why": "GitHub Copilot và Amazon Q Developer là các công cụ Generative AI được tích hợp trực tiếp vào IDE để cung cấp gợi ý và sửa lỗi mã nguồn theo thời gian thực.", "trap": "B sai vì IntelliJ IDEA là một IDE truyền thống chứa các công cụ hỗ trợ chứ bản thân nó không phải là một công cụ Generative AI."}, {"slide": 106, "q": "A company trains a neural network to detect diseases from medical images. Why is it important to validate the model on unseen data? Select all that apply.", "opts": {"A": "To ensure the model generalizes well to new cases.", "B": "To identify biases or inaccuracies in its predictions.", "C": "To confirm that the model memorized all training examples.", "D": "To test the neural network's ability to process noisy inputs."}, "ans": ["A", "B"], "hook": "Unseen data → Generalize & Biases", "why": "Kiểm thử trên dữ liệu chưa thấy giúp xác định khả năng tổng quát hóa và phát hiện các sai lệch của mô hình.", "trap": "C sai vì mục tiêu là tổng quát hóa, không phải ghi nhớ tất cả dữ liệu huấn luyện. D sai vì kiểm tra khả năng xử lý nhiễu là một mục tiêu khác, không phải lý do chính của validation trên unseen data."}, {"slide": 108, "q": "What are the benefits of using ChatGPT in software development? (Select all that apply)", "opts": {"A": "Assistance in generating and refining code snippets.", "B": "Debugging support for identifying and fixing code errors.", "C": "Complete automation of the coding process.", "D": "Quick explanations of complex programming concepts."}, "ans": ["A", "B", "D"], "hook": "ChatGPT benefits → Assistance, Debugging, Quick explanations", "why": "ChatGPT đóng vai trò là công cụ hỗ trợ lập trình viên viết code, sửa lỗi và giải thích khái niệm chứ chưa thể tự động hóa hoàn toàn toàn bộ quy trình phát triển phần mềm.", "trap": "C sai vì ChatGPT không thể tự động hóa hoàn toàn quy trình code mà vẫn cần sự kiểm soát và can thiệp của con người."}, {"slide": 109, "q": "What aspects of code reviews can AI automate? Select all that apply.", "opts": {"A": "Identifying inefficiencies in algorithms.", "B": "Ensuring compliance with coding standards.", "C": "Highlighting security vulnerabilities.", "D": "Writing complete fixes without input."}, "ans": ["A", "B", "C"], "hook": "AI code review → inefficiencies, coding standards, security", "why": "AI có thể phân tích cấu trúc mã nguồn để tìm lỗi bảo mật, quy chuẩn và hiệu suất nhưng chưa thể tự sửa lỗi hoàn toàn mà không cần con người can thiệp.", "trap": "D sai vì AI hiện tại không thể tự viết bản sửa lỗi hoàn chỉnh mà không cần đầu vào hay sự kiểm soát của lập trình viên."}, {"slide": 110, "q": "Which of the following are components of digital transformation? Select all that apply.", "opts": {"A": "The process of using technology to fundamentally redesign how businesses operate and deliver value", "B": "Integrating AI and automation to improve efficiency and decision-making", "C": "Involving software developers to create innovative tools and systems", "D": "Adopting digital tools without changing business processes"}, "ans": ["A", "B", "C"], "hook": "Digital transformation → Redesign, AI, Developers", "why": "Chuyển đổi số bao gồm cả việc thiết kế lại quy trình kinh doanh, tích hợp công nghệ thông minh và sự tham gia của đội ngũ phát triển phần mềm để tạo ra giá trị mới.", "trap": "D sai vì chuyển đổi số đòi hỏi phải thay đổi quy trình kinh doanh chứ không chỉ là áp dụng công cụ mới một cách thụ động."}, {"slide": 111, "q": "Which of the following examples demonstrates the capabilities of Generative AI? Select all that apply.", "opts": {"A": "Writing a new story without any human prompt.", "B": "Producing a unique painting from a text prompt.", "C": "Writing a new story based on a theme.", "D": "Completing a program in Java with suggested enhancements and explanations."}, "ans": ["B", "C", "D"], "hook": "loại A → B painting from prompt, C story based on theme, D completing Java (B C D)", "why": "Generative AI có khả năng tạo ra nội dung mới, độc đáo từ các gợi ý hoặc tự động, bao gồm văn bản, hình ảnh và mã.", "trap": "A sai vì Generative AI thường cần một prompt (gợi ý) ban đầu, dù là rất nhỏ, để bắt đầu quá trình tạo ra nội dung mới, không hoàn toàn 'without any human prompt'."}];
+const KEY = 'swe202c_quiz_v2_p2';
+const BUILD = '23:00 11/08';
+// localStorage ném SecurityError ở một số origin (file://, khung sandbox, cửa sổ ẩn danh).
+// Không được để nó làm chết cả script — hỏng chỗ lưu tiến độ thì vẫn phải làm bài được.
+const store = {
+  get(k){ try { return localStorage.getItem(k); } catch(e){ return null; } },
+  set(k,v){ try { localStorage.setItem(k,v); } catch(e){ /* chạy không lưu */ } }
+};
+let saveWorks = true;
+const def = () => ({i:0, order:DATA.map((_,i)=>i), res:{}, repeat:true});
+let st = def();
+try { st = Object.assign(def(), JSON.parse(store.get(KEY) || '{}')); }
+catch(e){ st = def(); }
+try { localStorage.setItem('__t','1'); localStorage.removeItem('__t'); }
+catch(e){ saveWorks = false; }
+let picked = new Set(), revealed = false, peek = false;
+
+const save = () => store.set(KEY, JSON.stringify(st));
+const cur = () => DATA[st.order[st.i]];
+const same = (a,b) => a.length===b.length && a.every(x=>b.includes(x));
+const esc = s => (s||'').replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+
+// Nạp trạng thái của câu hiện tại. CHỈ gọi khi đổi câu — không gọi trong render(),
+// nếu không mỗi lần vẽ lại sẽ xoá mất lựa chọn người dùng vừa bấm.
+function sync(){
+  const prev = st.res[st.order[st.i]];
+  revealed = !!prev;
+  picked = new Set(revealed ? prev.picked : []);
+  peek = false;
+}
+
+function render(){
+  const q = cur(), keys = Object.keys(q.opts).sort(), multi = q.ans.length>1;
+  const done = Object.keys(st.res).length, right = Object.values(st.res).filter(r=>r.ok).length;
+  document.getElementById('sub').textContent =
+    DATA.length + ' câu · đã làm ' + done + ' · đúng ' + right +
+    (done ? ' (' + Math.round(right/done*100) + '%)' : '') +
+    ' · bản ' + BUILD + (saveWorks ? '' : ' · ⚠️ không lưu được tiến độ ở chế độ xem này');
+  document.getElementById('pbar').style.width = (done/DATA.length*100) + '%';
+  document.getElementById('stat').textContent = 'Câu ' + (st.i+1) + '/' + st.order.length;
+
+  let h = '<div class="meta"><span>Câu ' + (st.i+1) + ' / ' + st.order.length + '</span>' +
+          '<span>slide ' + q.slide + ' · ' + (multi ? 'chọn ' + q.ans.length + ' đáp án' : 'chọn 1 đáp án') +
+          '</span></div><div class="q">' + esc(q.q) + '</div>';
+  keys.forEach(k => {
+    let cls = 'opt' + (revealed ? ' done' : '');
+    if(revealed){ if(q.ans.includes(k)) cls += ' ok'; else if(picked.has(k)) cls += ' no'; }
+    else if(picked.has(k)) cls += ' sel';
+    const mark = (revealed && q.ans.includes(k)) ? '✓'
+               : (revealed && picked.has(k)) ? '✕'
+               : (picked.has(k) ? (multi ? '✓' : '●') : '');
+    h += '<div class="' + cls + '" data-k="' + k + '">' +
+         '<span class="box ' + (multi ? 'sq' : 'ci') + '">' + mark + '</span>' +
+         '<span class="k">' + k + '.</span><span>' + esc(q.opts[k]) + '</span></div>';
+  });
+  if(revealed){
+    const ok = same([...picked].sort(), [...q.ans].sort());
+    h += '<div class="fb ' + (ok ? 'ok' : 'no') + '">' +
+         (ok ? '✅ Chính xác!' : '❌ Sai — đáp án đúng: ' + q.ans.join(', ')) + '</div>';
+  }
+  if((revealed || peek) && (q.hook || q.why || q.trap)){
+    h += '<div class="tip"><h4>💡 Mẹo nhớ</h4>';
+    if(q.hook) h += '<div class="hook">' + esc(q.hook) + '</div>';
+    if(revealed && q.why)  h += '<p>' + esc(q.why) + '</p>';
+    if(revealed && q.trap) h += '<p class="trap">⚠️ ' + esc(q.trap) + '</p>';
+    if(!revealed) h += '<p style="color:var(--muted)">Trả lời xong sẽ hiện đầy đủ lý do và bẫy.</p>';
+    h += '</div>';
+  }
+  document.getElementById('card').innerHTML = h;
+  document.getElementById('check').disabled = revealed || picked.size === 0;
+  document.getElementById('tipBtn').disabled = revealed || !(q.hook||q.why||q.trap);
+  document.getElementById('prev').disabled = st.i === 0;
+  document.getElementById('next').disabled = st.i >= st.order.length - 1;
+  document.getElementById('repeat').classList.toggle('on', st.repeat);
+  document.getElementById('repeat').textContent = 'Lặp câu sai: ' + (st.repeat ? 'BẬT' : 'TẮT');
+}
+
+function toggle(k){
+  if(revealed) return;
+  const q = cur();
+  if(q.ans.length > 1){ picked.has(k) ? picked.delete(k) : picked.add(k); }
+  else { picked.clear(); picked.add(k); }
+  render();
+}
+
+// Một listener duy nhất, uỷ quyền từ thẻ cha — click một lần là một lần.
+document.getElementById('card').addEventListener('click', e => {
+  const el = e.target.closest('.opt');
+  if(el && el.dataset.k) toggle(el.dataset.k);
+});
+
+function check(){
+  if(revealed || !picked.size) return;
+  const q = cur(), idx = st.order[st.i];
+  const ok = same([...picked].sort(), [...q.ans].sort());
+  st.res[idx] = {picked:[...picked], ok};
+  if(!ok && st.repeat && !st.order.slice(st.i+1).includes(idx))
+    st.order.splice(Math.min(st.i + 5, st.order.length), 0, idx);
+  save(); sync(); render();
+}
+function go(d){
+  const n = st.i + d;
+  if(n < 0 || n >= st.order.length) return;
+  st.i = n; save(); sync(); render();
+}
+
+document.getElementById('check').onclick = check;
+document.getElementById('next').onclick = () => go(1);
+document.getElementById('prev').onclick = () => go(-1);
+document.getElementById('tipBtn').onclick = () => { peek = true; render(); };
+document.getElementById('repeat').onclick = () => { st.repeat = !st.repeat; save(); render(); };
+document.getElementById('shuffle').onclick = () => {
+  for(let i=st.order.length-1;i>0;i--){ const j=(Math.random()*(i+1))|0;
+    [st.order[i],st.order[j]]=[st.order[j],st.order[i]]; }
+  st.i = 0; save(); sync(); render();
+};
+document.getElementById('wrongOnly').onclick = () => {
+  const w = Object.keys(st.res).filter(k => !st.res[k].ok).map(Number);
+  if(!w.length){ alert('Chưa có câu nào sai. Cứ làm tiếp đã!'); return; }
+  w.forEach(k => delete st.res[k]);
+  st.order = w; st.i = 0; save(); sync(); render();
+};
+document.getElementById('reset').onclick = () => {
+  if(!confirm('Xoá toàn bộ tiến độ và làm lại từ đầu?')) return;
+  st = def(); save(); sync(); render();
+};
+document.addEventListener('keydown', e => {
+  if(e.metaKey || e.ctrlKey || e.altKey) return;
+  const k = e.key.toUpperCase();
+  if(/^[A-H]$/.test(k) && cur().opts[k]){ e.preventDefault(); toggle(k); return; }
+  if(e.key === 'Enter'){ e.preventDefault(); revealed ? go(1) : check(); }
+  if(e.key === 'ArrowRight') go(1);
+  if(e.key === 'ArrowLeft') go(-1);
+  if(k === 'H' && !revealed){ peek = true; render(); }
+});
+if(st.i >= st.order.length) st.i = 0;
+sync();
+render();
+</script></body></html>

@@ -1,0 +1,14 @@
+Tôi đã hoàn thành việc đọc từng ảnh trong thư mục `01_raw/b5/attach/` và ghi kết quả trích xuất cấu trúc sơ đồ, các mối quan hệ (cùng mã PlantUML) cũng như các bảng lớp xuất hiện trong các khung hình vào file [02_extract/b5_sodo.json](file:///Users/duongnad/Documents/project/SWE/02_extract/b5_sodo.json) theo đúng định dạng.
+
+**Tóm tắt quá trình và kết quả:**
+1. **Class Diagram (StarUML):**
+   - Đã xác định hình ảnh đầy đủ nhất ở phút `43:43` có chứa các class cùng nhiều quan hệ.
+   - Sơ đồ này mô tả "Hệ thống quản lý đăng ký môn học (University Course Registration System)".
+   - Bao gồm 12 lớp: `User` (abstract), `SystemAdmin`, `Student`, `Lecturer`, `AcademicStaff`, `Course`, `CourseOffering`, `Registration`, `Waitlist`, `Grade`, `Semester`, `Report`.
+   - Lấy lại được các quan hệ (mũi tên, hướng, multiplicity bị lược bỏ trong bản vẽ) như inheritance (`Student` -> `User`, `SystemAdmin` -> `User`...), directed association (`Student` -> `Registration`...), association (`Course` -- `CourseOffering`...).
+   - Được chuyển thành file PlantUML đi kèm.
+2. **Bảng mô tả Classes (Google Docs):**
+   - Lấy nội dung từ các ảnh `26m48s`, `28m18s`, `30m30s`.
+   - Bảng liệt kê các lớp từ STT 5 (SystemAdmin) đến 11 (Semester), gồm tên thuộc tính, tên phương thức và chức năng của từng lớp. Bảng thiếu đi phần header và các dòng 1, 2, 3, 4 do không xuất hiện trong ảnh chụp.
+
+Bạn có thể mở trực tiếp [b5_sodo.json](file:///Users/duongnad/Documents/project/SWE/02_extract/b5_sodo.json) để xem chi tiết.

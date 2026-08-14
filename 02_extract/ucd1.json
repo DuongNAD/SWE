@@ -1,0 +1,305 @@
+{
+  "id": "ucd1",
+  "tieu_de_tu_suy_ra": "Luyện tập Q2 - Hướng dẫn làm câu 2: Xác định Actor, Use Case và vẽ Use Case Diagram bằng StarUML",
+  "cau_hoi_lien_quan": [
+    "Q2"
+  ],
+  "do_dai_phut": 60.7,
+  "dan_bai": [
+    {
+      "ts": "00:00",
+      "muc": "Giới thiệu tổng quan video luyện tập Question 2 (UC Modeling - 1.5 điểm), mở file đề bài Trial Case Study (Green University Course Registration System - CRS)."
+    },
+    {
+      "ts": "01:00",
+      "muc": "Tóm tắt lý thuyết cốt lõi về Actor (Tác nhân): khái niệm góc nhìn người dùng, ký hiệu Stick figure (người que), quy tắc đặt tên Actor phải là Danh từ (Noun)."
+    },
+    {
+      "ts": "04:00",
+      "muc": "Phân loại Primary Actor (tác nhân chính - người dùng trực tiếp) và Secondary Actor (tác nhân phụ - hệ thống/dịch vụ bên ngoài như Cổng thanh toán, Mail Server, Notification System)."
+    },
+    {
+      "ts": "05:30",
+      "muc": "Lý thuyết về Use Case (Trường hợp sử dụng): khái niệm mô tả quá trình tương tác cụ thể, ký hiệu Ellipse (hình elip), quy tắc đặt tên Use Case phải là Động từ + Danh từ (Verb + Noun)."
+    },
+    {
+      "ts": "07:00",
+      "muc": "Lý thuyết về System Boundary (Ranh giới hệ thống): hình chữ nhật bao quanh tất cả các use case, các Actor đặt bên ngoài ranh giới hệ thống."
+    },
+    {
+      "ts": "08:00",
+      "muc": "Lý thuyết về các mối quan hệ (Relationships): Association (đường nét liền nối Actor và Use Case), Generalization (kế thừa giữa các Actor hoặc Use Case)."
+    },
+    {
+      "ts": "09:00",
+      "muc": "Lý thuyết về mối quan hệ <<include>>: hành vi bắt buộc (Use Case A luôn triệu gọi B), chiều mũi tên trỏ từ Use Case chính sang Use Case bắt buộc (A --<<include>>--> B)."
+    },
+    {
+      "ts": "10:30",
+      "muc": "Lý thuyết về mối quan hệ <<extend>>: hành vi mở rộng có điều kiện (chỉ thực hiện khi thỏa mãn điều kiện), chiều mũi tên trỏ từ Use Case mở rộng VỀ Use Case chính (B --<<extend>>--> A)."
+    },
+    {
+      "ts": "14:30",
+      "muc": "Hướng dẫn giải Part 1: Đọc đề xác định 4 Primary Actors (Student, Lecturer, Academic Staff, System Administrator) và 1 Secondary Actor (Notification System) kèm mục tiêu chính."
+    },
+    {
+      "ts": "24:00",
+      "muc": "Hướng dẫn giải Part 2: Xây dựng danh sách 14 Use Cases chi tiết cho cả 4 nhóm người dùng, chỉ rõ Initiating Actor và câu mô tả mục tiêu 1 câu (one-sentence goal description)."
+    },
+    {
+      "ts": "39:00",
+      "muc": "Khởi động phần mềm StarUML, tạo Use Case Diagram, vẽ ranh giới hệ thống (System Boundary) mang tên 'Course Registration System'."
+    },
+    {
+      "ts": "40:30",
+      "muc": "Tạo và đặt tên 5 Actor trên canvas (4 Primary Actors ở bên ngoài ranh giới hệ thống, 1 Secondary Actor 'Notification System' ở phía bên phải)."
+    },
+    {
+      "ts": "43:30",
+      "muc": "Tạo 14 hình elip Use Cases trong ranh giới hệ thống và nhập tên chuẩn dạng Verb + Noun."
+    },
+    {
+      "ts": "47:00",
+      "muc": "Vẽ mối quan hệ Association (đường nét liền không mũi tên) nối từ từng Actor đến các Use Case tương ứng."
+    },
+    {
+      "ts": "49:00",
+      "muc": "Phân tích và thêm quan hệ <<include>>: Submit registration request --<<include>>--> Check prerequisites kèm giải thích lý do (rationale)."
+    },
+    {
+      "ts": "52:00",
+      "muc": "Phân tích và thêm quan hệ <<extend>>: Join waitlist --<<extend>>--> Submit registration request (khi lớp đầy) và Send automated notifications --<<extend>>--> Join waitlist kèm giải thích lý do (rationale)."
+    },
+    {
+      "ts": "55:30",
+      "muc": "Thảo luận về quan hệ Generalization (kế thừa Actor User/Student/Lecturer) và giải thích lý do không cần đưa vào bài thi nếu đề không yêu cầu bắt buộc."
+    },
+    {
+      "ts": "57:00",
+      "muc": "Tổng kết lại mẹo phân biệt chiều mũi tên cho <<include>> (trỏ sang use case bắt buộc) và <<extend>> (trỏ về use case chính)."
+    },
+    {
+      "ts": "60:00",
+      "muc": "Hoàn thiện bài làm sơ đồ Use Case Diagram trong StarUML và kết thúc video."
+    }
+  ],
+  "quy_trinh_lam_bai": [
+    {
+      "buoc": 1,
+      "ten_buoc": "Xác định tất cả Actor (Primary & Secondary) và Primary Goal",
+      "lam_gi_cu_the": "Đọc kỹ đoạn I. CASE STUDY trong đề thi để trích xuất các nhóm người dùng chính (Primary Actors) và các hệ thống/dịch vụ bên ngoài (Secondary Actors). Đặt tên bằng Danh từ (Noun) và nêu rõ mục tiêu chính của từng Actor.",
+      "dau_vao": "Đoạn văn mô tả người dùng và hệ thống trong Case Study đề thi",
+      "dau_ra": "Danh sách đầy đủ các Actor (Student, Lecturer, Academic Staff, System Administrator, Notification System) phân loại Primary/Secondary kèm mục tiêu 1 câu.",
+      "cau_noi_goc": "có bốn main group of là một này thì nó sẽ có là student là một này sau đó nó sẽ có là lecturer này có academic staff này có system administrator này... và hệ thống tự động thông báo notification system là secondary actor",
+      "ts": "14:30"
+    },
+    {
+      "buoc": 2,
+      "ten_buoc": "Liệt kê danh sách Use Cases (Verb + Noun) kèm Initiating Actor & Goal",
+      "lam_gi_cu_the": "Liệt kê ít nhất 8 use cases (bài làm chi tiết 14 use cases). Đặt tên theo chuẩn Động từ + Danh từ (Verb + Noun). Với mỗi use case, chỉ rõ Actor khởi tạo (Initiating Actor) và viết 1 câu mô tả mục tiêu (one-sentence goal description).",
+      "dau_vao": "Các yêu cầu chức năng trích từ Case Study đề thi",
+      "dau_ra": "Bảng/Danh sách 14 Use Cases hoàn chỉnh (Browse course catalogue, Check prerequisites, Submit registration request, Track registration status, Join waitlist, View enrolled roster, Record grades, Release grades, Manage timetable, Manage registration window, Approve exceptions, Generate reports, Manage user accounts, Send automated notifications).",
+      "cau_noi_goc": "yêu cầu thứ hai là liệt kê ít nhất 8 use cases... ở đây mình làm luôn 14 cái cho đầy đủ",
+      "ts": "24:00"
+    },
+    {
+      "buoc": 3,
+      "ten_buoc": "Tạo System Boundary trong công cụ vẽ sơ đồ (StarUML)",
+      "lam_gi_cu_the": "Mở StarUML (hoặc phần mềm vẽ bất kỳ), chọn Add Diagram -> Use Case Diagram. Chọn công cụ Use Case Subject (System Boundary), kéo khung hình chữ nhật và đặt tên hệ thống là 'Course Registration System'.",
+      "dau_vao": "Tên hệ thống trong đề bài ('Course Registration System')",
+      "dau_ra": "Khung hình chữ nhật ranh giới hệ thống trên canvas StarUML",
+      "cau_noi_goc": "thứ nhất là anh em sẽ chọn cho mình là use case subject này đấy cái này nó chính là system boundary... tên nó ở đây là Course Registration System",
+      "ts": "39:00"
+    },
+    {
+      "buoc": 4,
+      "ten_buoc": "Đặt các Actor bên ngoài System Boundary",
+      "lam_gi_cu_the": "Sử dụng công cụ Actor (hình người que), tạo các Primary Actor bên trái và bên phải ngoài khung System Boundary (Student, Lecturer, Academic Staff, System Administrator). Tạo Secondary Actor (Notification System) phía bên phải.",
+      "dau_vao": "Danh sách 5 Actors đã xác định ở Bước 1",
+      "dau_ra": "5 biểu tượng Actor được sắp xếp gọn gàng ở 2 bên ngoài khung chữ nhật",
+      "cau_noi_goc": "actor thì nãy mình đã xác định có 5 cái rồi... anh em nhấp ra ngoài khung chữ nhật cho mình",
+      "ts": "40:30"
+    },
+    {
+      "buoc": 5,
+      "ten_buoc": "Đặt các hình elip Use Case bên trong System Boundary",
+      "lam_gi_cu_the": "Sử dụng công cụ Use Case (hình elip), tạo 14 Use Cases bên trong khung System Boundary. Nhập tên chính xác dạng Verb + Noun và căn chỉnh vị trí cân đối.",
+      "dau_vao": "Danh sách 14 Use Cases đã xác định ở Bước 2",
+      "dau_ra": "14 hình elip Use Cases nằm gọn gàng inside ranh giới hệ thống",
+      "cau_noi_goc": "mình sẽ có 14 cái đúng không... cứ thêm như thế đã được chưa sau đó thì mình bắt đầu nhập hết tên vào",
+      "ts": "43:30"
+    },
+    {
+      "buoc": 6,
+      "ten_buoc": "Vẽ đường liên kết Association giữa Actor và Use Case",
+      "lam_gi_cu_the": "Sử dụng công cụ Association (đường nét liền không mũi tên). Nối từ từng Actor đến tất cả các Use Case mà Actor đó thực hiện/tham gia.",
+      "dau_vao": "Mối tương tác giữa 5 Actors và 14 Use Cases",
+      "dau_ra": "Các đường nét liền Association nối chính xác giữa Actor và các Use Case tương ứng",
+      "cau_noi_goc": "anh em sử dụng cái association này thì bây giờ anh em bấm vào anh em nối cái nào với cái nào",
+      "ts": "47:00"
+    },
+    {
+      "buoc": 7,
+      "ten_buoc": "Thêm quan hệ <<include>> và <<extend>> kèm Rationale",
+      "lam_gi_cu_the": "Xác định hành vi bắt buộc (<<include>>) và hành vi mở rộng có điều kiện (<<extend>>). Vẽ nét đứt kèm nhãn <<include>> từ Submit registration request sang Check prerequisites (mũi tên trỏ sang Check prerequisites). Vẽ nét đứt kèm nhãn <<extend>> từ Join waitlist về Submit registration request (mũi tên trỏ VỀ Submit registration request) và từ Send automated notifications về Join waitlist. Viết văn bản giải thích Rationale cho từng quan hệ.",
+      "dau_vao": "Quy tắc nghiêp vụ: phải check môn tiên quyết trước khi đăng ký; chỉ cho join waitlist khi lớp đầy; tự động gửi thông báo khi có chỗ trống",
+      "dau_ra": "Các đường quan hệ <<include>> và <<extend>> đúng chiều mũi tên trên sơ đồ + Đoạn văn bản Rationale giải thích ngắn gọn trong bài làm",
+      "cau_noi_goc": "mỗi khi sinh viên gửi đơn đăng ký thì luôn luôn bắt buộc phải kiểm tra điều kiện tiên quyết... còn extend là điều kiện mở rộng, chỉ khi lớp đầy mới join waitlist, chiều mũi tên trỏ vào use case chính",
+      "ts": "49:00"
+    }
+  ],
+  "vi_du_giang_vien_lam": [
+    {
+      "de_bai_goc": "Question 2: UC Modeling (1.5 points)\n1. Identify ALL actors in the Course Registration System. For each actor, state their primary goal and whether they are a primary or secondary actor. (0.3 points)\n2. List at least EIGHT use cases for the CRS. For each use case, state the initiating actor(s) and a one-sentence description of the goal. (0.4 points)\n3. Draw a complete UML Use Case Diagram for the CRS. The diagram must include: (0.8 points)\n• All identified actors, placed correctly inside or outside the system boundary\n• All major use cases inside the system boundary rectangle\n• At least ONE <<include>> relationship - provide a brief written rationale\n• At least ONE <<extend>> relationship - provide a brief written rationale\n• Any actor-generalisation relationships that apply",
+      "bai_lam_hoan_chinh": "1. ACTORS IDENTIFICATION:\n- Student (Primary Actor): Browse course catalogue, check prerequisites, submit registration requests, track status, and join electronic waitlists.\n- Lecturer (Primary Actor): Review course enrolment rosters, record midterm and final grades, and release grades to students.\n- Academic Staff (Primary Actor): Define semester timetables, set and publish course quotas, manage registration windows, approve exceptional cases, and generate enrolment/grade reports.\n- System Administrator (Primary Actor): Manage user accounts, configure system parameters, and oversee scheduled data backups.\n- Notification System / Email Service (Secondary Actor): Automatically send email notifications to students when promoted from waitlists or when status changes occur.\n\n2. USE CASES LIST (14 Use Cases):\n1. Browse course catalogue | Initiator: Student | Goal: Allows students to search and view available courses and section details.\n2. Check prerequisites | Initiator: Student | Goal: Verifies student eligibility based on completed prerequisite courses.\n3. Submit registration request | Initiator: Student | Goal: Enables students to submit course enrolment requests for eligible courses.\n4. Track registration status | Initiator: Student | Goal: Allows students to monitor the real-time processing status of submitted registration requests.\n5. Join waitlist | Initiator: Student | Goal: Allows students to join an automated queue when a desired course section is fully booked.\n6. View enrolled roster | Initiator: Lecturer | Goal: Enables lecturers to view the list of students registered in their assigned courses.\n7. Record grades | Initiator: Lecturer | Goal: Allows lecturers to input midterm and final assessment scores for enrolled students.\n8. Release grades | Initiator: Lecturer | Goal: Publishes finalized grades to make them visible to students.\n9. Manage timetable | Initiator: Academic Staff | Goal: Enables staff to define and modify semester course schedules.\n10. Manage registration window | Initiator: Academic Staff | Goal: Allows staff to open/close registration periods and configure course quotas.\n11. Approve exceptions | Initiator: Academic Staff | Goal: Enables staff to manually review and approve special enrolment requests.\n12. Generate reports | Initiator: Academic Staff | Goal: Produces enrolment statistics and grade distribution summaries.\n13. Manage user accounts | Initiator: System Administrator | Goal: Creates, updates, and configures system user profiles, parameters, and backups.\n14. Send automated notifications | Initiator: Notification System (Secondary) | Goal: Sends automated email alerts to students when enrolled from waitlists.\n\n3. RELATIONSHIP RATIONALES:\n- <<include>> Rationale: 'Submit registration request' <<include>> 'Check prerequisites'. Every time a student submits a registration request, the system MUST execute prerequisite verification first to ensure course eligibility.\n- <<extend>> Rationale 1: 'Join waitlist' <<extend>> 'Submit registration request'. Joining an electronic waitlist is a conditional extension that occurs only when the target course quota is fully filled.\n- <<extend>> Rationale 2: 'Send automated notifications' <<extend>> 'Join waitlist'. Sending notification emails occurs conditionally when a registered student drops a course, promoting the first waitlisted student.\n\n4. UML USE CASE DIAGRAM (StarUML Layout):\n- Boundary Rectangle: 'Course Registration System'\n- Left Primary Actors: Student, Lecturer\n- Right Primary Actors: Academic Staff, System Administrator\n- Right Secondary Actor: Notification System «secondary»\n- Inside Boundary: 14 Ellipses with Verb + Noun labels.\n- Associations: Solid lines connecting Actors to their respective Use Cases.\n- Include Arrow: Submit registration request --<<include>>--> Check prerequisites (dashed arrow pointing to Check prerequisites).\n- Extend Arrows: Join waitlist --<<extend>>--> Submit registration request (dashed arrow pointing to Submit registration request); Send automated notifications --<<extend>>--> Join waitlist (dashed arrow pointing to Join waitlist).",
+      "giang_giai": "Giảng viên hướng dẫn chi tiết cách bóc tách từ đề bài Case Study: 1) Gom nhóm Actor con người thành Primary Actors, hệ thống thông báo bên ngoài thành Secondary Actor. 2) Đặt tên Use Case chuẩn Verb + Noun. 3) Phân biệt kỹ Include (hành vi bắt buộc luôn phải gọi) và Extend (hành vi mở rộng chỉ xảy ra khi có điều kiện). Mũi tên include hướng sang use case con, mũi tên extend chĩa ngược về use case chính.",
+      "ts": "07:40"
+    }
+  ],
+  "khai_niem": [
+    {
+      "thuat_ngu": "Actor (Tác nhân)",
+      "dinh_nghia_theo_giang_vien": "Một thực thể nằm bên ngoài hệ thống (có thể là con người hoặc hệ thống/dịch vụ bên ngoài) tương tác trực tiếp với hệ thống để đạt được mục tiêu. Ký hiệu là Stick figure (hình người que). Tên Actor bắt buộc phải là Danh từ (Noun).",
+      "vi_du": "Student, Lecturer, Academic Staff, System Administrator, Notification System",
+      "ts": "03:30"
+    },
+    {
+      "thuat_ngu": "Primary Actor (Tác nhân chính)",
+      "dinh_nghia_theo_giang_vien": "Tác nhân con người trực tiếp sử dụng hệ thống và khởi tạo tương tác để đạt được mục tiêu công việc chính của mình.",
+      "vi_du": "Student (học sinh đăng ký học), Lecturer (giảng viên nhập điểm)",
+      "ts": "04:00"
+    },
+    {
+      "thuat_ngu": "Secondary Actor (Tác nhân phụ)",
+      "dinh_nghia_theo_giang_vien": "Hệ thống, dịch vụ hoặc phần mềm bên ngoài hỗ trợ hệ thống chính thực hiện tác vụ (như gửi email, cổng thanh toán, hệ thống lưu trữ).",
+      "vi_du": "Notification System (hệ thống gửi email tự động), Payment Gateway",
+      "ts": "04:30"
+    },
+    {
+      "thuat_ngu": "Use Case (Trường hợp sử dụng)",
+      "dinh_nghia_theo_giang_vien": "Một chuỗi các hành động/tương tác cụ thể giữa Actor và hệ thống nhằm mang lại một kết quả có giá trị cho Actor. Ký hiệu là Ellipse (hình elip). Tên Use Case bắt buộc là Động từ + Danh từ (Verb + Noun).",
+      "vi_du": "Browse course catalogue, Submit registration request, Record grades",
+      "ts": "05:30"
+    },
+    {
+      "thuat_ngu": "System Boundary (Ranh giới hệ thống)",
+      "dinh_nghia_theo_giang_vien": "Khung hình chữ nhật bao quanh tất cả các Use Case, xác định phạm vi nội bộ của hệ thống. Tất cả Actor phải đặt BÊN NGOÀI ranh giới này, còn tất cả Use Case phải đặt BÊN TRONG.",
+      "vi_du": "Khung chữ nhật mang tên 'Course Registration System'",
+      "ts": "07:00"
+    },
+    {
+      "thuat_ngu": "Association (Liên kết)",
+      "dinh_nghia_theo_giang_vien": "Mối quan hệ giao tiếp đơn giản giữa Actor và Use Case. Trên sơ đồ vẽ bằng đường nét liền không có mũi tên.",
+      "vi_du": "Đường nét liền từ Student nối đến Browse course catalogue",
+      "ts": "08:00"
+    },
+    {
+      "thuat_ngu": "<<include>> Relationship",
+      "dinh_nghia_theo_giang_vien": "Mối quan hệ thể hiện hành vi BẮT BUỘC. Use Case chính A luôn luôn tự động triệu gọi Use Case B mỗi khi A được thực thi. Chiều mũi tên nét đứt: trỏ từ Use Case chính sang Use Case bắt buộc (A --<<include>>--> B).",
+      "vi_du": "Submit registration request --<<include>>--> Check prerequisites (luôn phải kiểm tra môn tiên quyết trước khi nộp đơn)",
+      "ts": "09:00"
+    },
+    {
+      "thuat_ngu": "<<extend>> Relationship",
+      "dinh_nghia_theo_giang_vien": "Mối quan hệ thể hiện hành vi MỞ RỘNG CÓ ĐIỀU KIỆN (chỉ xảy ra khi thỏa mãn điều kiện nhất định, không bắt buộc lúc nào cũng chạy). Chiều mũi tên nét đứt: trỏ từ Use Case mở rộng VỀ Use Case chính (B --<<extend>>--> A).",
+      "vi_du": "Join waitlist --<<extend>>--> Submit registration request (chỉ khi lớp học đã đầy chỉ tiêu mới tham gia waitlist)",
+      "ts": "10:30"
+    }
+  ],
+  "cau_chu_mau": [
+    {
+      "dung_khi": "Viết văn bản giải thích lý do (Rationale) cho mối quan hệ <<include>> trong bài làm Q2",
+      "mau": "[Use Case A] <<include>> [Use Case B] because whenever [Actor] performs [Use Case A], the system must automatically execute [Use Case B] as a mandatory prerequisite condition.",
+      "ts": "49:00"
+    },
+    {
+      "dung_khi": "Viết văn bản giải thích lý do (Rationale) cho mối quan hệ <<extend>> trong bài làm Q2",
+      "mau": "[Use Case B] <<extend>> [Use Case A] under the specific condition that [state the business condition, e.g., the course quota is fully booked].",
+      "ts": "52:00"
+    }
+  ],
+  "luu_y_cham_diem": [
+    {
+      "noi_dung": "Tên Actor bắt buộc phải dùng Danh từ (Noun) chỉ vai trò (như Student, Lecturer). Dùng động từ làm tên Actor sẽ bị trừ điểm.",
+      "muc_do": "chac_chan",
+      "ts": "05:30"
+    },
+    {
+      "noi_dung": "Tên Use Case bắt buộc phải dùng công thức Động từ + Danh từ (Verb + Noun). Không được dùng danh từ đơn lẻ (như viết 'Course Catalogue' thay vì 'Browse course catalogue').",
+      "muc_do": "chac_chan",
+      "ts": "05:30"
+    },
+    {
+      "noi_dung": "Tất cả các Use Case hình elip BẮT BUỘC phải nằm INSIDE khung hình chữ nhật System Boundary. Đặt Use Case nằm ngoài khung chữ nhật là sai cú pháp UML và bị trừ điểm nặng.",
+      "muc_do": "chac_chan",
+      "ts": "07:00"
+    },
+    {
+      "noi_dung": "Chiều mũi tên quan hệ <<include>> và <<extend>>: <<include>> trỏ từ Use Case chính sang Use Case phụ (A ---> B). <<extend>> trỏ từ Use Case mở rộng VỀ Use Case chính (B ---> A). Cắm ngược chiều mũi tên là sai bản chất và mất sạch điểm phần quan hệ.",
+      "muc_do": "chac_chan",
+      "ts": "58:00"
+    },
+    {
+      "noi_dung": "Các câu hỏi yêu cầu <<include>> và <<extend>> luôn bắt buộc phải kèm theo văn bản giải thích lý do (brief written rationale). Nếu chỉ vẽ sơ đồ mà quên viết dòng Rationale sẽ bị mất 0.2 - 0.4 điểm phần đó.",
+      "muc_do": "chac_chan",
+      "ts": "00:30"
+    }
+  ],
+  "meo_lam_bai": [
+    {
+      "meo": "Mẹo đọc đề trích xuất Primary Actors: Đọc ngay câu mô tả 'The CRS is expected to serve X main groups of users' để lấy ngay danh sách các tác nhân chính con người mà không cần tìm rải rác.",
+      "ts": "14:30"
+    },
+    {
+      "meo": "Mẹo phân biệt chiều mũi tên: Mũi tên <<include>> trỏ SANG use case được gọi (Submit -> Check). Mũi tên <<extend>> trỏ VỀ use case gốc/chính (Waitlist -> Submit). Cứ nhớ 'Thằng mở rộng chĩa đầu mũi tên về thằng gốc'.",
+      "ts": "58:30"
+    },
+    {
+      "meo": "Mẹo vẽ StarUML cho sơ đồ đẹp: Đặt khung System Boundary trước, kéo 4-5 Actor ra ngoài 2 bên, tạo sẵn toàn bộ 14 elip Use Cases rồi mới bắt đầu dùng công cụ Association nối dây. Làm vậy sơ đồ sẽ ngay ngắn, không bị đè dây.",
+      "ts": "40:00"
+    }
+  ],
+  "loi_sai_thuong_gap": [
+    {
+      "loi": "Đặt tên Use Case sai cú pháp (dùng Danh từ thay vì Verb + Noun, ví dụ ghi 'Student Record' hoặc 'Course List').",
+      "cach_tranh": "Luôn luôn bắt đầu tên Use Case bằng một động từ nguyên mẫu hành động: Browse, Check, Submit, Track, Join, View, Record, Release, Manage, Approve, Generate, Send.",
+      "ts": "05:30"
+    },
+    {
+      "loi": "Vẽ mũi tên <<extend>> ngược chiều (trỏ từ Submit registration request sang Join waitlist).",
+      "cach_tranh": "Ghi nhớ bản chất: Join waitlist là tính năng bổ sung mở rộng, nó phải trỏ mũi tên VỀ use case chính là Submit registration request.",
+      "ts": "59:00"
+    },
+    {
+      "loi": "Quên vẽ khung chữ nhật System Boundary hoặc vẽ các Use Case nằm tràn ra ngoài khung.",
+      "cach_tranh": "Vẽ hình chữ nhật System Boundary đầu tiên và đặt tên hệ thống rõ ràng ở mép trên khung, sau đó mới cho các Use Case vào bên trong.",
+      "ts": "40:00"
+    },
+    {
+      "loi": "Dùng mũi tên cho đường Association nối giữa Actor và Use Case.",
+      "cach_tranh": "Association chuẩn UML giữa Actor và Use Case chỉ là đường nét liền đơn giản (Solid Line), KHÔNG có đầu mũi tên.",
+      "ts": "08:30"
+    }
+  ],
+  "prompt_ai_giang_vien_dung": [],
+  "so_do_va_bang": [
+    {
+      "ts": "14:30",
+      "loai": "khac",
+      "noi_dung_chep_lai": "TABLE: Actors Identification in CRS\n| # | Actor Name | Type | Primary Goal |\n|---|---|---|---|\n| 1 | Student | Primary | Browse courses, check prerequisites, submit registration requests, track status, join waitlists. |\n| 2 | Lecturer | Primary | Review enrolled student roster, record midterm/final grades, release grades. |\n| 3 | Academic Staff | Primary | Manage timetable, open/close registration window & quotas, approve exceptions, generate reports. |\n| 4 | System Administrator | Primary | Manage user accounts, configure system parameters, oversee data backups. |\n| 5 | Notification System | Secondary | Automatically send email alerts to students when waitlist seats become available. |"
+    },
+    {
+      "ts": "24:00",
+      "loai": "khac",
+      "noi_dung_chep_lai": "TABLE: Use Cases List (14 Use Cases)\n| # | Initiating Actor | Use Case Name | One-Sentence Goal Description |\n|---|---|---|---|\n| 1 | Student | Browse course catalogue | Browse and search available course offerings and syllabus details. |\n| 2 | Student | Check prerequisites | Verify if completed courses satisfy required course prerequisites. |\n| 3 | Student | Submit registration request | Submit formal course enrollment requests for open sections. |\n| 4 | Student | Track registration status | Monitor real-time progress and approval status of registration requests. |\n| 5 | Student | Join waitlist | Enroll in an electronic waiting queue when a course section reaches full capacity. |\n| 6 | Lecturer | View enrolled roster | Access and review student roster lists enrolled in assigned courses. |\n| 7 | Lecturer | Record grades | Input midterm and final exam scores for registered students. |\n| 8 | Lecturer | Release grades | Publish finalized assessment grades to make them visible to students. |\n| 9 | Academic Staff | Manage timetable | Define and update semester class schedules and room assignments. |\n| 10 | Academic Staff | Manage registration window | Open/close registration periods and set enrollment quota caps per course. |\n| 11 | Academic Staff | Approve exceptions | Manually review and approve special enrollment override requests. |\n| 12 | Academic Staff | Generate reports | Export enrollment statistics and grade distribution summaries. |\n| 13 | System Administrator | Manage user accounts | Manage user credentials, system parameters, and scheduled backups. |\n| 14 | Notification System | Send automated notifications | Dispatch automated email alerts to students when promoted from waitlist. |"
+    },
+    {
+      "ts": "40:00",
+      "loai": "use_case",
+      "noi_dung_chep_lai": "USE CASE DIAGRAM (StarUML Structure):\nSystem Boundary: [Course Registration System]\n\nActors:\n- Student (Primary, Left)\n- Lecturer (Primary, Left)\n- Academic Staff (Primary, Right)\n- System Administrator (Primary, Right)\n- Notification System (Secondary, Right)\n\nUse Cases (inside boundary):\n- (Browse course catalogue)\n- (Check prerequisites)\n- (Submit registration request)\n- (Track registration status)\n- (Join waitlist)\n- (View enrolled roster)\n- (Record grades)\n- (Release grades)\n- (Manage timetable)\n- (Manage registration window)\n- (Approve exceptions)\n- (Generate reports)\n- (Manage user accounts)\n- (Send automated notifications)\n\nAssociations (Solid lines):\n- Student --- (Browse course catalogue)\n- Student --- (Check prerequisites)\n- Student --- (Submit registration request)\n- Student --- (Track registration status)\n- Student --- (Join waitlist)\n- Lecturer --- (View enrolled roster)\n- Lecturer --- (Record grades)\n- Lecturer --- (Release grades)\n- Academic Staff --- (Manage timetable)\n- Academic Staff --- (Manage registration window)\n- Academic Staff --- (Approve exceptions)\n- Academic Staff --- (Generate reports)\n- System Administrator --- (Manage user accounts)\n- Notification System --- (Send automated notifications)\n\nInclude Relationship:\n- (Submit registration request) --<<include>>--> (Check prerequisites)\n\nExtend Relationships:\n- (Join waitlist) --<<extend>>--> (Submit registration request)\n- (Send automated notifications) --<<extend>>--> (Join waitlist)"
+    }
+  ],
+  "cho_khong_ro": [],
+  "ghi_chu_ngoai_khoa": [],
+  "do_bao_phu": "đã đọc hết dossier: có"
+}

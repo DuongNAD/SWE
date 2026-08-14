@@ -1,0 +1,301 @@
+{
+  "id": "tonghop",
+  "tieu_de_tu_suy_ra": "Tổng hợp toàn bộ kiến thức cơ bản SWE202",
+  "cau_hoi_lien_quan": [],
+  "do_dai_phut": 7.1,
+  "dan_bai": [
+    {
+      "ts": "00:00",
+      "muc": "Đặt vấn đề: Làm sao để xây dựng phần mềm từ hàng triệu dòng mã mà không bị sụp đổ (ví như xây tòa nhà chọc trời)"
+    },
+    {
+      "ts": "00:30",
+      "muc": "Tổng quan 5 giai đoạn phát triển phần mềm: Lập kế hoạch, Thiết kế sơ đồ, Xây dựng & Kiểm thử, Kỷ nguyên AI, Chuyển đổi số & Đạo đức"
+    },
+    {
+      "ts": "01:00",
+      "muc": "Giai đoạn 1: Lập kế hoạch dự án - Xác định phạm vi, cột mốc tiến độ và chọn quy trình phát triển có cấu trúc"
+    },
+    {
+      "ts": "01:30",
+      "muc": "Lưu ý về hạn chế của biểu đồ Gantt và hai phương pháp thực hiện kế hoạch: Incremental (tăng trưởng) và Iterative (lặp lại)"
+    },
+    {
+      "ts": "02:00",
+      "muc": "Giai đoạn 2: Thiết kế sơ đồ hệ thống - Vẽ bản thiết kế kiến trúc bằng ngôn ngữ mô hình hóa và giới thiệu Use Case"
+    },
+    {
+      "ts": "02:30",
+      "muc": "Cấu trúc chi tiết của Use Case (Actor, Flow of Events, Preconditions, Yêu cầu phi chức năng)"
+    },
+    {
+      "ts": "03:00",
+      "muc": "Khái niệm Class (Lớp) trong thiết kế hệ thống và ví dụ về Class Khách Hàng"
+    },
+    {
+      "ts": "03:30",
+      "muc": "Giai đoạn 3: Xây dựng và kiểm thử - Mục tiêu cốt lõi của kiểm thử phần mềm là chứng minh có lỗi"
+    },
+    {
+      "ts": "04:00",
+      "muc": "Hai mục tiêu kiểm thử: Verification (thẩm tra xây đúng thiết kế) và Validation (thẩm định xây đúng nhu cầu khách hàng)"
+    },
+    {
+      "ts": "04:30",
+      "muc": "Giai đoạn 4: Kỷ nguyên mới của AI - Mô hình Mạng Nơ-ron (lớp đầu vào, lớp ẩn, lớp đầu ra)"
+    },
+    {
+      "ts": "05:00",
+      "muc": "Các ứng dụng của AI hỗ trợ lập trình viên (viết mã lặp, dọn dẹp mã, giải thích logic, tìm lỗi)"
+    },
+    {
+      "ts": "05:30",
+      "muc": "Cảnh báo mã AI tạo ra không đảm bảo 100% không lỗi và vai trò trợ lý của AI"
+    },
+    {
+      "ts": "06:00",
+      "muc": "Giai đoạn 5: Chuyển đổi số & Đạo đức - 4 trụ cột chuyển đổi số và thách thức đạo đức từ AI"
+    },
+    {
+      "ts": "06:30",
+      "muc": "Kỹ năng cần thiết trong tương lai khi AI là đồng hành (đặt câu hỏi đúng, giám sát và dẫn dắt AI)"
+    },
+    {
+      "ts": "07:00",
+      "muc": "Lời cảm ơn và kết thúc video"
+    }
+  ],
+  "quy_trinh_lam_bai": [
+    {
+      "buoc": 1,
+      "ten_buoc": "Lập Kế Hoạch Dự Án (Đặt Nền Móng)",
+      "lam_gi_cu_the": "Xác định phạm vi dự án, đặt ra các cột mốc quan trọng để quản lý tiến độ, chọn quy trình phát triển có cấu trúc (Incremental hoặc Iterative) để phân chia công việc.",
+      "dau_vao": "Yêu cầu tổng quan về phần mềm cần xây dựng",
+      "dau_ra": "Kế hoạch dự án, phạm vi, cột mốc tiến độ và quy trình phát triển",
+      "cau_noi_goc": "bước đầu tiên của mọi dự án chính là xác định phạm vi của nó. Sau đó là đặt ra các cột mốc quan trọng. để quản lý tín độ. Việc chọn một quy trình phát triển có cấu trúc là cực kỳ cần thiết để có thể dĩ dàng phân chia công việc.",
+      "ts": "01:00"
+    },
+    {
+      "buoc": 2,
+      "ten_buoc": "Thiết Kế Sơ Đồ Hệ Thống (Tạo Bản Thiết Kế Kiến Trúc)",
+      "lam_gi_cu_the": "Mô hình hóa hệ thống bằng ngôn ngữ đặc biệt: tạo kịch bản Use Case (mô tả chức năng từ góc nhìn người dùng gồm Actor, Flow of Events, Preconditions, Yêu cầu phi chức năng) và Class (bản mô tả nhóm đối tượng có chung thuộc tính, thao tác, mối quan hệ và ngữ nghĩa).",
+      "dau_vao": "Yêu cầu chức năng và phạm vi hệ thống",
+      "dau_ra": "Bản thiết kế kiến trúc hệ thống (Use Case, Class Diagram)",
+      "cau_noi_goc": "Họ sẽ bắt đầu vẽ nên những bản thiết kế chi tiết Dĩ nhiên là không phải bằng bút và giấy, mà bằng một ngôn ngữ đặc biệt để mô hình hóa toàn bộ hệ thống Công cụ đầu tiên trong bộ đồ nghề của họ là Use Case hay còn gọi là K sử dụng",
+      "ts": "02:00"
+    },
+    {
+      "buoc": 3,
+      "ten_buoc": "Xây Dựng và Kiểm Thử (Thi Công và Giám Sát)",
+      "lam_gi_cu_the": "Lập trình xây dựng hệ thống song song với kiểm tra và giám sát chất lượng; thực hiện kiểm thử đi săn lùng sai sót qua hai công đoạn: Verification (kiểm tra xây đúng theo bản thiết kế) và Validation (kiểm tra xây đúng sản phẩm khách hàng muốn).",
+      "dau_vao": "Bản thiết kế hệ thống và mã nguồn",
+      "dau_ra": "Sản phẩm phần mềm được kiểm thử, thẩm tra và thẩm định đầy đủ",
+      "cau_noi_goc": "Mục tiêu của kiểm thử là để chứng minh rằng phần mềm có lỗi... Công việc của một người kiểm thử viên Thực chất là một người đi săn lùng sai sót Chứ không phải là để chứng minh rằng phần mềm này hoàn hảo không tì vết",
+      "ts": "03:30"
+    },
+    {
+      "buoc": 4,
+      "ten_buoc": "Hỗ Trợ Phát Triển Bằng AI (Kỷ Nguyên Mới Của AI)",
+      "lam_gi_cu_the": "Sử dụng AI tự động viết mã lặp đi lặp lại, dọn dẹp mã phức tạp, giải thích logic khó, rà soát mã tìm lỗi và lỗ hổng bảo mật. Luôn phải rà soát và kiểm tra lại mã do AI sinh ra.",
+      "dau_vao": "Yêu cầu sinh mã, tối ưu mã hoặc rà soát lỗi",
+      "dau_ra": "Mã nguồn được tối ưu/hỗ trợ bởi AI đã qua con người kiểm duyệt",
+      "cau_noi_goc": "Nó có thể tự động viết những đoạn mã lập đi lập lại Nó có thể dọn nhẹp những đoạn mã phức tạp để chúng trở nên đơn giản, dễ hiểu hơn Nó thậm chí có thể giải thích những logic khó nhằn bằng ngôn ngữ bình thường và tự động ra xét mã để tìm lỗi và lỗ hổng bảo mật",
+      "ts": "05:00"
+    },
+    {
+      "buoc": 5,
+      "ten_buoc": "Chuyển Đổi Số & Đạo Đức",
+      "lam_gi_cu_the": "Tích hợp công nghệ vào toàn bộ doanh nghiệp dựa trên 4 trụ cột (Công nghệ, Dữ liệu, Quy trình, Quản lý thay đổi), đồng thời quản lý rủi ro đạo đức (tin giả, deepfake, thành kiến, quyền riêng tư dữ liệu, bản quyền).",
+      "dau_vao": "Mục tiêu chuyển đổi doanh nghiệp và ứng dụng phần mềm/AI",
+      "dau_ra": "Hệ thống vận hành doanh nghiệp tạo giá trị mới gắn với trách nhiệm đạo đức",
+      "cau_noi_goc": "Chuyển đổi số không đơn giản là mua sắm công nghệ mới Nó là quá trình tích hợp công nghệ vào mọi ngốc ngách của một doanh nghiệp Quá trình này được xây dựng trên 4 trụ cột chính đó là công nghệ, dữ liệu, quy trình vận hành và quản lý sự thay đổi trong tổ chức",
+      "ts": "06:00"
+    }
+  ],
+  "vi_du_giang_vien_lam": [
+    {
+      "de_bai_goc": "Ví dụ kịch bản Ca sử dụng (Use Case)",
+      "bai_lam_hoan_chinh": "Người dùng đăng nhập, tìm kiếm sản phẩm A, thêm vào giỏ hàng và tiến hành thanh toán.",
+      "giang_giai": "Mô tả một kịch bản sử dụng cụ thể thay vì chung chung để minh họa chức năng cốt lõi của hệ thống từ góc nhìn người dùng.",
+      "ts": "02:30"
+    },
+    {
+      "de_bai_goc": "Ví dụ về thiết kế Class Khách Hàng",
+      "bai_lam_hoan_chinh": "Class Khách Hàng sẽ định nghĩa rằng mọi khách hàng đều phải có tên, email và lịch sử mua hàng.",
+      "giang_giai": "Ví dụ minh họa cho Class như một bản thiết kế chung (khung sườn), từ đó sinh ra hàng triệu đối tượng khách hàng cụ thể.",
+      "ts": "03:00"
+    },
+    {
+      "de_bai_goc": "Ví dụ mô phỏng hoạt động Mạng Nơ-ron (Neural Network)",
+      "bai_lam_hoan_chinh": "1. Lớp đầu vào: Nhận dữ liệu thô (ví dụ: một tấm ảnh).\n2. Lớp ẩn: Trích xuất đặc trưng và học các mẫu (lớp nhận diện hình dáng, lớp nhận diện màu sắc).\n3. Lớp đầu ra: Đưa ra dự đoán cuối cùng dựa trên xác suất (ví dụ: 98% đây là một con mèo).",
+      "giang_giai": "Minh họa mạng neuron như một dây chuyền lắp ráp siêu thông minh bóc tách các đặc điểm từ dữ liệu thô đến dự đoán xác suất.",
+      "ts": "04:30"
+    }
+  ],
+  "khai_niem": [
+    {
+      "thuat_ngu": "Quy trình tăng trưởng (Incremental process)",
+      "dinh_nghia_theo_giang_vien": "Xây hoàn chỉnh từng tầng của tòa nhà, rồi đưa vào sử dụng ngay.",
+      "vi_du": "Hoàn thiện từng phần/tầng phần mềm rồi đưa vào vận hành trước khi xây phần tiếp theo.",
+      "ts": "01:30"
+    },
+    {
+      "thuat_ngu": "Quy trình lặp lại (Iterative process)",
+      "dinh_nghia_theo_giang_vien": "Xây một phiên bản khung sườn cơ bản của toàn bộ tòa nhà trước, sau đó dần dần hoàn thiện nó qua từng vòng lặp (lắp kính, đi dây điện, sơn tường).",
+      "vi_du": "Làm khung sườn toàn hệ thống trước rồi nâng cấp hoàn thiện qua từng vòng lặp.",
+      "ts": "01:30"
+    },
+    {
+      "thuat_ngu": "Use Case (Ca sử dụng)",
+      "dinh_nghia_theo_giang_vien": "Mô tả chức năng được yêu cầu của hệ thống từ góc nhìn của người dùng. Coi như là các 'động từ' trong hệ thống.",
+      "vi_du": "Người dùng đăng nhập, tìm kiếm sản phẩm A, thêm vào giỏ hàng và tiến hành thanh toán.",
+      "ts": "02:00"
+    },
+    {
+      "thuat_ngu": "Actor",
+      "dinh_nghia_theo_giang_vien": "Nhân vật chính thực hiện kịch bản ca sử dụng trong hệ thống.",
+      "vi_du": "Người dùng / Khách hàng.",
+      "ts": "02:30"
+    },
+    {
+      "thuat_ngu": "Flow of Events",
+      "dinh_nghia_theo_giang_vien": "Chuỗi các hành động mà actor thực hiện.",
+      "vi_du": "Đăng nhập -> Tìm kiếm -> Thêm giỏ hàng -> Thanh toán.",
+      "ts": "02:30"
+    },
+    {
+      "thuat_ngu": "Preconditions",
+      "dinh_nghia_theo_giang_vien": "Điều kiện tiên quyết phải có trước khi thực hiện ca sử dụng.",
+      "vi_du": "Người dùng phải đăng nhập rồi mới được thanh toán.",
+      "ts": "02:30"
+    },
+    {
+      "thuat_ngu": "Yêu cầu phi chức năng",
+      "dinh_nghia_theo_giang_vien": "Các yêu cầu về ràng buộc kỹ thuật, thời gian hoặc hiệu năng của hệ thống.",
+      "vi_du": "Hệ thống phải đăng ký xong cho một sinh viên trong vòng chưa đầy một giây.",
+      "ts": "02:30"
+    },
+    {
+      "thuat_ngu": "Class (Lớp)",
+      "dinh_nghia_theo_giang_vien": "Bản mô tả một nhóm đối tượng có chung thuộc tính, thao tác, mối quan hệ và ngữ nghĩa. Coi như các 'danh từ' trong hệ thống.",
+      "vi_du": "Class Khách Hàng chứa tên, email, lịch sử mua hàng.",
+      "ts": "03:00"
+    },
+    {
+      "thuat_ngu": "Kiểm thử phần mềm",
+      "dinh_nghia_theo_giang_vien": "Công việc của kiểm thử viên là đi săn lùng sai sót; mục tiêu chính là để chứng minh rằng phần mềm có lỗi.",
+      "vi_du": "Chạy các ca kiểm thử để tìm ra lỗi sai trong ứng dụng.",
+      "ts": "03:30"
+    },
+    {
+      "thuat_ngu": "Verification (Thẩm tra)",
+      "dinh_nghia_theo_giang_vien": "Trả lời câu hỏi: 'Chúng ta có đang xây tòa nhà đúng theo bản thiết kế không? Các chức năng có hoạt động đúng như mô tả không?'",
+      "vi_du": "Đối chiếu sản phẩm xây ra với bản tài liệu thiết kế.",
+      "ts": "04:00"
+    },
+    {
+      "thuat_ngu": "Validation (Thẩm định)",
+      "dinh_nghia_theo_giang_vien": "Trả lời câu hỏi: 'Chúng ta có đang xây đúng tòa nhà mà khách hàng muốn không? Liệu sản phẩm này có thực sự giải quyết được vấn đề của họ hay không?'",
+      "vi_du": "Đánh giá mức độ hài lòng và đáp ứng bài toán thực tế của khách hàng.",
+      "ts": "04:00"
+    },
+    {
+      "thuat_ngu": "Mạng Nơ-ron (Neural Network)",
+      "dinh_nghia_theo_giang_vien": "Mô hình suy nghĩ giống dây chuyền lắp ráp siêu thông minh gồm: Lớp đầu vào (nhận dữ liệu thô), Lớp ẩn (trích xuất đặc trưng và học các mẫu), Lớp đầu ra (đưa ra dự đoán dựa trên xác suất).",
+      "vi_du": "Phán đoán hình ảnh với xác suất 98% là con mèo.",
+      "ts": "04:30"
+    },
+    {
+      "thuat_ngu": "Chuyển đổi số",
+      "dinh_nghia_theo_giang_vien": "Tích hợp công nghệ vào mọi ngóc ngách của một doanh nghiệp dựa trên 4 trụ cột: Công nghệ (25%), Dữ liệu (25%), Quy trình (25%), Quản lý thay đổi (25%).",
+      "vi_du": "Chuyển đổi toàn diện tổ chức để tạo giá trị mới.",
+      "ts": "06:00"
+    }
+  ],
+  "cau_chu_mau": [
+    {
+      "dung_khi": "Viết yêu cầu phi chức năng trong Use Case",
+      "mau": "Hệ thống phải [thực hiện công việc] trong vòng chưa đầy [thời gian].",
+      "ts": "02:30"
+    }
+  ],
+  "luu_y_cham_diem": [
+    {
+      "noi_dung": "Mục tiêu chính của kiểm thử là để chứng minh phần mềm có lỗi, là đi săn lùng sai sót chứ không phải chứng minh phần mềm hoàn hảo không tì vết.",
+      "muc_do": "chac_chan",
+      "ts": "03:30"
+    },
+    {
+      "noi_dung": "Mã do AI tạo ra không bao giờ đảm bảo 100% là không có lỗi, luôn cần sự xem xét và kiểm tra lại của con người.",
+      "muc_do": "chac_chan",
+      "ts": "05:30"
+    }
+  ],
+  "meo_lam_bai": [
+    {
+      "meo": "Phân biệt Use Case và Class: Use Case là động từ (hành động), Class là danh từ (đối tượng trong hệ thống).",
+      "ts": "03:00"
+    },
+    {
+      "meo": "Phân biệt Verification và Validation: Verification là 'xây đúng thiết kế?', Validation là 'xây đúng cái khách hàng cần?'.",
+      "ts": "04:00"
+    },
+    {
+      "meo": "Ghi nhớ 4 trụ cột Chuyển đổi số đóng góp đồng đều 25% mỗi trụ cột: Công nghệ, Dữ liệu, Quy trình, Quản lý thay đổi.",
+      "ts": "06:00"
+    }
+  ],
+  "loi_sai_thuong_gap": [
+    {
+      "loi": "Cho rằng biểu đồ Gantt thể hiện được sự phụ thuộc logic giữa các công việc.",
+      "cach_tranh": "Ghi nhớ: Biểu đồ Gantt thực ra KHÔNG thể hiện được sự phụ thuộc logic giữa các công việc.",
+      "ts": "01:30"
+    },
+    {
+      "loi": "Nhầm tưởng mục tiêu kiểm thử là chứng minh phần mềm không có lỗi.",
+      "cach_tranh": "Mục tiêu đúng của kiểm thử là chứng minh phần mềm có lỗi.",
+      "ts": "03:30"
+    },
+    {
+      "loi": "Phụ thuộc tuyệt đối vào mã sinh ra bởi AI.",
+      "cach_tranh": "Coi AI là trợ lý và bắt buộc con người phải rà soát lại mã.",
+      "ts": "05:30"
+    },
+    {
+      "loi": "Coi chuyển đổi số đơn thuần là mua sắm công nghệ mới.",
+      "cach_tranh": "Chuyển đổi số phải kết hợp đủ 4 trụ cột: Công nghệ, Dữ liệu, Quy trình, Quản lý thay đổi.",
+      "ts": "06:00"
+    }
+  ],
+  "prompt_ai_giang_vien_dung": [],
+  "so_do_va_bang": [
+    {
+      "ts": "00:30",
+      "loai": "khac",
+      "noi_dung_chep_lai": "01  02  03\nLập Kế Hoạch  Thiết Kế Sơ Đồ  Xây Dựng và\nDự Án  Hệ Thống  Kiểm Thử\n04  05\nKỷ Nguyên Mới  Chuyển Đổi Số &\nCủa Al  Đạo Đức"
+    },
+    {
+      "ts": "02:00",
+      "loai": "use_case",
+      "noi_dung_chep_lai": "Use Case (Ca sử dụng)\nMô tả chức năng được yêu cầu của hệ thống từ góc nhìn của người dùng."
+    },
+    {
+      "ts": "03:00",
+      "loai": "class_diagram",
+      "noi_dung_chep_lai": "Class (Lớp)\nBản mô tả một nhóm đối tượng có chung thuộc tính, thao tác, mối quan hệ và ngữ nghĩa."
+    },
+    {
+      "ts": "04:30",
+      "loai": "khac",
+      "noi_dung_chep_lai": "Mạng Nơ-ron \"Suy Nghĩ\"\n1. Lớp đầu vào\nNhận dữ liệu thô.\n2. Lớp ẩn\nTrích xuất đặc trưng và học các mẫu.\n3. Lớp đầu ra\nĐưa ra dự đoán cuối cùng dựa trên xác suất."
+    },
+    {
+      "ts": "06:00",
+      "loai": "khac",
+      "noi_dung_chep_lai": "Chuyển đổi số dựa trên 4 lĩnh vực chính: Công nghệ, Dữ liệu, Quy trình, và Quản lý sự thay đổi.\n4 Trụ Cột\nCông nghệ (25%)\nDữ liệu (25%)\nQuy trình (25%)\nQuản lý thay đổi (25%)"
+    }
+  ],
+  "cho_khong_ro": [],
+  "ghi_chu_ngoai_khoa": [],
+  "do_bao_phu": "đã đọc hết dossier: có"
+}

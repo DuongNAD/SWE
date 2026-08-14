@@ -1,0 +1,2180 @@
+1
+00:00:00,000 --> 00:00:04,060
+Ok, hello anh em nhé, trong video này mình sẽ hướng dẫn anh em làm câu số 7 anh em nhé.
+
+2
+00:00:04,420 --> 00:00:06,320
+Câu số 7 này là câu cuối cùng, ok.
+
+3
+00:00:07,780 --> 00:00:11,200
+Thì câu số 7 này thì mình đã hướng dẫn anh em từ câu 1 đến câu 6 rồi.
+
+4
+00:00:11,820 --> 00:00:13,980
+Và câu số 7 này là câu cuối cùng mình sẽ hướng dẫn anh em.
+
+5
+00:00:14,560 --> 00:00:19,360
+Thì mình nghĩ là câu số 7 này có một cái phần mà ăn điểm chắc chắn 100% ai cũng ăn được 0.5.
+
+6
+00:00:20,120 --> 00:00:21,400
+Và này anh em chỉ cần copy paste thôi.
+
+7
+00:00:22,180 --> 00:00:25,440
+Tuy nhiên thì phần này thì khả năng cao là sẽ không có trong đề thi đâu.
+
+8
+00:00:25,440 --> 00:00:27,320
+Nếu có thì mình nghĩ là
+
+9
+00:00:27,320 --> 00:00:29,780
+Nó sẽ có cái phần
+
+10
+00:00:29,780 --> 00:00:32,000
+Viết dưới này thôi, viết tiết cây thôi
+
+11
+00:00:32,000 --> 00:00:33,680
+Còn nếu mà đưa cái này vào thì
+
+12
+00:00:33,680 --> 00:00:35,920
+Anh em sẽ ăn được luôn 0,5%
+
+13
+00:00:35,920 --> 00:00:37,400
+Ok
+
+14
+00:00:37,400 --> 00:00:40,140
+Thì đề lúc nào nó cũng sẽ cho anh em là
+
+15
+00:00:40,140 --> 00:00:41,040
+Phần case study
+
+16
+00:00:41,040 --> 00:00:43,940
+Phần này thì đằng trên mình nói quá nhiều rồi
+
+17
+00:00:43,940 --> 00:00:45,980
+Những câu trước thì anh em đã hiểu quá rõ
+
+18
+00:00:45,980 --> 00:00:47,740
+Vì cái case study của cái bài
+
+19
+00:00:47,740 --> 00:00:49,700
+Của cái đề thi thử này rồi đúng không anh em
+
+20
+00:00:49,700 --> 00:00:51,900
+Chung quy lại
+
+21
+00:00:51,900 --> 00:00:54,240
+Thì cái đề này topic của nó đúng như cái topic của nó
+
+22
+00:00:54,240 --> 00:00:56,260
+thì nó chính là về đăng ký của học
+
+23
+00:00:56,260 --> 00:00:56,860
+ok
+
+24
+00:00:56,860 --> 00:01:00,040
+thì ở đây
+
+25
+00:01:00,040 --> 00:01:02,180
+câu số 7 này, ý đầu tiên
+
+26
+00:01:02,180 --> 00:01:04,060
+100% anh em sẽ làm được thôi
+
+27
+00:01:04,060 --> 00:01:06,520
+ý này nhé, anh em chỉ cần copy paste cho mình
+
+28
+00:01:06,520 --> 00:01:08,520
+và mình sẽ chuẩn bị cho anh em để anh em copy paste
+
+29
+00:01:08,520 --> 00:01:09,440
+để cho anh em
+
+30
+00:01:09,440 --> 00:01:12,540
+thì phần này, nó sẽ có là
+
+31
+00:01:12,540 --> 00:01:15,020
+nó sẽ bảo anh em là đưa ra
+
+32
+00:01:15,020 --> 00:01:15,860
+anh em
+
+33
+00:01:15,860 --> 00:01:19,000
+nó sẽ yêu cầu anh em là đưa ra
+
+34
+00:01:19,000 --> 00:01:20,340
+các cái giai đoạn kiểm thử
+
+35
+00:01:20,340 --> 00:01:22,440
+để cho anh em, và nó yêu cầu anh em
+
+36
+00:01:22,440 --> 00:01:23,880
+liệt kê ra, thứ nhất
+
+37
+00:01:23,880 --> 00:01:26,000
+là anh em sẽ bị đưa ra
+
+38
+00:01:26,000 --> 00:01:27,300
+4 cái giai đoạn kiểm thử
+
+39
+00:01:27,300 --> 00:01:29,400
+anh em cứ nhớ cho mình nhé, 4 cái giai đoạn kiểm thử này
+
+40
+00:01:29,400 --> 00:01:32,940
+sau đó thì là
+
+41
+00:01:32,940 --> 00:01:35,220
+cái
+
+42
+00:01:35,220 --> 00:01:37,460
+nó hỏi là
+
+43
+00:01:37,460 --> 00:01:38,440
+cái gì được kiểm thử
+
+44
+00:01:38,440 --> 00:01:39,200
+và
+
+45
+00:01:39,200 --> 00:01:43,440
+ai là người kiểm thử, ai là người chịu trách nhiệm
+
+46
+00:01:43,440 --> 00:01:44,840
+và phần loại của nó
+
+47
+00:01:44,840 --> 00:01:47,220
+nghĩa là các cái loại kiểm thử được áp dụng
+
+48
+00:01:47,220 --> 00:01:48,880
+đấy là câu đầu tiên nhé
+
+49
+00:01:48,880 --> 00:01:50,740
+thì bây giờ mình sẽ giải quyết ý đầu tiên cho anh em
+
+50
+00:01:50,740 --> 00:01:53,180
+bằng cách là mình sẽ đưa cho anh em ý thuyết trước
+
+51
+00:01:53,180 --> 00:02:06,560
+nhé Ok em chờ mình chút nhé Ok thì các cái kiệp Bây giờ mình sẽ nói cho em lý thuyết chứ nhé đầu
+
+52
+00:02:06,560 --> 00:02:10,580
+tiên này để làm câu một này nhá Nói chung là đi thì anh em có bị vết thôi tí nữa mình hướng dẫn
+
+53
+00:02:10,580 --> 00:02:16,060
+anh em nhé Ok câu đầu tiên ý đầu tiên của cô bạn này thì nó yêu cầu anh em liên kê ra các
+
+54
+00:02:16,060 --> 00:02:20,960
+giai đoạn kiểm thử thì anh em cần phải biết cho mình có bốn ngày đoạn kiểm thử anh em nhé có bốn
+
+55
+00:02:20,960 --> 00:02:22,580
+một là Unix
+
+56
+00:02:22,580 --> 00:02:25,140
+nó là Unite
+
+57
+00:02:25,140 --> 00:02:25,960
+Ok
+
+58
+00:02:25,960 --> 00:02:30,140
+thì cái này là cái gì
+
+59
+00:02:30,140 --> 00:02:31,660
+thì em cứ nhớ cho mình đối tượng
+
+60
+00:02:31,660 --> 00:02:35,180
+đối tượng của cái kiểm thử này là gì
+
+61
+00:02:35,180 --> 00:02:37,600
+đây nó chính là kiểm thử đơn vị
+
+62
+00:02:37,600 --> 00:02:39,040
+thì nó sẽ kiểm thử bằng cách nào
+
+63
+00:02:39,040 --> 00:02:41,280
+nó đi vào từng class từng cái nhỏ nhất
+
+64
+00:02:41,280 --> 00:02:43,100
+nó đi vào từng cái nhỏ nhất
+
+65
+00:02:43,100 --> 00:02:43,900
+trong
+
+66
+00:02:43,900 --> 00:02:45,340
+cái
+
+67
+00:02:45,340 --> 00:02:48,400
+phần mềm của anh em
+
+68
+00:02:48,400 --> 00:02:50,140
+ví dụ nó đi vào từng cái class
+
+69
+00:02:50,140 --> 00:02:51,020
+từng cái module
+
+70
+00:02:51,020 --> 00:02:52,080
+vân vân
+
+71
+00:02:52,080 --> 00:02:52,800
+đó
+
+72
+00:02:52,800 --> 00:02:53,800
+thì nói chung
+
+73
+00:02:53,800 --> 00:02:54,500
+cái này là cái gì
+
+74
+00:02:54,500 --> 00:02:55,560
+nó sẽ là các cái thành phần
+
+75
+00:02:55,560 --> 00:02:56,660
+nhỏ nhất của má nguồn
+
+76
+00:02:56,660 --> 00:02:57,280
+được chưa
+
+77
+00:02:57,280 --> 00:02:58,760
+như là các hàm phương thức
+
+78
+00:02:58,760 --> 00:03:00,740
+hay là các class
+
+79
+00:03:00,740 --> 00:03:01,480
+được chưa nhé
+
+80
+00:03:01,480 --> 00:03:02,080
+đó
+
+81
+00:03:02,080 --> 00:03:03,040
+anh em nhớ cho mình nhé
+
+82
+00:03:03,040 --> 00:03:04,220
+thì nó sẽ đi vào
+
+83
+00:03:04,220 --> 00:03:04,820
+từng cái này
+
+84
+00:03:04,820 --> 00:03:06,120
+như là hàm function này
+
+85
+00:03:06,120 --> 00:03:07,960
+hay là method này
+
+86
+00:03:07,960 --> 00:03:10,560
+hay là
+
+87
+00:03:10,560 --> 00:03:11,520
+class
+
+88
+00:03:11,520 --> 00:03:13,800
+nó sẽ đi sâu
+
+89
+00:03:13,800 --> 00:03:14,500
+vào trong những cái này
+
+90
+00:03:14,500 --> 00:03:15,100
+được chưa
+
+91
+00:03:15,100 --> 00:03:15,680
+đấy chính là
+
+92
+00:03:15,680 --> 00:03:16,660
+lý do tại sao
+
+93
+00:03:16,660 --> 00:03:17,220
+nó gọi là
+
+94
+00:03:17,220 --> 00:03:18,120
+kiểm thử đơn vị
+
+95
+00:03:18,120 --> 00:03:19,260
+nó là unit testing
+
+96
+00:03:19,260 --> 00:03:20,040
+đấy nhỉ
+
+97
+00:03:20,040 --> 00:03:21,340
+và mục tiêu nó là gì
+
+98
+00:03:21,340 --> 00:03:22,980
+mục tiêu nó
+
+99
+00:03:22,980 --> 00:03:25,760
+là đảm bảo
+
+100
+00:03:25,760 --> 00:03:27,660
+mỗi đơn vị code này nó sẽ luôn hoạt động
+
+101
+00:03:27,660 --> 00:03:28,220
+một cách logic
+
+102
+00:03:28,220 --> 00:03:31,080
+nói chung là nó sẽ đấm sâu với code
+
+103
+00:03:31,080 --> 00:03:32,840
+kiểm thử trong code luôn
+
+104
+00:03:32,840 --> 00:03:35,020
+và người thực hiện
+
+105
+00:03:35,020 --> 00:03:36,700
+đây này, hu đây này
+
+106
+00:03:36,700 --> 00:03:39,260
+người thực hiện là ai, nó chính là developer
+
+107
+00:03:39,260 --> 00:03:40,820
+nhớ cho mình nhé
+
+108
+00:03:40,820 --> 00:03:43,360
+nhớ cho mình
+
+109
+00:03:43,360 --> 00:03:44,820
+ok, developer này
+
+110
+00:03:44,820 --> 00:03:47,420
+tiếp theo thì nó là loại kiểm thử
+
+111
+00:03:47,420 --> 00:03:49,200
+đây chứ anh em, loại kiểm thử
+
+112
+00:03:49,200 --> 00:03:58,740
+kiểm thử thì nó là cái gì thì nó sẽ chính là whitebox testing anh em nhớ cho mình nhé whitebox
+
+113
+00:03:58,740 --> 00:04:08,880
+ok đó ok thì anh em chỉ cần nhớ như vậy cho mình thôi nhé đó đấy là cái đầu tiên giai
+
+114
+00:04:08,880 --> 00:04:14,400
+sẽ là unit testing tiếp theo thì anh em sẽ có lại in through integration testing
+
+115
+00:04:14,400 --> 00:04:29,280
+Ok integration testing nó là gì nó là kiểm thử tích hợp vậy thì cái này là cái gì thì anh em
+
+116
+00:04:29,280 --> 00:04:35,760
+cứ nhớ cho mình đối tượng mà cái này test là cái gì nó là sự tương tác giữa các module hoặc
+
+117
+00:04:35,760 --> 00:04:36,960
+Anh em nhớ cho mình nhé
+
+118
+00:04:36,960 --> 00:04:38,260
+Sự tương tác giữa các module
+
+119
+00:04:38,260 --> 00:04:40,560
+Thì ví dụ anh em có là
+
+120
+00:04:40,560 --> 00:04:41,800
+Module đăng ký
+
+121
+00:04:41,800 --> 00:04:44,680
+Anh em sẽ có là module đăng ký
+
+122
+00:04:44,680 --> 00:04:49,520
+Và nó sẽ kết nối
+
+123
+00:04:49,520 --> 00:04:50,740
+Nó kết nối
+
+124
+00:04:50,740 --> 00:04:54,140
+Kết nối
+
+125
+00:04:54,140 --> 00:04:55,740
+Với database
+
+126
+00:04:55,740 --> 00:04:57,440
+Được chưa anh em
+
+127
+00:04:57,440 --> 00:05:00,200
+Ví dụ như vậy thì nó chính là sự tương tác giữa module
+
+128
+00:05:00,200 --> 00:05:02,380
+Và các dịch vụ
+
+129
+00:05:02,380 --> 00:05:04,300
+Đó anh em nhớ cho mình nhé
+
+130
+00:05:04,300 --> 00:05:05,660
+Đó nhớ cho mình
+
+131
+00:05:05,660 --> 00:05:07,260
+là sự kết nối
+
+132
+00:05:07,260 --> 00:05:09,140
+sự tương tác giữa
+
+133
+00:05:09,140 --> 00:05:10,720
+module và các dịch vụ
+
+134
+00:05:10,720 --> 00:05:13,260
+nhớ cho mình như vậy, và mục tiêu
+
+135
+00:05:13,260 --> 00:05:15,040
+của cái này là gì? để phát hiện ra lỗi trong việc
+
+136
+00:05:15,040 --> 00:05:16,660
+giao tiếp, truyền dữ liệu giữa các thành phần
+
+137
+00:05:16,660 --> 00:05:19,820
+nhớ đơn giản như vậy thôi, đó là phát hiện ra lỗi này
+
+138
+00:05:19,820 --> 00:05:21,680
+trong cái việc mà
+
+139
+00:05:21,680 --> 00:05:23,300
+giao tiếp và truyền dữ liệu
+
+140
+00:05:23,300 --> 00:05:25,060
+giữa các thành phần, anh nhớ như vậy thôi
+
+141
+00:05:25,060 --> 00:05:27,420
+và tiếp theo này, người thực hiện
+
+142
+00:05:27,420 --> 00:05:29,140
+đúng không? who này
+
+143
+00:05:29,140 --> 00:05:31,620
+thì cái này là gì? anh em có nhớ cho mình
+
+144
+00:05:31,620 --> 00:05:32,400
+đó là developer
+
+145
+00:05:32,400 --> 00:05:34,440
+đó, hoặc
+
+146
+00:05:34,440 --> 00:05:41,920
+hoặc nhá là qa team anh em có nhớ vậy như cho mình nhá Tí nữa mình sẽ cho em cái em lấy làm
+
+147
+00:05:41,920 --> 00:05:46,920
+cô này luôn bà em chỉ cần copy paste thôi nó ok thì anh em vẫn thấy hiểu qua một chút đấy
+
+148
+00:05:46,920 --> 00:05:52,240
+nhỉ tiếp theo thì loại kiểm thử nhá hai thì em cứ nhớ cho mình cái này trên này
+
+149
+00:05:52,240 --> 00:05:56,200
+quay mốc testing đúng không thì đằng dưới này là người test great box testing
+
+150
+00:05:56,200 --> 00:06:08,620
+Ok nhớ cho mình nhé Ok tiếp theo này đó sau cái interlations này thì nó sẽ là system testing
+
+151
+00:06:08,620 --> 00:06:17,440
+đó là testing hệ thống này nhé system testing để xem nha system testing thì nó gì chắc chắn rồi
+
+152
+00:06:17,440 --> 00:06:23,380
+đúng như cái tên nó thôi là nó sẽ test toàn bộ hệ thống hoàn chỉnh sau khi tích hợp test toàn bộ
+
+153
+00:06:23,380 --> 00:06:35,080
+sau khi mà tích hợp với xe ngang tiết toàn bộ sau khi mà tích hợp đó mục tiêu nó gì mà sẽ xác
+
+154
+00:06:35,080 --> 00:06:40,600
+minh xem là hệ thống này nó đã đáp ứng đủ nhu cầu chưa được chưa anh em nhớ cho mình nhé nó
+
+155
+00:06:40,600 --> 00:06:46,600
+chỉ đơn giản là xác minh xem là đã đáp ứng đủ các yêu cầu chưa Thế thôi rồi chưa đó tiếp theo
+
+156
+00:06:46,600 --> 00:06:56,320
+là người thực hiện nó thì chắc chắn rồi nó sẽ là các cái người tester hay nó còn gọi là kiểu là
+
+157
+00:06:56,320 --> 00:07:07,720
+đội ngũ của QA hoặc là qc team để chơi nhau đó Ok tiếp theo này loại kiểm thử thì trên này mình có
+
+158
+00:07:07,720 --> 00:07:23,780
+đây có rồi thì đây nó sẽ là vừa lạnh từ trên nha đó đây nó sẽ vừa lạnh và cuối cùng là cái uat
+
+159
+00:07:23,780 --> 00:07:35,600
+uat là gì nó user acceptance testing không Nó chỉ là xếp thường testing thôi thì cái này nó
+
+160
+00:07:35,600 --> 00:07:40,940
+nó sẽ là kiểm thử chấp nhận nó gọi là thế thôi nhưng mà nó kiểu là bây giờ nhiều anh em hiểu đơn
+
+161
+00:07:40,940 --> 00:07:46,340
+giản này nhá mục tiêu của này là gì là nó sẽ đưa cho khách hàng nó sẽ đưa cho chính những người user
+
+162
+00:07:46,340 --> 00:07:52,400
+sẽ đưa cho chính user test luôn ví dụ nhá Bây giờ mình đang làm được mình đang có một trang web nó
+
+163
+00:07:52,400 --> 00:08:00,860
+mình em mình đang có một trang web của họ ví dụ mình đang có một trang web mình có là một trang
+
+164
+00:08:00,860 --> 00:08:09,860
+bây giờ ví dụ khi mà anh em mua trang web của mình đúng không?
+
+165
+00:08:09,860 --> 00:08:14,860
+bây giờ ví dụ anh em mua trang web của mình đúng không?
+
+166
+00:08:14,860 --> 00:08:19,860
+khi anh em mua tài liệu của mình, mình làm sao trang web này rồi đúng không?
+
+167
+00:08:19,860 --> 00:08:22,860
+mình không thể biết được là nó còn bất ngờ hay không
+
+168
+00:08:22,860 --> 00:08:25,860
+chính vì vậy mình sẽ luôn luôn đưa ra cho anh em dùng
+
+169
+00:08:25,860 --> 00:08:27,860
+anh em dùng xong mình mới biết là nó có bất kỳ gì
+
+170
+00:08:27,860 --> 00:08:29,800
+nó có bất kỳ và mình sẽ fix tiếp
+
+171
+00:08:29,800 --> 00:08:30,960
+được chứ nhé, đó
+
+172
+00:08:30,960 --> 00:08:32,740
+thì đấy nó chính là cái
+
+173
+00:08:32,740 --> 00:08:34,780
+cái giai đoạn cuối cùng được chứ nhé
+
+174
+00:08:34,780 --> 00:08:36,340
+và nó gọi là
+
+175
+00:08:36,340 --> 00:08:37,660
+nó gọi là
+
+176
+00:08:37,660 --> 00:08:40,320
+Accepted Testing
+
+177
+00:08:40,320 --> 00:08:42,820
+được chứ nhé, đó anh em nhớ đơn giản như vậy thôi
+
+178
+00:08:42,820 --> 00:08:43,960
+và người thực hiện nhé
+
+179
+00:08:43,960 --> 00:08:46,000
+như mình vừa nói rồi, nó chính là user
+
+180
+00:08:46,000 --> 00:08:49,040
+nó chính là user
+
+181
+00:08:49,040 --> 00:08:49,560
+anh em nhé
+
+182
+00:08:49,560 --> 00:08:51,440
+ok chưa, đó
+
+183
+00:08:51,440 --> 00:08:54,440
+thì tiếp theo này
+
+184
+00:08:54,440 --> 00:08:56,980
+nó sẽ có là
+
+185
+00:08:56,980 --> 00:09:07,540
+là cái tiếp theo là cái gì nhỉ Chứ còn cái loại nữa nó còn cái thai đó cái thai thì anh em cứ nhớ
+
+186
+00:09:07,540 --> 00:09:20,020
+cho mình đó là alpha hoặc là beta vết tịch em nhớ thì cho mình đấy nhé Ok xin đó không rồi nhá
+
+187
+00:09:20,020 --> 00:09:27,220
+và kiến thức thứ hai mình muốn đưa đến cho anh em đó là cái kịch bạn tiết cây để cho anh em nó
+
+188
+00:09:27,220 --> 00:09:34,120
+gọi là kỹ thuật tiết cây thì nó sẽ có trong cái khi mà em biết các cái tiết cây thì nó sẽ có một
+
+189
+00:09:34,120 --> 00:09:41,380
+cái nó gọi là các cái kỹ thuật để mà bao phủ được các trường hợp các cái kịch bạn để cho anh em thì
+
+190
+00:09:41,380 --> 00:09:46,960
+nó sẽ đưa cho anh em ba kịch bạn thấy chưa Ví dụ em nhìn trong đề nhé em nhìn cho bề
+
+191
+00:09:46,960 --> 00:10:00,160
+anh nhìn có bảy đây cô này thì trong câu này em nhìn này nó cho anh em ba là kịch bản thứ nhất
+
+192
+00:10:00,160 --> 00:10:06,460
+là Happy Pass đúng không Happy Pass nó là cái gì nó sẽ là cái kịch bản mà lý tưởng nhất như là sao
+
+193
+00:10:06,460 --> 00:10:12,760
+mọi điều kiện nó sẽ thoải mái hết ví dụ trong cái này nó khi nào nó gọi là mọi thứ đều thoải
+
+194
+00:10:12,760 --> 00:10:19,000
+tiền đó là sinh viên sẽ đủ điều kiện tiên quyết để cho sinh viên đủ điều kiện tiên quyết để đăng ký
+
+195
+00:10:19,000 --> 00:10:25,420
+khoa học và khi mà đăng ký vào khoa học khoa học đấy sẽ còn chỗ đó thì đấy là cái điều kiện lý tưởng
+
+196
+00:10:25,420 --> 00:10:31,180
+nhất con ấy trường hợp mà xấu đó thì tí nữa mình nói sao được chưa thì đấy nhá Đấy là trường hợp
+
+197
+00:10:31,180 --> 00:10:36,760
+đấy là trường hợp việc nó bếp trường hợp lý tưởng nhất là không bị bất phải một cái lỗi gì được chưa
+
+198
+00:10:36,760 --> 00:10:45,160
+thứ hai là bao nhiêu đi bắt đi này nó là cái gì nó sẽ là cái mà phân tích giá trị biên chưa em
+
+199
+00:10:45,160 --> 00:10:49,420
+nhớ cho mình nhé Nó gọi là phân tích giá trị biên thì nó là cái gì mà sẽ tập trung vào những cái điểm
+
+200
+00:10:49,420 --> 00:10:57,700
+nhạy cảm với thống ví dụ như là ví dụ như là nhé chỗ trống của một cái con nó chỉ còn đúng một thôi
+
+201
+00:10:57,700 --> 00:11:03,080
+thì xinh nhé cái chỗ trống đấy bằng một cái xinh nhé Đấy những cái điểm mà ngại nhạy cảm mất nghe là
+
+202
+00:11:03,080 --> 00:11:09,800
+là ví dụ như là hết chỗ hoặc là còn một chỗ thấy cái điểm nhạy cản được chưa Thấy thì là phải có
+
+203
+00:11:09,800 --> 00:11:16,460
+những cái thiết kê như vậy đó tiếp theo thì là cái cuối cùng là cái negatif thì nó là cái gì
+
+204
+00:11:16,460 --> 00:11:24,620
+nghe tiếp này thì nó sẽ là cái trường hợp mà đọc thử các trường hợp sai quy tắc được trên nhà thử
+
+205
+00:11:24,620 --> 00:11:29,960
+các trường hợp mà sai quy tắc cố tình làm lỗi để xem hệ thống nó có chắc lại được không phải cho
+
+206
+00:11:29,960 --> 00:11:36,680
+lỗi như là mình sẽ cố tình làm lỗi nếu mà hệ thống mà kiểu là phát hiện ra lỗi và chặn được cái lỗi
+
+207
+00:11:36,680 --> 00:11:43,100
+đấy thì là đúng cái chưa Ví dụ như là học sinh sinh viên mà chưa đủ với điều kiện kiến quyết thì
+
+208
+00:11:43,100 --> 00:11:49,100
+hệ thống này nó phải không cho thằng này học không cho mày đăng ký là chưa Thư Nếu mà hệ thống mà
+
+209
+00:11:49,100 --> 00:11:54,380
+họ vẫn cho này đăng ký tiếp thì là hệ thống đang bị lỗi được chưa đó đó là cái trường hợp cuối cùng
+
+210
+00:11:54,380 --> 00:12:01,460
+là đó thì bạn số nhất Ok thì đấy là vì kiến thức cơ bản cho nhau Ok vậy thì bây giờ mình sẽ sang
+
+211
+00:12:01,460 --> 00:12:12,380
+cách làm đúng không thì bây giờ chắc chắn rồi mình sẽ phải là có à à Ừ mình sẽ phải là có cái
+
+212
+00:12:12,380 --> 00:12:22,280
+cái gì nhỉ cái cái bản như nhé đi thì anh em cứ nghĩ cho mình các bạn em nghĩ bạn sang là tuyệt
+
+213
+00:12:22,280 --> 00:12:34,940
+đẹp nhất ở đây mình cái 4 này và bốn ngày đó bốn cục và bốn giai đoạn 1234 Ok nó xong rồi nhỉ
+
+214
+00:12:34,940 --> 00:12:58,060
+ok
+
+215
+00:12:58,060 --> 00:13:03,460
+Ừ thì ở đây nhá thì đầu tiên này nó sẽ làm các giai đoạn đúng không em
+
+216
+00:13:03,460 --> 00:13:11,460
+nó sẽ các giai đoạn này em nhé testing testing
+
+217
+00:13:11,460 --> 00:13:22,820
+Ok tiếp theo là gì nó là quá quá quá
+
+218
+00:13:22,820 --> 00:13:34,100
+tiếp theo nữa là cái gì tiếp theo nữa là ai là người chịu chứng nhận một cái đẻ hù luôn
+
+219
+00:13:34,100 --> 00:13:40,700
+và cuối cùng thì là các loại thì mình sẽ có là testing hay
+
+220
+00:13:40,700 --> 00:13:51,320
+hay để cho nhau đó Ok thì mình sẽ xử lý bốn cái này đầu tiên như mình nói rồi đầu tiên là gì nhỉ
+
+221
+00:13:51,320 --> 00:13:54,320
+unit testing
+
+222
+00:13:54,320 --> 00:13:59,320
+ok thứ hai là integration
+
+223
+00:13:59,320 --> 00:14:01,320
+testing
+
+224
+00:14:01,320 --> 00:14:07,320
+ok tiếp theo đó là gì
+
+225
+00:14:07,320 --> 00:14:09,320
+kiểm thử tích hợp vào đây
+
+226
+00:14:09,320 --> 00:14:11,320
+system testing
+
+227
+00:14:11,320 --> 00:14:16,320
+và bây khi anh em copy paste cho mình nhé
+
+228
+00:14:16,320 --> 00:14:18,320
+đừng nghĩ nhiều anh em ạ
+
+229
+00:14:18,320 --> 00:14:20,320
+mình sẽ làm cho anh em cái bản chi tiết nhất
+
+230
+00:14:20,320 --> 00:14:25,000
+là anh em đạt được điểm tối đa cô này này chưa cho nên em chỉ cần copy cho mình không Nếu đi
+
+231
+00:14:25,000 --> 00:14:31,480
+thi đọc cô này thì anh em ăn không không phải nằm hiểu luôn Ok thì câu này nhá tương mại à
+
+232
+00:14:31,480 --> 00:14:40,840
+đúng không hát xét xét tình đúng không anh em nhớ cho mình nhớ nhớ là phải copy đấy đừng nghĩ nhiều
+
+233
+00:14:40,840 --> 00:14:50,080
+đây em xem này để em hiểu không Ok thì bây giờ mình sẽ đi vào chi tiết này đầu tiên đúng không
+
+234
+00:14:50,080 --> 00:14:57,220
+thì anh em cứ nhớ cho mình cái đầu tiên là cái unit này nó sẽ chết cái gì thì em cứ mặc định cho
+
+235
+00:14:57,220 --> 00:15:08,040
+đó là nó sẽ là in đi vì ngọt con Polin à à mô đun
+
+236
+00:15:08,040 --> 00:15:23,860
+mô đun in iso lấy sớm cái này gì như là từng thành phần riêng này
+
+237
+00:15:23,860 --> 00:15:34,240
+được chưa sau đó anh em thêm cho mình đó là xe xe bồ bạc chưa thì em thêm cho mình là nấu in
+
+238
+00:15:34,240 --> 00:15:43,720
+nè lúc in Paris đây xin lỗi dịch nó cho anh em đi kia copy nguyên cái này cho mình nhá Bây giờ mình
+
+239
+00:15:43,720 --> 00:15:59,860
+ở đúng không Thêm luôn này mà đó là mình sẽ đi ăn chết con chết con đi xin
+
+240
+00:15:59,860 --> 00:16:14,180
+trích con đi sân này và có tờ kênh lấy sân Ok đó anh em đến bên đây cho mình nó người thì
+
+241
+00:16:14,180 --> 00:16:24,820
+chắc chắn rồi đó là đi proper được nghĩa chất mình vừa nói rồi và tiếp theo ra các cái kiểm
+
+242
+00:16:24,820 --> 00:16:32,820
+cái đầu tiên không quên đó là whitebox testing
+
+243
+00:16:32,820 --> 00:16:37,820
+tiếp theo anh em thêm cho mình nhé đó là functional
+
+244
+00:16:37,820 --> 00:16:44,820
+thêm hết cho mình nhé functional testing
+
+245
+00:16:44,820 --> 00:16:48,820
+nói chung là nhấn copy paste cho mình chỗ này
+
+246
+00:16:48,820 --> 00:17:04,840
+bảo đổi bảo đổi và đi nó cho mình ba cái này bạn tiếp theo nữa thì mình sẽ có là integration testing
+
+247
+00:17:04,840 --> 00:17:13,120
+thì mình sẽ có cái gì mình sẽ có là interaction cái này mình có nói rồi interaction mà sẽ là sự
+
+248
+00:17:13,120 --> 00:17:25,660
+là giữa biết tin biết thuyền mô đun em sơ vai nó
+
+249
+00:17:25,660 --> 00:17:41,500
+được cho các mô đun thì nó sẽ và mình sẽ có là ví dụ em kết hợp ví dụ thì em sẽ kiểm
+
+250
+00:17:41,500 --> 00:18:01,180
+là cái cuối cùng đó là Android Android con nét tinh mình đang định viết là tương tác giữa mô
+
+251
+00:18:01,180 --> 00:18:21,940
+là mô đun nó sẽ là mô đun đăng ký kết nối với mô đun điểm thì là à à à à à à à à à à à à à à à à à
+
+252
+00:18:21,940 --> 00:18:29,440
+Cái này á
+
+253
+00:18:29,440 --> 00:18:32,280
+Cái việc này anh em viết cái ví dụ này
+
+254
+00:18:32,280 --> 00:18:34,040
+Thì nó sẽ cứ liên quan
+
+255
+00:18:34,040 --> 00:18:35,860
+Nó sẽ liên quan đến việc là
+
+256
+00:18:35,860 --> 00:18:36,900
+Anh em sẽ nhìn
+
+257
+00:18:36,900 --> 00:18:38,480
+Nhìn trong cái
+
+258
+00:18:38,480 --> 00:18:41,300
+Nhìn trong cái
+
+259
+00:18:41,300 --> 00:18:42,700
+Cây study á
+
+260
+00:18:42,700 --> 00:18:43,360
+Để cho anh em
+
+261
+00:18:43,360 --> 00:18:43,960
+Đó
+
+262
+00:18:43,960 --> 00:18:45,080
+Nói chung là cái
+
+263
+00:18:45,080 --> 00:18:46,220
+Anh em sửa lại một chút
+
+264
+00:18:46,220 --> 00:18:47,080
+Cái chỗ ví dụ nhé
+
+265
+00:18:47,080 --> 00:18:48,440
+Chỗ nào anh em viết được ví dụ
+
+266
+00:18:48,440 --> 00:18:49,340
+Thì biết không viết gì thôi
+
+267
+00:18:49,340 --> 00:18:49,720
+Một và
+
+268
+00:18:49,720 --> 00:18:50,600
+Để cho anh em
+
+269
+00:18:50,600 --> 00:18:51,380
+Bởi vì đây này
+
+270
+00:18:51,380 --> 00:18:56,620
+nó chỉ bảo anh em biết thế này thôi
+
+271
+00:18:56,620 --> 00:18:59,180
+nó không bảo anh em là viết quá chi tiết
+
+272
+00:18:59,180 --> 00:19:00,880
+nói chung là anh em viết được
+
+273
+00:19:00,880 --> 00:19:03,060
+thì anh em sẽ được điểm cao
+
+274
+00:19:03,060 --> 00:19:05,040
+nó thấy cô dễ tính vẫn được điểm thôi
+
+275
+00:19:05,040 --> 00:19:07,160
+nhưng mà nói chung là chỗ này anh em cố gắng
+
+276
+00:19:07,160 --> 00:19:08,560
+bám sát
+
+277
+00:19:08,560 --> 00:19:10,600
+bám sát cái
+
+278
+00:19:10,600 --> 00:19:13,220
+bám sát cái
+
+279
+00:19:13,220 --> 00:19:14,320
+cái cây study
+
+280
+00:19:14,320 --> 00:19:15,360
+là anh em ăn
+
+281
+00:19:15,360 --> 00:19:17,620
+cái chỗ này thì Willis sẽ
+
+282
+00:19:17,620 --> 00:19:20,740
+kích cái hoạt động thông báo
+
+283
+00:19:20,740 --> 00:19:22,520
+kích hoạt
+
+284
+00:19:22,520 --> 00:19:23,100
+cái thông báo
+
+285
+00:19:23,100 --> 00:19:25,980
+trong cái case study nó có
+
+286
+00:19:25,980 --> 00:19:31,140
+nếu mà
+
+287
+00:19:31,140 --> 00:19:33,560
+đây, the system
+
+288
+00:19:33,560 --> 00:19:35,320
+auto
+
+289
+00:19:35,320 --> 00:19:37,780
+kích hoạt cái thông báo này lên
+
+290
+00:19:37,780 --> 00:19:40,060
+vào cái thằng đầu tiên
+
+291
+00:19:40,060 --> 00:19:41,280
+trong tên sách trừ
+
+292
+00:19:41,280 --> 00:19:43,640
+thì mình sẽ có là
+
+293
+00:19:43,640 --> 00:19:46,360
+mình sẽ có là
+
+294
+00:19:46,360 --> 00:19:47,720
+triggering
+
+295
+00:19:47,720 --> 00:19:50,180
+notification
+
+296
+00:19:50,180 --> 00:20:09,200
+nó sơ vai ok thì cái này nhưng mình nói rồi một là nó sẽ là thằng đi lúc cộng với thằng tester
+
+297
+00:20:09,200 --> 00:20:17,300
+nó thì anh em cứ biết thế này thôi còn bên này thì nghe thức thêm cho mình đó là anh em sẽ có
+
+298
+00:20:17,300 --> 00:20:47,300
+đầu tiên đó là Black đúng nhỉ à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+299
+00:20:47,300 --> 00:20:54,860
+Ừ ok em biết mỗi này không phải chưa hoặc là anh em thêm cho mình cái là API testing
+
+300
+00:20:54,860 --> 00:21:02,640
+Ok đó tiếp theo nữa thì mình sẽ có là system testing thì nó sẽ có cái gì
+
+301
+00:21:02,640 --> 00:21:09,440
+trong cái này nhá thì anh em viết cho mình đó là
+
+302
+00:21:09,440 --> 00:21:17,840
+dựng em chi anh em sửa cho mình cái này em biết đúng như mình nhé anh em nhớ phải sửa nhé em chi
+
+303
+00:21:17,840 --> 00:21:26,600
+em chi toàn bộ cái hệ thống này như thế nào bây giờ ví dụ mình đang để là CRS này để xem em đó
+
+304
+00:21:26,600 --> 00:21:33,440
+hãy chữ nhật tất cả nghĩ nghĩa là mình là đang viết cái toàn bộ hệ thống này đúng không thì cái
+
+305
+00:21:33,440 --> 00:21:34,060
+là cái hệ thống
+
+306
+00:21:34,060 --> 00:21:37,580
+cost registration system
+
+307
+00:21:37,580 --> 00:21:39,540
+đúng không, đó, thì mình đang
+
+308
+00:21:39,540 --> 00:21:41,300
+viết là CRS, nghĩa là anh em phải đi
+
+309
+00:21:41,300 --> 00:21:43,400
+thì anh em phải đổi lại cái chỗ này nhé, mình sẽ bôi đậm
+
+310
+00:21:43,400 --> 00:21:45,360
+đây này, đấy, đổi lại
+
+311
+00:21:45,360 --> 00:21:47,480
+cái chỗ này, đấy, toàn bộ hệ thống này
+
+312
+00:21:47,480 --> 00:21:49,700
+thấy chưa, mình sẽ
+
+313
+00:21:49,700 --> 00:21:51,360
+phải là toàn bộ hệ thống này
+
+314
+00:21:51,360 --> 00:21:52,660
+sẽ thế nào, S
+
+315
+00:21:52,660 --> 00:21:55,400
+tất cả chức năng, nghĩa là toàn bộ
+
+316
+00:21:55,400 --> 00:21:57,340
+hệ thống này, tất cả chức năng và yêu cầu
+
+317
+00:21:57,340 --> 00:21:59,420
+phi chức năng, thấy chưa, thì phải test nó
+
+318
+00:21:59,420 --> 00:22:01,380
+đúng không, đó, thì mình sẽ
+
+319
+00:22:01,380 --> 00:22:01,680
+là
+
+320
+00:22:01,680 --> 00:22:09,180
+src
+
+321
+00:22:09,180 --> 00:22:19,020
+system nó cũng là phải hoàn toàn bộ hoàn thành hoàn thiện toàn bộ chức năng của
+
+322
+00:22:19,020 --> 00:22:24,480
+hệ thống về trường mà tất cả tất cả thông sinh nội trường
+
+323
+00:22:24,480 --> 00:22:28,820
+Snow picture
+
+324
+00:22:28,820 --> 00:22:36,300
+And non functional requirement
+
+325
+00:22:36,300 --> 00:22:40,360
+Anh em cứ copy cho mình nhé
+
+326
+00:22:40,360 --> 00:22:42,240
+Chỗ nào mình phải sửa thì anh em sửa
+
+327
+00:22:42,240 --> 00:22:42,780
+Đấy chưa
+
+328
+00:22:42,780 --> 00:22:47,200
+Đó
+
+329
+00:22:47,200 --> 00:22:48,900
+Ví dụ
+
+330
+00:22:48,900 --> 00:22:51,860
+Non functional requirement thì anh em nhớ cho mình
+
+331
+00:22:51,860 --> 00:22:52,920
+Đúng 3 cái thôi
+
+332
+00:22:52,920 --> 00:22:59,100
+rồi mình đã nói với anh em rất là nhiều ở trong các câu như câu 4 rồi có ví dụ như là em sẽ có
+
+333
+00:22:59,100 --> 00:23:08,340
+phương phong được em sẽ có phong mình security này được chưa Và anh sẽ có là
+
+334
+00:23:08,340 --> 00:23:16,080
+biết bà cái không là hai cái không được trên nhau anh em phải cho mình vân vân rồi này
+
+335
+00:23:16,080 --> 00:23:21,840
+chắc chắn rồi thì anh em xin cứ viết cho mình làm QA
+
+336
+00:23:21,840 --> 00:23:25,080
+QA này hoặc là testing
+
+337
+00:23:25,080 --> 00:23:33,640
+tìm nói chung là cái đội này nó sẽ là cái gì nhóm và đảm bảo chất lượng được chưa
+
+338
+00:23:33,640 --> 00:23:37,460
+đó thì tiếp theo này nó sẽ là
+
+339
+00:23:37,460 --> 00:23:42,200
+cái này nó là cái gì thì ở chỗ này
+
+340
+00:23:42,200 --> 00:23:49,940
+kiểm thử toàn nó là loại gì có kính em kể cho mình làm cách bắt thương ra nhớ trên này nhá
+
+341
+00:23:49,940 --> 00:23:57,740
+em bỏ hết cái này đi em để biết mình một loại không đó bởi vì là cái này là cái đặc trưng không
+
+342
+00:23:57,740 --> 00:24:06,800
+cần mình dài dài testing đúng rồi nha đó tiếp theo nữa nó hoa thì là cái cái cuối cùng phải
+
+343
+00:24:06,800 --> 00:24:08,800
+Cái cuối cùng này thì mình sẽ làm gì?
+
+344
+00:24:08,800 --> 00:24:10,800
+Cái cuối cùng này nhé
+
+345
+00:24:10,800 --> 00:24:12,800
+thì mình sẽ cho là
+
+346
+00:24:12,800 --> 00:24:14,800
+mình nghĩ là
+
+347
+00:24:14,800 --> 00:24:16,800
+mình sẽ phải là cho nó
+
+348
+00:24:16,800 --> 00:24:18,800
+nhẹ nhàng hơn một chút
+
+349
+00:24:18,800 --> 00:24:20,800
+thì mình sẽ ghi ngắn gọn thôi, ví dụ như chỗ này nhé
+
+350
+00:24:20,800 --> 00:24:22,800
+anh em chỉ cần ghi chung chung cho mình thôi
+
+351
+00:24:22,800 --> 00:24:24,800
+là
+
+352
+00:24:24,800 --> 00:24:26,800
+à
+
+353
+00:24:26,800 --> 00:24:28,800
+mình sẽ ghi là
+
+354
+00:24:28,800 --> 00:24:30,800
+business
+
+355
+00:24:30,800 --> 00:24:32,800
+business
+
+356
+00:24:32,800 --> 00:24:34,800
+requirement
+
+357
+00:24:34,800 --> 00:24:36,120
+anh quay mình
+
+358
+00:24:36,120 --> 00:24:46,680
+quay mình quay mình em
+
+359
+00:24:46,680 --> 00:24:58,560
+mình sẽ phải kiểm tra lại các cái yêu cầu nhiệm vụ và các giao diện là chưa thì những cái này thì nó
+
+360
+00:24:58,560 --> 00:25:07,560
+là phim đừng hay là các staff chưa phải như là cái này nó phải lấy trong cái đề đều chơi nhau
+
+361
+00:25:07,560 --> 00:25:13,560
+thực ra những cái chú như này đây là mình đang muốn viết đều nhất để chơi nhau đó anh em chỉ
+
+362
+00:25:13,560 --> 00:25:18,360
+cần thứ nhất là kênh ba này em đổi cái này thôi Thấy chưa Ví dụ cái này nhá Cái này thì em dư
+
+363
+00:25:18,360 --> 00:25:23,940
+dư nguyên này cho mình interaction between mô đun thì phải giữ nguyên được chưa Nhưng mà anh em sợ
+
+364
+00:25:23,940 --> 00:25:33,120
+là hay thay đổi cái này không hay đủ đã thay đổi những cái xe mồ này được chưa Đó ok thế là ngon
+
+365
+00:25:33,120 --> 00:25:41,220
+được chưa Ở thì tiếp theo này à quên còn cái thằng cuối cùng này nữa rồi xe nhé thằng cuối cùng này
+
+366
+00:25:41,220 --> 00:25:52,920
+thì nó là alpha hoặc là beta có alpha gạch bị ta testing anh em nhớ này cho mình là ngon được chưa
+
+367
+00:25:52,920 --> 00:26:00,420
+nó Ok chưa biết đúng như này là ngon ngon anh nhé Để vậy là anh em được 0,5 rồi anh nhận đây là phát 1
+
+368
+00:26:00,420 --> 00:26:19,680
+Ok đó tắt một anh nhé và tiếp tục xuống đây à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+369
+00:26:19,680 --> 00:26:26,460
+thì cái phát 2 này nó sẽ khó hơn một chút để cho nhau đấy lý do tại sao nó trên nhau một cái không
+
+370
+00:26:26,460 --> 00:26:32,220
+phải là một cái một điểm đi nhầm nhắc thì cái thứ hai nó là phép viết cái cây nhầm nhắc nó thì em
+
+371
+00:26:32,220 --> 00:26:39,600
+biết đúng cho mình cái con đây nó ví dụ như trong bìa cái kia nha trong bề này nó có đúng cái bạn
+
+372
+00:26:39,600 --> 00:26:46,860
+như này chưa tiếp cây một này cái cây đi là cái cây niềm này điều kiện trước này và các bước tiết
+
+373
+00:26:46,860 --> 00:26:55,140
+và cái kỳ vọng kết quả kỳ vọng này và cái loại tiết được chưa thì bây giờ nhé em nhìn này bước
+
+374
+00:26:55,140 --> 00:27:02,740
+đầu tiên mình cần làm gì là mình phải biết bạn đúng không bước đầu tiên vẽ bạn này
+
+375
+00:27:02,740 --> 00:27:07,500
+mình lại cái này không đây
+
+376
+00:27:07,500 --> 00:27:16,380
+Ok thì đây nhá anh em bấm Insert này bây giờ mình sẽ mẽ đúng như cái này luôn
+
+377
+00:27:16,380 --> 00:27:19,500
+123456 và vẽ bàn thiết kênh
+
+378
+00:27:19,500 --> 00:27:33,180
+123456 và bán thiết kênh Ok thì bây giờ mình sẽ có gì đầu tiên mình copy luôn anh nhé đi
+
+379
+00:27:33,180 --> 00:27:52,180
+mình đã sẵn sàng cái này rồi chơi nhé đi thì nhận thấy sẵn cái này rồi à à à à à à à à à à à à à
+
+380
+00:27:52,180 --> 00:28:04,660
+Ok đó xong bây giờ mình sẽ xử lý từng cái một đây cho mình sẽ hiện kết cây một
+
+381
+00:28:04,660 --> 00:28:17,320
+23 Ok đó thì cái thằng kết cây đêm này thì nó là cái gì chắc chắn rồi đây đi nó cho sẵn anh
+
+382
+00:28:17,320 --> 00:28:21,760
+được đúng không phải viết cho đúng 3 kịch bản này thì em chỉ cần việc copy và cho mình thôi
+
+383
+00:28:21,760 --> 00:28:28,360
+anh em nhớ cho mình ra đi khi cố gắng làm mỗi câu câu nào cũng là một ít thì nghe sẽ được một
+
+384
+00:28:28,360 --> 00:28:35,560
+điểm đấy câu nào cũng là một ít tấm tay mà anh em chỉ làm đúng một ít thôi em được điểm đó
+
+385
+00:28:35,560 --> 00:28:42,100
+đi việc là anh em biết được một ít hay không anh em sẽ được quyết định là em được bao nhiêu
+
+386
+00:28:42,100 --> 00:28:50,500
+liệu có bát hay không nó ok để mà làm tất cả cái này thì nó cũng không có đâu nhé anh em khi trên
+
+387
+00:28:50,500 --> 00:28:57,700
+phía thì em được copy paste mà nó ok và đặc biệt anh em nào mà mua tài liệu mình chắc chắn đừng có
+
+388
+00:28:57,700 --> 00:29:03,340
+quên anh em đang xem video này thì em đừng có quên là phải tải toàn bộ cái folder của sw202 này
+
+389
+00:29:03,340 --> 00:29:14,740
+là ok thì sau khi mình biết ba đây rồi đúng không thì bây giờ mình sẽ làm gì Bây giờ mình sẽ
+
+390
+00:29:14,740 --> 00:29:23,080
+cần phải thực hiện thứ nhất đó là cái cái điều kiện này đúng không như là cái điều kiện trước
+
+391
+00:29:23,080 --> 00:29:31,120
+đó thì mình sẽ làm gì thì là cái điều kiện như mình vừa nói rồi khi mà kịch bản này sẽ ra tuyệt
+
+392
+00:29:31,120 --> 00:29:38,200
+nhất nghĩa là việc bạn này lý tưởng nhất thì nó sẽ bao gồm lắm học sinh đăng ký đã đăng ký thành công
+
+393
+00:29:38,200 --> 00:29:51,520
+đăng học sinh đã đăng ký thành công đấy nhạc tiếp theo là gì tiếp theo là gì tiếp theo tiếp theo là
+
+394
+00:29:51,520 --> 00:30:02,920
+khóa học này có học này có sẵn được chưa có sẵn và nó còn chỗ được chưa nó khóa học có sẵn còn chỗ
+
+395
+00:30:02,920 --> 00:30:12,580
+tiếp theo tiếp theo là gì là nó sẽ chết đúng không Nó sẽ chết điều kiện điều kiện cũng được đáp ứng
+
+396
+00:30:12,580 --> 00:30:29,380
+được chưa điều kiện ở nhiều kiếp liên quyết cũng được đáp ứng ở trên nhau đó vì cô ta thì quay nó
+
+397
+00:30:29,380 --> 00:30:37,240
+cũng được đáp ứng được chưa đó mà đấy là cái điều kiện này cho đấy là cái điều kiện đầu tiên là điều
+
+398
+00:30:37,240 --> 00:30:39,160
+mọi thứ nó đều lý tưởng nhé
+
+399
+00:30:39,160 --> 00:30:41,540
+thì các bước tiết thì sao
+
+400
+00:30:41,540 --> 00:30:43,320
+các bước tiết thì nào, chắc chắn rồi
+
+401
+00:30:43,320 --> 00:30:44,020
+bước đầu tiên
+
+402
+00:30:44,020 --> 00:30:47,860
+bước đầu tiên là gì
+
+403
+00:30:47,860 --> 00:30:48,640
+là
+
+404
+00:30:48,640 --> 00:30:51,240
+thằng học sinh này nó phải
+
+405
+00:30:51,240 --> 00:30:52,880
+duyệt xem qua
+
+406
+00:30:52,880 --> 00:30:54,640
+nó phải xem qua hết
+
+407
+00:30:54,640 --> 00:30:57,840
+xem qua hết cái danh mục
+
+408
+00:30:57,840 --> 00:31:00,060
+các cái môn mà có sẵn
+
+409
+00:31:00,060 --> 00:31:00,640
+đúng không anh em
+
+410
+00:31:00,640 --> 00:31:02,700
+nó phải xem qua hết
+
+411
+00:31:02,700 --> 00:31:04,820
+nó là duyệt danh sách
+
+412
+00:31:04,820 --> 00:31:06,180
+các khóa học
+
+413
+00:31:06,180 --> 00:31:09,120
+cái này nó có sẵn trong mấy rồi anh em nhé
+
+414
+00:31:09,120 --> 00:31:20,240
+ok
+
+415
+00:31:20,240 --> 00:31:23,760
+bước đầu tiên là nó phải duyệt qua
+
+416
+00:31:23,760 --> 00:31:24,620
+đúng không anh em
+
+417
+00:31:24,620 --> 00:31:26,600
+bước tiếp theo là gì
+
+418
+00:31:26,600 --> 00:31:29,540
+bước tiếp theo là gì
+
+419
+00:31:29,540 --> 00:31:30,900
+2
+
+420
+00:31:30,900 --> 00:31:33,460
+bước tiếp theo là
+
+421
+00:31:33,460 --> 00:31:34,400
+nó phải trọn quá
+
+422
+00:31:34,400 --> 00:31:35,860
+nó phải chọn khóa học
+
+423
+00:31:35,860 --> 00:31:38,340
+Đấy chưa
+
+424
+00:31:38,340 --> 00:31:40,380
+Và bước tiếp theo nữa
+
+425
+00:31:40,380 --> 00:31:43,720
+Bước tiếp theo nữa là gì
+
+426
+00:31:43,720 --> 00:31:44,840
+Chọn khóa học là như sao
+
+427
+00:31:44,840 --> 00:31:47,120
+Click vào cái nút đăng ký
+
+428
+00:31:47,120 --> 00:31:49,440
+Click vào cái nút
+
+429
+00:31:49,440 --> 00:31:49,820
+Play
+
+430
+00:31:49,820 --> 00:31:52,200
+OK
+
+431
+00:31:52,200 --> 00:31:56,540
+Sau khi mà nó xem
+
+432
+00:31:56,540 --> 00:31:57,880
+Chọn và đăng ký
+
+433
+00:31:57,880 --> 00:32:00,420
+Đấy là các bước để nó hoạt động
+
+434
+00:32:00,420 --> 00:32:01,780
+Tiếp theo
+
+435
+00:32:01,780 --> 00:32:04,040
+Nó sẽ chỉ cần là
+
+436
+00:32:04,040 --> 00:32:05,880
+Đăng nhập vào
+
+437
+00:32:05,880 --> 00:32:07,240
+Xem danh sách
+
+438
+00:32:07,240 --> 00:32:08,760
+Và đủ điều kiện
+
+439
+00:32:08,760 --> 00:32:09,360
+Được chưa
+
+440
+00:32:09,360 --> 00:32:10,140
+Đó
+
+441
+00:32:10,140 --> 00:32:11,100
+Nếu mà đủ điều kiện
+
+442
+00:32:11,100 --> 00:32:12,120
+Kết quả kỳ vọng thì sao
+
+443
+00:32:12,120 --> 00:32:13,640
+Kết quả kỳ vọng như thế nào
+
+444
+00:32:13,640 --> 00:32:14,360
+Thì
+
+445
+00:32:14,360 --> 00:32:15,560
+Nó sẽ hiển thị ra
+
+446
+00:32:15,560 --> 00:32:16,160
+System
+
+447
+00:32:16,160 --> 00:32:16,980
+Đúng không
+
+448
+00:32:16,980 --> 00:32:20,260
+Đây là điều kiện lý tưởng nhất
+
+449
+00:32:20,260 --> 00:32:20,660
+Đúng không
+
+450
+00:32:20,660 --> 00:32:21,900
+Đây là tiết trong điều kiện lý tưởng nhất
+
+451
+00:32:21,900 --> 00:32:22,260
+Thì
+
+452
+00:32:22,260 --> 00:32:23,520
+Hệ thống nó phải hiển thị ra
+
+453
+00:32:23,520 --> 00:32:24,400
+Đúng không
+
+454
+00:32:24,400 --> 00:32:25,120
+Là
+
+455
+00:32:25,120 --> 00:32:27,060
+Regis
+
+456
+00:32:27,060 --> 00:32:28,960
+Nó có thể hiển thị ra là
+
+457
+00:32:28,960 --> 00:32:29,760
+Regis
+
+458
+00:32:29,760 --> 00:32:30,300
+Thành công
+
+459
+00:32:30,300 --> 00:32:31,480
+Ví dụ như là Regis
+
+460
+00:32:31,480 --> 00:32:32,740
+Regis
+
+461
+00:32:32,740 --> 00:32:33,440
+Chasing
+
+462
+00:32:33,440 --> 00:32:40,820
+success
+
+463
+00:32:40,820 --> 00:32:51,860
+success
+
+464
+00:32:51,860 --> 00:33:08,660
+Ừ thôi nó hoặc là nó và nữa và nó sẽ thế nào khi mà thêm đăng ký thành công rồi thì nói là nó nó sẽ
+
+465
+00:33:08,660 --> 00:33:18,020
+update raster trên nhau nó sẽ đáp đến raster để cho em nó sẽ update cái danh sách được chưa và
+
+466
+00:33:18,020 --> 00:33:28,880
+cái kiểu này kiểu gì em nhận đây nó là cái kiểu là không chỉ có anh em nhớ cho mình nhá nó không chỉ
+
+467
+00:33:28,880 --> 00:33:34,880
+có là mấy thằng này đâu phải chưa anh em có nhớ cho mình sau khi mà nó làm một loạt như này thì
+
+468
+00:33:34,880 --> 00:33:50,660
+nó là thằng xin lỗi nét tỉnh Ok ok ok ok tiếp theo này thì mình sẽ có cái gì nữa tiếp theo thì
+
+469
+00:33:50,660 --> 00:34:00,200
+mình sẽ có là biên đúng không Cái biên này thì sao ví dụ như là như mình có nói rồi chưa em nó
+
+470
+00:34:00,200 --> 00:34:11,960
+có các cái giá trị mà nhẹ cảm được chưa bằng 1 được chưa remaining được chưa tiếp theo thì mình sẽ có cái gì mình sẽ có là student
+
+471
+00:34:11,960 --> 00:34:28,640
+đối với anh em nó thì anh em con nó hai điều kiện này nó thì nghĩa là sao một chỉ tiêu khoa
+
+472
+00:34:28,640 --> 00:34:37,200
+học chỉ còn đúng một chú cháu hay là sinh viên đáp ứng đủ điều kiện kiên quyết nó thì làm chỉ
+
+473
+00:34:37,200 --> 00:34:42,180
+tiêu thì chỉ còn một thôi đúng không đó chỉ tiêu thì chỉ còn một thôi mình sẽ ghép những cái giá
+
+474
+00:34:42,180 --> 00:34:50,340
+trị biên mà mình sẽ tiếp các cái giá trị biên được chưa thì đây mình sẽ các bước thực hiện như thế nào
+
+475
+00:34:50,340 --> 00:35:01,920
+mình sẽ có là chắc chắn rồi đầu tiên phải chọn khoa học có spence xì x
+
+476
+00:35:01,920 --> 00:35:15,180
+sau đó thì sao sau khi chọn vào click đăng ký đó như này thì sao cái kết quả mình muốn mong
+
+477
+00:35:15,180 --> 00:35:16,020
+nó sẽ làm
+
+478
+00:35:16,020 --> 00:35:20,300
+System Register
+
+479
+00:35:20,300 --> 00:35:24,060
+Student
+
+480
+00:35:24,060 --> 00:35:27,500
+và hãy nào
+
+481
+00:35:27,500 --> 00:35:30,540
+cái thách sản rồi, cái này bằng 1
+
+482
+00:35:30,540 --> 00:35:31,280
+đúng không?
+
+483
+00:35:32,100 --> 00:35:33,340
+cái này chỉ tiêu là còn 1 thôi
+
+484
+00:35:33,340 --> 00:35:36,120
+thì sau khi thằng này, hệ thống này
+
+485
+00:35:36,120 --> 00:35:37,480
+cho thằng học sinh đăng ký rồi
+
+486
+00:35:37,480 --> 00:35:38,660
+thì nó sẽ thế nào?
+
+487
+00:35:39,320 --> 00:35:41,980
+nó sẽ cho là thằng học sinh này
+
+488
+00:35:41,980 --> 00:35:44,100
+chỉ tiêu lúc này sẽ chỉ còn là
+
+489
+00:35:44,100 --> 00:35:45,920
+bằng 0
+
+490
+00:35:45,920 --> 00:35:47,800
+được chưa, đúng không
+
+491
+00:35:47,800 --> 00:35:48,660
+thằng này đang là 1
+
+492
+00:35:48,660 --> 00:35:51,620
+sau khi mà thằng này đăng ký thành công
+
+493
+00:35:51,620 --> 00:35:53,640
+thì có phải lấy thống cho thằng học sinh này đăng ký
+
+494
+00:35:53,640 --> 00:35:55,200
+được chưa, sau đó thì
+
+495
+00:35:55,200 --> 00:35:56,780
+cái chỉ tiêu chỉ còn là 1
+
+496
+00:35:56,780 --> 00:35:58,460
+đúng không, đó
+
+497
+00:35:58,460 --> 00:36:02,000
+và cái thằng học sinh tiếp theo
+
+498
+00:36:02,000 --> 00:36:03,100
+next user
+
+499
+00:36:03,100 --> 00:36:05,320
+được chưa, sẽ như thế nào
+
+500
+00:36:05,320 --> 00:36:06,740
+nó sẽ
+
+501
+00:36:06,740 --> 00:36:08,780
+bứt nó vào
+
+502
+00:36:08,780 --> 00:36:09,900
+playlist
+
+503
+00:36:09,900 --> 00:36:12,580
+được chưa, bứt nó vào playlist
+
+504
+00:36:12,580 --> 00:36:19,600
+trên em đúng không Khi mà hết chỉ tiêu thì cái thằng còn lại chẳng có bước nó mà quên
+
+505
+00:36:19,600 --> 00:36:28,840
+ít thì còn là gì đó đúng không thì đây nó sẽ là kiểm thử bằng 3 đôi đi được chưa đó
+
+506
+00:36:28,840 --> 00:36:43,240
+cho mình nhá Nó là bà Rory Văn được chưa tiếp theo nữa này tiếp theo cuối cùng đúng không cái
+
+507
+00:36:43,240 --> 00:36:48,100
+cuối cùng thì mình sẽ có cái gì cái cây cuối cùng này là cái trường hợp mà cố tình cho lỗi
+
+508
+00:36:48,100 --> 00:36:59,620
+được chưa thì mình sẽ cho nắng tiêu đừng không hoàn thành không hoàn thành requirement ari quay
+
+509
+00:36:59,620 --> 00:37:07,340
+mấy có nghĩa là không hoàn thành không đủ điều kiện được chưa không đáp ứng điều kiện thì thôi
+
+510
+00:37:07,340 --> 00:37:13,480
+phải chưa nghĩa là mình sẽ cho nó là không đáp ứng điều kiện thì bây giờ mình sẽ cho nó là là gì
+
+511
+00:37:13,480 --> 00:37:29,080
+là mình sẽ phải select khóa học xe lệch box chờ hai lá mình có mít chọn khoa học rồi đăng ký chưa
+
+512
+00:37:29,080 --> 00:37:37,360
+thì đây mình sẽ có gì system nó sẽ thế nào khi mà có lỗi xảy ra nó thì nói là chạy này nó phải
+
+513
+00:37:37,360 --> 00:37:45,160
+nó ra registration có thằng này không đủ điều kiện thì làm sao đăng ký được thì chặt nó chưa
+
+514
+00:37:45,160 --> 00:38:01,300
+sau đó thì hiển thị ra lỗi lấy lâu rồi chưa lấy lâu là gì là là cái này mình có thể là ở đây
+
+515
+00:38:01,300 --> 00:38:15,180
+nhưng mà lúc này nó sẽ là nó bị trên nhau như là không đủ điều kiện để
+
+516
+00:38:15,180 --> 00:38:20,500
+trên nhau đó mà cái kiểm thử này nó sẽ là negative testing
+
+517
+00:38:20,500 --> 00:38:30,860
+anh em chỉ làm đơn giản này thôi là anh em đi thi vụ cho mình đấy nhỉ anh em chỉ làm
+
+518
+00:38:30,860 --> 00:38:35,120
+lắm gọi này thôi Thế chứ nếu bạn trên này nhớ điểm kỹ hơn đấy như mình và lấy mình
+
+519
+00:38:35,120 --> 00:38:39,340
+biết thêm đấy thì em phải viết thêm mà kính em sẽ được điểm cao đấy nhỉ
+
+520
+00:38:39,340 --> 00:38:49,220
+đó em cứ vứt hết vào cho mình nhé à à ở trên này thì mình nghĩ là biết hết vào đi
+
+521
+00:38:49,220 --> 00:39:01,120
+cho nó cho được nhiều cái này nhá lại bao lý value trên này luôn nó chưa nó kiểm tra từ
+
+522
+00:39:01,120 --> 00:39:07,160
+mô đun mà tiếp theo mình sẽ có là cái dưới này cho anh em thêm cho mình là API testing
+
+523
+00:39:07,160 --> 00:39:16,100
+em biết được cái này thì em sẽ được điểm cao đấy nhạc đó ok
+
+524
+00:39:16,100 --> 00:39:18,240
+và tiếp theo nhé
+
+525
+00:39:18,240 --> 00:39:20,120
+cái chỗ này này, anh em nhìn thấy mình để cái chỗ này không
+
+526
+00:39:20,120 --> 00:39:22,060
+đó, thì chỗ này nhé
+
+527
+00:39:22,060 --> 00:39:23,540
+anh em cố gắng viết cho mình
+
+528
+00:39:23,540 --> 00:39:25,040
+thấy được thì là ngon
+
+529
+00:39:25,040 --> 00:39:27,560
+ví dụ ở đây nhé, performance
+
+530
+00:39:27,560 --> 00:39:31,080
+testing
+
+531
+00:39:31,080 --> 00:39:33,660
+được chưa, cái này nhé
+
+532
+00:39:33,660 --> 00:39:35,500
+nó rất là giống câu 4, được chưa anh em
+
+533
+00:39:35,500 --> 00:39:37,540
+ví dụ như cái này, thì anh em
+
+534
+00:39:37,540 --> 00:39:38,780
+ví dụ anh em viết là performance
+
+535
+00:39:38,780 --> 00:39:42,220
+được chưa, hay là anh em viết là security
+
+536
+00:39:42,220 --> 00:39:58,220
+security và khi anh em biết security testing nếu mà anh em mà đẳng cấp thì anh em chọn cho mình
+
+537
+00:39:58,220 --> 00:40:03,220
+được chưa em chọn cho mình một ví dụ là anh em cực kỳ đẳng cấp là anh em sẽ ăn được điểm cao này
+
+538
+00:40:03,220 --> 00:40:17,320
+cho mình cái này chưa đó thì tức là sao nếu mà kiểm tra bảo mật thì mình sẽ dùng cái gì mình sẽ
+
+539
+00:40:17,320 --> 00:40:27,700
+sử dụng cái này đúng không thì em kiểu anh em biết thì ví dụ vào đấy thì làm nó sẽ được hiệu cao đó
+
+540
+00:40:27,700 --> 00:40:35,740
+đó Ok chưa đấy Nói chung là linh hoạt anh em nhé có này thì cứ để này thôi đấy nha đó đó là cách
+
+541
+00:40:35,740 --> 00:40:39,940
+để mình làm câu bạch trên em thì anh em cố gắng đi thì nhớ ví dụ cái này em copy được rồi này
+
+542
+00:40:39,940 --> 00:40:47,680
+copy này đi khi bắt một copy bắt hai copy nốt để anh em chỉ chỉnh sửa cái phần này thôi đấy
+
+543
+00:40:47,680 --> 00:40:56,200
+thì trên nhau chỉnh sửa bài này còn đi kia có biết chưa đó nhớ cho mình nhé Ok vậy thì đi sau này mình
+
+544
+00:40:56,200 --> 00:40:58,940
+Đó là toàn bộ 7 câu
+
+545
+00:40:58,940 --> 00:40:59,700
+Mình hướng dẫn anh em
+

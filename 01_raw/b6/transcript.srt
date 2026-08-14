@@ -1,0 +1,1056 @@
+1
+00:00:00,000 --> 00:00:05,440
+Ok, thưa đồng anh em nhé, trong video này mình sẽ hướng dẫn anh em cách để anh em làm câu 3 nhé.
+
+2
+00:00:05,540 --> 00:00:11,640
+Thực ra nói là hướng dẫn thì mình chỉ hướng dẫn anh em một chút được thôi, bởi vì câu 3 này muốn chỉ anh em phải dùng kiến thức thật để anh em làm nhé.
+
+3
+00:00:12,340 --> 00:00:18,660
+Mình nghĩ là có thể nhé anh em nhé, là nó sẽ bỏ đi câu 1 này và bỏ đi câu số 4 anh em nhé.
+
+4
+00:00:21,700 --> 00:00:25,880
+Mình nghĩ là có khả năng cao nó sẽ bỏ đi 2 câu này và nó sẽ đưa anh em làm câu 3 anh em nhé.
+
+5
+00:00:25,880 --> 00:00:28,140
+Bởi vì sao? Bởi vì theo như mình nhìn
+
+6
+00:00:28,140 --> 00:00:30,080
+Thì câu số 3 này
+
+7
+00:00:30,080 --> 00:00:31,580
+Nó có khả năng cao
+
+8
+00:00:31,580 --> 00:00:34,460
+Là nó bao khoát hết cả câu 1 và câu 4 rồi
+
+9
+00:00:34,460 --> 00:00:36,580
+Được chứ anh em? Gần như là vậy
+
+10
+00:00:36,580 --> 00:00:39,000
+Cho nên anh em có thể là
+
+11
+00:00:39,000 --> 00:00:40,860
+Xem ở trong
+
+12
+00:00:40,860 --> 00:00:43,000
+Cái câu 3 này nhiều vào anh em nhé
+
+13
+00:00:43,000 --> 00:00:44,860
+Thì mình đã có cái trang web
+
+14
+00:00:44,860 --> 00:00:45,880
+Để cho anh em liên tập rồi
+
+15
+00:00:45,880 --> 00:00:47,680
+Thì
+
+16
+00:00:47,680 --> 00:00:48,960
+Ở đây
+
+17
+00:00:48,960 --> 00:00:51,920
+Câu số 3 này anh em có thể nhìn nhé
+
+18
+00:00:51,920 --> 00:00:54,800
+Đầu tiên thì anh em cần biết là câu 3 này
+
+19
+00:00:54,800 --> 00:00:55,640
+Nó yêu cầu anh em biết gì
+
+20
+00:00:55,640 --> 00:00:58,160
+Thì câu 3 này yêu cầu anh em rất rõ ràng rồi
+
+21
+00:00:58,160 --> 00:00:59,280
+Đó là anh em sẽ phải viết
+
+22
+00:00:59,280 --> 00:01:02,200
+Như là anh em phải viết đầy đủ cái UK
+
+23
+00:01:02,200 --> 00:01:04,440
+Không cần phải vẽ sơ đồ anh em nhé
+
+24
+00:01:04,440 --> 00:01:05,700
+Vẽ sơ đồ nó sẽ thuộc bài 2
+
+25
+00:01:05,700 --> 00:01:08,000
+Bài này nó chỉ cần yêu cầu anh em viết
+
+26
+00:01:08,000 --> 00:01:09,120
+Chi tiết về một cái UK
+
+27
+00:01:09,120 --> 00:01:11,940
+Và mô tả chi tiết
+
+28
+00:01:11,940 --> 00:01:12,960
+Cách cái hệ thống hoạt động
+
+29
+00:01:12,960 --> 00:01:15,860
+Và nó bảo anh em là sử dụng cái template này
+
+30
+00:01:15,860 --> 00:01:17,920
+Như là mình sẽ phải điền hết mấy cái này
+
+31
+00:01:17,920 --> 00:01:18,420
+Ở trên nha
+
+32
+00:01:18,420 --> 00:01:21,420
+Và mình sẽ
+
+33
+00:01:21,420 --> 00:01:24,040
+Viết dựa trên nó yêu cầu anh em viết
+
+34
+00:01:24,040 --> 00:01:31,060
+nó sẽ đi Ok nào và yêu cây đấy thường thì nó sẽ làm ở bài số 2 là nó nó thuộc cái cây nào anh nhé ví
+
+35
+00:01:31,060 --> 00:01:47,360
+dụ này mình ví dụ nhanh nhé điện tập 12 Ừ ok thì em nhìn nhé ví dụ trong bài này trên nhau mà
+
+36
+00:01:47,360 --> 00:01:54,980
+thì ở đây mình có một cái là register of course hay nó chính là cái này em nhé hay nó chính là cái
+
+37
+00:01:54,980 --> 00:02:03,360
+sắp biết registration này để trên nha đó nó chính là cái đăng ký khoác học để xin nha đã đây này
+
+38
+00:02:03,360 --> 00:02:12,920
+nó ở đây thì mình đặt tên khác thôi còn trong đề nó đặt như này để xem nha đó thì ở đây nhé để anh
+
+39
+00:02:12,920 --> 00:02:19,420
+thì anh em nhìn nhé, ví dụ trong bàn nó là UK này mình đang để là UK3 này
+
+40
+00:02:19,420 --> 00:02:21,920
+thì ở đây UKID nó sẽ là UK3
+
+41
+00:02:21,920 --> 00:02:27,920
+tiếp theo thì mình có gì, UKNAME chắc chắn rồi anh em sẽ phải lấy ở trên này
+
+42
+00:02:27,920 --> 00:02:32,920
+và tiếp theo ACTS thì mình sẽ cần nêu ra thôi
+
+43
+00:02:32,920 --> 00:02:36,920
+anh em cứ mặc định cho mình, secondary là system cho mình nhé
+
+44
+00:02:36,920 --> 00:02:38,300
+Tùy anh em nhé
+
+45
+00:02:38,300 --> 00:02:41,140
+Nếu mà bài này nó yêu cầu anh em nói đến cái về payment
+
+46
+00:02:41,140 --> 00:02:42,220
+Nghĩa là cái thanh toán ấy
+
+47
+00:02:42,220 --> 00:02:44,200
+Thì nó sẽ là một cái cổng thanh toán riêng
+
+48
+00:02:44,200 --> 00:02:45,680
+Mà có thể là payment gateway
+
+49
+00:02:45,680 --> 00:02:46,860
+Cái này tùy để anh em nhé
+
+50
+00:02:46,860 --> 00:02:47,860
+Còn đa số
+
+51
+00:02:47,860 --> 00:02:50,100
+Anh em nhớ mình đa số là system
+
+52
+00:02:50,100 --> 00:02:50,960
+Đó
+
+53
+00:02:50,960 --> 00:02:53,380
+Còn nếu mà nó mà nhắc đích danh
+
+54
+00:02:53,380 --> 00:02:54,700
+Ví dụ như cái bài này
+
+55
+00:02:54,700 --> 00:02:57,620
+Đây anh em nhìn nhé
+
+56
+00:02:57,620 --> 00:02:58,960
+Ví dụ nó nhắc đích danh này
+
+57
+00:02:58,960 --> 00:03:01,660
+Payment gateway hay là mapping service
+
+58
+00:03:01,660 --> 00:03:02,740
+API
+
+59
+00:03:02,740 --> 00:03:03,580
+Đấy
+
+60
+00:03:03,580 --> 00:03:05,040
+Thì hai cái này
+
+61
+00:03:05,040 --> 00:03:06,120
+Nó chính là
+
+62
+00:03:06,120 --> 00:03:08,660
+nó chính là cái secondary thì anh em phải nhắc nó vào
+
+63
+00:03:08,660 --> 00:03:11,260
+còn ví dụ ở bài này nhé
+
+64
+00:03:11,260 --> 00:03:12,180
+cái đăng ký khoa học này
+
+65
+00:03:12,180 --> 00:03:14,680
+cái thằng actor chính nó chính là student
+
+66
+00:03:14,680 --> 00:03:17,560
+và cái thằng phụ nó chính là system
+
+67
+00:03:17,560 --> 00:03:19,120
+nó chính là secondary
+
+68
+00:03:19,120 --> 00:03:20,020
+được chứ anh em
+
+69
+00:03:20,020 --> 00:03:21,360
+ok
+
+70
+00:03:21,360 --> 00:03:24,700
+đó
+
+71
+00:03:24,700 --> 00:03:26,000
+vậy thì tiếp theo này
+
+72
+00:03:26,000 --> 00:03:27,800
+anh em sẽ xem tiếp này
+
+73
+00:03:27,800 --> 00:03:31,080
+ở đây thì mình sẽ có những cái gì
+
+74
+00:03:31,080 --> 00:03:31,920
+thứ nhất
+
+75
+00:03:31,920 --> 00:03:33,100
+thì
+
+76
+00:03:33,100 --> 00:03:43,100
+Đó là cái pre-condition, kết quả, điều kiện trước khi bắt đầu
+
+77
+00:03:43,100 --> 00:03:53,100
+Trước khi bắt đầu để đăng ký được khoa học, mức đầu tiên là học sinh phải đăng ký, phải login vào
+
+78
+00:03:53,100 --> 00:03:59,880
+học thì ở đây nó viết rõ ra này anh em tiêu đơn được chưa phải có dân phải kiểu là đã có các cái
+
+79
+00:03:59,880 --> 00:04:07,620
+tài khoản và login hẹn đăng ký cửa sổ đăng ký đã được mở này đó và học sinh nói chung là đủ điều
+
+80
+00:04:07,620 --> 00:04:12,600
+kiện để chọn điều kiện tin quyết đủ tất cả các điều kiện tin quyết để có thể chọn khoa học này
+
+81
+00:04:12,600 --> 00:04:19,320
+nói chung là đều kiện trước khi đăng ký khoa học để trên em đó tiếp theo là gì là kết quả cái điều
+
+82
+00:04:19,320 --> 00:04:21,320
+sau khi kết quả sau khi xong ấy
+
+83
+00:04:21,320 --> 00:04:23,460
+như sau khi mà đăng ký được thành công khoa học ấy
+
+84
+00:04:23,460 --> 00:04:24,580
+thì mình cần làm gì
+
+85
+00:04:24,580 --> 00:04:25,540
+nói chung anh em
+
+86
+00:04:25,540 --> 00:04:28,260
+ở đây để nó cho anh em đáp án rồi
+
+87
+00:04:28,260 --> 00:04:31,020
+anh em để tham khảo
+
+88
+00:04:31,020 --> 00:04:33,580
+ví dụ như đây nó bảo là student successful
+
+89
+00:04:33,580 --> 00:04:35,580
+như là
+
+90
+00:04:35,580 --> 00:04:37,680
+đã tham gia thành công vào khoa học này
+
+91
+00:04:37,680 --> 00:04:39,020
+hoặc là student
+
+92
+00:04:39,020 --> 00:04:39,880
+cái gì gì đấy
+
+93
+00:04:39,880 --> 00:04:42,820
+nếu mà học sinh nó rơi vào một cái điều kiện ấy
+
+94
+00:04:42,820 --> 00:04:44,560
+nếu mà học sinh mà kiểu là
+
+95
+00:04:44,560 --> 00:04:46,040
+nếu mà nó đã hết chỗ ấy
+
+96
+00:04:46,040 --> 00:04:47,820
+cái chỗ trống mà hết chỗ ấy
+
+97
+00:04:47,820 --> 00:04:55,440
+thì học sinh sẽ bị nhám vào nguyên lý đấy kiểu đấy để cho anh ăn tiếp theo thì là cái này là cái cực
+
+98
+00:04:55,440 --> 00:05:00,960
+kỳ quan trọng mà nó cũng cực kỳ khó anh em nhé mà không phải đơn giản đâu anh em phải đọc hiểu được
+
+99
+00:05:00,960 --> 00:05:06,360
+tất cả những cây study thì em mới viết được cái này nhá ví dụ đây là đăng ký tài khoản không thì
+
+100
+00:05:06,360 --> 00:05:12,360
+đây nó là cái luồng chính anh em để nhìn nhá học sinh chọn duyệt danh mục trong dashboard này đó
+
+101
+00:05:12,360 --> 00:05:14,900
+sau khi mà xem cái đóng khóa học đấy rồi
+
+102
+00:05:14,900 --> 00:05:16,220
+thì sẽ hệ thống
+
+103
+00:05:16,220 --> 00:05:19,360
+sẽ hiển thị ra cái danh sách đấy là có còn chỗ hay không
+
+104
+00:05:19,360 --> 00:05:20,020
+được chưa
+
+105
+00:05:20,020 --> 00:05:21,180
+tiếp theo là gì
+
+106
+00:05:21,180 --> 00:05:23,240
+học sinh sẽ chọn cái khóa học
+
+107
+00:05:23,240 --> 00:05:24,660
+sau đó bấm vào đăng ký
+
+108
+00:05:24,660 --> 00:05:28,500
+và hệ thống sẽ check cái điều kiện tiên quyết
+
+109
+00:05:28,500 --> 00:05:30,580
+check cái điều kiện tiên quyết
+
+110
+00:05:30,580 --> 00:05:32,520
+xem là đã pass hay chưa
+
+111
+00:05:32,520 --> 00:05:34,040
+nếu mà pass rồi đúng không
+
+112
+00:05:34,040 --> 00:05:36,660
+sau đó thì hệ thống lại check thêm còn chỗ hay không
+
+113
+00:05:36,660 --> 00:05:39,060
+và sau đó thì hệ thống
+
+114
+00:05:39,060 --> 00:05:40,900
+sẽ ghi lại cái đăng ký và update
+
+115
+00:05:40,900 --> 00:05:43,100
+cái chỗ trống
+
+116
+00:05:43,100 --> 00:05:45,540
+là ví dụ còn chỗ thì nó sẽ update là tăng thêm
+
+117
+00:05:45,540 --> 00:05:47,700
+hay là đầy thì nó nhắm anh em
+
+118
+00:05:47,700 --> 00:05:49,380
+và quay hit các thứ v.v
+
+119
+00:05:49,380 --> 00:05:49,700
+được chưa
+
+120
+00:05:49,700 --> 00:05:53,800
+tiếp theo nữa là
+
+121
+00:05:53,800 --> 00:05:55,460
+system sẽ gửi một cái thông báo
+
+122
+00:05:55,460 --> 00:05:56,580
+xác nhận cho sinh viên
+
+123
+00:05:56,580 --> 00:05:59,020
+và cuối cùng là UKN
+
+124
+00:05:59,020 --> 00:06:01,740
+đây là cái nguồn luồng chính
+
+125
+00:06:01,740 --> 00:06:02,560
+được chưa
+
+126
+00:06:02,560 --> 00:06:05,420
+và trong này nha anh em nhé
+
+127
+00:06:05,420 --> 00:06:06,600
+luyện tập Q3 này
+
+128
+00:06:06,600 --> 00:06:09,260
+trong này mình đã để rất là nhiều
+
+129
+00:06:09,260 --> 00:06:11,120
+anh em nhé, để rất là nhiều câu khác nhau
+
+130
+00:06:11,120 --> 00:06:13,140
+để anh em luyện tập, đó, cho nên là
+
+131
+00:06:13,140 --> 00:06:15,220
+anh em chủ động xem nhé, câu này thì nếu mà để nói
+
+132
+00:06:15,220 --> 00:06:17,020
+rõ ra ấy, thì nó cũng không có gì cả
+
+133
+00:06:17,020 --> 00:06:18,840
+anh em chỉ cần đọc xem và đọc thôi
+
+134
+00:06:18,840 --> 00:06:21,260
+luyện nhiều thì nó sẽ tự nó biết thôi anh em nhé
+
+135
+00:06:21,260 --> 00:06:23,340
+còn bài này thì phải hiểu
+
+136
+00:06:23,340 --> 00:06:24,900
+thì mới làm được, để cho anh em
+
+137
+00:06:24,900 --> 00:06:26,280
+không có một mẹo nào cả
+
+138
+00:06:26,280 --> 00:06:28,380
+ok
+
+139
+00:06:28,380 --> 00:06:30,160
+tiếp theo này
+
+140
+00:06:30,160 --> 00:06:33,120
+tiếp theo là gì, là cái mà có thể
+
+141
+00:06:33,120 --> 00:06:34,480
+cái mà thay thế
+
+142
+00:06:34,480 --> 00:06:35,740
+nó gọi là
+
+143
+00:06:35,740 --> 00:06:39,140
+cái luồng thay thế anh em nhé, nó có thể gọi là cái luồng thay thế
+
+144
+00:06:39,140 --> 00:06:45,440
+thay thế được như là nó sẽ bắt anh em là chọn ra hai cái luồng có thể thay thế ví dụ ở đây nhá trong
+
+145
+00:06:45,440 --> 00:06:51,140
+này nó có một đáp án sẵn cho em này là nó chọn cái luồng từ năm này thì thay thế đây này thực ra là
+
+146
+00:06:51,140 --> 00:06:58,940
+ngay trong cái cây study nó nói rồi nếu mà chú trống mà hết chỗ thì nó sẽ đẩy và Willis đó đó
+
+147
+00:06:58,940 --> 00:07:07,820
+Ừ đấy là cái số 5 em nhìn nhá Nếu mà có đi cu nè hệ thống sẽ đi inform the student cái chỗ này còn
+
+148
+00:07:07,820 --> 00:07:17,720
+chỗ đúng không và thế nào hệ thống sẽ offer option doi nguyên anh em thấy không đó anh em chỉ cần
+
+149
+00:07:17,720 --> 00:07:25,520
+hiểu sao cái cây xa đi thôi là anh em làm được gì nhỉ đó chồng đấy và still confirm system record
+
+150
+00:07:25,520 --> 00:07:33,740
+lại cái chỗ này UK em phải nói chung là nhé mà quên đi đây xinh nha đó mục đích là nó nhé mà quên đi
+
+151
+00:07:33,740 --> 00:07:40,620
+đi chưa anh em chỉ cần hiểu được cái cây ta đi thôi trong đề nó nói mà nó tiếp theo là gì tiếp
+
+152
+00:07:40,620 --> 00:07:47,180
+theo là cái cái luồng cái thay thế thứ hai thì ví dụ đây nó chọn cái số 4 này cái số 4 là gì
+
+153
+00:07:47,180 --> 00:07:52,220
+trích điều kiện tiêm quyết là phát thì đơn giản thôi là hệ thống sẽ hiện ra cái thông báo là một
+
+154
+00:07:52,220 --> 00:07:59,780
+là nếu nó đủ điều kiện thì là bác còn không đủ điều kiện thì nó sẽ là là ở đây thì trong này thì
+
+155
+00:07:59,780 --> 00:08:07,640
+nó là hiển thị ra lỗi này đây là những gì đây chết nếu mà chết cái điều kiện nhất mà phiêu này đấy
+
+156
+00:08:07,640 --> 00:08:12,080
+trường hợp thứ hai cái kia là trên nhau thì hệ thống hiển thị ra một cái là nói chung là bảo là
+
+157
+00:08:12,080 --> 00:08:19,640
+mày chưa bác hiểu đấy nhé và hệ thống sẽ trả vì là cái có biết để cho anh em đó học sinh sẽ được
+
+158
+00:08:19,640 --> 00:08:26,640
+là đăng ký về đi có clip để cho nó xem lại và yêu cây sẽ kết thúc mà nói chung là đăng ký thất bạn
+
+159
+00:08:26,640 --> 00:08:34,380
+được chưa Đấy kiểu đấy nhé Ừ thì đấy là cái luồng thay thế cho cái thứ bốn để cho anh nha đó tiếp
+
+160
+00:08:34,380 --> 00:08:41,560
+theo tiếp theo thì là gì tiếp theo thì là cái cái trường cái gọi là cái luồng ngoại lệ để cho
+
+161
+00:08:41,560 --> 00:08:51,640
+đó nó gọi là các cái luồng mà có thể là lỗi để xin nhé đó thì là trường hợp lỗi thì thứ nhất là cái
+
+162
+00:08:51,640 --> 00:08:58,120
+này là gì đây hệ thống hiển thị ra các ero mấy xít này em lốc Ok thì cái này nó tức là sao kẻ nó kiểu
+
+163
+00:08:58,120 --> 00:09:05,620
+là xe vừa chết sơ vừa chết đấy để cho anh em và cái tiếp theo là tiêu đừng được khuyên là thực
+
+164
+00:09:05,620 --> 00:09:06,720
+và liên hệ cho cái này
+
+165
+00:09:06,720 --> 00:09:08,460
+tức là gì? là database lỗi
+
+166
+00:09:08,460 --> 00:09:12,100
+thì nó bảo anh em là liên hệ với cái thằng academic staff này
+
+167
+00:09:12,100 --> 00:09:12,900
+để được hỗ trợ
+
+168
+00:09:12,900 --> 00:09:13,900
+được chưa anh em?
+
+169
+00:09:14,640 --> 00:09:15,880
+thì UKM
+
+170
+00:09:15,880 --> 00:09:19,800
+nói chung là các cái form này nó chỉ có vậy thôi
+
+171
+00:09:19,800 --> 00:09:22,000
+nói chung là anh em cứ hiểu case study
+
+172
+00:09:22,000 --> 00:09:23,040
+là anh em hiểu vấn đề ngay
+
+173
+00:09:23,040 --> 00:09:25,440
+tiếp theo là gì?
+
+174
+00:09:26,160 --> 00:09:26,880
+là cái business
+
+175
+00:09:26,880 --> 00:09:29,260
+cái business rule này
+
+176
+00:09:29,260 --> 00:09:30,160
+là luật nghiệp vụ
+
+177
+00:09:30,160 --> 00:09:31,740
+nó kiểu là các cái quy tắc nghiệp vụ
+
+178
+00:09:31,740 --> 00:09:34,640
+thì nó là cái gì? ví dụ ở đây nhé
+
+179
+00:09:34,640 --> 00:09:36,640
+Học sinh thì không thể đăng ký
+
+180
+00:09:36,640 --> 00:09:38,240
+Khóa học với
+
+181
+00:09:38,240 --> 00:09:40,480
+Quá số thời gian
+
+182
+00:09:40,480 --> 00:09:42,380
+Ví dụ nhé
+
+183
+00:09:42,380 --> 00:09:45,020
+Ví dụ là anh em chỉ được phép
+
+184
+00:09:45,020 --> 00:09:46,660
+Trong trường mình nhé
+
+185
+00:09:46,660 --> 00:09:49,140
+Là anh em chỉ được học 6 môn 1 kỳ thôi đúng không
+
+186
+00:09:49,140 --> 00:09:49,780
+Ví dụ như vậy
+
+187
+00:09:49,780 --> 00:09:51,680
+Thì anh em không được phép và đăng ký quá
+
+188
+00:09:51,680 --> 00:09:54,240
+Tiếp theo là gì
+
+189
+00:09:54,240 --> 00:09:55,100
+Là
+
+190
+00:09:55,100 --> 00:09:57,560
+Cái
+
+191
+00:09:57,560 --> 00:10:01,060
+Maximum credit
+
+192
+00:10:01,060 --> 00:10:01,860
+À đúng rồi
+
+193
+00:10:01,860 --> 00:10:12,580
+được chưa Nhớ là cái số credit trên kia thì nó là 24 credit giờ được chưa Nó nói chung là đây là một
+
+194
+00:10:12,580 --> 00:10:18,600
+số cái nó chung là cái này thực tế thôi anh em nhé đó hay là Willis position này đó Nói chung là cái
+
+195
+00:10:18,600 --> 00:10:23,220
+này thì nó là cái nhiệm vụ chính thôi anh em tìm hiểu thêm ở bằng cách này anh em luyện tập nhiều
+
+196
+00:10:23,220 --> 00:10:28,140
+thì anh em tự nhớ thêm nhiều được chưa đó à bây giờ này cái này này nhìn thấy không Cái này nó
+
+197
+00:10:28,140 --> 00:10:39,840
+là máy bún thì nếu mà liệt kê ra này em nhé thì ví dụ nó bạn là nếu mà đưa ra hai cái này đưa ra
+
+198
+00:10:39,840 --> 00:10:44,100
+cái này đúng không thì em cứ lấy cho mình hai cái này không Cái thứ nhất là gì Cái này là cái
+
+199
+00:10:44,100 --> 00:10:49,320
+phong đúng không chắc chắn có đúng không không chắc chắn có cái thứ hai là gì là bảo mật đúng
+
+200
+00:10:49,320 --> 00:10:54,660
+không Anh em cứ đưa cho mình cái phong mình và bảo mật vào là ăn được chưa Nói đấy là với cái
+
+201
+00:10:54,660 --> 00:11:02,880
+này nó thì lấy là vườn đừng cách làm 13 nhá Ok thì hôm nay có một bạn bảo mình là cái yêu cây ID này
+
+202
+00:11:02,880 --> 00:11:09,480
+lấy đâu ra thì kia em làm bài hai này anh em biết yêu cây gì nó là bao nhiêu anh em lấy ra đi nhạc
+
+203
+00:11:09,480 --> 00:11:16,380
+đó Ok bài hai này có một cái số mà anh em phải liệt kê các tắt nhân và cái yêu cây ra đấy nhé
+
+204
+00:11:16,380 --> 00:11:23,340
+Ok thì đấy là cách làm về ba nhé không còn cách nào khác đâu anh em ạ chỉ có cách là anh em đi
+
+205
+00:11:23,340 --> 00:11:29,100
+cái này không được rồi anh cho anh nha đó thì anh em nhớ cho mình này đi khi nhá những cái bài như
+
+206
+00:11:29,100 --> 00:11:35,040
+thế này cái cây study nó sẽ lấy đâu Mình đang nghĩ về trong này vì mình đã đưa ra một vài chủ đề cho
+
+207
+00:11:35,040 --> 00:11:40,140
+em đấy mình đang nghĩ là nó sẽ làm các hệ thống thứ nhất như là phát đúng không Nhất là hệ thống
+
+208
+00:11:40,140 --> 00:11:46,140
+như là phát thứ hai hệ thống như phát đấy thì nó chính là cái này hệ thống phát nó chính là cái bài
+
+209
+00:11:46,140 --> 00:11:51,300
+như này rồi em nhé đó hệ thống phát nó cũng chính là cái cái này nó chính là một phần của phát này
+
+210
+00:11:51,300 --> 00:11:59,700
+nó một phần nhỏ của pháp là sẽ đó thứ hai là cái cơ chế hoặc hoạt động ví dụ như hệ thống quản lý
+
+211
+00:11:59,700 --> 00:12:05,760
+thư viện của trường mình anh em nhé có khả năng cao bài đầu tiên em khi nhé theo như mình dự loán
+
+212
+00:12:05,760 --> 00:12:14,640
+có khả năng cao là cái quản lý thư viện anh em để xem thì sẽ gặp cái tiếp theo là cái cái tiếp
+
+213
+00:12:14,640 --> 00:12:27,540
+là cái ls sdp trên các phần mềm thi của trường mình nhé Cái tiếp theo nữa là phát này phần mềm thi này
+
+214
+00:12:27,540 --> 00:12:31,880
+và quản lý thư viện Ok trước mắt thì mình đang đoán là có ba cái này có khả năng xảy ra anh em
+
+215
+00:12:31,880 --> 00:12:37,620
+nhé Nói chung là anh em cứ chuẩn bị tinh thần đi để trợ và có một cái điều đặc biệt là gì theo như
+
+216
+00:12:37,620 --> 00:12:44,220
+mình dự đoán nhé và kinh nghiệm khi mình đọc cái này nhé Thì anh em ý nhé mục đích chính của cái đề
+
+217
+00:12:44,220 --> 00:12:46,980
+Đây là hệ thống đăng ký khoa học
+
+218
+00:12:46,980 --> 00:12:47,920
+Được chưa anh em
+
+219
+00:12:47,920 --> 00:12:49,420
+Hệ thống đăng ký khoa học
+
+220
+00:12:49,420 --> 00:12:51,140
+Thì anh em nhìn nhé
+
+221
+00:12:51,140 --> 00:12:53,380
+Tất cả cái đề này đều liên quan đến đăng ký khoa học
+
+222
+00:12:53,380 --> 00:12:55,360
+Cho nên anh em phải bám sát vào cái đấy nhé
+
+223
+00:12:55,360 --> 00:12:56,080
+Đây ví dụ nhé
+
+224
+00:12:56,080 --> 00:12:57,580
+Cái này cũng là đăng ký khoa học này
+
+225
+00:12:57,580 --> 00:12:59,100
+Được chưa anh em
+
+226
+00:12:59,100 --> 00:13:01,320
+Cho nên anh em cũng bám sát vào đề nhé
+
+227
+00:13:01,320 --> 00:13:02,340
+Bám sát vào cái topic
+
+228
+00:13:02,340 --> 00:13:04,320
+Để anh em làm
+
+229
+00:13:04,320 --> 00:13:05,600
+Và theo như mình đoán
+
+230
+00:13:05,600 --> 00:13:07,360
+Thì có khả năng nhé
+
+231
+00:13:07,360 --> 00:13:10,120
+Câu 1 và câu 4
+
+232
+00:13:10,120 --> 00:13:11,760
+Có khả năng là sẽ được bỏ đi
+
+233
+00:13:11,760 --> 00:13:13,280
+Để nó nhắm vào câu 3
+
+234
+00:13:13,280 --> 00:13:14,000
+Được chưa anh em
+
+235
+00:13:14,000 --> 00:13:16,020
+có khả năng là như vậy, hoặc là nếu mà làm
+
+236
+00:13:16,020 --> 00:13:18,140
+có 1 câu 4 ấy, nó có thể bỏ câu 3 đi
+
+237
+00:13:18,140 --> 00:13:20,180
+để xem nha, đó, nói chung là
+
+238
+00:13:20,180 --> 00:13:22,160
+chỉ có 5 câu thôi, nó sẽ bỏ đi 2 câu
+
+239
+00:13:22,160 --> 00:13:23,600
+cho nên em cứ chuẩn bị yên thần nhé
+
+240
+00:13:23,600 --> 00:13:25,700
+mình đoán chắc là chắc chắn nó sẽ không
+
+241
+00:13:25,700 --> 00:13:27,640
+nếu mà bỏ nhau 1 trận
+
+242
+00:13:27,640 --> 00:13:30,560
+nó sẽ chắc chắn là có câu 2 và câu 5 là 1 trong 2 câu
+
+243
+00:13:30,560 --> 00:13:31,980
+đó, bởi vì 2 cái vẽ
+
+244
+00:13:31,980 --> 00:13:33,520
+uml thì chắc chắn phải có thôi
+
+245
+00:13:33,520 --> 00:13:35,440
+và nếu mà
+
+246
+00:13:35,440 --> 00:13:38,160
+bỏ đi thì, nếu mà có bỏ đi
+
+247
+00:13:38,160 --> 00:13:40,380
+1 câu vẽ, bởi vì vẽ nó hơi mất thời gian
+
+248
+00:13:40,380 --> 00:13:42,040
+nếu mà bỏ đi 1 câu vẽ
+
+249
+00:13:42,040 --> 00:13:45,040
+mà TBE thì có khả năng là phải vẽ cả 2 câu
+
+250
+00:13:45,040 --> 00:13:46,360
+nhưng mà nếu mà bỏ đi 1 câu vẽ
+
+251
+00:13:46,360 --> 00:13:48,920
+thì chắc chắn phải có 1 trong 2 câu nhé
+
+252
+00:13:48,920 --> 00:13:50,940
+đề này chắc chắn có 1 trong 2 câu
+
+253
+00:13:50,940 --> 00:13:52,580
+thì nó sẽ có là
+
+254
+00:13:52,580 --> 00:13:54,500
+vẽ Class Diagram hoặc là
+
+255
+00:13:54,500 --> 00:13:55,520
+Isquare Diagram
+
+256
+00:13:55,520 --> 00:13:57,140
+thì câu 2 là câu dễ hơn
+
+257
+00:13:57,140 --> 00:13:59,820
+và anh em có thể nhìn lên, thật ra nhìn ngay vào số điểm đó thôi
+
+258
+00:13:59,820 --> 00:14:01,500
+câu số 5 này tận 25 này
+
+259
+00:14:01,500 --> 00:14:04,560
+2,5 này, câu kia thì chỉ được 2 thôi
+
+260
+00:14:04,560 --> 00:14:05,460
+đó
+
+261
+00:14:05,460 --> 00:14:08,700
+ôi, câu 2 được 0,15 thôi á
+
+262
+00:14:10,640 --> 00:14:10,960
+đó
+
+263
+00:14:10,960 --> 00:14:17,620
+cho nên là biết được độ khó của nó khác nhau rồi đấy nó chung là đi thi vì gì nó sẽ như vậy
+
+264
+00:14:17,620 --> 00:14:23,340
+nhá Còn có ba để ngăn chỉ luyện tập vậy thôi Ok về video này mình sẽ dừng lại đây nhá à à
+

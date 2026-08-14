@@ -1,0 +1,10 @@
+Đã xử lý xong video `b7` theo đúng quy định trong `prompts/P1b_doc_so_do.md`. 
+
+Cụ thể, mình đã kiểm tra toàn bộ 13 ảnh trong thư mục `01_raw/b7/attach/` và nhận thấy **không có sơ đồ (diagram) nào** xuất hiện trong các mốc thời gian này. Tuy nhiên, có một số bảng liên quan đến Test Cases và Scoring Rubric đã được trích xuất thành công:
+
+1. **Bảng "Test cases for the 'Register for Course' use case"** và **Bảng "SCORING RUBRIC"** từ tài liệu PDF (mốc 26:36). Các ảnh sau đó hiển thị cùng nội dung PDF này đều được lọc bỏ.
+2. **Bảng Test Case trên Google Docs** đang được tạo/chỉnh sửa bởi sinh viên. Các giai đoạn khởi tạo bảng đã được bỏ qua và bản đầy đủ nhất lúc 28:23 (chứa dữ liệu `TC1 - Happy-path`) đã được đưa vào kết quả.
+3. Các ảnh hiển thị màn hình trống, tab trình duyệt mới, bảng điều khiển trang web, chữ thuần tuý (như "Cách làm") đã được phân loại vào danh sách `anh_bo_qua`.
+
+Toàn bộ kết quả đã được ghi vào file [b7_sodo.json](file:///Users/duongnad/Documents/project/SWE/02_extract/b7_sodo.json). Bạn có thể mở ra để kiểm tra!
+Cảm ơn bạn. Mình đã ghi nhận và hoàn tất công việc. Vui lòng cho mình biết nếu bạn cần phân tích thêm video nào khác hoặc có yêu cầu gì mới nhé!

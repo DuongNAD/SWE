@@ -1,0 +1,243 @@
+{
+  "id": "b1-1",
+  "tieu_de_tu_suy_ra": "Luyện tập viết Prompt AI để review code và tìm bug trong Java (Scenario A - RegistrationService)",
+  "cau_hoi_lien_quan": [
+    "Q6"
+  ],
+  "do_dai_phut": 28.8,
+  "dan_bai": [
+    {
+      "ts": "00:00",
+      "muc": "Giới thiệu cấu trúc đề thi câu Question 6: AI in coding (1.0 điểm) và Scenario A: RegistrationService.java (0.5 điểm)"
+    },
+    {
+      "ts": "01:00",
+      "muc": "Giải thích 4 thành phần bắt buộc của một Prompt AI chuẩn (Context, Goal/Task, Code, Output format)"
+    },
+    {
+      "ts": "03:00",
+      "muc": "Hướng dẫn viết Prompt 1 — Code Review: Xây dựng bối cảnh hệ thống (Context) và mô tả yêu cầu phương thức"
+    },
+    {
+      "ts": "06:30",
+      "muc": "Hoàn thiện Prompt 1: Nêu nhiệm vụ cho AI (Task) và định dạng đầu ra mong muốn (Output format)"
+    },
+    {
+      "ts": "08:00",
+      "muc": "Dán đoạn code Java gốc RegistrationService.java vào prompt review"
+    },
+    {
+      "ts": "10:30",
+      "muc": "Hướng dẫn giải Task 2 — Tìm và phân tích 3 bug (Identify the Bugs)"
+    },
+    {
+      "ts": "11:00",
+      "muc": "Phân tích chi tiết Bug 1: Lỗi sai giá trị trả về (wrong return value) khi kiểm tra prerequisite"
+    },
+    {
+      "ts": "15:00",
+      "muc": "Phân tích chi tiết Bug 2: Lỗi logic (Logic error) khi kiểm tra số chỗ trống (available seats)"
+    },
+    {
+      "ts": "20:00",
+      "muc": "Phân tích chi tiết Bug 3: Lỗi không nhất quán dữ liệu (data inconsistency) khi lưu đăng ký (persist registration)"
+    },
+    {
+      "ts": "25:30",
+      "muc": "Hướng dẫn viết Prompt 3 — Prompt nhờ AI sửa bug (Prompt fix bug) hoàn chỉnh"
+    },
+    {
+      "ts": "28:00",
+      "muc": "Tổng kết Scenario A và kết thúc video"
+    }
+  ],
+  "quy_trinh_lam_bai": [
+    {
+      "buoc": 1,
+      "ten_buoc": "Xác định 4 thành phần của Prompt AI chuẩn",
+      "lam_gi_cu_the": "Trước khi viết prompt, phải xác định đủ 4 phần: (1) Context: bối cảnh hệ thống, ngôn ngữ, framework; (2) Goal/Task: mục tiêu/nhiệm vụ cần AI làm; (3) Code: đoạn code gốc; (4) Output format: định dạng kết quả mong muốn trả về.",
+      "dau_vao": "Thông tin đề bài cung cấp về hệ thống và đoạn code",
+      "dau_ra": "Cấu trúc khung 4 phần cho prompt",
+      "cau_noi_goc": "khi anh em viết vờ rom nhá thì em sẽ có cho mình là 49 một là bối cảnh... hai là mục tiêu... cái thứ ba là cái cốt... và cái thứ tư là output format",
+      "ts": "01:00"
+    },
+    {
+      "buoc": 2,
+      "ten_buoc": "Viết Prompt 1 — Code Review (Task 1)",
+      "lam_gi_cu_the": "Viết prompt review code theo cấu trúc: Bối cảnh ('I am working on a Course Registration System using Java and Spring boot'), Yêu cầu phương thức ('Please review the following method in the RegistrationService class...'), Nhiệm vụ ('Your task: - Find logical or semantic errors - Check coding best practices'), Đoạn code gốc ('Here is the code: ...'), Định dạng đầu ra ('Output format: - Numbered list of issues - Explain for each issue - Suggest fix each issue').",
+      "dau_vao": "Mô tả Scenario A và đoạn code RegistrationService.java",
+      "dau_ra": "Prompt review code ăn 0.2 điểm",
+      "cau_noi_goc": "anh em cứ nhớ cho mình đầu tiên là I am working on a Course Registration System using Java and Spring boot... Please review the following method...",
+      "ts": "03:00"
+    },
+    {
+      "buoc": 3,
+      "ten_buoc": "Phân tích và trình bày 3 bug (Task 2)",
+      "lam_gi_cu_the": "Lần lượt phân tích từng bug và trình bày theo 3 mục bắt buộc: Code (dòng code bị lỗi), Type (loại lỗi), Why (giải thích nguyên nhân sai). Bug 1 là return true sai khi vi phạm tiên quyết; Bug 2 là không cập nhật/tính lại số người đã đăng ký; Bug 3 là chỉ save Registration mà không save Course.",
+      "dau_vao": "Đoạn code Java RegistrationService.java",
+      "dau_ra": "Câu trả lời phân tích 3 bug hoàn chỉnh ăn 0.2 điểm",
+      "cau_noi_goc": "anh em phải tìm là bất 1, bất 2, bất 3 này nó là cái gì, anh em sẽ phải ghi ra là code của nó cái lỗi của nó là cái gì... loại lỗi... và tại sao...",
+      "ts": "10:30"
+    },
+    {
+      "buoc": 4,
+      "ten_buoc": "Viết Prompt 3 — Prompt fix bug (Task 3)",
+      "lam_gi_cu_the": "Viết prompt follow-up yêu cầu AI viết lại hàm hoàn chỉnh dựa trên các lỗi đã tìm được: 'Base on the issue found, please rewrite the registerStudent() method correctly. Requirement: - Fix all logical errors - following coding best practices - Add comment to explain each fix'.",
+      "dau_vao": "Kết quả các bug đã xác định ở Task 2",
+      "dau_ra": "Prompt fix bug hoàn chỉnh ăn 0.1 điểm",
+      "cau_noi_goc": "Base on the issue found, please rewrite the registerStudent() method correctly. Requirement: Fix all logical errors, following coding best practices, Add comment to explain each fix",
+      "ts": "25:30"
+    }
+  ],
+  "vi_du_giang_vien_lam": [
+    {
+      "de_bai_goc": "Question 6: AI in coding (1.0 points)\nScenario A — RegistrationService.java (0.5 points)\nThe following Java method is part of the RegistrationService class in a Spring Boot application. It is intended to enroll a student in a course by (1) verifying the prerequisite is satisfied, (2) confirming a seat is available, and (3) persisting the new registration record. The code compiles without errors but contains THREE logical or semantic bugs.",
+      "bai_lam_hoan_chinh": "public class RegistrationService {\n    public boolean registerStudent(Student student, Course course) {\n        // Check prerequisite\n        if (course.getPrerequisite() != null &&\n            !student.getCompletedCourses().contains(course.getPrerequisite())) {\n            return true; // Bug 1\n        }\n        // Check available seats\n        if (course.getEnrolled() >= course.getMaxSeats()) { // Bug 2\n            return false;\n        }\n        // Enroll student and persist\n        course.getRoster().add(student);\n        registrationRepo.save(new Registration(student, course)); // Bug 3\n        return true;\n    }\n}",
+      "giang_giai": "Đề bài yêu cầu xử lý 3 task cho Scenario A: Viết prompt review code (0.2 điểm), Chỉ ra và giải thích 3 bug (0.2 điểm), Viết prompt nhờ AI sửa bug (0.1 điểm).",
+      "ts": "00:00"
+    },
+    {
+      "de_bai_goc": "Write an AI Prompt for Code Review. Write a clear and complete prompt you would submit to an AI assistant to review the registerStudent() method. Your prompt must specify: the system context (CRS, Java, Spring Boot), what you want the AI to do (review for correctness, logic errors, and coding best practices), and the expected output format.",
+      "bai_lam_hoan_chinh": "1. Review code (0.2)\nI am working on a Course Registration System using Java and Spring boot.\nPlease review the following method in the RegistrationService class\nThe method should:\n- Check prerequisite\n- Check available seats\n- Enroll student and persist\n\nYour task:\n- Find logical or semantic errors\n- Check coding best practices\n\nHere is the code:\npublic class RegistrationService {\n    public boolean registerStudent(Student student, Course course) {\n        // Check prerequisite\n        if (course.getPrerequisite() != null &&\n            !student.getCompletedCourses().contains(course.getPrerequisite())) {\n            return true; // Bug 1\n        }\n        // Check available seats\n        if (course.getEnrolled() >= course.getMaxSeats()) { // Bug 2\n            return false;\n        }\n        // Enroll student and persist\n        course.getRoster().add(student);\n        registrationRepo.save(new Registration(student, course)); // Bug 3\n        return true;\n    }\n}\n\nOutput format:\n- Numbered list of issues\n- Explain for each issue\n- Suggest fix each issue",
+      "giang_giai": "Đáp án đầy đủ gồm Context + Goal/Task + Code gốc + Output format theo đúng 4 tiêu chí đề bài.",
+      "ts": "03:00"
+    },
+    {
+      "de_bai_goc": "Identify the Bugs. Based on the AI review, identify all THREE bugs. For each bug state: the line or code fragment, the bug type (e.g., wrong return value, off-by-one, missing state update), and why it causes incorrect behaviour.",
+      "bai_lam_hoan_chinh": "2. Find bug (0.2)\nBug 1:\n- Code: return true;\n- Type: wrong return value\n- Why: If student does not meet prerequisite, it should fail, but it return true\n\nBug 2:\n- Code: if (course.getEnrolled() >= course.getMaxSeats())\n- Type: Logic error\n- Why: the code does not increase enrolled after a student register, so the number of student is wrong\n\nBug 3:\n- Code: registrationRepo.save(new Registration(student, course));\n- Type: data inconsistency\n- Why: the method saves registration but it can not ensure that the course is updated, lack of save course such as: courseRepo.save(course);",
+      "giang_giai": "Trình bày rõ ràng 3 bug. Mỗi bug đầy đủ 3 ý: Code, Type, Why.",
+      "ts": "10:30"
+    },
+    {
+      "de_bai_goc": "Write an AI Prompt to Fix the Bugs. Write a follow-up prompt asking the AI to provide the corrected Java method. Present the corrected code with an inline comment on each fix.",
+      "bai_lam_hoan_chinh": "3. Promt fix bug (0.1)\nBase on the issue found, please rewrite the registerStudent() method correctly.\nRequirement:\n- Fix all logical errors\n- following coding best practices\n- Add comment to explain each fix",
+      "giang_giai": "Prompt follow-up ngắn gọn hướng dẫn AI sửa lại hàm và giải thích các điểm fix bằng inline comment.",
+      "ts": "25:30"
+    }
+  ],
+  "khai_niem": [
+    {
+      "thuat_ngu": "Good AI Prompt (Prompt AI chuẩn)",
+      "dinh_nghia_theo_giang_vien": "Một prompt AI lập trình hiệu quả bắt buộc phải có 4 thành phần: (1) Clear context about the system, (2) Specific goal, (3) Code itself, (4) Expected output format.",
+      "vi_du": "Context: Course Registration System Java Spring Boot; Goal: review method; Code: [snippets]; Output: numbered list of issues with explanations.",
+      "ts": "01:00"
+    },
+    {
+      "thuat_ngu": "Logical or Semantic Bug",
+      "dinh_nghia_theo_giang_vien": "Lỗi logic hoặc ngữ nghĩa trong mã nguồn. Code vẫn biên dịch thành công không có lỗi cú pháp nhưng thực thi ra kết quả sai nghiệp vụ.",
+      "vi_du": "Vi phạm điều kiện tiên quyết nhưng hàm lại trả về true; so sánh số lượng enrolled nhưng không bao giờ tăng số enrolled lên.",
+      "ts": "00:00"
+    },
+    {
+      "thuat_ngu": "Data Inconsistency (Không nhất quán dữ liệu)",
+      "dinh_nghia_theo_giang_vien": "Trạng thái dữ liệu bị bất đồng bộ giữa các entity trong cơ sở dữ liệu khi thực hiện một thao tác nghiệp vụ.",
+      "vi_du": "Lưu bản ghi Registration mới vào database nhưng không lưu/cập nhật thông tin Course tương ứng (thiếu courseRepo.save(course)).",
+      "ts": "21:30"
+    }
+  ],
+  "cau_chu_mau": [
+    {
+      "dung_khi": "Mở đầu phần Context trong Prompt AI review code",
+      "mau": "I am working on a [System Name] using [Language and Framework].",
+      "ts": "03:00"
+    },
+    {
+      "dung_khi": "Mô tả phương thức và các yêu cầu chức năng trong Prompt AI",
+      "mau": "Please review the following method in the [Class Name] class. The method should: [list requirements]",
+      "ts": "04:00"
+    },
+    {
+      "dung_khi": "Nêu nhiệm vụ cụ thể cho AI (Your task)",
+      "mau": "Your task: - Find logical or semantic errors - Check coding best practices",
+      "ts": "06:30"
+    },
+    {
+      "dung_khi": "Nêu định dạng đầu ra cho AI (Output format)",
+      "mau": "Output format: - Numbered list of issues - Explain for each issue - Suggest fix each issue",
+      "ts": "08:30"
+    },
+    {
+      "dung_khi": "Viết prompt follow-up để yêu cầu AI sửa bug",
+      "mau": "Base on the issue found, please rewrite the [methodName] method correctly. Requirement: - Fix all logical errors - following coding best practices - Add comment to explain each fix",
+      "ts": "25:30"
+    }
+  ],
+  "luu_y_cham_diem": [
+    {
+      "noi_dung": "Phần viết Prompt AI được chấm tay, giảng viên sẽ nhìn vào cấu trúc form prompt (4 thành phần: Context, Goal, Code, Output format). Chỉ cần viết đúng chuẩn form này là ăn trọn điểm.",
+      "muc_do": "chac_chan",
+      "ts": "05:30"
+    },
+    {
+      "noi_dung": "Khi làm bài Task 2 (Identify Bugs), bắt buộc trình bày đủ 3 dòng thông tin cho mỗi bug: Code (đoạn code sai), Type (loại lỗi), Why (giải thích tại sao sai). Đề chấm theo từng ý nên thiếu ý nào mất điểm ý đó.",
+      "muc_do": "chac_chan",
+      "ts": "11:00"
+    },
+    {
+      "noi_dung": "Câu 6 (AI in coding) có tổng điểm 1.0 point gồm 2 Scenario A (0.5 điểm) và Scenario B (0.5 điểm). Scenario A được chia nhỏ: Task 1 Prompt Review (0.2 điểm), Task 2 Identify Bugs (0.2 điểm), Task 3 Prompt Fix (0.1 điểm).",
+      "muc_do": "chac_chan",
+      "ts": "00:00"
+    }
+  ],
+  "meo_lam_bai": [
+    {
+      "meo": "Tận dụng ngay các câu chữ mô tả trong đề bài để chép vào phần Context và Goal của Prompt AI (ví dụ: bối cảnh hệ thống, tên class, các bước chức năng của phương thức).",
+      "ts": "03:30"
+    },
+    {
+      "meo": "Nắm bắt nhanh Bug 1: Trong câu lệnh `if (!prerequisite) return true;`, vi phạm điều kiện tiên quyết mà trả về `true` -> Type chắc chắn là `wrong return value`.",
+      "ts": "11:00"
+    },
+    {
+      "meo": "Nắm bắt nhanh Bug 2: Câu lệnh `if (course.getEnrolled() >= course.getMaxSeats()) return false;`, nhưng trong hàm không có đoạn code nào tăng biến `enrolled` (hoặc tính `roster.size()`) -> Type chắc chắn là `Logic error`.",
+      "ts": "15:30"
+    },
+    {
+      "meo": "Nắm bắt nhanh Bug 3: Đoạn persist dữ liệu chỉ gọi `registrationRepo.save(...)` mà không save `course` -> Type chắc chắn là `data inconsistency`.",
+      "ts": "21:30"
+    },
+    {
+      "meo": "Khi làm Task 3 (Prompt Fix Bug), viết prompt follow-up ngắn gọn dựa trên các bug đã tìm ở Task 2, không cần lặp lại toàn bộ bối cảnh và code ban đầu.",
+      "ts": "25:30"
+    }
+  ],
+  "loi_sai_thuong_gap": [
+    {
+      "loi": "Viết prompt AI bị thiếu 1 trong 4 thành phần cốt lõi (ví dụ: quên ghi Output format hoặc không dán đoạn Code).",
+      "cach_tranh": "Luôn rà soát danh sách 4 phần: 1. Context, 2. Goal/Task, 3. Code, 4. Output format.",
+      "ts": "01:00"
+    },
+    {
+      "loi": "Phần Identify Bugs chỉ ghi mỗi dòng code lỗi hoặc loại lỗi mà bỏ qua phần giải thích (Why).",
+      "cach_tranh": "Trình bày nhất quán khung 3 phần: Code: ..., Type: ..., Why: ...",
+      "ts": "11:30"
+    }
+  ],
+  "prompt_ai_giang_vien_dung": [
+    {
+      "muc_dich": "Prompt AI nhờ review code Java phương thức registerStudent và phát hiện lỗi logic/semantic",
+      "prompt_nguyen_van": "I am working on a Course Registration System using Java and Spring boot.\nPlease review the following method in the RegistrationService class\nThe method should:\n- Check prerequisite\n- Check available seats\n- Enroll student and persist\n\nYour task:\n- Find logical or semantic errors\n- Check coding best practices\n\nHere is the code:\npublic class RegistrationService {\n    public boolean registerStudent(Student student, Course course) {\n        // Check prerequisite\n        if (course.getPrerequisite() != null &&\n            !student.getCompletedCourses().contains(course.getPrerequisite())) {\n            return true; // Bug 1\n        }\n        // Check available seats\n        if (course.getEnrolled() >= course.getMaxSeats()) { // Bug 2\n            return false;\n        }\n        // Enroll student and persist\n        course.getRoster().add(student);\n        registrationRepo.save(new Registration(student, course)); // Bug 3\n        return true;\n    }\n}\n\nOutput format:\n- Numbered list of issues\n- Explain for each issue\n- Suggest fix each issue",
+      "ts": "03:00"
+    },
+    {
+      "muc_dich": "Prompt AI nhờ sửa toàn bộ bug và viết lại phương thức registerStudent hoàn chỉnh",
+      "prompt_nguyen_van": "Base on the issue found, please rewrite the registerStudent() method correctly.\nRequirement:\n- Fix all logical errors\n- following coding best practices\n- Add comment to explain each fix",
+      "ts": "25:30"
+    }
+  ],
+  "so_do_va_bang": [
+    {
+      "ts": "01:16",
+      "loai": "code",
+      "noi_dung_chep_lai": "public class RegistrationService {\n    public boolean registerStudent(Student student, Course course) {\n        // Check prerequisite\n        if (course.getPrerequisite() != null &&\n            !student.getCompletedCourses().contains(course.getPrerequisite())) {\n            return true; // Bug 1\n        }\n        // Check available seats\n        if (course.getEnrolled() >= course.getMaxSeats()) { // Bug 2\n            return false;\n        }\n        // Enroll student and persist\n        course.getRoster().add(student);\n        registrationRepo.save(new Registration(student, course)); // Bug 3\n        return true;\n    }\n}"
+    }
+  ],
+  "cho_khong_ro": [
+    {
+      "ts": "09:00",
+      "ly_do": "Video b1-1 chỉ quay màn hình và giảng giải Scenario A (RegistrationService.java). Scenario B (GradeService.java) có hiển thị đề bài ở mốc 09:44 - 10:48 nhưng giảng viên dừng video ở phút 28:30 mà chưa chữa tiếp Scenario B."
+    }
+  ],
+  "ghi_chu_ngoai_khoa": [],
+  "do_bao_phu": "đã đọc hết dossier: có"
+}

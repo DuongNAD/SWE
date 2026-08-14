@@ -1,0 +1,33 @@
+Đã hoàn thành theo đúng yêu cầu trong `prompts/P3_sinh_template_cau_hoi.md`.
+
+Dưới đây là kết quả **Bước 0 — ĐỐI CHIẾU TRƯỚC** giữa cấu trúc đề suy từ video bài giảng (`03_kb/cau_truc_de_thi.md`) và cấu trúc đề thực tế (`papers/*.pdf`).
+
+### 📊 BẢNG ĐỐI CHIẾU (Video vs Đề Thật)
+
+| Câu | Cấu trúc đề suy từ Video (`03_kb/`) | Cấu trúc Đề Thật (`papers/*.pdf`) | Kết luận / Hành động |
+|---|---|---|---|
+| **Q1** | Software Development Model (Agile vs Waterfall) | Software Development Model (Kanban, XP, Scrum...) | **Khớp chủ đề**. Lấy đề thật làm chuẩn để mở rộng các framework ngoài bài giảng (như XP, Kanban). |
+| **Q2** | Use Case Diagram | Testing (Loại, Cấp độ, Đối tượng thực hiện) | **Lệch hoàn toàn**. Đề thật hỏi lý thuyết về Testing thay vì vẽ Use Case Diagram. → Lấy đề thật làm chuẩn, đưa Use Case Diagram vào hạ ưu tiên. |
+| **Q3** | Use Case Specification | Identify Requirements (Functional, Performance, Security...) | **Lệch hoàn toàn**. Đề thật bắt phân loại các Requirements. → Lấy đề thật làm chuẩn. |
+| **Q4** | Non-Functional Requirements (NFRs) | Write User Stories | **Lệch cấu trúc**. Đề thật yêu cầu viết User Stories dựa trên FR (Q3). NFRs chuyển lên làm chung ở Q3. → Lấy đề thật làm chuẩn. |
+| **Q5** | Domain Class Descriptions và UML Class Diagram | Design Patterns | **Lệch hoàn toàn**. Video dạy Class Diagram, đề thật hỏi lý thuyết và áp dụng Design Patterns. → Lấy đề thật làm chuẩn. |
+| **Q6** | AI in Coding (Review, Find Bugs, Fix) | Story Map | **Lệch hoàn toàn**. Video dạy dùng AI code, đề thật yêu cầu vẽ Story Map theo chuẩn text EOS. → Lấy đề thật làm chuẩn. |
+| **Q7** | Test Case và 4 Giai đoạn Kiểm thử | KHÔNG CÓ | **Lệch**. Đề thật chỉ có 6 câu. → Bỏ câu 7 ra khỏi template chính. |
+
+**=> KẾT LUẬN LỖ HỔNG:** Cấu trúc đề thực tế khác hoàn toàn 80% so với dự đoán từ video bài giảng. Đề thật tập trung nhiều vào lý thuyết kiểm thử, requirements, design patterns và quản lý tiến độ (Story Map) dưới dạng Text, hoàn toàn không bắt vẽ các sơ đồ UML phức tạp.
+
+---
+
+### 🚀 KẾT QUẢ TẠO TEMPLATE
+Tôi đã lấy **ĐỀ THẬT LÀM CHUẨN** và sinh toàn bộ bộ khung bài làm vào thư mục `04_templates/`. Mỗi file có chứa: dấu hiệu nhận biết, dữ kiện cần lấy từ đề bài, quy trình trả lời, khung template điền từ vào chỗ trống, ví dụ thực tế dựa trên `papers/`, checklist tự chấm, và bẫy thường gặp.
+
+Các file đã tạo:
+- [INDEX.md](file:///Users/duongnad/Documents/project/SWE/04_templates/INDEX.md) (Bảng định tuyến cách làm bài thi)
+- [Q1-Software_Development_Model.md](file:///Users/duongnad/Documents/project/SWE/04_templates/Q1-Software_Development_Model.md)
+- [Q2-Testing.md](file:///Users/duongnad/Documents/project/SWE/04_templates/Q2-Testing.md)
+- [Q3-Identify_Requirements.md](file:///Users/duongnad/Documents/project/SWE/04_templates/Q3-Identify_Requirements.md)
+- [Q4-User_Stories.md](file:///Users/duongnad/Documents/project/SWE/04_templates/Q4-User_Stories.md)
+- [Q5-Design_Patterns.md](file:///Users/duongnad/Documents/project/SWE/04_templates/Q5-Design_Patterns.md)
+- [Q6-Story_Map.md](file:///Users/duongnad/Documents/project/SWE/04_templates/Q6-Story_Map.md)
+
+Bạn có thể mở trực tiếp các file trên để kiểm tra hoặc yêu cầu tinh chỉnh thêm bất cứ phần nào!

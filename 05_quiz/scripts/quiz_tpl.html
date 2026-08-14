@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="vi"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>__TITLE__ — __N__ câu</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--fg:#16181d;--muted:#6b7280;--line:#e3e6eb;
+--ok:#0f9d58;--okbg:#e6f4ea;--no:#d93025;--nobg:#fce8e6;--acc:#1a73e8;--accbg:#e8f0fe;
+--tip:#8a5a00;--tipbg:#fff8e1;--tipline:#f2d98c}
+@media(prefers-color-scheme:dark){:root{--bg:#15171c;--card:#1e2128;--fg:#e8eaed;--muted:#9aa0a6;
+--line:#2f333c;--okbg:#12281a;--nobg:#2b1512;--accbg:#17243b;--ok:#63d297;--no:#f28b82;--acc:#8ab4f8;
+--tip:#f5c96b;--tipbg:#2a2415;--tipline:#4d4327}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);
+font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:780px;margin:0 auto;padding:20px 16px 90px}
+h1{font-size:20px;margin:0 0 4px}
+.sub{color:var(--muted);font-size:14px;margin-bottom:14px}
+.bar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
+button{font:inherit;cursor:pointer;border:1px solid var(--line);background:var(--card);
+color:var(--fg);border-radius:8px;padding:8px 14px}
+button:hover{border-color:var(--acc)}
+button.primary{background:var(--acc);color:#fff;border-color:var(--acc)}
+button:disabled{opacity:.45;cursor:not-allowed}
+button.on{border-color:var(--ok);color:var(--ok)}
+.prog{height:6px;background:var(--line);border-radius:99px;overflow:hidden;margin-bottom:18px}
+.prog>i{display:block;height:100%;background:var(--acc);width:0;transition:width .25s}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px}
+.meta{color:var(--muted);font-size:13px;margin-bottom:10px;display:flex;
+justify-content:space-between;gap:10px;flex-wrap:wrap}
+.q{font-size:17px;font-weight:600;margin-bottom:14px;white-space:pre-wrap}
+.opt{display:flex;gap:11px;align-items:flex-start;border:1px solid var(--line);
+border-radius:10px;padding:11px 13px;margin-bottom:8px;cursor:pointer;
+transition:border-color .12s,background .12s;user-select:none}
+.opt:hover{border-color:var(--acc)}
+.box{flex:none;width:19px;height:19px;margin-top:2px;border:2px solid var(--muted);
+display:flex;align-items:center;justify-content:center;font-size:12px;color:#fff;line-height:1}
+.box.sq{border-radius:5px}.box.ci{border-radius:50%}
+.opt.sel{border-color:var(--acc);background:var(--accbg)}
+.opt.sel .box{background:var(--acc);border-color:var(--acc)}
+.opt.ok{border-color:var(--ok);background:var(--okbg)}
+.opt.ok .box{background:var(--ok);border-color:var(--ok)}
+.opt.no{border-color:var(--no);background:var(--nobg)}
+.opt.no .box{background:var(--no);border-color:var(--no)}
+.opt.done{cursor:default}
+.k{font-weight:700;min-width:20px}
+.fb{margin-top:12px;padding:11px 13px;border-radius:10px;font-weight:600}
+.fb.ok{background:var(--okbg);color:var(--ok)}
+.fb.no{background:var(--nobg);color:var(--no)}
+.tip{margin-top:12px;padding:12px 14px;border-radius:10px;background:var(--tipbg);
+border:1px solid var(--tipline);color:var(--fg)}
+.tip h4{margin:0 0 7px;font-size:13px;letter-spacing:.04em;text-transform:uppercase;color:var(--tip)}
+.hook{font-weight:700;font-size:16px;margin-bottom:5px}
+.tip p{margin:4px 0;font-size:15px}
+.trap{color:var(--no);font-weight:500}
+.nav{display:flex;gap:8px;margin-top:16px;flex-wrap:wrap;align-items:center}
+.stat{font-size:14px;color:var(--muted)}
+kbd{font:12px ui-monospace,monospace;background:var(--line);border-radius:4px;padding:1px 5px}
+.hint{margin-top:14px;font-size:13px;color:var(--muted)}
+.parts{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px}
+.parts a{font-size:14px;text-decoration:none;color:var(--acc);border:1px solid var(--line);
+border-radius:8px;padding:5px 11px}
+.parts a:hover{border-color:var(--acc)}
+.parts a.now{background:var(--accbg);border-color:var(--acc);font-weight:700}
+.parts small{color:var(--muted);font-weight:400}
+</style></head><body><div class="wrap">
+<h1>__TITLE__</h1>
+<div class="sub" id="sub"></div>
+__NAV__
+<div class="bar">
+  <button id="shuffle">Xáo trộn</button>
+  <button id="wrongOnly">Ôn câu sai</button>
+  <button id="repeat">Lặp câu sai</button>
+  <button id="reset">Làm lại từ đầu</button>
+</div>
+<div class="prog"><i id="pbar"></i></div>
+<div class="card" id="card"></div>
+<div class="nav">
+  <button id="prev">← Câu trước</button>
+  <button id="check" class="primary">Kiểm tra</button>
+  <button id="tipBtn">💡 Gợi ý</button>
+  <button id="next">Câu sau →</button>
+  <span class="stat" id="stat"></span>
+</div>
+<div class="hint">Phím tắt: <kbd>A</kbd>–<kbd>E</kbd> chọn · <kbd>Enter</kbd> kiểm tra / câu sau ·
+<kbd>←</kbd> <kbd>→</kbd> chuyển câu · <kbd>H</kbd> gợi ý</div>
+</div>
+<script>
+const DATA = __DATA__;
+const KEY = '__KEY__';
+const BUILD = '__BUILD__';
+// localStorage ném SecurityError ở một số origin (file://, khung sandbox, cửa sổ ẩn danh).
+// Không được để nó làm chết cả script — hỏng chỗ lưu tiến độ thì vẫn phải làm bài được.
+const store = {
+  get(k){ try { return localStorage.getItem(k); } catch(e){ return null; } },
+  set(k,v){ try { localStorage.setItem(k,v); } catch(e){ /* chạy không lưu */ } }
+};
+let saveWorks = true;
+const def = () => ({i:0, order:DATA.map((_,i)=>i), res:{}, repeat:true});
+let st = def();
+try { st = Object.assign(def(), JSON.parse(store.get(KEY) || '{}')); }
+catch(e){ st = def(); }
+try { localStorage.setItem('__t','1'); localStorage.removeItem('__t'); }
+catch(e){ saveWorks = false; }
+let picked = new Set(), revealed = false, peek = false;
+
+const save = () => store.set(KEY, JSON.stringify(st));
+const cur = () => DATA[st.order[st.i]];
+const same = (a,b) => a.length===b.length && a.every(x=>b.includes(x));
+const esc = s => (s||'').replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+
+// Nạp trạng thái của câu hiện tại. CHỈ gọi khi đổi câu — không gọi trong render(),
+// nếu không mỗi lần vẽ lại sẽ xoá mất lựa chọn người dùng vừa bấm.
+function sync(){
+  const prev = st.res[st.order[st.i]];
+  revealed = !!prev;
+  picked = new Set(revealed ? prev.picked : []);
+  peek = false;
+}
+
+function render(){
+  const q = cur(), keys = Object.keys(q.opts).sort(), multi = q.ans.length>1;
+  const done = Object.keys(st.res).length, right = Object.values(st.res).filter(r=>r.ok).length;
+  document.getElementById('sub').textContent =
+    DATA.length + ' câu · đã làm ' + done + ' · đúng ' + right +
+    (done ? ' (' + Math.round(right/done*100) + '%)' : '') +
+    ' · bản ' + BUILD + (saveWorks ? '' : ' · ⚠️ không lưu được tiến độ ở chế độ xem này');
+  document.getElementById('pbar').style.width = (done/DATA.length*100) + '%';
+  document.getElementById('stat').textContent = 'Câu ' + (st.i+1) + '/' + st.order.length;
+
+  let h = '<div class="meta"><span>Câu ' + (st.i+1) + ' / ' + st.order.length + '</span>' +
+          '<span>slide ' + q.slide + ' · ' + (multi ? 'chọn ' + q.ans.length + ' đáp án' : 'chọn 1 đáp án') +
+          '</span></div><div class="q">' + esc(q.q) + '</div>';
+  keys.forEach(k => {
+    let cls = 'opt' + (revealed ? ' done' : '');
+    if(revealed){ if(q.ans.includes(k)) cls += ' ok'; else if(picked.has(k)) cls += ' no'; }
+    else if(picked.has(k)) cls += ' sel';
+    const mark = (revealed && q.ans.includes(k)) ? '✓'
+               : (revealed && picked.has(k)) ? '✕'
+               : (picked.has(k) ? (multi ? '✓' : '●') : '');
+    h += '<div class="' + cls + '" data-k="' + k + '">' +
+         '<span class="box ' + (multi ? 'sq' : 'ci') + '">' + mark + '</span>' +
+         '<span class="k">' + k + '.</span><span>' + esc(q.opts[k]) + '</span></div>';
+  });
+  if(revealed){
+    const ok = same([...picked].sort(), [...q.ans].sort());
+    h += '<div class="fb ' + (ok ? 'ok' : 'no') + '">' +
+         (ok ? '✅ Chính xác!' : '❌ Sai — đáp án đúng: ' + q.ans.join(', ')) + '</div>';
+  }
+  if((revealed || peek) && (q.hook || q.why || q.trap)){
+    h += '<div class="tip"><h4>💡 Mẹo nhớ</h4>';
+    if(q.hook) h += '<div class="hook">' + esc(q.hook) + '</div>';
+    if(revealed && q.why)  h += '<p>' + esc(q.why) + '</p>';
+    if(revealed && q.trap) h += '<p class="trap">⚠️ ' + esc(q.trap) + '</p>';
+    if(!revealed) h += '<p style="color:var(--muted)">Trả lời xong sẽ hiện đầy đủ lý do và bẫy.</p>';
+    h += '</div>';
+  }
+  document.getElementById('card').innerHTML = h;
+  document.getElementById('check').disabled = revealed || picked.size === 0;
+  document.getElementById('tipBtn').disabled = revealed || !(q.hook||q.why||q.trap);
+  document.getElementById('prev').disabled = st.i === 0;
+  document.getElementById('next').disabled = st.i >= st.order.length - 1;
+  document.getElementById('repeat').classList.toggle('on', st.repeat);
+  document.getElementById('repeat').textContent = 'Lặp câu sai: ' + (st.repeat ? 'BẬT' : 'TẮT');
+}
+
+function toggle(k){
+  if(revealed) return;
+  const q = cur();
+  if(q.ans.length > 1){ picked.has(k) ? picked.delete(k) : picked.add(k); }
+  else { picked.clear(); picked.add(k); }
+  render();
+}
+
+// Một listener duy nhất, uỷ quyền từ thẻ cha — click một lần là một lần.
+document.getElementById('card').addEventListener('click', e => {
+  const el = e.target.closest('.opt');
+  if(el && el.dataset.k) toggle(el.dataset.k);
+});
+
+function check(){
+  if(revealed || !picked.size) return;
+  const q = cur(), idx = st.order[st.i];
+  const ok = same([...picked].sort(), [...q.ans].sort());
+  st.res[idx] = {picked:[...picked], ok};
+  if(!ok && st.repeat && !st.order.slice(st.i+1).includes(idx))
+    st.order.splice(Math.min(st.i + 5, st.order.length), 0, idx);
+  save(); sync(); render();
+}
+function go(d){
+  const n = st.i + d;
+  if(n < 0 || n >= st.order.length) return;
+  st.i = n; save(); sync(); render();
+}
+
+document.getElementById('check').onclick = check;
+document.getElementById('next').onclick = () => go(1);
+document.getElementById('prev').onclick = () => go(-1);
+document.getElementById('tipBtn').onclick = () => { peek = true; render(); };
+document.getElementById('repeat').onclick = () => { st.repeat = !st.repeat; save(); render(); };
+document.getElementById('shuffle').onclick = () => {
+  for(let i=st.order.length-1;i>0;i--){ const j=(Math.random()*(i+1))|0;
+    [st.order[i],st.order[j]]=[st.order[j],st.order[i]]; }
+  st.i = 0; save(); sync(); render();
+};
+document.getElementById('wrongOnly').onclick = () => {
+  const w = Object.keys(st.res).filter(k => !st.res[k].ok).map(Number);
+  if(!w.length){ alert('Chưa có câu nào sai. Cứ làm tiếp đã!'); return; }
+  w.forEach(k => delete st.res[k]);
+  st.order = w; st.i = 0; save(); sync(); render();
+};
+document.getElementById('reset').onclick = () => {
+  if(!confirm('Xoá toàn bộ tiến độ và làm lại từ đầu?')) return;
+  st = def(); save(); sync(); render();
+};
+document.addEventListener('keydown', e => {
+  if(e.metaKey || e.ctrlKey || e.altKey) return;
+  const k = e.key.toUpperCase();
+  if(/^[A-H]$/.test(k) && cur().opts[k]){ e.preventDefault(); toggle(k); return; }
+  if(e.key === 'Enter'){ e.preventDefault(); revealed ? go(1) : check(); }
+  if(e.key === 'ArrowRight') go(1);
+  if(e.key === 'ArrowLeft') go(-1);
+  if(k === 'H' && !revealed){ peek = true; render(); }
+});
+if(st.i >= st.order.length) st.i = 0;
+sync();
+render();
+</script></body></html>

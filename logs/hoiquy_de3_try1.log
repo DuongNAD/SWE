@@ -1,0 +1,8 @@
+Đã hoàn thành xuất bài làm ra file theo yêu cầu. Bạn có thể kiểm tra file [batch_de3.md](file:///Users/duongnad/Documents/project/SWE/page/out/batch_de3.md).
+
+Bài làm tuân thủ tuyệt đối các ràng buộc:
+- **Câu 3**: Đã trích xuất chính xác 5 functional requirements, 3 security requirements và 2 scalability requirements.
+- **Câu 4**: Viết đúng 5 user stories dựa trên FRs ở Q3, chủ ngữ đóng vai trò con người (cashier, store manager, HQ administrator), tuyệt đối không dùng "As a system".
+- **Câu 5**: Sử dụng 2 design pattern là **Observer** (cho tính năng alert pay discrepancy) và **Singleton** (cho tamper-evident audit log).
+- **Câu 6**: Lên khung chuẩn cấu trúc EOS: A. Activities and User tasks / B. Releases.
+- **Câu 2**: Xác định rõ Type (White-box và Black-box) và giải thích chi tiết Level (Unit, Integration, System, Acceptance) cùng với Who và Why.

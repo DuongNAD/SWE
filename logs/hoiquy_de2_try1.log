@@ -1,0 +1,12 @@
+Tôi đã thực hiện trọn vẹn 4 giai đoạn giải đề dựa trên hướng dẫn và tài liệu quy chuẩn bạn cung cấp, đồng thời đã ghi kết quả ra tệp bạn yêu cầu.
+
+Bạn có thể xem trực tiếp bài làm hoàn chỉnh tại đây: [`/Users/duongnad/Documents/project/SWE/page/out/batch_de2.md`](file:///Users/duongnad/Documents/project/SWE/page/out/batch_de2.md)
+
+**Báo cáo tóm tắt quy trình đáp ứng các tiêu chuẩn khắt khe:**
+- **Câu 1:** Nhận diện và áp dụng mô hình `Kanban model` cùng với việc trích xuất đối chiếu trực tiếp dữ liệu từ dự án (như team size, continuous delivery, emerging integration requirements).
+- **Câu 2:** Tách rõ Type (white-box / black-box) theo yêu cầu ngay trong phần (a), bám sát các luồng level kiểm thử.
+- **Câu 3:** Khớp chính xác số lượng và loại yêu cầu: 5 Functional Requirements, 3 Security Requirements, 2 Scalability Requirements. 
+- **Câu 4:** Viết chuẩn xác 5 user stories dựa trên Câu 3, đảm bảo sử dụng "Actor" là con người (Cashier, Customer, Store manager, Warehouse staff member, HQ administrator), hoàn toàn KHÔNG sử dụng "As a system".
+- **Câu 5:** Mô tả 2 Design Patterns là Observer (dành cho alert thanh toán/hết hàng) và Singleton (dành cho audit log stream tập trung), cả lý thuyết lẫn cách áp dụng thực tế cho Case Study.
+- **Câu 6:** Tuân thủ triệt để cấu trúc **A. Activities and User tasks** và **B. Releases** chuẩn form của EOS, phân cấp chính xác (VD: `1`, `1.1`, `1.1.1`).
+- Tất cả được đối chiếu và duyệt qua checklist theo rubric trong Giai đoạn 4.

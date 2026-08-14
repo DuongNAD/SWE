@@ -1,0 +1,2364 @@
+1
+00:00:00,000 --> 00:00:03,920
+Ok, hello anh em nhé. Trong video này mình sẽ cho anh em làm tiếp câu 2 nhé.
+
+2
+00:00:03,920 --> 00:00:10,380
+Ok, thì để luyện tập câu 2 thì mình đã có thêm rất nhiều đề cho anh em luyện tập rồi.
+
+3
+00:00:10,740 --> 00:00:13,880
+Thì anh em cứ luyện tập nhé. Ok, thì hôm nay mình sẽ trở lại cho anh em cái đề này.
+
+4
+00:00:14,960 --> 00:00:18,380
+Thì đầu tiên mình sẽ tìm hiểu qua một chút về cái này. Nó sẽ yêu cầu anh em cái gì nhé.
+
+5
+00:00:19,040 --> 00:00:23,440
+Thì đi thi nó cũng không cho anh em cái này đâu. Đi thi nó chỉ cho anh em biết là đây là case study thôi.
+
+6
+00:00:24,140 --> 00:00:27,280
+Thì ở đây thì anh em sẽ chỉ cần tìm hiểu, anh em cố gắng đọc được thì tốt.
+
+7
+00:00:27,840 --> 00:00:29,360
+Bởi vì đây là cái đề quay mần mặt.
+
+8
+00:00:30,000 --> 00:00:37,080
+ví dụ như thế này thì nó bảo là gì đây cái script mắt thì nó là một cái nền tảng hiểu là nền tảng
+
+9
+00:00:37,080 --> 00:00:44,760
+tạp hóa online bán hàng tạp hóa online đó và nó đang phát triển nhanh chóng thì tuy nhiên thì là
+
+10
+00:00:44,760 --> 00:00:51,060
+nó vẫn sẽ gặp khó khăn với cái việc là xử lý bách em một cách thủ công nhưng em rất đến việc là đi
+
+11
+00:00:51,060 --> 00:01:04,020
+đó thì khi mà rất miễn việc là giao hàng bị trị trợ chế này và công ty này thì đã đặt hàng một
+
+12
+00:01:04,020 --> 00:01:12,240
+cái hệ thống này cái Interpol từ phương phim system thì đây là một cái hệ thống gọi là hoàn
+
+13
+00:01:12,240 --> 00:01:19,860
+thiện thích hợp và để số hóa nó để cho nhau tiếp theo thì là customer ở đây này từ cái chỗ này
+
+14
+00:01:19,860 --> 00:01:21,400
+nó đã bắt đầu nhắc đến phần x tờ này
+
+15
+00:01:21,400 --> 00:01:23,020
+thì là
+
+16
+00:01:23,020 --> 00:01:24,940
+ở đây mình đọc luôn nhé để tí nữa mình
+
+17
+00:01:24,940 --> 00:01:26,400
+thực hiện làm nó nhanh
+
+18
+00:01:26,400 --> 00:01:29,360
+thì đây là có khách hàng này sẽ sử dụng web và mobile
+
+19
+00:01:29,360 --> 00:01:31,420
+để có thể là
+
+20
+00:01:31,420 --> 00:01:32,860
+duyệt sản phẩm đúng không
+
+21
+00:01:32,860 --> 00:01:35,540
+khách hàng thì có thể sử dụng để duyệt sản phẩm này
+
+22
+00:01:35,540 --> 00:01:37,060
+đó quản lý
+
+23
+00:01:37,060 --> 00:01:37,700
+dọa hàng
+
+24
+00:01:37,700 --> 00:01:40,240
+và thực hiện thanh toán
+
+25
+00:01:40,240 --> 00:01:42,960
+tiếp theo thì là có một cái tính năng
+
+26
+00:01:42,960 --> 00:01:43,740
+đặc biệt
+
+27
+00:01:43,740 --> 00:01:46,280
+đó là
+
+28
+00:01:46,280 --> 00:01:49,180
+subscription mode
+
+29
+00:01:49,180 --> 00:01:51,300
+Đây nó còn gọi là cái chế độ đăng ký
+
+30
+00:01:51,300 --> 00:01:53,600
+Thì là nơi mà
+
+31
+00:01:53,600 --> 00:01:55,360
+Cho phép khách hàng gọi là
+
+32
+00:01:55,360 --> 00:01:56,840
+Lên lịch giao hàng
+
+33
+00:01:56,840 --> 00:02:00,080
+Lên lịch giao hàng hàng tuần
+
+34
+00:02:00,080 --> 00:02:01,740
+Lên lịch giao hàng
+
+35
+00:02:01,740 --> 00:02:02,960
+Định kỳ mỗi tuần
+
+36
+00:02:02,960 --> 00:02:05,640
+Lên lịch giao hàng định kỳ mỗi tuần
+
+37
+00:02:05,640 --> 00:02:08,300
+Và hệ thống này sẽ tự động tạo ra
+
+38
+00:02:08,300 --> 00:02:10,060
+Các cái đơn hàng
+
+39
+00:02:10,060 --> 00:02:12,380
+Tự động tạo ra các cái đơn hàng
+
+40
+00:02:12,380 --> 00:02:13,200
+Vào mỗi thứ 2
+
+41
+00:02:13,200 --> 00:02:15,980
+Nghĩa là sao? Nghĩa là khách hàng này
+
+42
+00:02:15,980 --> 00:02:17,780
+Nó sẽ cho phép khách hàng
+
+43
+00:02:17,780 --> 00:02:19,240
+là linh lịch giao hàng định kỷ
+
+44
+00:02:19,240 --> 00:02:21,900
+và hệ thống này sẽ tự tạo đơn
+
+45
+00:02:21,900 --> 00:02:22,900
+vào thứ 2
+
+46
+00:02:22,900 --> 00:02:27,040
+tiếp theo này là gì
+
+47
+00:02:27,040 --> 00:02:29,920
+đấy là 1 nhé, chắc chắn là có 1 là customer
+
+48
+00:02:29,920 --> 00:02:31,520
+rồi, đây mình sẽ thêm vào đây luôn
+
+49
+00:02:31,520 --> 00:02:33,700
+tiếp theo này, mình sẽ có là
+
+50
+00:02:33,700 --> 00:02:36,020
+nhân viên giao hàng này, sẽ sử dụng
+
+51
+00:02:36,020 --> 00:02:38,980
+nhân viên giao hàng thì sẽ là
+
+52
+00:02:38,980 --> 00:02:41,620
+sử dụng một cái ứng dụng riêng
+
+53
+00:02:41,620 --> 00:02:43,940
+sử dụng một cái ứng dụng riêng
+
+54
+00:02:43,940 --> 00:02:45,480
+để mà có thể là
+
+55
+00:02:45,480 --> 00:02:48,300
+Để mà có thể là
+
+56
+00:02:48,300 --> 00:02:50,400
+Gọi là
+
+57
+00:02:50,400 --> 00:02:52,360
+Nhận đơn
+
+58
+00:02:52,360 --> 00:02:52,820
+Đã giao
+
+59
+00:02:52,820 --> 00:02:53,820
+Nhận đơn giao
+
+60
+00:02:53,820 --> 00:02:54,960
+Nhận đơn giao hàng
+
+61
+00:02:54,960 --> 00:02:56,860
+Nghĩa là sử dụng một cái app riêng
+
+62
+00:02:56,860 --> 00:02:59,260
+Một cái ứng dụng riêng để nhận đơn giao này
+
+63
+00:02:59,260 --> 00:03:01,120
+Và sau đó thì điều hướng
+
+64
+00:03:01,120 --> 00:03:02,700
+Địa chỉ khách hàng này
+
+65
+00:03:02,700 --> 00:03:04,340
+Bằng cách là sử dụng map
+
+66
+00:03:04,340 --> 00:03:05,760
+Sử dụng màn đồ tích hợp
+
+67
+00:03:05,760 --> 00:03:06,840
+Đấy chứ anh em
+
+68
+00:03:06,840 --> 00:03:07,560
+Đó
+
+69
+00:03:07,560 --> 00:03:09,180
+Và tiếp theo thì là
+
+70
+00:03:09,180 --> 00:03:10,600
+Cập nhật trạng thái
+
+71
+00:03:10,600 --> 00:03:11,480
+Đơn hàng
+
+72
+00:03:11,480 --> 00:03:12,740
+Là đã giao
+
+73
+00:03:12,740 --> 00:03:13,720
+Đấy chứ anh em
+
+74
+00:03:13,720 --> 00:03:15,000
+Cập nhật trạng thái là đã giao
+
+75
+00:03:15,000 --> 00:03:16,620
+Ok vậy thì ở đây mình sẽ có
+
+76
+00:03:16,620 --> 00:03:18,340
+Người tiếp theo
+
+77
+00:03:18,340 --> 00:03:20,040
+Là nhân viên giao hàng
+
+78
+00:03:20,040 --> 00:03:22,400
+Đấy chứ anh em
+
+79
+00:03:22,400 --> 00:03:24,520
+Tiếp theo nữa này
+
+80
+00:03:24,520 --> 00:03:27,140
+Là ở đây thì mình sẽ có là
+
+81
+00:03:27,140 --> 00:03:29,960
+Cái này là nhân viên kho
+
+82
+00:03:29,960 --> 00:03:30,840
+Đúng không anh em
+
+83
+00:03:30,840 --> 00:03:32,240
+Thì chịu trách nhiệm này
+
+84
+00:03:32,240 --> 00:03:33,840
+Chịu trách nhiệm là
+
+85
+00:03:33,840 --> 00:03:36,360
+Quản lý cái hàng tồn kho
+
+86
+00:03:36,360 --> 00:03:37,460
+Đấy chứ anh em
+
+87
+00:03:37,460 --> 00:03:39,180
+Quản lý hàng tồn kho này
+
+88
+00:03:39,180 --> 00:03:40,040
+Đó
+
+89
+00:03:40,040 --> 00:03:42,540
+Và nó bao gồm là
+
+90
+00:03:42,540 --> 00:03:43,580
+Update
+
+91
+00:03:43,580 --> 00:03:44,480
+Cập nhật
+
+92
+00:03:44,480 --> 00:03:59,900
+cập nhật nó gọi là cập nhật các cái số lượng nó là cập nhật số lượng hàng và đánh dấu các item này là
+
+93
+00:03:59,900 --> 00:04:06,800
+học hay là không học đã học hay là không ấy thì sẽ nhắn đã học hay là hết hàng đấy để xem nhá đó
+
+94
+00:04:06,800 --> 00:04:13,160
+thì khi mà đây nhắc đến cái này là có khả năng là dính những điều kiện này khi số lượng của một mặt
+
+95
+00:04:13,160 --> 00:04:23,220
+hàng này có nhu cầu giảm xuống trên nhau khi mà tên nhá chỗ này chắc chắn là nó sẽ có một cái quan
+
+96
+00:04:23,220 --> 00:04:30,680
+hệ gì đấy này khi mà số lượng của một mặt hàng có nhu cầu giảm xuống số lượng của hàng có nhu cầu
+
+97
+00:04:30,680 --> 00:04:41,420
+giảm xuống này thì hệ thống này sẽ tự động chích gờ cái này như sao như là kiểu mà khi mà số lượng
+
+98
+00:04:41,420 --> 00:04:48,080
+hàng mà có mặt cái mặt hàng mà nhu cầu cao đang cao lại mà giảm xuống dưới một cái ngưỡng một cái
+
+99
+00:04:48,080 --> 00:04:55,640
+ngưỡng này nhất định thì là hệ thống sẽ tự động gửi hệ thống này sẽ tự động gửi cái cảnh báo
+
+100
+00:04:55,640 --> 00:05:06,040
+hình nhập hàng như thế nhé đó em đến với cả cái cái người thu mua đây này bộ phận thu mua cái này
+
+101
+00:05:06,040 --> 00:05:17,080
+là thùng mua nhá Ok thì ở đây nhá chắc chắn rồi mình có cái gì đầu tiên là nhân viên đầu tiên
+
+102
+00:05:17,080 --> 00:05:27,700
+là nhân viên này nhân viên nhân viên kho và tiếp theo mình sẽ có cái này đó là cái bộ phận thùng
+
+103
+00:05:27,700 --> 00:05:34,820
+thông báo khi nhận cái thông báo khi mà khi mà có cái thông báo đến đây chơi nhé thông báo là
+
+104
+00:05:34,820 --> 00:05:48,080
+cần được bạn đi xe tiếp theo thì làm gì sẽ có là quản lý đúng không Này này quản lý thì sẽ làm gì
+
+105
+00:05:48,080 --> 00:05:55,180
+quản lý thì là sẽ giám sát hệ thống bằng cách là phân tích doanh thu phân tích doanh thu theo thời
+
+106
+00:05:55,180 --> 00:06:07,840
+phân tích doanh thu theo thời gian thực này đó và quản lý các cái mã giảm giá này xử lý hoàn tiền
+
+107
+00:06:07,840 --> 00:06:17,380
+cho khách hàng đấy kiểu đấy nhé khi mà cái hàng này bị lỗi sản phẩm bị thiếu này chưa Ok thì mình
+
+108
+00:06:17,380 --> 00:06:23,800
+nhìn qua như vậy đến cái dòng này nữa này đó thì đây này hệ thống này sẽ nào nữa đó hệ thống này
+
+109
+00:06:23,800 --> 00:06:31,360
+bán bên thứ ba nhé anh em nhìn bên thứ ba là cái tên mình biết quay và mát pin sơ vai API thì cái
+
+110
+00:06:31,360 --> 00:06:36,100
+này nó chính là hai cái cửa phụ để cho anh em đó thì bây giờ mình sẽ biết được hết các cách tờ nhé
+
+111
+00:06:36,100 --> 00:06:50,440
+và mắc pin sơ vai API Ok đó loại thì mình sẽ có đây là quay
+
+112
+00:06:50,440 --> 00:07:01,360
+ở đây mình sẽ có là à Đúng rồi Cái này thì mình nghĩ là
+
+113
+00:07:01,360 --> 00:07:04,820
+cái thằng này là bộ phận thu mua này
+
+114
+00:07:04,820 --> 00:07:06,080
+nó chỉ nhận thông báo đến thôi
+
+115
+00:07:06,080 --> 00:07:08,420
+nhận thông báo
+
+116
+00:07:08,420 --> 00:07:11,000
+vẫn là người
+
+117
+00:07:11,000 --> 00:07:12,880
+chính, thôi được, vẫn được là người chính
+
+118
+00:07:12,880 --> 00:07:15,420
+anh em nhé, ok, thì ở đây thì mình sẽ có là
+
+119
+00:07:15,420 --> 00:07:16,880
+quản lý này
+
+120
+00:07:16,880 --> 00:07:19,660
+actor, à có actor này
+
+121
+00:07:19,660 --> 00:07:21,320
+đây là secondary rồi này
+
+122
+00:07:25,320 --> 00:07:27,660
+ok, thì ở đây mình sẽ có là secondary luôn
+
+123
+00:07:27,660 --> 00:07:29,240
+đó
+
+124
+00:07:29,240 --> 00:07:32,140
+tiếp theo thì mình sẽ có là
+
+125
+00:07:32,140 --> 00:07:33,700
+là gì đây
+
+126
+00:07:33,700 --> 00:07:36,060
+thì mình sẽ có là
+
+127
+00:07:36,060 --> 00:07:37,980
+cái này
+
+128
+00:07:37,980 --> 00:07:40,300
+bộ phận thu mua này
+
+129
+00:07:40,300 --> 00:07:42,100
+mình đang xem là cái bộ phận thu mua này
+
+130
+00:07:42,100 --> 00:07:43,260
+nó sẽ chỉ nhận thông báo thôi
+
+131
+00:07:43,260 --> 00:07:45,760
+cái thằng này nó chỉ nhận thông báo
+
+132
+00:07:45,760 --> 00:07:47,140
+cho nên là
+
+133
+00:07:47,140 --> 00:07:49,300
+nó sẽ chỉ là x tờ phụ thôi anh em nhé
+
+134
+00:07:49,300 --> 00:07:51,820
+bởi vì nó không làm gì cả
+
+135
+00:07:51,820 --> 00:07:52,820
+nó chỉ nhận thông báo thôi
+
+136
+00:07:52,820 --> 00:07:55,100
+ngoài thông báo ra thì hết
+
+137
+00:07:55,100 --> 00:07:58,040
+ok thì tiếp theo này
+
+138
+00:07:58,040 --> 00:08:07,400
+này thì mình sẽ có cái gì là ở đây customer này bây ở trong customer này thì mình sẽ có là gì
+
+139
+00:08:07,400 --> 00:08:19,800
+customer như mình vừa xem rồi đầu tiên sẽ là việc hàng có việc hàng của các anh em xem sản
+
+140
+00:08:19,800 --> 00:08:21,800
+tức là nó sẽ xem các sản phẩm
+
+141
+00:08:21,800 --> 00:08:22,540
+được chưa?
+
+142
+00:08:22,540 --> 00:08:24,540
+tiếp theo là nó sẽ quản lý dọa hàng
+
+143
+00:08:30,540 --> 00:08:31,540
+quản lý dọa hàng
+
+144
+00:08:31,540 --> 00:08:33,540
+Manage shopping cart đúng không?
+
+145
+00:08:33,540 --> 00:08:35,540
+nãy mình thấy ở trên kia rồi
+
+146
+00:08:35,540 --> 00:08:37,540
+quản lý dọa hàng này
+
+147
+00:08:37,540 --> 00:08:39,540
+hay là check out như là thanh toán
+
+148
+00:08:41,540 --> 00:08:42,540
+check out
+
+149
+00:08:42,540 --> 00:08:44,540
+ở thanh toán này
+
+150
+00:08:47,540 --> 00:08:49,540
+đâu nào để mình xem à?
+
+151
+00:08:49,540 --> 00:08:53,200
+customer sử dụng này, quản lý này và
+
+152
+00:08:53,200 --> 00:08:56,000
+kiến trình thanh toán
+
+153
+00:08:56,000 --> 00:08:59,480
+thanh toán này, ok
+
+154
+00:08:59,480 --> 00:09:02,580
+anh em nhớ cho mình nhé
+
+155
+00:09:02,580 --> 00:09:05,240
+cái này nhé, nếu mà anh em dịch ra này
+
+156
+00:09:05,240 --> 00:09:12,740
+đây anh em nhìn nhé
+
+157
+00:09:12,740 --> 00:09:15,580
+xử lý thanh toán đúng không
+
+158
+00:09:15,580 --> 00:09:18,580
+đó anh em nhìn cho mình nhé, nếu nó là xử lý thanh toán
+
+159
+00:09:18,580 --> 00:09:24,900
+Ừ thì em nhớ cho mình này xử lý thanh toán nó phải có hai bước thứ nhất là thanh toán thứ hai là nó
+
+160
+00:09:24,900 --> 00:09:31,820
+sẽ có cái thanh toán lại trên nhau đó nếu mà kiểu là thân thanh toán như là xử lý thanh toán không
+
+161
+00:09:31,820 --> 00:09:36,640
+ạ thì anh em sẽ có thanh toán này và phải thanh toán lại nữa Bởi vì sao Bởi vì khi mà thanh toán
+
+162
+00:09:36,640 --> 00:09:42,520
+đấy thì nó sẽ có thể bị lỗi thì mình sẽ phải cả thanh toán lại nữa thì anh em cho nên là tí nữa
+
+163
+00:09:42,520 --> 00:09:50,320
+nhá thì anh em làm yêu cây đấy thì em cứ làm cho mình hai cái nhá Ok thì bây giờ mình sẽ tiếp nhau
+
+164
+00:09:50,320 --> 00:09:59,280
+này mình sẽ có là check out này à Ừ bởi vì sao mày nói như vậy em biết không Bởi vì là nếu mà bởi vì
+
+165
+00:09:59,280 --> 00:10:05,200
+mình đang cần vẽ cái sơ đồ UK mà đúng không thì nếu mà mình có cái thanh toán thanh toán lại thì
+
+166
+00:10:05,200 --> 00:10:11,140
+khi mà thanh toán mà bị lỗi thì mình khi mà thanh toán lại đúng không thì mình sẽ sinh ra được cái
+
+167
+00:10:11,140 --> 00:10:18,520
+quan hệ trên nhau đó là gì Nếu mà nghĩa là cái bắt buộc xảy ra là cái thanh toán khi mà thanh toán
+
+168
+00:10:18,520 --> 00:10:25,840
+rồi thì nó biết nếu mà bị lỗi thì nó mới lòi ra cái thằng bạn em nhỏ thì nó là đã có một cái một
+
+169
+00:10:25,840 --> 00:10:31,900
+cái quan hệ rồi anh em nó thì em cứ nhớ cho mình nhá thì chỗ này mình để chung chung thôi mình sẽ
+
+170
+00:10:31,900 --> 00:10:40,180
+không để lại nữa mình sẽ để payment thôi đó Ok và ở chỗ này thì mình có thể để là một cái chế độ
+
+171
+00:10:40,180 --> 00:10:47,260
+đúng không là cái gì đây này một cái chế độ đặc biệt này thì nó là cái này này nó được trên em
+
+172
+00:10:47,260 --> 00:10:57,160
+Ok đấy thì mình sẽ để như này thôi đấy là vì mục tiêu nhá tiếp theo này thì là người giao hàng đúng
+
+173
+00:10:57,160 --> 00:11:03,100
+không người giao hàng thì có gì thì là xin nhận đơn giao này và sẽ nhiều định hướng đến cái điều
+
+174
+00:11:03,100 --> 00:11:07,480
+hướng đến cái bản đồ bằng việc tàn nhiệm định hướng đến địa chỉ khách hàng bằng cách là sử dụng
+
+175
+00:11:07,480 --> 00:11:09,920
+tiếp theo là cập nhật đơn hàng đã giao hay không
+
+176
+00:11:09,920 --> 00:11:12,460
+thì ở đây mình sẽ viết ngắn gọn thôi
+
+177
+00:11:12,460 --> 00:11:13,620
+đó là
+
+178
+00:11:13,620 --> 00:11:16,420
+accept
+
+179
+00:11:16,420 --> 00:11:18,000
+order
+
+180
+00:11:18,000 --> 00:11:23,400
+định hướng đến
+
+181
+00:11:23,400 --> 00:11:24,580
+khách hàng
+
+182
+00:11:24,580 --> 00:11:25,740
+to customer
+
+183
+00:11:25,740 --> 00:11:29,720
+và cuối cùng là
+
+184
+00:11:29,720 --> 00:11:30,180
+update
+
+185
+00:11:30,180 --> 00:11:31,980
+status
+
+186
+00:11:31,980 --> 00:11:33,480
+order
+
+187
+00:11:33,480 --> 00:11:37,460
+ok, tiếp theo thì mình sẽ có là gì
+
+188
+00:11:37,460 --> 00:11:42,080
+là gì nhân viên kho đúng không nhân viên kho nhưng lúc nãy mình đọc rồi nó có hai cái rồi cập nhật
+
+189
+00:11:42,080 --> 00:11:52,520
+đơn à cập nhật tuần kho này update đúng không nhân viên kho này đây chịu trách nhiệm này quản lý chưa
+
+190
+00:11:52,520 --> 00:11:56,060
+đó và đánh dấu luôn
+
+191
+00:11:56,060 --> 00:11:59,660
+mắc ai tùm
+
+192
+00:11:59,660 --> 00:12:10,820
+trên nha Đó Ok cập nhật hàng đồn kho và đánh dấu là hàng đã hỏi cái nào tiếp theo thì mình sẽ có
+
+193
+00:12:10,820 --> 00:12:15,320
+thằng này thì nó chỉ nhận thông báo thôi đúng không Thằng này việc của nó có mỗi một việc thôi
+
+194
+00:12:15,320 --> 00:12:23,500
+là nhận thông báo trên nhau đó thì chỗ này mình có thể thêm vào thêm máy không nhỉ
+
+195
+00:12:23,500 --> 00:12:32,320
+chỗ này thì mình à
+
+196
+00:12:34,260 --> 00:12:41,000
+ở chỗ này nó chỉ có nhận thông báo thôi Ừ ok cho này tí nữa mình sẽ quay lại sau nhé để mình xem
+
+197
+00:12:41,000 --> 00:12:46,940
+này chỗ này mình sẽ thêm là xử lý cái này trước đi Thằng này thì nó sẽ đầu tiên này xem đúng không
+
+198
+00:12:46,940 --> 00:13:04,640
+tiếp theo là quản lý discount code
+
+199
+00:13:04,640 --> 00:13:34,640
+em à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+200
+00:13:34,640 --> 00:13:54,640
+handle, page, use map, tool
+
+201
+00:13:54,640 --> 00:14:11,500
+cho anh em đó Ok còn gì không nhỉ Ừ ok thế thôi xinh em thì cái số này ấy nếu mà để bảo là cái
+
+202
+00:14:11,500 --> 00:14:19,000
+actor này nếu mà mình mà viết cái này thì nó bộ phận thu mua này thì nó sẽ chỉ nhận thì thông báo
+
+203
+00:14:19,000 --> 00:14:21,500
+thì mình sẽ để là
+
+204
+00:14:21,500 --> 00:14:25,500
+mình sẽ để đúng như này luôn
+
+205
+00:14:48,000 --> 00:14:48,440
+ok
+
+206
+00:14:48,440 --> 00:14:58,880
+Ừ ok ok thì ở dưới này mình sẽ xử lý nốt cái phần là liệt kê ra đúng không thì chỗ này mình
+
+207
+00:14:58,880 --> 00:15:06,180
+nghĩ là mình sẽ liệt kê hết ra nhá thì đây ví dụ một này thì mình sẽ có gì chắc chắn rồi mình sẽ
+
+208
+00:15:06,180 --> 00:15:13,060
+có cái thằng này xem nhận phẩm sản phẩm để xem nhận phẩm thứ hai quản lý shopping cart luôn
+
+209
+00:15:13,060 --> 00:15:16,600
+cái này mình vứt vào đây luôn
+
+210
+00:15:16,600 --> 00:15:22,440
+đó
+
+211
+00:15:22,440 --> 00:15:25,040
+quản lý shopping cart này
+
+212
+00:15:25,040 --> 00:15:29,140
+tiếp theo là
+
+213
+00:15:29,140 --> 00:15:30,500
+check out
+
+214
+00:15:30,500 --> 00:15:33,360
+đây mình ghi rõ là
+
+215
+00:15:33,360 --> 00:15:33,980
+check out nhé
+
+216
+00:15:39,200 --> 00:15:40,120
+tiếp theo này
+
+217
+00:15:40,120 --> 00:15:40,740
+là
+
+218
+00:15:40,740 --> 00:15:42,040
+mình nói rồi
+
+219
+00:15:42,040 --> 00:15:45,020
+quá trình thanh toán này anh em cứ để cho mình 2 cái
+
+220
+00:15:45,020 --> 00:15:46,640
+đó là
+
+221
+00:15:46,640 --> 00:15:49,040
+thanh toán là 1 này
+
+222
+00:15:49,040 --> 00:15:50,960
+và retry payment
+
+223
+00:15:50,960 --> 00:15:52,700
+nghĩa là thanh toán lại
+
+224
+00:15:52,700 --> 00:15:54,360
+để chơi nha
+
+225
+00:15:54,360 --> 00:15:56,300
+tiếp theo này
+
+226
+00:15:56,300 --> 00:15:58,040
+anh em sẽ thêm cho mình cái là
+
+227
+00:15:58,040 --> 00:15:59,220
+quản lý
+
+228
+00:15:59,220 --> 00:16:02,180
+quản lý cái này
+
+229
+00:16:02,180 --> 00:16:04,680
+quản lý cái
+
+230
+00:16:04,680 --> 00:16:06,520
+đăng ký giao dịch định kỳ
+
+231
+00:16:12,040 --> 00:16:19,960
+xin em đó thì ở đây này mình sẽ có cái này tất cả toàn bộ của customer
+
+232
+00:16:19,960 --> 00:16:29,920
+đúng không mục đích của nó đúng không thì là gì chắc chắn rồi product
+
+233
+00:16:29,920 --> 00:16:38,500
+tiếp theo này cái này thì thế nào quản lý đơn hàng này thì quản lý dọn hàng này chắc chắn rồi
+
+234
+00:16:38,500 --> 00:16:48,040
+sẽ là vẫn là quản lý tổng hàng luôn tiếp theo là check out thì là để quay mình
+
+235
+00:16:48,040 --> 00:16:59,120
+cái này đã thể hiện luôn rồi Cái này thì sao ít check out
+
+236
+00:16:59,120 --> 00:17:09,680
+error customer and
+
+237
+00:17:09,680 --> 00:17:13,740
+pay a 1000
+
+238
+00:17:13,740 --> 00:17:24,740
+ok tiếp theo là gì quản lý cái này đúng không quản lý giao dịch định kỳ này đúng không thì mình có
+
+239
+00:17:24,740 --> 00:17:38,780
+đi luôn đây này chế độ này customer kênh đấy chơi nhau Ok Ok vậy là mình đã xong cái thằng customer
+
+240
+00:17:38,780 --> 00:17:45,260
+rồi anh em và tiếp theo là thằng người giao hàng của người giao hàng thì ở đây mình sẽ có gì Thứ
+
+241
+00:17:45,260 --> 00:17:48,060
+Chấp nhận đơn
+
+242
+00:17:48,060 --> 00:17:49,440
+Đó
+
+243
+00:17:49,440 --> 00:17:52,060
+Gọi là duyệt đơn đấy
+
+244
+00:17:52,060 --> 00:17:55,540
+Tiếp theo mình sẽ có cái gì
+
+245
+00:17:55,540 --> 00:17:57,380
+Mình sẽ có là
+
+246
+00:17:57,380 --> 00:18:00,360
+Nó gọi là dẫn đường
+
+247
+00:18:00,360 --> 00:18:01,600
+Đến khách hàng đúng không
+
+248
+00:18:01,600 --> 00:18:02,340
+Mất nhiều đấy
+
+249
+00:18:02,340 --> 00:18:07,160
+Đó
+
+250
+00:18:07,160 --> 00:18:09,600
+Tiếp theo này
+
+251
+00:18:12,300 --> 00:18:12,940
+Chỗ này
+
+252
+00:18:12,940 --> 00:18:15,240
+Chỗ này là
+
+253
+00:18:15,240 --> 00:18:23,400
+là update status order luôn
+
+254
+00:18:23,400 --> 00:18:36,720
+ok đó quá đẹp rồi bây giờ mình sẽ có cái gì nữa cái này chắc chắn rồi bước vào
+
+255
+00:18:36,720 --> 00:18:47,540
+Ok à sẽ order này để làm gì đây để là nhận đơn hàng đúng không thì nó sẽ là
+
+256
+00:18:47,540 --> 00:18:54,340
+nhận đơn hàng luôn mình copy luôn trên này cho nếu anh em không biết mô tả được gì thì em copy luôn
+
+257
+00:18:54,340 --> 00:19:04,960
+có luôn cả cái cục này em nhé nó chính là mô tả luôn
+
+258
+00:19:04,960 --> 00:19:10,740
+tiếp theo này là cái thằng này gì yousmart
+
+259
+00:19:10,740 --> 00:19:21,220
+tiếp theo là update status đúng không hình em có luôn
+
+260
+00:19:21,220 --> 00:19:24,400
+đó là chỗ này
+
+261
+00:19:24,400 --> 00:19:28,480
+anh em có thể có luôn chỗ này
+
+262
+00:19:28,480 --> 00:19:36,580
+cho nó chuẩn nhất anh em nhé tiếp theo này thì chỗ này mình sẽ có là
+
+263
+00:19:36,580 --> 00:19:42,760
+biết rồi
+
+264
+00:19:42,760 --> 00:19:53,760
+nhập vào cây tớt này ok cho nhau đó xong tiếp theo này sau cái thằng người giao hàng này
+
+265
+00:19:53,760 --> 00:20:02,260
+là biết theo là thằng thằng thằng này nhân viên kho có nhân viên con mình xem gì nhân viên kho
+
+266
+00:20:02,260 --> 00:20:06,960
+thì đầu tiên đúng rồi là cập nhật hàng tuần kho đúng không?
+
+267
+00:20:10,180 --> 00:20:12,160
+đúng rồi, cập nhật hàng tuần kho
+
+268
+00:20:12,160 --> 00:20:18,760
+tiếp theo là nó sẽ là mark item
+
+269
+00:20:18,760 --> 00:20:21,740
+copy luôn trên này
+
+270
+00:20:21,740 --> 00:20:29,120
+sẽ có là nhân viên kho này
+
+271
+00:20:29,120 --> 00:20:31,360
+chịu trách nhận này, quản lý này
+
+272
+00:20:32,260 --> 00:20:41,620
+phải kéo nhanh em nhé không cần nhiều đâu tiếp theo này mình sẽ có cái gì đây
+
+273
+00:20:41,620 --> 00:20:49,300
+anh giống anh em
+
+274
+00:20:49,300 --> 00:20:58,260
+xong đó đấy là thằng nhân viên kho thằng tiếp theo là thằng quản lý không nhỉ
+
+275
+00:20:58,260 --> 00:21:05,260
+nó là thằng này phụ thì để sau nhé không cần quan trọng nhưng cây mà ra nhu cầu là làm nhất
+
+276
+00:21:05,260 --> 00:21:12,480
+8 cái thì đây mình có thể làm là cái thằng này rồi thì làm sẽ có là thằng bây giờ này
+
+277
+00:21:12,480 --> 00:21:19,680
+thì mình sẽ có là gì quản lý ăn chết quên mất điện thoại quản lý này thì nó sẽ
+
+278
+00:21:19,680 --> 00:21:24,060
+tăng động gì thứ nhất rồi mình nói quá nhiều lần rồi đầu tiên là view sale
+
+279
+00:21:24,060 --> 00:21:39,300
+đăng like đúng không Ở đây thì nó mình thêm sau nhá tiếp nhau này xem báo cáo danh hồ này quản lý
+
+280
+00:21:39,300 --> 00:22:09,300
+mát giá menis xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe xe x
+
+281
+00:22:09,300 --> 00:22:16,140
+cho mình nhé anh em bảo anh em lên đây có cho mình nhé ví dụ như là đây thì là đây
+
+282
+00:22:16,140 --> 00:22:19,620
+viewing
+
+283
+00:22:19,620 --> 00:22:30,960
+chưa bước vào đây tiếp theo này sẽ có là quản lý mã giảm giá này đây mình có cả hai này luôn mình
+
+284
+00:22:30,960 --> 00:22:42,960
+được 10 ngày luôn à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+285
+00:22:42,960 --> 00:22:55,860
+Ừ ok xong đó Vậy là mình đã thu thập được 13 thằng đấy à đó thì xem nào bây giờ nếu mà
+
+286
+00:22:55,860 --> 00:23:00,060
+bây giờ như này
+
+287
+00:23:00,060 --> 00:23:10,980
+cũng được rồi đấy ok như thế này thôi em nhé mình sẽ không thêm gì cả cái này thôi
+
+288
+00:23:10,980 --> 00:23:21,120
+cái này thôi là quá đủ rồi chơi nhé đó thì bây giờ mình sẽ thực hiện vẽ luôn để chơi nhé đó thì mình
+
+289
+00:23:21,120 --> 00:23:27,420
+hướng dẫn anh em trên Google Style nhé Style của lần nhé đó nói chung là cái này thật ra mình không
+
+290
+00:23:27,420 --> 00:23:33,420
+hay nghĩ trên này đâu nhưng mà mình thấy cái này khá là dễ dùng anh em ạ thế này mình quyết định
+
+291
+00:23:33,420 --> 00:23:39,300
+là dùng này hướng dẫn anh em cần dễ đầu tiên anh em vào mô đồ này ép đây là RAM này use kai RAM
+
+292
+00:23:39,300 --> 00:23:47,100
+đây đầu tiên anh em nghĩ cho mình không nhá à ở trên nha thì tên của cái này là gì anh em có vào
+
+293
+00:23:47,100 --> 00:23:57,840
+ví dụ này đây đúng không Đây thì mình hướng dẫn anh em rồi góc này vào chưa bây giờ mình sẽ có
+
+294
+00:23:57,840 --> 00:24:08,740
+cái gì mình sẽ mình sẽ có là các cái bước đầu tiên thêm máy cờ và 1 2 3 4 5 6 7 có 7 cái
+
+295
+00:24:08,740 --> 00:24:17,740
+anh em đó thì 7 cái này mình sẽ thêm vào thực ra là cái chỗ này mình không làm cái
+
+296
+00:24:17,740 --> 00:24:23,560
+yêu cây này mình lại không làm cái cây này cơ anh em ạ Cái này thì
+
+297
+00:24:23,560 --> 00:24:31,000
+update này
+
+298
+00:24:31,000 --> 00:24:41,560
+mình có nên làm thêm một cái nữa một cái cây nữa có mình nhận thông báo mà có anh em đó thì
+
+299
+00:24:41,560 --> 00:24:49,060
+giờ mình sẽ làm thêm một cái cây nữa quên mất 14 này thấy anh em nhìn nhá 14 này thì mình sẽ làm
+
+300
+00:24:49,060 --> 00:24:57,880
+gì 14 thì mình sẽ thêm là cái nhận thông báo để cho anh em đây này nhận thông báo nhận hàng nhập
+
+301
+00:24:57,880 --> 00:25:04,600
+thì thằng này nó sẽ là thuộc của thằng này
+
+302
+00:25:04,600 --> 00:25:13,300
+ở trên nhé đó Ok thì thằng này nó xem gì đây
+
+303
+00:25:13,300 --> 00:25:19,360
+đây
+
+304
+00:25:19,360 --> 00:25:27,340
+có bảo nhận
+
+305
+00:25:27,880 --> 00:25:30,680
+Như này cho nhanh anh em nhé, nó không bị trừ điểm đâu anh em không phải lo
+
+306
+00:25:30,680 --> 00:25:33,900
+Ok, đó, thì mình sẽ dừng lại ở đây nhé
+
+307
+00:25:33,900 --> 00:25:35,020
+Đó, sau đó thì mình sẽ vẽ
+
+308
+00:25:35,020 --> 00:25:37,140
+Ok, anh em chờ mình một chút, mình lấy công đơn nhé
+
+309
+00:25:37,140 --> 00:25:39,680
+Ok, mình sẽ tiếp tục luôn anh em nhé
+
+310
+00:25:39,680 --> 00:25:42,160
+Bây giờ mình sẽ vào vẽ này
+
+311
+00:25:42,160 --> 00:25:43,660
+Đây, để cho anh em
+
+312
+00:25:43,660 --> 00:25:45,080
+Thì bây giờ mình đang ở đây rồi đúng không?
+
+313
+00:25:45,540 --> 00:25:46,480
+Thì bây giờ anh em vẽ cho mình
+
+314
+00:25:46,480 --> 00:25:49,140
+Mấy cái x tờ vào nhé
+
+315
+00:25:49,140 --> 00:25:51,640
+Ví dụ x tờ này, thì ở đây mình sẽ có những cái gì?
+
+316
+00:25:53,160 --> 00:25:55,640
+2, 4, 6, 7, đúng không?
+
+317
+00:25:55,940 --> 00:25:57,340
+Thì bây giờ anh em bấm vào như mình này
+
+318
+00:25:57,340 --> 00:25:58,520
+bấm 2 lần nhé
+
+319
+00:25:58,520 --> 00:25:59,740
+thì nó khóa vào
+
+320
+00:25:59,740 --> 00:26:00,660
+chỉ cần bấm là
+
+321
+00:26:00,660 --> 00:26:01,200
+1 này
+
+322
+00:26:01,200 --> 00:26:01,680
+2
+
+323
+00:26:01,680 --> 00:26:02,440
+3
+
+324
+00:26:02,440 --> 00:26:03,460
+4
+
+325
+00:26:03,460 --> 00:26:04,080
+5
+
+326
+00:26:04,080 --> 00:26:04,700
+6
+
+327
+00:26:04,700 --> 00:26:05,240
+7
+
+328
+00:26:05,240 --> 00:26:06,360
+ở trên nhé
+
+329
+00:26:06,360 --> 00:26:06,660
+đó
+
+330
+00:26:06,660 --> 00:26:09,660
+thì nó dễ nhé
+
+331
+00:26:09,660 --> 00:26:11,660
+ấn chết quên mất
+
+332
+00:26:11,660 --> 00:26:14,200
+quên rồi tắt này
+
+333
+00:26:14,200 --> 00:26:18,460
+đợi cái này ra
+
+334
+00:26:18,460 --> 00:26:19,760
+kéo này sang đây
+
+335
+00:26:26,000 --> 00:26:27,040
+em nhớ cho mình là x
+
+336
+00:26:27,040 --> 00:26:32,040
+Ok, mình sẽ thêm đồ này
+
+337
+00:26:32,040 --> 00:26:37,040
+Đầu tiên là customer
+
+338
+00:26:37,040 --> 00:26:42,040
+Đây là customer
+
+339
+00:26:42,040 --> 00:26:47,040
+Đó
+
+340
+00:26:47,040 --> 00:26:52,040
+Đó
+
+341
+00:26:52,040 --> 00:27:22,020
+Các bạn có thể nhớ đăng ký kênh để ủng hộ kênh của mình nhé.
+
+342
+00:27:22,040 --> 00:27:52,040
+xong anh em nhé kéo ra à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+343
+00:27:52,040 --> 00:27:52,920
+4 cái tất cả đúng không?
+
+344
+00:27:52,920 --> 00:27:53,760
+Cái anh em thêm vào cho mình
+
+345
+00:27:53,760 --> 00:28:02,620
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14
+
+346
+00:28:02,620 --> 00:28:03,560
+Ok chơi nhau
+
+347
+00:28:03,560 --> 00:28:04,920
+Thêm cho mình như vậy
+
+348
+00:28:04,920 --> 00:28:06,280
+Sau đó anh em lại điền cho mình
+
+349
+00:28:06,280 --> 00:28:06,900
+Đấy chưa?
+
+350
+00:28:07,360 --> 00:28:07,920
+Điền vào đó
+
+351
+00:28:07,920 --> 00:28:09,700
+Anh em cứ nhớ cho mình những mẹo bước đầu tiên
+
+352
+00:28:09,700 --> 00:28:10,780
+Anh em làm đừng nghĩ nhiều
+
+353
+00:28:10,780 --> 00:28:11,660
+Đó
+
+354
+00:28:11,660 --> 00:28:16,300
+Đây mình sẽ căn chỉnh luôn
+
+355
+00:28:16,300 --> 00:28:18,040
+Cho đến tí mình nữa phải chỉnh lại nhé
+
+356
+00:28:18,040 --> 00:28:19,460
+Đây tí mình nữa phải chỉnh lại
+
+357
+00:28:22,040 --> 00:28:52,020
+Cảm ơn các bạn đã theo dõi.
+
+358
+00:28:52,040 --> 00:29:22,020
+Các bạn có thể nhìn thấy các bài tập này ở các bài tập khác.
+
+359
+00:29:22,040 --> 00:29:34,760
+đây mình nghĩ là mình sẽ đổi này sang đây này xong đây nó rộng à
+
+360
+00:29:34,760 --> 00:29:51,620
+ok à
+
+361
+00:29:52,040 --> 00:30:22,020
+Cảm ơn các bạn đã theo dõi.
+
+362
+00:30:22,040 --> 00:30:38,120
+Ok này đây cho anh em bây giờ mình sẽ bắt đầu nghĩ vào nhé đâu bước tiếp theo là em chọn này
+
+363
+00:30:38,120 --> 00:30:46,280
+chân đối hết này nó hết cho mình nhá quên mất em chọn hai lần nhé thì kéo liên tục
+
+364
+00:30:52,040 --> 00:31:01,040
+ừ ừ
+
+365
+00:31:01,040 --> 00:31:09,320
+ừ ừ
+
+366
+00:31:09,320 --> 00:31:35,720
+ok xong customer nhé mình sẽ cân chỉnh lại luôn
+
+367
+00:31:39,320 --> 00:31:50,960
+Ok tiếp theo mình sẽ nối tiếp anh em nhé
+
+368
+00:31:50,960 --> 00:32:11,960
+Ok
+
+369
+00:32:11,960 --> 00:32:23,960
+Ok đó cái này không tự nhiên nha à
+
+370
+00:32:23,960 --> 00:32:40,140
+anh em nhìn này bây giờ còn hai thằng này đúng không Thằng này nó sẽ liên quan gì
+
+371
+00:32:40,140 --> 00:33:01,140
+em ơi đây mình đổi mày đi đây nhá à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+372
+00:33:01,140 --> 00:33:06,660
+là cái gì này em nhìn ra cái thằng bên mình ghét quay này đúng không thì nó thế nào thì nó phải là
+
+373
+00:33:06,660 --> 00:33:18,140
+nó dùng đi cây nào đây nó sẽ bị thực hiện thanh toán này đúng không ạ ở trên à à à à à à à à
+
+374
+00:33:18,140 --> 00:33:25,380
+tiếp theo là thằng nào thằng bắp pin đúng không thì nó phải là liên quan đến cái này
+
+375
+00:33:25,380 --> 00:33:55,380
+ở trên nha em sử dụng mát này trên nha à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+376
+00:33:55,380 --> 00:33:56,840
+thì ở đây nhá, đầu tiên là
+
+377
+00:33:56,840 --> 00:33:57,900
+chắc chắn rồi include
+
+378
+00:33:57,900 --> 00:34:01,380
+thì cái đầu tiên là mình sẽ cần tìm cái gì
+
+379
+00:34:01,380 --> 00:34:03,180
+mình sẽ tìm là tìm những cái
+
+380
+00:34:03,180 --> 00:34:05,020
+ví dụ như là như mình nói lúc đầu rồi
+
+381
+00:34:05,020 --> 00:34:07,120
+đúng không, để mà
+
+382
+00:34:07,120 --> 00:34:09,060
+nó có thể
+
+383
+00:34:09,060 --> 00:34:11,560
+thanh toán lại, đúng không, thì chắc chắn là nó phải check out
+
+384
+00:34:11,560 --> 00:34:13,280
+phải check out rồi thì mới được
+
+385
+00:34:13,280 --> 00:34:14,980
+thanh toán lại, đúng không anh em
+
+386
+00:34:14,980 --> 00:34:17,440
+đó, thì bây giờ quan hệ của cái này là gì
+
+387
+00:34:17,440 --> 00:34:18,620
+là
+
+388
+00:34:18,620 --> 00:34:22,920
+cái này nó cũng bị xịt, đấy ok
+
+389
+00:34:22,920 --> 00:34:24,700
+thì bây giờ nhá, quan hệ của nó chính là
+
+390
+00:34:24,700 --> 00:34:34,660
+là đầu tiên cứu này thanh toán thì nó sẽ kéo theo cái thằng này nhầm nhầm anh em bạn ngược được ngược
+
+391
+00:34:34,660 --> 00:34:44,220
+ngược anh em nhé Nhớ là sao nghĩa là để mà anh có lại có thanh toán lại thì phải nói lại thực
+
+392
+00:34:44,220 --> 00:34:51,000
+có thanh toán thì nó mới có thêm còn lại đúng không Đấy anh em đó nghe nhiều cho em cho này
+
+393
+00:34:51,000 --> 00:35:07,520
+làm quá nhiều lần rồi đấy à cái nút để nằm đây để xem nhau Ok thì đấy anh em nhá Nếu mà để mà
+
+394
+00:35:07,520 --> 00:35:14,240
+phải thanh toán lại thì bước đầu tiên là nó phải thanh toán đúng không có thanh toán thì nó mới
+
+395
+00:35:14,240 --> 00:35:34,940
+thêm đó là trên nhau đó ok à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+396
+00:35:34,940 --> 00:35:36,980
+đúng không nhỉ
+
+397
+00:35:36,980 --> 00:35:38,740
+để mà có thể
+
+398
+00:35:38,740 --> 00:35:41,400
+để mà có thanh toán lại
+
+399
+00:35:41,400 --> 00:35:43,380
+thì bắt buộc là phải có thanh toán
+
+400
+00:35:43,380 --> 00:35:44,760
+thì mới có thanh toán lại
+
+401
+00:35:44,760 --> 00:35:46,220
+đúng rồi anh em nhé
+
+402
+00:35:46,220 --> 00:35:49,740
+nó cũng tương tự như cái bài này anh em nhìn này
+
+403
+00:35:49,740 --> 00:35:52,240
+như mình giải thích được trước rồi
+
+404
+00:35:52,240 --> 00:35:53,200
+đây
+
+405
+00:35:53,200 --> 00:35:55,660
+đây anh em nhìn nhé
+
+406
+00:35:55,660 --> 00:35:57,780
+để mà có thể gửi được cái thằng này đi
+
+407
+00:35:57,780 --> 00:35:58,940
+thì phải check điều kiện
+
+408
+00:35:58,940 --> 00:36:00,900
+phải kéo theo là phải check điều kiện tiên quyết
+
+409
+00:36:00,900 --> 00:36:02,560
+thì bài này nó tương tự
+
+410
+00:36:02,560 --> 00:36:03,840
+đúng không
+
+411
+00:36:03,840 --> 00:36:05,340
+bài này tương tự là sao
+
+412
+00:36:05,340 --> 00:36:07,420
+bài này thì là để mà
+
+413
+00:36:07,420 --> 00:36:09,340
+phải thanh toán lại
+
+414
+00:36:09,340 --> 00:36:10,520
+thì sao
+
+415
+00:36:10,520 --> 00:36:12,740
+thì phải check out
+
+416
+00:36:12,740 --> 00:36:14,860
+nghĩa là phải có thanh toán rồi
+
+417
+00:36:14,860 --> 00:36:16,820
+thì mới thanh toán lại
+
+418
+00:36:16,820 --> 00:36:19,400
+đấy nó kiểu đấy anh em nhé
+
+419
+00:36:19,400 --> 00:36:19,780
+được chưa
+
+420
+00:36:19,780 --> 00:36:22,980
+ok
+
+421
+00:36:22,980 --> 00:36:24,760
+thì đấy là cái việc là
+
+422
+00:36:24,760 --> 00:36:26,560
+nếu mà mình xử lý cái
+
+423
+00:36:26,560 --> 00:36:29,880
+quá trình xử lý cái thanh toán nhé
+
+424
+00:36:29,880 --> 00:36:30,140
+ok
+
+425
+00:36:30,140 --> 00:36:32,540
+tiếp theo thì mình sẽ có cái gì nữa
+
+426
+00:36:32,560 --> 00:36:35,520
+là bây giờ ví dụ đến cái thằng khác nhé
+
+427
+00:36:35,520 --> 00:36:37,180
+thằng khác thì ví dụ như ở đây
+
+428
+00:36:37,180 --> 00:36:38,020
+đúng không
+
+429
+00:36:38,020 --> 00:36:39,780
+thì mình sẽ có cái gì
+
+430
+00:36:39,780 --> 00:36:41,200
+chắc chắn rồi
+
+431
+00:36:41,200 --> 00:36:44,520
+nếu mà muốn là có thể là
+
+432
+00:36:44,520 --> 00:36:47,580
+định hướng được cái nơi mà khách hàng nhận hàng ấy
+
+433
+00:36:47,580 --> 00:36:48,300
+đúng không
+
+434
+00:36:48,300 --> 00:36:49,180
+thì mình sẽ phải gì
+
+435
+00:36:49,180 --> 00:36:51,020
+mình sẽ phải sử dụng map
+
+436
+00:36:51,020 --> 00:36:52,180
+đúng không
+
+437
+00:36:52,180 --> 00:36:55,560
+mình có thể sử dụng map
+
+438
+00:36:55,560 --> 00:36:56,660
+thì mình sẽ phải là
+
+439
+00:36:56,660 --> 00:36:58,380
+sử dụng map
+
+440
+00:36:58,380 --> 00:36:59,300
+đấy nhỉ
+
+441
+00:36:59,300 --> 00:37:10,400
+chứ không ạ đó là sẽ chết rồi nhầm rồi chỗ này chỗ này chỗ này này nó cũng chưa Ok lắm anh em ạ
+
+442
+00:37:10,400 --> 00:37:23,060
+chỗ này thì chỗ này mình sửa lại nhanh nhé chỗ này sai không có nên nhầm cô này mình không được đấy này
+
+443
+00:37:23,060 --> 00:37:32,420
+chỗ này mình nhầm rồi anh em nhé Mình không nên để này để này là sai nhưng mà Ok mình sẽ
+
+444
+00:37:32,420 --> 00:37:38,500
+xử lý lại chỗ này nhá có này sẽ không để này quên mất mình phải xử lý này nó biết
+
+445
+00:37:38,500 --> 00:37:43,400
+chuẩn anh em nhé Đây em chưa mình này đầu tiên này anh em vào lại đây nhá anh em thêm cho mình
+
+446
+00:37:43,400 --> 00:37:50,240
+cái này thì mình hay yêu cây nữa chết nhầm tính nhầm đây nó phải thêm yêu cây nữa vào đây này
+
+447
+00:37:50,240 --> 00:38:01,040
+đầu tiên là UK 15 này thì đây mình sẽ thêm là cái process mình sẽ thêm là process
+
+448
+00:38:01,040 --> 00:38:10,460
+payment vào đây ở trên nha xử lý thanh toán mình sẽ để ở đây và tiếp theo ở đây mình sẽ để là 16 này
+
+449
+00:38:10,460 --> 00:38:20,020
+thì mình sẽ dùng là using use math thì ở đây nhá mình sẽ có là hai cái thằng này đúng không payment gateway này
+
+450
+00:38:20,240 --> 00:38:32,420
+nó sẽ xử lý thanh toán thằng tiếp theo này mát phim này nó thì này nó sẽ điểm gì thì đây nhá
+
+451
+00:38:32,420 --> 00:39:02,280
+bây giờ anh em vào đây nhé
+
+452
+00:39:02,280 --> 00:39:12,240
+được rồi anh em xử lý thêm cho mình hai cái này nữa hai cái cây đó 12 thì đây mình sẽ thêm
+
+453
+00:39:12,240 --> 00:39:23,100
+process payment như này nó biết chọn này như này nó biết chọn được anh em nhé
+
+454
+00:39:23,100 --> 00:39:41,480
+Ừ thì đây nhá ở đây mình sẽ có là đây à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+455
+00:39:41,480 --> 00:39:47,420
+bây giờ mình sẽ có gì ví dụ đây nhá thì bây giờ mình đang có cái mát này chưa thì bây giờ có phải
+
+456
+00:39:47,420 --> 00:39:53,180
+cái thằng này với thằng này nó phải có quan hệ không đó và cái thằng này với hai cái thằng này
+
+457
+00:39:53,180 --> 00:40:01,100
+nó phải có liên hệ đúng không phải một con quan hệ nhầm đó thế này nó mới đúng này không anh em đó thì
+
+458
+00:40:01,100 --> 00:40:08,900
+bây giờ mình sẽ có cái gì ví dụ như là để mà thanh toán được thì phải thông qua là bên thứ ba đúng
+
+459
+00:40:08,900 --> 00:40:14,480
+không thì có phải là nó sẽ có cái in cân lúc này để mà thanh toán được thì nó phải thông qua bên thứ
+
+460
+00:40:14,480 --> 00:40:20,960
+được chưa Đó để mà thanh toán thì phải kéo theo là phải sử dụng bên thứ ba chưa hay là để mà
+
+461
+00:40:20,960 --> 00:40:27,740
+thanh toán lại thì cũng phải để mà thanh toán lại đúng không thì cũng phải kéo theo như này nó sẽ
+
+462
+00:40:27,740 --> 00:40:42,500
+chuẩn hơn này để mà thanh toán lại thì cũng phải là kéo theo cái bên thứ ba này anh em đó ok đó là
+
+463
+00:40:42,500 --> 00:40:52,740
+là include nhá Ừ ok nghĩa là bây giờ mình sẽ có hai cái này rồi này bây giờ tiếp theo này mình
+
+464
+00:40:52,740 --> 00:40:57,940
+sẽ có cái gì mình sẽ có tiếp này include vẫn chưa hết đâu anh em nhé ví dụ ở trong cái thằng này để
+
+465
+00:40:57,940 --> 00:41:04,220
+mà được để mà có thể là định hướng tìm được cái chỗ khách hàng đấy nó thì mình sẽ phải làm gì thì
+
+466
+00:41:04,220 --> 00:41:10,820
+phải sử dụng mát thì mới tìm được chỗ khách hàng đúng không thì đây nó phải là include này để mà
+
+467
+00:41:10,820 --> 00:41:18,820
+anh tìm được chỗ khách hàng thì phải sử dụng mát đấy em hiểu đơn giản là thế chưa Ừ ok tiếp theo nhá
+
+468
+00:41:18,820 --> 00:41:27,060
+thì mình sẽ có cái gì tiếp theo là mình có là nếu mà lúc chắc hết rồi đấy bởi vì là nó chỉ có vậy
+
+469
+00:41:27,060 --> 00:41:33,740
+thôi tiếp theo thì mình sẽ có là phải tìm cái ít em đúng không ít em thì là cái điều kiện có không
+
+470
+00:41:33,740 --> 00:41:40,100
+được chưa thì đây này cái này cái này mình dùng có không này đúng không Nếu mà xảy ra lỗi mà chết
+
+471
+00:41:40,100 --> 00:41:44,960
+mình đã lỗi thì mình mới phải thanh toán lại đúng không thì cái này thì phải dùng xem thì nó yếu mấy
+
+472
+00:41:44,960 --> 00:41:50,180
+mình dùng lúc là sai nhá thì bây giờ ví dụ nhá Nếu mà check out này nếu mà thanh toán đúng không
+
+473
+00:41:50,180 --> 00:41:57,220
+thành công thì không sao đúng không Còn nếu mà không thành công thì là phải trích nào lại thì chưa
+
+474
+00:41:57,220 --> 00:42:07,460
+và anh nhớ cho mình này mũi tên thì luôn trỏ vào cái thằng thằng chính đúng không đó Ok chưa thì là
+
+475
+00:42:07,460 --> 00:42:19,700
+cái này mình chọn là cái thằng trên nào này check out view chưa đó anh em điện này ở trên nha nó tiếp
+
+476
+00:42:19,700 --> 00:42:25,760
+theo này mình còn cái gì nữa ví dụ như là cái thằng này này thằng nhận đúng không thằng nhận
+
+477
+00:42:25,760 --> 00:42:33,140
+thông báo này không ạ Thực ra là cái thằng này nó nhận không báo khi nào khi mà cái đầy nhanh đọc
+
+478
+00:42:33,140 --> 00:42:36,840
+Đọc kỹ chỗ này nhé
+
+479
+00:42:36,840 --> 00:42:37,980
+Thì anh em nhìn này
+
+480
+00:42:37,980 --> 00:42:39,700
+Đây
+
+481
+00:42:39,700 --> 00:42:43,160
+Thì khi mà cái hàng trong kho này
+
+482
+00:42:43,160 --> 00:42:43,880
+Hàng trong kho này
+
+483
+00:42:43,880 --> 00:42:46,060
+Có nhu cầu sử dụng cao này
+
+484
+00:42:46,060 --> 00:42:48,700
+Mà tự nhiên nó thấp xuống
+
+485
+00:42:48,700 --> 00:42:51,020
+Dưới cái ngưỡng này
+
+486
+00:42:51,020 --> 00:42:51,740
+Thấy chưa
+
+487
+00:42:51,740 --> 00:42:53,380
+Thấp xuống dưới cái ngưỡng này
+
+488
+00:42:53,380 --> 00:42:56,060
+Thì cái hệ thống này nó gửi thông báo
+
+489
+00:42:56,060 --> 00:42:56,780
+Thấy chưa
+
+490
+00:42:56,780 --> 00:43:00,220
+Có điều kiện thì sao
+
+491
+00:43:00,220 --> 00:43:02,500
+Nếu mà update này
+
+492
+00:43:02,500 --> 00:43:06,740
+cái hình ảnh do cái update này phải chưa update hàng thùng kho này nếu mà nó dưới ký khí à chứ
+
+493
+00:43:06,740 --> 00:43:16,720
+là quên quên mất hỗ trợ ai ở thì cái bài khí gà thằng cứ nhầm ký gà đấy nha Nếu mà nó nó mà dưới
+
+494
+00:43:16,720 --> 00:43:22,900
+nước đúng không thì sao thì là nó sẽ kéo cái hàng thùng kho này nếu mà nó nhu cầu nó giảm xuống quá
+
+495
+00:43:22,900 --> 00:43:29,980
+thì là sẽ gửi gửi à kết nhận cái nhu cầu dùng cao mà nó đang sắp hết đấy thì nó sẽ gửi thông báo là
+
+496
+00:43:29,980 --> 00:43:33,580
+thì lúc đấy thì mình sẽ phải thêm cái này vào
+
+497
+00:43:33,580 --> 00:43:34,680
+để xem nha
+
+498
+00:43:34,680 --> 00:43:37,180
+thì bây giờ để mà dễ thì mình sẽ
+
+499
+00:43:37,180 --> 00:43:40,860
+đẩy cái này lên
+
+500
+00:43:40,860 --> 00:43:42,440
+kéo cái này xuống đây
+
+501
+00:43:42,440 --> 00:43:46,960
+kéo cái này lên
+
+502
+00:43:54,680 --> 00:43:55,560
+kéo cái này lên
+
+503
+00:43:55,560 --> 00:44:12,260
+Được chưa anh em
+
+504
+00:44:12,260 --> 00:44:12,840
+Đó
+
+505
+00:44:12,840 --> 00:44:13,740
+Thì nếu mà
+
+506
+00:44:13,740 --> 00:44:14,660
+Cái thằng này mà update
+
+507
+00:44:14,660 --> 00:44:15,360
+Đúng không
+
+508
+00:44:15,360 --> 00:44:16,340
+Đây
+
+509
+00:44:16,340 --> 00:44:19,000
+Nếu mà thằng này update
+
+510
+00:44:19,000 --> 00:44:19,700
+Đúng không
+
+511
+00:44:19,700 --> 00:44:21,160
+Thì cái thằng này chính là chính này
+
+512
+00:44:21,160 --> 00:44:21,960
+Được chưa
+
+513
+00:44:21,960 --> 00:44:23,320
+Thằng này update mà
+
+514
+00:44:23,320 --> 00:44:24,040
+Nếu mà nó bị
+
+515
+00:44:24,040 --> 00:44:24,820
+Ít quá
+
+516
+00:44:24,820 --> 00:44:26,220
+thì mới gửi thông báo nhập hàng
+
+517
+00:44:26,220 --> 00:44:27,880
+đúng không, còn không thì thôi
+
+518
+00:44:27,880 --> 00:44:29,260
+đấy, được chưa anh em
+
+519
+00:44:29,260 --> 00:44:32,840
+ok chưa, thì đây nó chính là XTN nhé
+
+520
+00:44:32,840 --> 00:44:34,120
+được chưa, đó
+
+521
+00:44:34,120 --> 00:44:36,380
+ok, thì
+
+522
+00:44:36,380 --> 00:44:40,380
+cái thằng này
+
+523
+00:44:40,380 --> 00:44:42,120
+thế thôi, chỉ có thế thôi anh em nhé
+
+524
+00:44:42,120 --> 00:44:44,000
+được chưa, không có gì cả
+
+525
+00:44:44,000 --> 00:44:46,180
+đó, thì
+
+526
+00:44:46,180 --> 00:44:48,440
+chỗ này thì mình nghĩ là, để xem là
+
+527
+00:44:48,440 --> 00:44:49,420
+còn gì không
+
+528
+00:44:49,420 --> 00:44:53,620
+ok, cái này hết rồi nhé
+
+529
+00:44:53,620 --> 00:45:03,640
+đó Ok thì bây giờ nếu mà thực ra nếu mà trong bài nó lại yêu cầu là làm một cái làm một cái
+
+530
+00:45:03,640 --> 00:45:10,120
+kế thừa nữa để nhau nhìn nhau quên mất hôm mình chưa nói cho em thuyết không nói rồi
+
+531
+00:45:10,120 --> 00:45:18,560
+quên nó nói rồi nhưng mà bây giờ mình sẽ cho anh xem này cây diagram em rồi
+
+532
+00:45:18,560 --> 00:45:38,560
+là dân sân à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à à
+
+533
+00:45:38,560 --> 00:45:47,680
+anh em nhìn này là quá thấy nhớ cái này cái ký hiệu nó đây này anh xem nhau đó bây giờ mình tắt
+
+534
+00:45:47,680 --> 00:45:54,520
+bỏ đi không biết luôn cho xem mọi người làm đấy nhá Thì bây giờ nha thường lại để máy em chỉ nghĩ được
+
+535
+00:45:54,520 --> 00:46:01,720
+cái cái quan hệ là ký thừa thì thường là có một cái này này nhưng anh em sẽ thêm cho mình cách
+
+536
+00:46:01,720 --> 00:46:11,440
+vào đây này nó vào đây này thì hãy tờ này nó tên là gì Thằng này nó sẽ là mình có thể là user system
+
+537
+00:46:11,440 --> 00:46:22,480
+trên nha đó nó thì nó system đó thì nghĩa là sao nghĩa là nó sẽ làm cái thằng này nó sẽ làm cái
+
+538
+00:46:22,480 --> 00:46:23,620
+system user
+
+539
+00:46:23,620 --> 00:46:28,740
+Đấy anh em
+
+540
+00:46:28,740 --> 00:46:29,400
+Đó
+
+541
+00:46:29,400 --> 00:46:30,700
+Thì cái thằng này nó sẽ là cái gì
+
+542
+00:46:30,700 --> 00:46:31,620
+Thằng này ấy
+
+543
+00:46:31,620 --> 00:46:32,740
+Nó sẽ là cái thằng mà
+
+544
+00:46:32,740 --> 00:46:34,000
+Có thể kế thừa hết
+
+545
+00:46:34,000 --> 00:46:34,720
+Cái những
+
+546
+00:46:34,720 --> 00:46:35,600
+À chứ là
+
+547
+00:46:35,600 --> 00:46:36,700
+Ví dụ nhá
+
+548
+00:46:36,700 --> 00:46:37,160
+Đây
+
+549
+00:46:37,160 --> 00:46:37,920
+Ví dụ như này đi
+
+550
+00:46:37,920 --> 00:46:38,820
+Nói này dễ hiểu này
+
+551
+00:46:38,820 --> 00:46:40,000
+Ví dụ anh em nhìn nhá
+
+552
+00:46:40,000 --> 00:46:41,680
+Nếu
+
+553
+00:46:41,680 --> 00:46:42,600
+Thực ra trong bài này
+
+554
+00:46:42,600 --> 00:46:43,680
+Thì cũng không cần thiết đâu
+
+555
+00:46:43,680 --> 00:46:44,700
+Nhưng mà
+
+556
+00:46:44,700 --> 00:46:45,160
+Mình đang
+
+557
+00:46:45,160 --> 00:46:46,320
+Giải thích cho anh em
+
+558
+00:46:46,320 --> 00:46:47,320
+Cái lý thiết này nhá
+
+559
+00:46:47,320 --> 00:46:48,400
+Là ví dụ
+
+560
+00:46:48,400 --> 00:46:49,120
+Là gì
+
+561
+00:46:49,120 --> 00:46:49,900
+Nếu mà
+
+562
+00:46:49,900 --> 00:46:51,140
+Customer ấy
+
+563
+00:46:51,140 --> 00:46:52,140
+Anh em
+
+564
+00:46:52,140 --> 00:46:53,740
+Nếu mà làm một hệ thống hẳn hoi
+
+565
+00:46:53,740 --> 00:46:55,860
+Chỉ chú thì chắc chắn là không thể thiếu được
+
+566
+00:46:55,860 --> 00:46:56,540
+Cái bước là đăng nhập
+
+567
+00:46:56,540 --> 00:46:58,820
+Nó phải thêm cái login vào đây này
+
+568
+00:46:58,820 --> 00:47:01,920
+Nhưng mà trong bài này nó không nhắc đến cho nên là không cần thiết anh em ạ
+
+569
+00:47:01,920 --> 00:47:03,880
+Còn nếu trong bài nhắc đến
+
+570
+00:47:03,880 --> 00:47:05,100
+Ví dụ có cái đăng nhập đúng không
+
+571
+00:47:05,100 --> 00:47:06,500
+Thì ai cũng phải đăng nhập vào
+
+572
+00:47:06,500 --> 00:47:08,800
+Cái bước đầu tiên ai cũng phải đăng nhập vào
+
+573
+00:47:08,800 --> 00:47:10,400
+Thằng này phải đăng nhập
+
+574
+00:47:10,400 --> 00:47:12,640
+Thằng customer phải đăng nhập này
+
+575
+00:47:12,640 --> 00:47:14,300
+Thằng giao hãng phải đăng nhập
+
+576
+00:47:14,300 --> 00:47:16,800
+Hay là cái thằng quản lý cũng phải đăng nhập
+
+577
+00:47:16,800 --> 00:47:20,280
+Hay là cái thằng nhân viên quản lý kho
+
+578
+00:47:20,280 --> 00:47:20,980
+Cũng phải đăng nhập
+
+579
+00:47:20,980 --> 00:47:28,360
+đăng nhập được chưa hay là cái thằng thằng thu mua này cũng phải đăng nhập đó thì những cái thằng này
+
+580
+00:47:28,360 --> 00:47:33,340
+nó sẽ sinh ra một cái thằng là cái thằng người dùng hệ thống đúng không mà tất cả những cái thằng đấy
+
+581
+00:47:33,340 --> 00:47:38,020
+đều phải đăng nhập thì bây giờ chỉ cần cho tất cả những cái thằng này nó kế thừa thằng cha này và
+
+582
+00:47:38,020 --> 00:47:44,860
+cái thằng cha này nó sẽ kế thừa phát triển nó sẽ nối với cả cái yêu cây là login đấy thế là nó thể
+
+583
+00:47:44,860 --> 00:47:51,520
+tính năng là ký thừa trên nhau thằng cha mà ký thừa thì thằng con sẽ được sử dụng và thằng con
+
+584
+00:47:51,520 --> 00:47:55,720
+lúc nào cũng nhiều tính năng hơn thằng cha anh em anh em nhớ cho mình cái đấy nhá đó thì cái này
+
+585
+00:47:55,720 --> 00:48:02,860
+nói ngoài thêm thôi Ok Còn bài này thì mình sẽ dừng lại đây thôi nhé đó Ok thì bài này mình sẽ
+
+586
+00:48:02,860 --> 00:48:07,860
+bây giờ mình sẽ tán vào đây
+
+587
+00:48:07,860 --> 00:48:13,660
+ok đó được chưa anh em
+
+588
+00:48:13,660 --> 00:48:18,160
+ok bài này thôi em nhé được chưa
+
+589
+00:48:18,160 --> 00:48:20,360
+ok thì video này mình sẽ dừng lại ở đây nhé
+
+590
+00:48:20,360 --> 00:48:22,960
+nếu anh em nào có thắc mắc thì anh em cứ hỏi mình nhé
+
+591
+00:48:22,960 --> 00:48:52,940
+Cảm ơn các bạn đã theo dõi và hẹn gặp lại.
+

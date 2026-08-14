@@ -1,0 +1,9 @@
+Đã hoàn thành! Đề số 3 đã được giải và lưu đúng định dạng khuôn SWE202c.
+
+Tệp kết quả: [batch_de3.md](file:///Users/duongnad/Documents/project/SWE/page/out/batch_de3.md)
+
+Các lưu ý chính đã áp dụng:
+1. Tuân thủ định dạng A/B trên EOS cho câu Q6 (Story Map).
+2. Không sử dụng `As a system` ở câu Q4 và Q6, thay vào đó là `As a <người hưởng lợi>, I want the system to...`.
+3. Số lượng requirements ở câu Q3 được đếm chính xác (5 Functional, 3 Security, 2 Scalability) và chuyển đổi thành 5 User Stories tương ứng 1-1 ở Q4.
+4. Trích xuất chính xác yêu cầu từ đề bài, không thêm kiến thức ngoài khoá. Quá trình chia làm đúng 4 giai đoạn, đặc biệt là giai đoạn 4 (checklist).

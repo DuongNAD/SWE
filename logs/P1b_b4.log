@@ -1,0 +1,8 @@
+Tôi đã xem xét tất cả 32 ảnh trong thư mục `01_raw/b4/attach/` và ghi kết quả vào file [`02_extract/b4_sodo.json`](file:///Users/duongnad/Documents/project/SWE/02_extract/b4_sodo.json).
+
+**Kết quả phân tích:**
+- **Không có sơ đồ (Class Diagram, Use Case,...) nào** trong 32 ảnh của video này. Phần lớn các ảnh từ đầu tới cuối chỉ là nội dung chữ của các bài tập (Case study về Green University, Smart Healthcare Management System, Nexus E-commerce Logistics Platform, Fintech Loan Approval Engine).
+- **Có 1 bảng** ở mốc thời gian `24m14s` liệt kê các Category của NFRs và "Keywords nhớ nhanh". Bảng này đã được tôi trích xuất đầy đủ các hàng và cột.
+- Các ảnh còn lại chỉ có chữ chạy hoặc màn hình trắng của trình duyệt đều được liệt kê vào mảng `anh_bo_qua`.
+
+Công việc đã hoàn thành đúng theo hướng dẫn trong `P1b_doc_so_do.md`. Nếu bạn cần điều chỉnh gì thêm hãy cho tôi biết nhé!

@@ -1,0 +1,1302 @@
+{
+  "7": {
+    "moc_nho": "ethical considerations → Bias, Privacy, Job displacement",
+    "vi_sao": "Đạo đức trong triển khai AI liên quan trực tiếp đến sự thiên vị thuật toán, bảo mật dữ liệu người dùng và tác động mất việc làm của người lao động.",
+    "bay": "C sai vì đây là giới hạn kỹ thuật của AI chứ không thuộc phạm trù đạo đức xã hội."
+  },
+  "5": {
+    "moc_nho": "design patterns → Singleton, Factory, Decorator",
+    "vi_sao": "Đây là ba mẫu thiết kế kinh điển và cực kỳ phổ biến trong nhóm Gang of Four (GoF) design patterns.",
+    "bay": "D và E sai vì Provisional và Exclusive không phải là các mẫu thiết kế chuẩn trong công nghệ phần mềm."
+  },
+  "8": {
+    "moc_nho": "decision tree components → Nodes, Edges, Leaves",
+    "vi_sao": "Cấu trúc của một cây quyết định luôn bao gồm các nút để biểu diễn thuộc tính hoặc quyết định, các cạnh để chỉ ra kết quả lựa chọn và các lá để chứa kết quả dự đoán cuối cùng.",
+    "bay": "D sai vì Layers là thành phần đặc trưng của mạng nơ-ron nhân tạo chứ không thuộc cấu trúc của cây quyết định."
+  },
+  "10": {
+    "moc_nho": "AI tools Java development → Automating, Generating, Providing",
+    "vi_sao": "Các công cụ AI hiện nay chỉ đóng vai trò hỗ trợ tăng năng suất thông qua tự động hóa tái cấu trúc, sinh test case và gợi ý code chứ chưa thể thay thế hoàn toàn con người hay loại bỏ quy trình kiểm duyệt code.",
+    "bay": "C và E sai vì AI hiện tại không thể thay thế hoàn toàn lập trình viên hay loại bỏ bước code review vốn cực kỳ quan trọng để đảm bảo chất lượng hệ thống."
+  },
+  "11": {
+    "moc_nho": "Strategy Pattern → choose runtime, encapsulate behaviors, independent client",
+    "vi_sao": "Strategy Pattern cho phép thay đổi thuật toán linh hoạt lúc chạy bằng cách đóng gói các hành vi khác nhau vào các lớp riêng biệt, giúp thuật toán độc lập với lớp sử dụng nó.",
+    "bay": "C sai vì Strategy Pattern thực tế khuyến khích sự kết hợp thay vì kế thừa nhưng nó không hề cấm đoán hay giới hạn việc sử dụng kế thừa trong toàn bộ hệ thống."
+  },
+  "15": {
+    "moc_nho": "design patterns → Singleton, Factory, Decorator",
+    "vi_sao": "Singleton, Factory và Decorator là ba mẫu thiết kế kinh điển và cực kỳ phổ biến trong cuốn sách Gang of Four nổi tiếng.",
+    "bay": "D và E sai vì Proprietary và Exclusive chỉ là các thuật ngữ mô tả tính chất độc quyền, hoàn toàn không phải là design patterns trong công nghệ phần mềm."
+  },
+  "14": {
+    "moc_nho": "state machine diagram → States, Transitions, Initial State",
+    "vi_sao": "Bản chất của biểu đồ trạng thái state machine diagram là mô tả các trạng thái của hệ thống cùng sự chuyển dịch giữa chúng nên bắt buộc phải có States, Transitions và điểm bắt đầu Initial State.",
+    "bay": "D và E sai vì Cost analysis và Product categories là các khái niệm thuộc về phân tích kinh doanh và quản lý sản phẩm, không phải là phần tử cấu thành nên một biểu đồ kỹ thuật UML."
+  },
+  "13": {
+    "moc_nho": "comprehensive use-case model → Actors, Scenarios, System boundaries",
+    "vi_sao": "Một mô hình use case toàn diện cần có tác nhân tương tác, các kịch bản luồng công việc và ranh giới xác định phạm vi của hệ thống.",
+    "bay": "D sai vì Database schemas thuộc về mức thiết kế dữ liệu chi tiết ở tầng dưới chứ không nằm trong mô hình use case ở mức đặc tả yêu cầu."
+  },
+  "18": {
+    "moc_nho": "implementing software tests → Defining, Choosing, Conducting",
+    "vi_sao": "Để triển khai kiểm thử phần mềm hiệu quả thì cần xác định rõ mục tiêu, chọn công cụ phù hợp và đánh giá kết quả kiểm thử kỹ lưỡng.",
+    "bay": "C sai vì việc tránh tài liệu hóa test case là hoàn toàn sai nguyên tắc kiểm thử chuyên nghiệp."
+  },
+  "22": {
+    "moc_nho": "version control integrity → commits, branching, reviews",
+    "vi_sao": "Các thực hành tốt nhất để duy trì tính toàn vẹn của mã nguồn bao gồm việc lưu lại lịch sử thường xuyên, phân nhánh để phát triển tính năng mới độc lập và đánh giá mã nguồn để kiểm soát chất lượng trước khi gộp.",
+    "bay": "B sai vì việc bỏ qua các xung đột khi gộp mã nguồn sẽ trực tiếp phá hỏng tính toàn vẹn và gây lỗi nghiêm trọng cho hệ thống."
+  },
+  "23": {
+    "moc_nho": "ensuring project success by applying requirements → Prioritizing, Validating, Tracking",
+    "vi_sao": "Để đảm bảo dự án thành công khi áp dụng yêu cầu thì cần phải ưu tiên hóa các yêu cầu, xác thực chúng dựa trên mục tiêu và theo dõi các thay đổi của chúng trong suốt vòng đời dự án.",
+    "bay": "D và E sai vì bỏ qua phản hồi của người dùng và chỉ tập trung vào đặc tả kỹ thuật sẽ dẫn đến sản phẩm không đáp ứng đúng nhu cầu thực tế."
+  },
+  "24": {
+    "moc_nho": "designing system architectures → Modularity, Scalability, Maintainability",
+    "vi_sao": "Thiết kế kiến trúc hệ thống luôn hướng tới tính mô-đun hóa để dễ quản lý, khả năng mở rộng quy mô khi tải tăng và tính dễ bảo trì lâu dài.",
+    "bay": "E sai vì Redundancy thường là kỹ thuật dự phòng trong thiết kế hệ thống tin cậy cao chứ không phải là một nguyên lý thiết kế kiến trúc cốt lõi mang tính tổng quát như ba yếu tố kia."
+  },
+  "27": {
+    "moc_nho": "incremental development → frequent feedback",
+    "vi_sao": "Phát triển tiệm tiến chia nhỏ dự án thành nhiều phần để bàn giao sớm, từ đó giúp khách hàng dễ dàng theo dõi và đưa ra phản hồi liên tục.",
+    "bay": "B sai vì việc hiểu rõ toàn bộ yêu cầu ngay từ đầu là đặc trưng của mô hình Waterfall chứ không phải Incremental."
+  },
+  "29": {
+    "moc_nho": "Factory Pattern → creation without specifying exact class",
+    "vi_sao": "Factory Pattern giúp che giấu logic khởi tạo phức tạp và tách biệt quá trình tạo đối tượng khỏi lớp sử dụng trực tiếp, giúp mã nguồn linh hoạt và dễ tái sử dụng hơn.",
+    "bay": "B sai vì đảm bảo chỉ tạo một thực thể duy nhất của lớp là đặc trưng của Singleton Pattern chứ không phải Factory Pattern."
+  },
+  "30": {
+    "moc_nho": "estimation → predict size and duration",
+    "vi_sao": "Kỹ thuật ước lượng trong quản lý dự án được sử dụng để dự đoán trước quy mô kích thước và khoảng thời gian cần thiết để hoàn thành dự án.",
+    "bay": "D sai vì tạo kế hoạch chi tiết đòi hỏi nhiều bước lập lịch và phân bổ nguồn lực cụ thể chứ không chỉ dừng lại ở việc ước lượng."
+  },
+  "36": {
+    "moc_nho": "use case development → clear and detailed specifications",
+    "vi_sao": "Để phát triển use case thành công thì yêu cầu cốt lõi là các bên liên quan phải hiểu rõ ràng và chi tiết các đặc tả yêu cầu hệ thống.",
+    "bay": "B sai vì tốc độ phát triển nhanh chỉ là yếu tố phụ, nếu không hiểu rõ đặc tả từ đầu thì sản phẩm làm ra nhanh vẫn sẽ thất bại."
+  },
+  "31": {
+    "moc_nho": "testing vs debugging → testing identifies, debugging fixes",
+    "vi_sao": "Testing là quá trình chạy chương trình để phát hiện và tìm ra lỗi, trong khi debugging là quá trình cô lập nguyên nhân và sửa chữa lỗi đó.",
+    "bay": "B sai vì phương án này bị đảo ngược hoàn toàn vai trò của hai hoạt động."
+  },
+  "32": {
+    "moc_nho": "timeline and milestones → Schedule Management Plan",
+    "vi_sao": "Schedule Management Plan chịu trách nhiệm thiết lập lịch trình, xác định thời hạn và các mốc quan trọng của dự án phần mềm.",
+    "bay": "C sai vì Risk Management Plan chỉ tập trung vào việc nhận diện và xử lý rủi ro chứ không quản lý mốc thời gian."
+  },
+  "37": {
+    "moc_nho": "defensive programming → unexpected inputs gracefully",
+    "vi_sao": "Defensive programming hay lập trình phòng thủ là kỹ thuật viết mã nguồn sao cho chương trình vẫn hoạt động ổn định và tin cậy bằng cách lường trước và xử lý khéo léo các tình huống dữ liệu đầu vào bất thường.",
+    "bay": "B sai vì lập trình phòng thủ thường làm tăng số lượng câu lệnh kiểm tra điều kiện nên không giúp tăng tốc độ thực thi mã nguồn."
+  },
+  "34": {
+    "moc_nho": "acceptance testing → business requirements",
+    "vi_sao": "Acceptance testing là kiểm thử chấp nhận nhằm xác định xem hệ thống đã đáp ứng đúng các yêu cầu nghiệp vụ và mong đợi của khách hàng hay chưa.",
+    "bay": "C sai vì việc tích hợp các module là nhiệm vụ của integration testing chứ không phải acceptance testing."
+  },
+  "45": {
+    "moc_nho": "user story → end-user perspective",
+    "vi_sao": "User story bản chất là mô tả ngắn gọn và đơn giản về một tính năng dưới góc nhìn của người dùng cuối thay vì mang tính kỹ thuật.",
+    "bay": "A sai vì user story không bao giờ là một tài liệu đặc tả kỹ thuật chi tiết."
+  },
+  "39": {
+    "moc_nho": "multiplicity → One to many",
+    "vi_sao": "Multiplicity trong biểu đồ lớp UML thể hiện bội số quan hệ giữa các thực thể, ví dụ như quan hệ một - nhiều hoặc một - một.",
+    "bay": "D sai vì Extends là từ khóa thể hiện quan hệ kế thừa trong lập trình hoặc mối quan hệ giữa các use case chứ không phải bội số quan hệ."
+  },
+  "46": {
+    "moc_nho": "overall system design → Top-down approach",
+    "vi_sao": "Phương pháp tiếp cận top-down bắt đầu từ bức tranh tổng thể của hệ thống rồi mới phân rã chi tiết thành các thành phần nhỏ hơn.",
+    "bay": "D sai vì Bottom-up đi từ các thành phần nhỏ, chi tiết rồi mới ghép thành hệ thống lớn, hoàn toàn ngược lại với đề bài."
+  },
+  "42": {
+    "moc_nho": "capturing requirements → user interactions",
+    "vi_sao": "Xác định yêu cầu hệ thống thực chất là tìm hiểu người dùng sẽ tương tác với phần mềm như thế nào để giải quyết vấn đề của họ.",
+    "bay": "B sai vì việc viết mã thuộc giai đoạn Implementation chứ không phải Capture Requirements."
+  },
+  "33": {
+    "moc_nho": "configuration management → consistency",
+    "vi_sao": "Quản lý cấu hình tập trung vào việc duy trì sự đồng nhất và kiểm soát các thay đổi đối với sản phẩm phần mềm trong suốt vòng đời của nó.",
+    "bay": "C sai vì tốc độ phát triển phụ thuộc vào quy trình Agile hoặc công cụ hỗ trợ chứ không phải mục đích chính của quản lý cấu hình."
+  },
+  "48": {
+    "moc_nho": "modularity → smaller manageable components",
+    "vi_sao": "Chia nhỏ hệ thống thành các module giúp giảm tải nhận thức và dễ dàng quản lý từng phần riêng biệt.",
+    "bay": "B sai vì modularity giúp tổ chức code tốt hơn chứ không phải làm tăng kích thước mã nguồn."
+  },
+  "50": {
+    "moc_nho": "Amazon Q Developer → Analyzing code semantics",
+    "vi_sao": "Công cụ này sử dụng AI để hiểu ngữ nghĩa của mã nguồn và tự động tạo ra tài liệu mô tả chính xác chức năng của code đó.",
+    "bay": "B sai vì việc chuyển đổi comment có sẵn chỉ là một kỹ thuật cũ, Amazon Q có khả năng tự phân tích logic code để viết tài liệu mới."
+  },
+  "49": {
+    "moc_nho": "Standards, metrics → Benchmarks, measurements",
+    "vi_sao": "Tiêu chuẩn và số đo đóng vai trò là các mốc chuẩn và thước đo định lượng để đảm bảo chất lượng phần mềm đồng nhất.",
+    "bay": "C sai vì tối ưu mã nguồn chỉ là một phần nhỏ của kỹ thuật chứ không đại diện cho toàn bộ quy trình đảm bảo chất lượng."
+  },
+  "55": {
+    "moc_nho": "real-world scenarios → scalability",
+    "vi_sao": "Khi áp dụng các chiến lược triển khai vào thực tế, hệ thống bắt buộc phải có khả năng mở rộng để đáp ứng lượng tải thực tế ngày càng tăng từ người dùng.",
+    "bay": "D sai vì việc giảm tối đa thời gian phát triển bằng mọi giá sẽ dẫn đến nợ kỹ thuật nghiêm trọng và sản phẩm không thể sử dụng lâu dài."
+  },
+  "56": {
+    "moc_nho": "quality assurance → Regular audits",
+    "vi_sao": "Đảm bảo chất lượng phần mềm đòi hỏi việc kiểm tra và đánh giá định kỳ để chắc chắn rằng quy trình phát triển luôn tuân thủ các tiêu chuẩn chất lượng đã đề ra.",
+    "bay": "B sai vì việc đào tạo nâng cao kỹ năng đội ngũ thuộc về quản lý nhân sự hơn là một hoạt động kiểm soát trực tiếp trong quy trình đảm bảo chất lượng."
+  },
+  "57": {
+    "moc_nho": "retrospective meeting → improve future processes",
+    "vi_sao": "Họp cải tiến quy trình retrospective trong Agile được thực hiện ở cuối mỗi sprint nhằm nhìn lại quá trình đã qua và tìm cách cải thiện hiệu quả làm việc cho các sprint tiếp theo.",
+    "bay": "C sai vì retrospective tập trung vào cải tiến quy trình của cả nhóm chứ không dùng để đánh giá hay chỉ trích hiệu suất của từng cá nhân."
+  },
+  "51": {
+    "moc_nho": "UML diagrams → visually representing",
+    "vi_sao": "UML là ngôn ngữ mô hình hóa trực quan giúp lập trình viên hình dung cấu trúc và mối quan hệ giữa các thành phần trong hệ thống mà không cần đọc code chi tiết.",
+    "bay": "B sai vì UML tập trung vào thiết kế mức cao chứ không mô tả chi tiết mã nguồn triển khai."
+  },
+  "52": {
+    "moc_nho": "requirements analysis → engaging end users",
+    "vi_sao": "Phân tích yêu cầu cần sự tương tác trực tiếp với người dùng cuối để hiểu rõ nhu cầu thực tế và mục tiêu của hệ thống.",
+    "bay": "C sai vì chỉ tập trung vào thông số kỹ thuật là chưa đủ để hiểu toàn diện yêu cầu nghiệp vụ."
+  },
+  "53": {
+    "moc_nho": "customer behavior → customer segmentation",
+    "vi_sao": "Phân đoạn khách hàng là phương pháp tốt nhất để phân loại và hiểu rõ hành vi cũng như sở thích riêng biệt của từng nhóm người dùng.",
+    "bay": "A sai vì Regression analysis thường dùng để dự báo xu hướng hoặc mối quan hệ giữa các biến số hơn là hiểu đặc điểm hành vi."
+  },
+  "63": {
+    "moc_nho": "state machine diagram NOT true → only entered by event",
+    "vi_sao": "Một state trong state machine diagram vẫn có thể được đi vào trực tiếp thông qua initial state hoặc các chuyển trạng thái không điều kiện mà không cần có event kích hoạt.",
+    "bay": "A sai vì state thể hiện một khoảng thời gian đối tượng duy trì một điều kiện nào đó nên nó bắt buộc phải có duration."
+  },
+  "61": {
+    "moc_nho": "NOT quality assurance → people training",
+    "vi_sao": "Đào tạo nhân sự là hoạt động quản lý nguồn lực và phát triển tổ chức chứ không trực tiếp kiểm soát hay đảm bảo chất lượng của sản phẩm phần mềm.",
+    "bay": "D sai vì nhiều người nghĩ quản lý cấu hình không liên quan đến chất lượng, nhưng thực tế nó giúp kiểm soát phiên bản và tính nhất quán của sản phẩm nên vẫn là hoạt động QA."
+  },
+  "64": {
+    "moc_nho": "NOT deal with risks → ignore",
+    "vi_sao": "Trong quản lý rủi ro của phát triển phần mềm, việc phớt lờ rủi ro là một hành động vô trách nhiệm và không được coi là một chiến lược giải quyết rủi ro hợp lệ.",
+    "bay": "C sai vì mitigate là chiến lược giảm thiểu rủi ro rất phổ biến nên không thể là đáp án cho câu hỏi chọn phương án KHÔNG phải."
+  },
+  "59": {
+    "moc_nho": "Gantt chart → CANNOT → critical path",
+    "vi_sao": "Gantt chart chỉ tập trung vào tiến độ và thời gian theo lịch biểu chứ không phân tích mạng lưới công việc để xác định đường găng như sơ đồ PERT hay CPM.",
+    "bay": "A sai vì Gantt chart hiện đại vẫn có thể hiển thị các mũi tên liên kết giữa các task."
+  },
+  "67": {
+    "moc_nho": "Four P's NOT → NOT plan",
+    "vi_sao": "Mô hình quản lý dự án phần mềm 4P bao gồm People, Product, Process và Project chứ không chứa Plan.",
+    "bay": "E sai vì Project thường bị nhầm là không thuộc 4P do trùng âm đầu với Product và Process trong khi thực tế Plan mới là từ bị loại."
+  },
+  "68": {
+    "moc_nho": "attribute in UML → NOT signature",
+    "vi_sao": "Signature hay chữ ký là đặc trưng của phương thức hoặc hàm chứ không phải là thuộc tính của một attribute trong UML.",
+    "bay": "B sai vì multiplicity hoàn toàn có thể là thuộc tính của attribute để chỉ ra số lượng phần tử của thuộc tính đó."
+  },
+  "60": {
+    "moc_nho": "Not Agile → comprehensive test plan",
+    "vi_sao": "Tuyên ngôn Agile ưu tiên phần mềm chạy tốt hơn là việc lập kế hoạch hay tài liệu hóa quá chi tiết và toàn diện.",
+    "bay": "A sai vì Agile luôn nhấn mạnh tương tác giữa các cá nhân hơn là quy trình và công cụ."
+  },
+  "69": {
+    "moc_nho": "NOT software engineering activity → hiring programmers",
+    "vi_sao": "Hiring programmers là hoạt động quản trị nhân sự thuộc phòng HR chứ không phải là một hoạt động kỹ thuật hay quản lý kỹ thuật trực tiếp trong quy trình xây dựng phần mềm.",
+    "bay": "A sai vì knowledge acquisition là hoạt động thu thập và tìm hiểu kiến thức miền nghiệp vụ để xây dựng phần mềm nên vẫn thuộc kỹ nghệ phần mềm."
+  },
+  "65": {
+    "moc_nho": "configuration management NOT → NOT risk management",
+    "vi_sao": "Risk management thuộc về quản lý dự án chung chứ không nằm trong các hoạt động kỹ thuật của quản lý cấu hình phần mềm.",
+    "bay": "E sai vì system building là một bước kỹ thuật bắt buộc để tạo ra sản phẩm từ các thành phần cấu hình nên sinh viên dễ nhầm là không thuộc configuration management."
+  },
+  "70": {
+    "moc_nho": "software quality → NOT profitable",
+    "vi_sao": "Chất lượng phần mềm tập trung vào các đặc tính kỹ thuật và vận hành như tính đúng đắn, khả năng tái sử dụng hay tính di động, trong khi khả năng sinh lời là mục tiêu kinh doanh thương mại chứ không phải đặc tính chất lượng của bản thân phần mềm.",
+    "bay": "A sai vì portable dễ bị nhầm là không liên quan, nhưng thực tế tính di động là một đặc tính chất lượng phần mềm quan trọng trong chuẩn ISO/IEC 25010."
+  },
+  "71": {
+    "moc_nho": "use-case detailed specification → NOT developing tools",
+    "vi_sao": "Tài liệu đặc tả chi tiết use case chỉ tập trung mô tả hành vi hệ thống và tương tác của người dùng chứ không chứa các thông tin kỹ thuật về công cụ phát triển phần mềm.",
+    "bay": "A sai vì nhiều sinh viên nhầm lẫn actor chỉ nằm ở sơ đồ use case tổng quan, nhưng thực tế danh sách các actor tham gia vẫn phải được liệt kê chi tiết trong tài liệu đặc tả."
+  },
+  "76": {
+    "moc_nho": "NOT allowed interaction → two boundary objects",
+    "vi_sao": "Theo quy tắc phân tích tương tác đối tượng Robustness Diagram, hai đối tượng giao diện boundary không được phép tương tác trực tiếp với nhau mà phải thông qua một đối tượng điều khiển control.",
+    "bay": "C sai vì tương tác giữa boundary và entity cũng bị cấm trong Robustness Diagram, nhưng đáp án D (hai boundary tương tác với nhau) là lỗi nghiêm trọng nhất và luôn luôn bị cấm tuyệt đối trong mọi tài liệu thiết kế chuẩn."
+  },
+  "75": {
+    "moc_nho": "failure NOT related to requirements → lack of resources",
+    "vi_sao": "Thiếu hụt nguồn lực như ngân sách hay nhân sự thuộc về quản lý dự án chứ không liên quan trực tiếp đến quá trình thu thập và định nghĩa yêu cầu phần mềm.",
+    "bay": "E sai vì sự thay đổi liên tục của yêu cầu và đặc tả kỹ thuật vẫn là vấn đề trực tiếp thuộc nhóm quy trình quản lý yêu cầu khách hàng."
+  },
+  "79": {
+    "moc_nho": "UML is true → think about the world",
+    "vi_sao": "UML không chỉ là công cụ vẽ mà còn là một ngôn ngữ mô hình hóa giúp định hình cách chúng ta tư duy và nhìn nhận thế giới thực theo hướng đối tượng.",
+    "bay": "D sai vì UML chỉ là một ngôn ngữ mô hình hóa trực quan chứ bản thân nó không phải là một quy trình phát triển phần mềm."
+  },
+  "77": {
+    "moc_nho": "standards handbook → NOT true: not follow any",
+    "vi_sao": "Dù tổ chức cho phép tùy biến, bỏ qua hoặc tạo mới tiêu chuẩn nhưng một dự án phần mềm không thể tùy tiện quyết định không tuân theo bất kỳ tiêu chuẩn nào cả.",
+    "bay": "B sai vì việc bỏ qua một tiêu chuẩn cụ thể (ignore a standard) vẫn được phép nếu dự án đó không áp dụng quy trình tương ứng, khác với việc vô kỷ luật hoàn toàn ở đáp án A."
+  },
+  "80": {
+    "moc_nho": "System testing and acceptance testing → System developers, Acceptance client",
+    "vi_sao": "System testing do đội ngũ phát triển thực hiện để kiểm thử toàn bộ hệ thống, trong khi acceptance testing do khách hàng thực hiện để nghiệm thu sản phẩm.",
+    "bay": "A sai vì system testing phải được thực hiện trước để đảm bảo hệ thống chạy ổn định rồi mới bàn giao cho khách hàng làm acceptance testing."
+  },
+  "82": {
+    "moc_nho": "neural network output → False",
+    "vi_sao": "Mạng nơ-ron nhân tạo chỉ đưa ra kết quả đầu ra ở lớp đầu ra chứ không phải ở lớp ẩn.",
+    "bay": "B sai vì lớp ẩn chỉ đóng vai trò xử lý trung gian và trích xuất đặc trưng chứ không xuất kết quả trực tiếp."
+  },
+  "83": {
+    "moc_nho": "random forest → True",
+    "vi_sao": "Random forest kết hợp nhiều decision trees giúp giảm hiện tượng overfitting và tăng độ chính xác nhờ cơ chế bỏ phiếu số đông của các cây quyết định độc lập.",
+    "bay": "A sai vì nhầm tưởng việc kết hợp nhiều cây sẽ làm mô hình phức tạp hơn và dễ gây overfitting hơn."
+  },
+  "84": {
+    "moc_nho": "Amazon Q Developer → synchronization issues → True",
+    "vi_sao": "Các công cụ AI hiện đại như Amazon Q Developer có khả năng phân tích luồng dữ liệu và phát hiện các lỗi đồng bộ hóa phức tạp như deadlock hay race condition trong mã nguồn Java.",
+    "bay": "B sai vì nghĩ rằng AI chỉ kiểm tra được cú pháp cơ bản chứ không thể phát hiện lỗi logic đồng bộ hóa đa luồng phức tạp."
+  },
+  "86": {
+    "moc_nho": "struggling with clunky checkouts → True",
+    "vi_sao": "Bốn lĩnh vực của chuyển đổi số gồm quy trình, công nghệ, dữ liệu và tổ chức sẽ giúp giải quyết triệt để các vấn đề về thanh toán, vận chuyển và cá nhân hóa của nhà sách.",
+    "bay": "A sai vì nghĩ rằng chuyển đổi số chỉ là lý thuyết chung chung không giải quyết được các lỗi kỹ thuật cụ thể của hệ thống."
+  },
+  "85": {
+    "moc_nho": "AI-based chatbots → True",
+    "vi_sao": "Việc áp dụng chatbot AI để cải tiến quy trình chăm sóc khách hàng là một ví dụ điển hình của chuyển đổi số nhằm thay đổi cách thức doanh nghiệp tương tác và tạo giá trị.",
+    "bay": "B sai vì nghĩ rằng chuyển đổi số phải là cái gì đó to tát thay đổi toàn bộ tập đoàn, trong khi việc ứng dụng AI vào một quy trình cụ thể như customer support đã đủ để coi là digital transformation."
+  },
+  "87": {
+    "moc_nho": "neural network → False",
+    "vi_sao": "Mạng nơ-ron nhân tạo được thiết kế để mô phỏng cách hoạt động của bộ não sinh học chứ không phải để bắt chước cách hoạt động của chip máy tính.",
+    "bay": "A sai vì dễ bị nhầm lẫn bởi cụm từ biological concepts mà quên mất vế computer chips là hoàn toàn sai lệch bản chất."
+  },
+  "88": {
+    "moc_nho": "AI tools can only → False",
+    "vi_sao": "Các công cụ AI hiện nay rất đa năng, có thể tạo ra nhiều loại code phức tạp và hỗ trợ hầu hết các ngôn ngữ lập trình chứ không chỉ giới hạn ở boilerplate code cho một số ngôn ngữ cụ thể.",
+    "bay": "A sai vì chữ only mang tính chất tuyệt đối và phủ nhận khả năng tạo code logic phức tạp hoặc đa ngôn ngữ của AI hiện đại."
+  },
+  "89": {
+    "moc_nho": "AI-generated boilerplate → True",
+    "vi_sao": "Mã nguồn do AI tự động tạo ra vẫn có thể chứa lỗi logic hoặc bảo mật nên luôn cần lập trình viên kiểm tra lại trước khi tích hợp vào hệ thống.",
+    "bay": "B sai vì tin tưởng tuyệt đối vào AI mà không qua kiểm duyệt sẽ dễ dẫn đến các lỗi hệ thống nghiêm trọng."
+  },
+  "90": {
+    "moc_nho": "AI tools guarantee → False",
+    "vi_sao": "Công cụ AI không bao giờ đảm bảo tạo ra mã nguồn hoàn toàn không có lỗi cho mọi dự án vì chúng vẫn có thể tạo ra lỗi logic hoặc mã nguồn lỗi thời.",
+    "bay": "A sai vì từ guarantee mang tính tuyệt đối, trong thực tế phát triển phần mềm không có công cụ nào đảm bảo 100% không có lỗi."
+  },
+  "93": {
+    "moc_nho": "digital transformation domains → False",
+    "vi_sao": "Bốn lĩnh vực chính của chuyển đổi số bao gồm Technology, Data, Process, và Organizational Change chứ không có Networking.",
+    "bay": "A sai vì dễ nhầm lẫn Networking là một phần của hạ tầng công nghệ trong chuyển đổi số."
+  },
+  "97": {
+    "moc_nho": "Amazon Q Developer → Code generation, Explaining code",
+    "vi_sao": "Amazon Q Developer là trợ lý AI tập trung vào việc hỗ trợ lập trình viên viết code mới và giải thích hiểu rõ các đoạn code hiện có.",
+    "bay": "A sai vì Amazon Q Developer hỗ trợ phát hiện lỗi và đề xuất sửa lỗi trong code chứ không tự động sửa lỗi runtime khi chương trình đang chạy."
+  },
+  "72": {
+    "moc_nho": "NOT true software engineering → ad-hoc",
+    "vi_sao": "Software engineering là quá trình phát triển phần mềm có kỷ luật, quy trình và kế hoạch rõ ràng chứ không phải là một nỗ lực tự phát, tùy tiện như ad-hoc.",
+    "bay": "D sai vì nhiều người nghĩ lập trình viên có thể làm việc độc lập nên chọn nhầm, nhưng thực tế software engineering quy mô lớn luôn đòi hỏi sự phối hợp của một đội ngũ."
+  },
+  "98": {
+    "moc_nho": "explanation too complex → simpler explanation, examples",
+    "vi_sao": "Khi giải thích của AI quá phức tạp, cách xử lý tối ưu là yêu cầu một giải thích đơn giản hơn cho người mới bắt đầu và yêu cầu thêm ví dụ thực tế để làm rõ vấn đề.",
+    "bay": "B sai vì việc bỏ qua AI ngay lập tức và tìm công cụ khác là quá vội vàng khi chưa thử các câu lệnh prompt tối ưu hơn."
+  },
+  "99": {
+    "moc_nho": "ChatGPT Java queries → clear specific prompts, providing context",
+    "vi_sao": "Để nhận được câu trả lời chính xác nhất từ ChatGPT khi hỏi về Java, người dùng cần cung cấp câu lệnh rõ ràng, cụ thể và bổ sung đầy đủ ngữ cảnh của vấn đề.",
+    "bay": "B sai vì ChatGPT là mô hình ngôn ngữ lớn hoạt động độc lập, không thể tự phát hiện lỗi thời gian thực ngay trong IDE của người dùng được."
+  },
+  "108": {
+    "moc_nho": "ChatGPT benefits → Assistance, Debugging, Quick explanations",
+    "vi_sao": "ChatGPT đóng vai trò là công cụ hỗ trợ lập trình viên viết code, sửa lỗi và giải thích khái niệm chứ chưa thể tự động hóa hoàn toàn toàn bộ quy trình phát triển phần mềm.",
+    "bay": "C sai vì ChatGPT không thể tự động hóa hoàn toàn quy trình code mà vẫn cần sự kiểm soát và can thiệp của con người."
+  },
+  "102": {
+    "moc_nho": "Amazon Q Developer Java → suggestions, errors, optimization",
+    "vi_sao": "Amazon Q Developer hỗ trợ lập trình viên Java bằng cách gợi ý mã nguồn theo ngữ cảnh, phát hiện lỗi để sửa và tối ưu hóa hiệu suất code, nhưng không thể thay thế hoàn toàn việc kiểm thử.",
+    "bay": "A sai vì AI hỗ trợ lập trình không bao giờ thay thế hoàn toàn được quy trình testing thủ công và tự động của con người."
+  },
+  "103": {
+    "moc_nho": "creates a recipe / generates a song → Pattern recognition / large datasets",
+    "vi_sao": "Generative AI hoạt động bằng cách nhận diện các quy luật từ tập dữ liệu lớn đã học để tạo ra nội dung mới như công thức nấu ăn hay bài hát.",
+    "bay": "D sai vì AI tạo sinh bắt buộc phải dựa vào các tập dữ liệu lớn cực kỳ phong phú chứ không thể tạo ra kết quả tốt mà không cần chúng."
+  },
+  "105": {
+    "moc_nho": "real-time, IDE, Java → Copilot, Amazon Q",
+    "vi_sao": "GitHub Copilot và Amazon Q Developer là các công cụ Generative AI được tích hợp trực tiếp vào IDE để cung cấp gợi ý và sửa lỗi mã nguồn theo thời gian thực.",
+    "bay": "B sai vì IntelliJ IDEA là một IDE truyền thống chứa các công cụ hỗ trợ chứ bản thân nó không phải là một công cụ Generative AI."
+  },
+  "115": {
+    "moc_nho": "neural networks → Sigmoid 0-1, update training, activation decide",
+    "vi_sao": "Hàm Sigmoid chuẩn hóa đầu ra về khoảng 0 đến 1, trọng số chỉ được cập nhật trong quá trình huấn luyện và hàm kích hoạt đóng vai trò quyết định thông tin nào được truyền qua neuron.",
+    "bay": "A sai vì trọng số (weights) được khởi tạo ngẫu nhiên hoặc theo các phương pháp như Xavier/He chứ không phải do hàm kích hoạt khởi tạo."
+  },
+  "114": {
+    "moc_nho": "Integrating AI challenges → Data, Training, Costs",
+    "vi_sao": "Tích hợp AI vào chuỗi cung ứng gặp khó khăn về phân tán dữ liệu, chi phí ban đầu cao và nhân viên chưa đủ trình độ để hiểu kết quả phân tích từ AI.",
+    "bay": "D sai vì việc tự động hóa hoàn toàn không có sự giám sát của con người là một rủi ro cực lớn chứ không phải là một mục tiêu hay thách thức thực tế được khuyến khích khi tích hợp AI."
+  },
+  "117": {
+    "moc_nho": "digital transformation → AI, Cloud, IoT",
+    "vi_sao": "Chuyển đổi số luôn gắn liền với các công nghệ hiện đại như trí tuệ nhân tạo, điện toán đám mây và vạn vật kết nối internet thay vì các hệ thống cũ kỹ.",
+    "bay": "B sai vì Legacy Software là phần mềm cũ lỗi thời, là rào cản chứ không phải công nghệ thúc đẩy chuyển đổi số."
+  },
+  "109": {
+    "moc_nho": "AI code review → inefficiencies, coding standards, security",
+    "vi_sao": "AI có thể phân tích cấu trúc mã nguồn để tìm lỗi bảo mật, quy chuẩn và hiệu suất nhưng chưa thể tự sửa lỗi hoàn toàn mà không cần con người can thiệp.",
+    "bay": "D sai vì AI hiện tại không thể tự viết bản sửa lỗi hoàn chỉnh mà không cần đầu vào hay sự kiểm soát của lập trình viên."
+  },
+  "110": {
+    "moc_nho": "Digital transformation → Redesign, AI, Developers",
+    "vi_sao": "Chuyển đổi số bao gồm cả việc thiết kế lại quy trình kinh doanh, tích hợp công nghệ thông minh và sự tham gia của đội ngũ phát triển phần mềm để tạo ra giá trị mới.",
+    "bay": "D sai vì chuyển đổi số đòi hỏi phải thay đổi quy trình kinh doanh chứ không chỉ là áp dụng công cụ mới một cách thụ động."
+  },
+  "112": {
+    "moc_nho": "Future CRM → ACD (Anticipating, Connecting, Data-personalized)",
+    "vi_sao": "Xu hướng CRM tương lai tập trung vào dự báo nhu cầu, kết nối đa nền tảng và cá nhân hóa sâu thay vì loại bỏ hoàn toàn con người.",
+    "bay": "B sai vì AI chỉ hỗ trợ chứ không thay thế hoàn toàn sự tương tác của con người trong dịch vụ khách hàng."
+  },
+  "113": {
+    "moc_nho": "Ethical AI → Audit, Diverse, Transparent",
+    "vi_sao": "Đạo đức trong AI đòi hỏi sự minh bạch, dữ liệu đa dạng để tránh định kiến và phải được kiểm tra định kỳ để đảm bảo tính chính xác.",
+    "bay": "A sai vì vi phạm quyền riêng tư (privacy) không bao giờ là chiến lược đạo đức cho dù để ưu tiên đổi mới."
+  },
+  "116": {
+    "moc_nho": "Generative AI code → Q, GitHub, Microsoft",
+    "vi_sao": "Amazon Q Developer, GitHub Copilot và Microsoft Copilot là các công cụ AI chuyên dụng hỗ trợ viết và tối ưu hóa mã nguồn tự động.",
+    "bay": "C sai vì DALL-E là công cụ tạo hình ảnh từ văn bản chứ không phải công cụ lập trình."
+  },
+  "124": {
+    "moc_nho": "generative AI tool → Completing, Suggestions, Debugging",
+    "vi_sao": "Generative AI hỗ trợ lập trình viên viết tiếp code, gợi ý từ comment và sửa lỗi code nhưng không tự động deploy chương trình lên môi trường production.",
+    "bay": "C sai vì việc tự động deploy lên production là nhiệm vụ của các công cụ CI/CD chứ không thuộc phạm vi hỗ trợ trực tiếp của generative AI sinh mã nguồn."
+  },
+  "119": {
+    "moc_nho": "AI tools → Boilerplate, Debugging, Completion",
+    "vi_sao": "Các công cụ Generative AI hỗ trợ viết mã lặp lại, gợi ý sửa lỗi và hoàn thiện mã dựa trên ngữ cảnh nhưng không thể thay thế hoàn toàn quy trình kiểm thử.",
+    "bay": "B sai vì AI có thể tạo ra lỗi logic nên vẫn cần testing để đảm bảo chất lượng phần mềm."
+  },
+  "127": {
+    "moc_nho": "right software → Validation",
+    "vi_sao": "Validation Testing tập trung vào việc kiểm tra xem chúng ta có xây dựng đúng phần mềm mà khách hàng mong muốn hay không nhằm đáp ứng các yêu cầu đã đề ra.",
+    "bay": "B sai vì Verification Testing tập trung vào câu hỏi liệu chúng ta có xây dựng phần mềm đúng cách hay không (built the product right) thay vì xây dựng đúng phần mềm (built the right software/right)."
+  },
+  "121": {
+    "moc_nho": "AI, IoT, Cloud → A, C, D",
+    "vi_sao": "Việc áp dụng các công nghệ hiện đại nhằm mục đích tối ưu quy trình, tăng hiệu suất và cá nhân hóa trải nghiệm khách hàng thay vì thay thế hoàn toàn con người.",
+    "bay": "B sai vì chuyển đổi số hỗ trợ con người chứ không loại bỏ hoàn toàn sự tham gia của con người trong mọi quy trình."
+  },
+  "120": {
+    "moc_nho": "Detailed essay → Examples, Role, Clear instructions",
+    "vi_sao": "Để tạo bài luận chi tiết bằng GenAI cần cung cấp ngữ cảnh cụ thể qua ví dụ, phân vai người viết và các chỉ dẫn rõ ràng về giới hạn nội dung.",
+    "bay": "A sai vì thuật ngữ mơ hồ như Give me something interesting sẽ khiến AI tạo ra nội dung chung chung không đúng mục tiêu."
+  },
+  "122": {
+    "moc_nho": "buying/sales/employee data → B, C, D",
+    "vi_sao": "Dữ liệu khách hàng giúp cá nhân hóa, dữ liệu bán hàng mang lại thông tin chi tiết để hành động và dữ liệu nhân viên giúp tối ưu quy trình vận hành.",
+    "bay": "A sai vì chuyển đổi số không có nghĩa là thay thế toàn bộ công việc thủ công bằng công nghệ."
+  },
+  "134": {
+    "moc_nho": "Generative AI → Suggesting repetitive boilerplate code",
+    "vi_sao": "Generative AI hỗ trợ lập trình Java hiệu quả nhất bằng cách tự động gợi ý các đoạn mã lặp đi lặp lại như getter, setter hay constructor giúp tiết kiệm thời gian",
+    "bay": "C sai vì AI vẫn cần sự can thiệp và đầu vào từ con người để định hướng chứ không thể tự viết chương trình phức tạp từ"
+  },
+  "128": {
+    "moc_nho": "built the software right → Verification",
+    "vi_sao": "Verification tập trung vào việc kiểm tra xem phần mềm có được xây dựng đúng theo đặc tả kỹ thuật và không có lỗi hay không.",
+    "bay": "A sai vì Validation tập trung vào việc xây dựng đúng sản phẩm người dùng cần (built the right software)."
+  },
+  "135": {
+    "moc_nho": "behavior of a use case → flow of events",
+    "vi_sao": "Hành vi của một use case mô tả chuỗi các bước tương tác giữa tác nhân và hệ thống, do đó nó được đặc tả bằng luồng sự kiện.",
+    "bay": "A sai vì classes chỉ định nghĩa cấu trúc dữ liệu và hành vi của các đối tượng cụ thể chứ không đặc tả hành vi của toàn bộ use case."
+  },
+  "129": {
+    "moc_nho": "beginning a scenario → Preconditions",
+    "vi_sao": "Preconditions là các điều kiện tiên quyết bắt buộc phải đúng trước khi một kịch bản use case có thể bắt đầu thực hiện.",
+    "bay": "A sai vì Initial conditions không phải là thuật ngữ chuẩn được sử dụng trong đặc tả use case của UML."
+  },
+  "130": {
+    "moc_nho": "Integrating AI → Compatibility legacy software",
+    "vi_sao": "Khi đưa AI vào hệ thống cũ, thách thức lớn nhất là đảm bảo công nghệ mới tương thích và hoạt động trơn tru với các phần mềm cũng như quy trình hiện có.",
+    "bay": "B sai vì AI thường hỗ trợ hoặc tự động hóa một phần chứ hiếm khi loại bỏ hoàn toàn mọi quy trình thủ công ngay lập tức."
+  },
+  "131": {
+    "moc_nho": "AI enhances CRM → personalized experiences",
+    "vi_sao": "AI trong quản trị quan hệ khách hàng tập trung vào việc khai phá dữ liệu để cá nhân hóa trải nghiệm và dự đoán nhu cầu tương lai.",
+    "bay": "B sai vì AI chỉ hỗ trợ chứ không loại bỏ hoàn toàn sự tương tác của con người trong dịch vụ khách hàng."
+  },
+  "132": {
+    "moc_nho": "Amazon Q → suggestions, fixes, debugging",
+    "vi_sao": "Đây là công cụ AI hỗ trợ lập trình viên trong toàn bộ chu trình phát triển mã nguồn từ gợi ý đến tối ưu hóa và sửa lỗi.",
+    "bay": "C sai vì Amazon Q tập trung vào hỗ trợ lập trình hơn là tự động hóa quy trình triển khai hạ tầng."
+  },
+  "139": {
+    "moc_nho": "refactoring tools → Detecting redundant code",
+    "vi_sao": "Các công cụ refactoring tích hợp AI có khả năng phân tích cú pháp và ngữ nghĩa của mã nguồn để phát hiện ra những đoạn mã thừa hoặc trùng lặp nhằm đề xuất loại bỏ chúng giúp tối ưu hóa hệ thống.",
+    "bay": "A sai vì AI không tự ý viết lại logic nghiệp vụ của doanh nghiệp khi không có đầu vào hoặc yêu cầu cụ thể từ lập trình viên."
+  },
+  "138": {
+    "moc_nho": "scaling AI, large data, high demand → Real-time data processing",
+    "vi_sao": "Khi mở rộng hệ thống AI để xử lý lượng dữ liệu khổng lồ và lượng người dùng truy cập cao cùng lúc, thách thức lớn nhất là phải xử lý dữ liệu và đưa ra phản hồi theo thời gian thực để đảm bảo trải nghiệm người dùng không bị trễ.",
+    "bay": "B sai vì việc làm sạch và tiền xử lý dữ liệu chủ yếu là thách thức trong giai đoạn chuẩn bị dữ liệu huấn luyện chứ không phải là thách thức chính khi hệ thống đang vận hành thực tế ở quy mô lớn."
+  },
+  "141": {
+    "moc_nho": "reducing complexity → clear design goals",
+    "vi_sao": "Mục tiêu thiết kế rõ ràng giúp định hình cấu trúc hệ thống chuẩn xác từ đầu, từ đó trực tiếp giảm thiểu sự phức tạp không cần thiết trong quá trình thiết kế.",
+    "bay": "B sai vì work breakdown structure chỉ là việc phân chia công việc trong quản lý dự án chứ không tác động trực tiếp đến việc giảm độ phức tạp của kiến trúc hệ thống."
+  },
+  "143": {
+    "moc_nho": "prepared, equipped, motivated → Change Management",
+    "vi_sao": "Change Management là lĩnh vực tập trung vào yếu tố con người, giúp nhân viên chuẩn bị sẵn sàng, trang bị đầy đủ và có động lực để thích ứng với các thay đổi công nghệ mới.",
+    "bay": "B sai vì Operational Processes chỉ tập trung vào việc tối ưu hóa quy trình vận hành kỹ thuật chứ không giải quyết khía cạnh con người và tâm lý nhân viên."
+  },
+  "148": {
+    "moc_nho": "high-risk AI → EU AI Act",
+    "vi_sao": "European Union's AI Act là đạo luật toàn diện đầu tiên trên thế giới phân loại và quản lý chặt chẽ các ứng dụng AI theo mức độ rủi ro bao gồm cả nhóm high-risk.",
+    "bay": "A sai vì AI Bill of Rights của Mỹ chỉ là bộ nguyên tắc hướng dẫn phi ràng buộc chứ không phải là luật bắt buộc để quản lý ứng dụng AI."
+  },
+  "150": {
+    "moc_nho": "software development plan, first task → define the scope",
+    "vi_sao": "Để lập kế hoạch phát triển phần mềm hiệu quả thì việc đầu tiên luôn là xác định phạm vi dự án nhằm biết rõ giới hạn công việc cần làm trước khi phân bổ nguồn lực hay lập lịch biểu.",
+    "bay": "D sai vì không thể lập lịch biểu chi tiết khi chưa biết rõ phạm vi công việc của dự án gồm những gì."
+  },
+  "151": {
+    "moc_nho": "simple loop → minimum 7",
+    "vi_sao": "Theo phương pháp kiểm thử vòng lặp đơn giản của Beizer, chúng ta cần tối thiểu 7 ca kiểm thử bao gồm các trường hợp bỏ qua vòng lặp, đi qua vòng lặp 1 lần, 2 lần, m lần, n-1 lần, n lần và n+1 lần.",
+    "bay": "B sai vì 3 chỉ là số ca kiểm thử tối thiểu cho một nhánh điều kiện thông thường chứ không đủ bao phủ các biên đặc thù của cấu trúc vòng lặp."
+  },
+  "147": {
+    "moc_nho": "phased-release → full system; partial functionality",
+    "vi_sao": "Quy trình phased-release trong phát triển lặp nghĩa là bàn giao toàn bộ hệ thống ngay từ đầu nhưng chỉ kích hoạt hoặc hoàn thiện một phần chức năng ở mỗi giai đoạn.",
+    "bay": "B sai vì partial system thường mô tả cho phương thức bàn giao incremental phát triển từng phần của hệ thống chứ không phải phased-release cho toàn bộ hệ thống."
+  },
+  "149": {
+    "moc_nho": "invisible foundation → Cloud Computing",
+    "vi_sao": "Cloud Computing cung cấp hạ tầng máy chủ ảo và tài nguyên lưu trữ vô hình nhưng là nền tảng cốt lõi giúp doanh nghiệp mở rộng quy mô và cộng tác từ xa dễ dàng.",
+    "bay": "A sai vì Blockchain thường được gắn liền với các thuật ngữ về bảo mật, phi tập trung và minh bạch chứ không phải là nền tảng vô hình cho vận hành doanh nghiệp nói chung."
+  },
+  "156": {
+    "moc_nho": "nonfunctional requirement → constraint",
+    "vi_sao": "Yêu cầu phi chức năng luôn đặt ra các ràng buộc hay giới hạn cho các use case hoặc toàn bộ hệ thống.",
+    "bay": "A sai vì condition thường là điều kiện tiên quyết để thực hiện use case chứ không phải bản chất của yêu cầu phi chức năng."
+  },
+  "158": {
+    "moc_nho": "alternative flow → cannot show shared",
+    "vi_sao": "Luồng thay thế chỉ mô tả các hành vi ngoại lệ, tùy chọn hoặc lỗi của một use case cụ thể chứ không dùng để thể hiện hành vi chia sẻ chung giữa các use case.",
+    "bay": "A sai vì exceptional flow chính là một dạng luồng thay thế phổ biến để xử lý ngoại lệ."
+  },
+  "152": {
+    "moc_nho": "AI tools, analytics, training → Technology, Data, Change management",
+    "vi_sao": "Công cụ AI đại diện cho Technology, phân tích xu hướng bán hàng đại diện cho Data, và đào tạo nhân viên thích ứng quy trình mới đại diện cho Change management.",
+    "bay": "A sai vì training sessions để chuẩn bị cho nhân viên thích ứng quy trình mới thuộc về Change management chứ không đơn thuần là thay đổi Process cơ học."
+  },
+  "157": {
+    "moc_nho": "required functionality → use cases",
+    "vi_sao": "Trong công nghệ phần mềm, tất cả các chức năng yêu cầu của hệ thống thường được mô tả chi tiết và trực quan nhất thông qua các use case.",
+    "bay": "E sai vì task description thường chỉ mô tả các công việc kỹ thuật nhỏ của lập trình viên chứ không đại diện cho toàn bộ chức năng hệ thống đứng từ góc nhìn người dùng."
+  },
+  "164": {
+    "moc_nho": "SEI-CMM and PCMM → assess and improve practices",
+    "vi_sao": "Cả hai mô hình trưởng thành năng lực này đều được thiết kế để đánh giá hiện trạng và cải tiến liên tục các quy trình hoạt động của tổ chức.",
+    "bay": "D sai vì mục đích chính của các mô hình này là đánh giá và cải tiến quy trình hiện tại dựa trên khung chuẩn có sẵn chứ không phải là tự đi xây dựng các best practices mới."
+  },
+  "146": {
+    "moc_nho": "phased-release → partial system; full functionality",
+    "vi_sao": "Quy trình này phát hành từng phần của hệ thống nhưng mỗi phần khi ra mắt đều phải đảm bảo đầy đủ chức năng đã cam kết cho phân đoạn đó.",
+    "bay": "B sai vì partial functionality thường ám chỉ chức năng chưa hoàn thiện, không phù hợp với mục tiêu phát hành sản phẩm sử dụng được ngay."
+  },
+  "166": {
+    "moc_nho": "Neural networks → behavior of the human brain",
+    "vi_sao": "Neural networks hay mạng nơ-ron được xây dựng dựa trên việc mô phỏng cấu trúc và cách hoạt động sinh học của bộ não con người.",
+    "bay": "B sai vì mạng nơ-ron là mô hình toán học mô phỏng não bộ chứ không phải là việc cắm dây kết nối trực tiếp vật lý giữa não người và máy tính."
+  },
+  "155": {
+    "moc_nho": "use case → user's point of view",
+    "vi_sao": "Use case mô tả các chức năng hệ thống dựa trên sự tương tác và mong muốn của người dùng cuối thay vì góc nhìn kỹ thuật.",
+    "bay": "B sai vì developer tập trung vào cách cài đặt mã nguồn chứ không phải hành vi tổng quát của hệ thống."
+  },
+  "159": {
+    "moc_nho": "Actor - Use case → association",
+    "vi_sao": "Trong biểu đồ use case, mối quan hệ duy nhất được phép kết nối giữa Actor và Use case là đường kẻ biểu thị sự tương tác trực tiếp.",
+    "bay": "B sai vì dependency chỉ dùng để mô tả sự phụ thuộc giữa các use case hoặc các lớp, không dùng nối Actor."
+  },
+  "165": {
+    "moc_nho": "domain modeling → classes and associations",
+    "vi_sao": "Mô hình miền tập trung vào việc biểu diễn cấu trúc dữ liệu tĩnh thông qua các lớp và mối quan hệ giữa chúng trong không gian vấn đề.",
+    "bay": "B sai vì functional requirements mô tả hành vi hệ thống chứ không phải cấu trúc thực thể như domain model."
+  },
+  "163": {
+    "moc_nho": "interface → operations",
+    "vi_sao": "Trong UML, interface của một đối tượng định nghĩa các hành vi hoặc dịch vụ mà đối tượng đó cung cấp ra bên ngoài thông qua các phương thức.",
+    "bay": "A sai vì attributes thuộc về cấu trúc dữ liệu nội tại của class chứ không phải giao diện tương tác."
+  },
+  "170": {
+    "moc_nho": "code is checked → white box",
+    "vi_sao": "White box testing cho phép người kiểm thử nhìn thấy cấu trúc mã nguồn bên trong và kiểm tra trực tiếp các dòng code đó.",
+    "bay": "A sai vì black box testing chỉ kiểm tra chức năng bên ngoài mà không được phép nhìn hay kiểm tra mã nguồn bên trong."
+  },
+  "167": {
+    "moc_nho": "day of the week → 8",
+    "vi_sao": "Ngoài 7 ngày trong tuần cần thêm 1 giá trị sai để kiểm tra tính đúng đắn của dữ liệu đầu vào.",
+    "bay": "B sai vì chỉ tính các trường hợp hợp lệ mà quên mất trường hợp ngoại lệ."
+  },
+  "172": {
+    "moc_nho": "state-based testing → state machine diagrams",
+    "vi_sao": "Kiểm thử dựa trên trạng thái state-based testing sử dụng biểu đồ máy trạng thái state machine diagrams để mô tả các trạng thái của hệ thống và chuyển đổi giữa chúng.",
+    "bay": "A sai vì use case model chỉ tập trung vào hành vi tương tác của người dùng với hệ thống chứ không biểu diễn chi tiết các trạng thái bên trong."
+  },
+  "168": {
+    "moc_nho": "less than a second → nonfunctional",
+    "vi_sao": "Yêu cầu về tốc độ xử lý hoặc hiệu năng thuộc nhóm thuộc tính chất lượng thay vì mô tả chức năng nghiệp vụ cụ thể.",
+    "bay": "A sai vì functional chỉ tập trung vào việc hệ thống làm gì chứ không phải làm nhanh hay chậm."
+  },
+  "175": {
+    "moc_nho": "integrating AI CRM → seamless data flow",
+    "vi_sao": "Việc kết nối AI vào hệ thống CRM sẵn có gặp khó khăn lớn nhất ở khâu đồng bộ và truyền tải dữ liệu mượt mà giữa hai nền tảng.",
+    "bay": "A sai vì mục tiêu là tích hợp (integrating) chứ không phải thay thế hoàn toàn hệ thống cũ."
+  },
+  "176": {
+    "moc_nho": "Ethical or regulatory → GDPR",
+    "vi_sao": "Quy định pháp lý và đạo đức hàng đầu trong triển khai AI hiện nay liên quan chặt chẽ đến việc bảo vệ dữ liệu cá nhân và quyền riêng tư theo các bộ luật quốc tế.",
+    "bay": "C sai vì đây là thách thức kỹ thuật và đạo đức nội bộ, không mang tính ràng buộc pháp lý (regulatory) mạnh mẽ như luật GDPR."
+  },
+  "179": {
+    "moc_nho": "Generative AI → Reducing repetitive",
+    "vi_sao": "AI hỗ trợ tự động hóa các đoạn mã lặp đi lặp lại giúp tăng năng suất lập trình viên.",
+    "bay": "A sai vì AI không thể đảm bảo ứng dụng hoàn toàn không có lỗi."
+  },
+  "184": {
+    "moc_nho": "ethical challenge → GDPR",
+    "vi_sao": "Tuân thủ các luật bảo vệ dữ liệu như GDPR là một thách thức đạo đức và pháp lý cốt lõi khi triển khai các hệ thống AI xử lý dữ liệu người dùng.",
+    "bay": "D sai vì việc đảm bảo AI không bao giờ mắc lỗi là điều không thể thực hiện được trong thực tế, đây là mục tiêu không khả thi chứ không phải thách thức đạo đức chuẩn mực."
+  },
+  "178": {
+    "moc_nho": "decision trees → easy interpret visualize",
+    "vi_sao": "Cấu trúc cây phân cấp giúp con người dễ dàng đọc hiểu luồng quyết định và minh họa bằng hình ảnh trực quan.",
+    "bay": "D sai vì decision trees rất dễ bị overfitting nếu cây phát triển quá sâu mà không được cắt tỉa."
+  },
+  "185": {
+    "moc_nho": "custom software → development effort is high",
+    "vi_sao": "Phần mềm viết theo yêu cầu riêng của khách hàng luôn đòi hỏi nhiều công sức phát triển từ đầu thay vì có sẵn như phần mềm thương mại đóng gói.",
+    "bay": "B sai vì nghiên cứu thị trường là nguồn yêu cầu của phần mềm thương mại đại chúng chứ không phải phần mềm viết theo yêu cầu riêng."
+  },
+  "214": {
+    "moc_nho": "multiplicity → number of objects",
+    "vi_sao": "Multiplicity trong UML xác định số lượng thực thể của một lớp có thể liên kết với một thực thể của lớp khác.",
+    "bay": "B sai vì multiplicity đếm số lượng object cụ thể chứ không phải đếm số lượng class tham gia vào mối quan hệ."
+  },
+  "215": {
+    "moc_nho": "AI contribution → Automating processes",
+    "vi_sao": "AI đóng vai trò cốt lõi trong chuyển đổi số bằng cách tự động hóa các quy trình lặp đi lặp lại để tối ưu hóa hiệu suất vận hành của tổ chức.",
+    "bay": "A sai vì AI chỉ hỗ trợ hoặc thay thế một phần chứ không thể thay thế hoàn toàn mọi vai trò của con người."
+  },
+  "218": {
+    "moc_nho": "Integration → interaction among components",
+    "vi_sao": "Kiểm thử tích hợp tập trung vào việc kiểm tra cách các thành phần riêng lẻ phối hợp và tương tác với nhau khi được ghép nối.",
+    "bay": "C sai vì validating user requirements là mục tiêu của Acceptance testing chứ không phải Integration testing."
+  },
+  "221": {
+    "moc_nho": "purpose of testing → has defects",
+    "vi_sao": "Kiểm thử phần mềm được thiết kế để tìm ra lỗi thay vì chứng minh sự vắng mặt của lỗi.",
+    "bay": "A sai vì không có quá trình kiểm thử nào có thể khẳng định phần mềm hoàn toàn sạch lỗi."
+  },
+  "226": {
+    "moc_nho": "Observer → notify updates",
+    "vi_sao": "Design pattern Observer được thiết kế để định nghĩa mối quan hệ một-nhiều giữa các đối tượng sao cho khi một đối tượng thay đổi trạng thái thì tất cả các đối tượng phụ thuộc của nó đều được thông báo và tự động cập nhật.",
+    "bay": "D sai vì encapsulate how a set of objects interact là định nghĩa của Mediator pattern chứ không phải Observer."
+  },
+  "225": {
+    "moc_nho": "Strategy → family of algorithms",
+    "vi_sao": "Strategy cho phép đóng gói một nhóm các thuật toán có thể thay thế lẫn nhau để thay đổi hành vi tại thời điểm thực thi.",
+    "bay": "C sai vì decouple abstraction và implementation là định nghĩa của Bridge pattern."
+  },
+  "235": {
+    "moc_nho": "Generative AI → copyrighted material",
+    "vi_sao": "AI tạo mã nguồn dựa trên dữ liệu huấn luyện có sẵn nên có nguy cơ vi phạm bản quyền hoặc sao chép tài sản trí tuệ của bên khác.",
+    "bay": "C sai vì AI chỉ hỗ trợ chứ không bao giờ thay thế được sự giám sát của lập trình viên để đảm bảo an toàn và logic."
+  },
+  "244": {
+    "moc_nho": "AI → ML subset → Learn from data",
+    "vi_sao": "Machine Learning là một lĩnh vực con của trí tuệ nhân tạo tập trung vào việc huấn luyện hệ thống tự học từ dữ liệu thay vì lập trình cứng.",
+    "bay": "B sai vì bị ngược phân cấp khi khẳng định AI nằm trong ML."
+  },
+  "246": {
+    "moc_nho": "AI tool benefits → early, efficiency, learning",
+    "vi_sao": "Công cụ Generative AI hỗ trợ lập trình viên tối ưu hóa quy trình làm việc thông qua việc tự động hóa, sửa lỗi và cung cấp tài liệu học tập thay vì thay thế hoàn toàn con người.",
+    "bay": "A sai vì AI hiện tại chỉ hỗ trợ (assist) chứ chưa thể thay thế hoàn toàn việc viết mã thủ công (complete elimination)."
+  },
+  "249": {
+    "moc_nho": "Waterfall → disciplined",
+    "vi_sao": "Mô hình Waterfall yêu cầu quy trình nghiêm ngặt theo từng giai đoạn cố định và có hệ thống tài liệu rõ ràng nên tính kỷ luật rất cao.",
+    "bay": "B sai vì Waterfall phát triển theo dạng tuần tự chứ không phải tăng trưởng theo từng phần như Incremental."
+  },
+  "275": {
+    "moc_nho": "Amazon Q Developer boilerplate → analyzing project structure",
+    "vi_sao": "Công cụ này hiểu ngữ cảnh dự án hiện tại để tạo ra các thành phần Controller, Service và Repository phù hợp với kiến trúc có sẵn.",
+    "bay": "B sai vì Amazon Q Developer không tự động tạo toàn bộ ứng dụng mà không cần con người kiểm tra lại."
+  },
+  "182": {
+    "moc_nho": "GenAI → patterns in training data",
+    "vi_sao": "Generative AI hoạt động dựa trên việc học và phân tích các mẫu dữ liệu khổng lồ để dự đoán nội dung tiếp theo.",
+    "bay": "C sai vì AI tạo mã dựa trên xác suất mẫu hình thay vì tự đoán logic tùy tiện."
+  },
+  "180": {
+    "moc_nho": "GenAI code review → automating bug identification",
+    "vi_sao": "GenAI hỗ trợ đắc lực trong việc quét nhanh các lỗi tiềm ẩn mà con người có thể bỏ sót.",
+    "bay": "B sai vì AI chỉ hỗ trợ chứ không thay thế hoàn toàn vai trò kiểm soát chất lượng của lập trình viên."
+  },
+  "181": {
+    "moc_nho": "AI deployment → Data privacy",
+    "vi_sao": "Việc bảo mật thông tin và quyền riêng tư của dữ liệu là yêu cầu đạo đức quan trọng nhất khi áp dụng trí tuệ nhân tạo.",
+    "bay": "B sai vì việc tự động hóa hoàn toàn mà thiếu sự kiểm soát của con người là hành vi thiếu trách nhiệm."
+  },
+  "187": {
+    "moc_nho": "Amazon Q setup → Register on portal",
+    "vi_sao": "Việc đăng ký tài khoản trên cổng thông tin chính thức là bước xác thực bắt buộc trước khi có thể tích hợp vào IDE.",
+    "bay": "A sai vì bạn cần tài khoản hợp lệ trên portal trước khi có thể cài đặt và kích hoạt plugin trong IDE."
+  },
+  "186": {
+    "moc_nho": "Compliance AI → legal, data privacy",
+    "vi_sao": "Compliance đảm bảo hệ thống tuân thủ các quy định pháp lý và bảo vệ thông tin người dùng.",
+    "bay": "A sai vì compliance không nhằm mục đích loại bỏ sự giám sát của con người."
+  },
+  "183": {
+    "moc_nho": "GenAI code review → highlight inefficiencies, suggest improvements",
+    "vi_sao": "GenAI đóng vai trò hỗ trợ con người bằng cách phát hiện các điểm chưa tối ưu và đề xuất mã nguồn tốt hơn thay vì tự động quyết định thay thế con người.",
+    "bay": "C sai vì GenAI chỉ mang tính tham khảo, không thể đảm bảo tuyệt đối tuân thủ mọi coding standards trong mọi ngữ cảnh phức tạp."
+  },
+  "188": {
+    "moc_nho": "Association class → relationship has properties",
+    "vi_sao": "Association class được dùng để lưu trữ các thuộc tính bổ sung của mối quan hệ giữa hai lớp.",
+    "bay": "A sai vì quan hệ N:M chỉ cần class trung gian chứ không bắt buộc dùng association class."
+  },
+  "189": {
+    "moc_nho": "nested loop testing → inner first, outer at minimum",
+    "vi_sao": "Để cô lập logic vòng lặp trong, ta cần giữ vòng lặp ngoài ở giá trị khởi tạo nhỏ nhất nhằm tránh các tương tác phức tạp từ đầu.",
+    "bay": "C sai vì giá trị lớn nhất thường được dùng để kiểm tra biên của vòng lặp ngoài sau khi đã test xong vòng lặp trong."
+  },
+  "190": {
+    "moc_nho": "AI refactoring → identifying simplification opportunities",
+    "vi_sao": "AI đóng vai trò trợ lý hỗ trợ phân tích và gợi ý các điểm cần cải thiện mã nguồn chứ không thay thế hoàn toàn tư duy con người.",
+    "bay": "B sai vì AI không bao giờ được phép bỏ qua sự kiểm soát của con người trong quy trình phát triển phần mềm."
+  },
+  "191": {
+    "moc_nho": "GenAI code review → automating detection of inefficiencies",
+    "vi_sao": "Công nghệ AI hỗ trợ tăng tốc độ và chất lượng bằng cách tự động quét các điểm chưa tối ưu trong mã nguồn.",
+    "bay": "B sai vì AI chỉ hỗ trợ chứ không thay thế hoàn toàn được sự giám sát của con người."
+  },
+  "192": {
+    "moc_nho": "Amazon Q prompt → describe in natural language",
+    "vi_sao": "Để Amazon Q hiểu yêu cầu và tạo mã chính xác, bạn cần mô tả chức năng mong muốn thông qua ngôn ngữ tự nhiên.",
+    "bay": "D sai vì việc sao chép mã nguồn khác không phải là cách tối ưu để ra lệnh cho AI tạo mã mới từ đầu."
+  },
+  "193": {
+    "moc_nho": "AI code review → automated code inspection",
+    "vi_sao": "AI hỗ trợ rà soát mã nguồn bằng cách tự động phát hiện lỗi và đề xuất cải tiến thay vì thay thế hoàn toàn con người.",
+    "bay": "A sai vì AI không thể đảm bảo code hoàn toàn không có lỗi."
+  },
+  "195": {
+    "moc_nho": "Amazon Q refactor → identify redundant code",
+    "vi_sao": "Amazon Q hỗ trợ phân tích và chỉ ra các đoạn mã dư thừa hoặc kém hiệu quả để lập trình viên tối ưu hóa.",
+    "bay": "A sai vì AI không bao giờ tự ý xóa code mà không có sự phê duyệt của người dùng."
+  },
+  "194": {
+    "moc_nho": "GenAI → patterns and features",
+    "vi_sao": "GenAI học bằng cách phân tích và trích xuất các đặc trưng từ dữ liệu khổng lồ để tạo nội dung mới thay vì sao chép.",
+    "bay": "B sai vì mô hình không sao chép nguyên văn dữ liệu từ tập huấn luyện mà chỉ học cấu trúc của chúng."
+  },
+  "196": {
+    "moc_nho": "Amazon Q explain → breaks code into smaller parts",
+    "vi_sao": "Amazon Q sử dụng AI để phân tích và diễn giải các đoạn mã phức tạp thành những phần nhỏ logic giúp lập trình viên dễ nắm bắt hơn.",
+    "bay": "D sai vì không có công cụ nào đảm bảo sự hiểu biết hoàn hảo tuyệt đối cho mọi lập trình viên."
+  },
+  "197": {
+    "moc_nho": "few-shot prompting → providing a few examples",
+    "vi_sao": "Kỹ thuật few-shot dựa trên việc đưa ra một số lượng nhỏ các mẫu đầu vào để AI học theo khuôn mẫu đó.",
+    "bay": "A và C sai vì đây là mô tả của zero-shot prompting, tức là yêu cầu thực hiện mà không có ví dụ đi kèm."
+  },
+  "198": {
+    "moc_nho": "State machine → triggers a transition",
+    "vi_sao": "Biểu đồ trạng thái chỉ phản ứng với các sự kiện làm thay đổi trạng thái hiện tại thông qua việc kích hoạt chuyển đổi.",
+    "bay": "A sai vì không phải mọi sự kiện xảy ra đều tác động đến luồng trạng thái của đối tượng."
+  },
+  "199": {
+    "moc_nho": "decision tree new data → overfitting, too many splits",
+    "vi_sao": "Mô hình quá phức tạp với nhiều nhánh cây sẽ học thuộc lòng dữ liệu cũ thay vì tổng quát hóa cho dữ liệu mới.",
+    "bay": "C sai vì thêm quy tắc không giải quyết được vấn đề dữ liệu mới mà chỉ làm mô hình phức tạp hơn."
+  },
+  "200": {
+    "moc_nho": "Scale AI model → Data privacy and security",
+    "vi_sao": "Khi mở rộng quy mô hệ thống AI, bảo mật dữ liệu là yêu cầu tiên quyết để đảm bảo tính toàn vẹn và tuân thủ pháp lý.",
+    "bay": "A sai vì cắt giảm dữ liệu sẽ làm giảm độ chính xác và hiệu năng của mô hình AI."
+  },
+  "201": {
+    "moc_nho": "Milestone → Management decision point",
+    "vi_sao": "Milestone là các điểm kiểm soát quan trọng giúp quản lý đánh giá tiến độ và đưa ra quyết định tiếp theo.",
+    "bay": "D sai vì project completion là kết thúc dự án chứ không phải là điểm kiểm soát trong quá trình."
+  },
+  "203": {
+    "moc_nho": "Inventory optimization → Predictive analytics",
+    "vi_sao": "Dự báo nhu cầu chính xác giúp tối ưu hóa lượng hàng tồn kho hiệu quả nhất.",
+    "bay": "D sai vì chatbot chỉ hỗ trợ khách hàng chứ không giúp quản lý tồn kho."
+  },
+  "204": {
+    "moc_nho": "interface abstraction → understanding the system",
+    "vi_sao": "Việc che giấu chi tiết cài đặt qua interface giúp người dùng dễ dàng nắm bắt chức năng mà không cần đọc hiểu toàn bộ mã nguồn phức tạp.",
+    "bay": "A sai vì abstraction tập trung vào việc hiểu cấu trúc hiện tại hơn là quá trình tư duy thiết kế ban đầu."
+  },
+  "202": {
+    "moc_nho": "Cohesive → responsibilities related",
+    "vi_sao": "Tính gắn kết (cohesion) cao nhất khi một class tập trung thực hiện các nhiệm vụ có liên quan chặt chẽ với nhau.",
+    "bay": "C sai vì ít phụ thuộc (low coupling) là đặc điểm của tính độc lập, không phải tính gắn kết."
+  },
+  "205": {
+    "moc_nho": "Event trong State Machine → Time passage",
+    "vi_sao": "Trong State Machine Diagram, sự kiện thời gian (Time Event) thể hiện việc một khoảng thời gian cụ thể đã trôi qua.",
+    "bay": "A sai vì hoàn thành activity là hành động nội tại, không phải là event kích hoạt chuyển trạng thái."
+  },
+  "208": {
+    "moc_nho": "Boundary values → errors likely to occur",
+    "vi_sao": "Các lỗi phần mềm thường xuất hiện tại điểm biên của miền giá trị thay vì ở giữa.",
+    "bay": "A sai vì giá trị biên không phải lúc nào cũng dễ xác định hơn giá trị thường."
+  },
+  "206": {
+    "moc_nho": "Encapsulation → Maintenance",
+    "vi_sao": "Đóng gói giúp tách biệt thay đổi trong module nên việc bảo trì, sửa lỗi sẽ không ảnh hưởng đến các phần khác.",
+    "bay": "E sai vì đóng gói giúp cô lập logic bên trong, làm giảm sự hiểu biết cần thiết về chi tiết thực thi nhưng bảo trì mới là mục đích chính của việc giảm độ phức tạp."
+  },
+  "207": {
+    "moc_nho": "Basis path testing → all statements",
+    "vi_sao": "Phương pháp này đảm bảo thực thi mọi câu lệnh ít nhất một lần bằng cách tính toán số đường đi độc lập tối thiểu.",
+    "bay": "B sai vì việc kiểm thử mọi vòng lặp chỉ là một phần nhỏ của cấu trúc điều khiển mà basis path testing bao phủ."
+  },
+  "210": {
+    "moc_nho": "defensive programming → not let input crash program",
+    "vi_sao": "Kỹ thuật này tập trung vào việc xử lý dữ liệu đầu vào không hợp lệ để đảm bảo hệ thống vẫn hoạt động ổn định thay vì bị treo.",
+    "bay": "A, C, E sai vì đây là các biện pháp bảo mật hoặc quản lý dự án, không liên quan đến kỹ thuật lập trình phòng thủ."
+  },
+  "209": {
+    "moc_nho": "reviews/inspections → Yes, both detect faults",
+    "vi_sao": "Cả review và testing đều là kỹ thuật kiểm chứng giúp phát hiện sớm khiếm khuyết để nâng cao chất lượng phần mềm.",
+    "bay": "A sai vì dù thực hiện trước nhưng review vẫn được coi là một dạng kiểm thử tĩnh."
+  },
+  "212": {
+    "moc_nho": "two classes → yes, multiple associations always possible",
+    "vi_sao": "UML cho phép tạo nhiều association giữa hai lớp nếu chúng biểu diễn các vai trò hoặc ý nghĩa khác nhau trong hệ thống.",
+    "bay": "D sai vì mô hình UML không giới hạn số lượng mối quan hệ giữa các cặp đối tượng."
+  },
+  "211": {
+    "moc_nho": "quality design goals → reducing complexity of designing",
+    "vi_sao": "Mục tiêu thiết kế tốt ngay từ đầu giúp đơn giản hóa quá trình kiến trúc và xây dựng cấu trúc hệ thống.",
+    "bay": "E sai vì mục tiêu thiết kế giúp tạo ra hệ thống đơn giản chứ không trực tiếp làm việc hiểu hệ thống trở nên dễ dàng hơn."
+  },
+  "219": {
+    "moc_nho": "System analysis → adapt requirements",
+    "vi_sao": "Mục tiêu của phân tích thiết kế là điều chỉnh các yêu cầu nghiệp vụ sao cho phù hợp với môi trường kỹ thuật và công nghệ thực tế.",
+    "bay": "A sai vì xác định chi phí thuộc về quản lý dự án, không phải mục đích cốt lõi của việc thiết kế hệ thống."
+  },
+  "216": {
+    "moc_nho": "Software modeling → deal with complexity",
+    "vi_sao": "Mô hình hóa giúp đơn giản hóa hệ thống phức tạp để con người dễ hiểu và quản lý hơn.",
+    "bay": "A sai vì mô hình hóa không trực tiếp giảm khối lượng công việc cho đội dự án."
+  },
+  "222": {
+    "moc_nho": "Data flow testing → Program variables",
+    "vi_sao": "Data flow testing tập trung kiểm soát vòng đời và giá trị của các biến từ lúc khởi tạo đến khi sử dụng trong mã nguồn.",
+    "bay": "A sai vì kiểm thử luồng dữ liệu không giới hạn phạm vi vào cơ sở dữ liệu mà tập trung vào logic tính toán bên trong chương trình."
+  },
+  "223": {
+    "moc_nho": "cyclomatic complexity → safety, error free",
+    "vi_sao": "Độ phức tạp chương trình càng cao thì khả năng phát sinh lỗi càng lớn, ảnh hưởng trực tiếp đến tính an toàn của phần mềm.",
+    "bay": "A sai vì usability phụ thuộc vào giao diện người dùng chứ không phải độ phức tạp logic bên trong code."
+  },
+  "213": {
+    "moc_nho": "Neural network → Patterns and features extraction",
+    "vi_sao": "Mạng thần kinh hoạt động bằng cách học và trích xuất đặc trưng từ dữ liệu đầu vào để dự đoán kết quả.",
+    "bay": "D sai vì mạng thần kinh cần qua nhiều lớp xử lý mới đưa ra kết quả cuối cùng chứ không tức thì."
+  },
+  "220": {
+    "moc_nho": "Refactoring → Improve internal structure",
+    "vi_sao": "Refactoring tập trung vào việc cải thiện cấu trúc mã nguồn mà không làm thay đổi hành vi bên ngoài của hệ thống.",
+    "bay": "B sai vì việc sửa code để tìm lỗi là debugging chứ không phải refactoring."
+  },
+  "224": {
+    "moc_nho": "Mediator → encapsulate interaction",
+    "vi_sao": "Mediator đóng vai trò trung gian giúp các đối tượng không cần gọi trực tiếp nhau mà thông qua một bộ điều phối tập trung.",
+    "bay": "A sai vì mô tả chức năng của Facade pattern nhằm cung cấp giao diện thống nhất cho hệ thống con."
+  },
+  "227": {
+    "moc_nho": "statement coverage → No, does NOT guarantee all defects found",
+    "vi_sao": "Việc thực thi mọi câu lệnh không thể phát hiện các lỗi logic tiềm ẩn hoặc các trường hợp dữ liệu chưa được kiểm thử.",
+    "bay": "A sai vì testing không bao giờ tìm được 100% mọi lỗi (exhaustively testing)."
+  },
+  "229": {
+    "moc_nho": "Digital transformation → insights drive decisions",
+    "vi_sao": "Dữ liệu là tài sản chiến lược giúp doanh nghiệp hiểu rõ tình hình thực tế để đưa ra các quyết định chính xác và tối ưu quy trình.",
+    "bay": "A sai vì chuyển đổi số đòi hỏi khả năng xử lý dữ liệu thời gian thực thay vì chỉ nhìn vào quá khứ."
+  },
+  "230": {
+    "moc_nho": "AI tools → code explanations and optimizations",
+    "vi_sao": "Công cụ AI hỗ trợ lập trình viên bằng cách phân tích mã nguồn và đưa ra các gợi ý cải tiến hiệu quả.",
+    "bay": "A sai vì AI chỉ là công cụ hỗ trợ chứ không thay thế hoàn toàn tư duy của con người."
+  },
+  "231": {
+    "moc_nho": "verbose switch → replace with enum",
+    "vi_sao": "Sử dụng Enum kết hợp đa hình giúp loại bỏ switch, giúp mã nguồn sạch hơn và dễ mở rộng khi thêm ngày mới.",
+    "bay": "B sai vì nested if-else khiến code trở nên rối rắm và khó bảo trì hơn so với switch ban đầu."
+  },
+  "232": {
+    "moc_nho": "synchronized blocks → redundant synchronization",
+    "vi_sao": "Việc dùng nhiều khối đồng bộ hóa liên tiếp trên cùng một đối tượng gây lãng phí tài nguyên và làm giảm hiệu năng thực thi.",
+    "bay": "A sai vì từ khóa this được dùng đúng mục đích tham chiếu đến đối tượng hiện tại."
+  },
+  "233": {
+    "moc_nho": "AI documentation → auto-generate and maintain docs",
+    "vi_sao": "Mục đích cốt lõi của AI trong tài liệu là duy trì sự đồng bộ giữa mã nguồn và tài liệu kỹ thuật một cách tự động.",
+    "bay": "B sai vì việc hỗ trợ con người chỉ là phương tiện, không phải mục tiêu chính về tính đồng bộ kỹ thuật."
+  },
+  "234": {
+    "moc_nho": "GenAI code review → identify errors, improve quality",
+    "vi_sao": "Công cụ AI đóng vai trò hỗ trợ con người trong việc phát hiện lỗi và tối ưu chất lượng mã nguồn thay vì thay thế hoàn toàn.",
+    "bay": "B sai vì AI chỉ hỗ trợ chứ không thể thay thế hoàn toàn tư duy và trách nhiệm của lập trình viên."
+  },
+  "236": {
+    "moc_nho": "deepfake → fraud, misinformation",
+    "vi_sao": "Công nghệ này tạo ra video giả mạo giống thật để đánh lừa người xem và lan truyền tin tức giả.",
+    "bay": "B sai vì deepfake tác động đến nhận thức con người chứ không trực tiếp làm sập hệ thống tài chính."
+  },
+  "237": {
+    "moc_nho": "Generative vs Discriminative → creates new vs classifies existing",
+    "vi_sao": "Generative tập trung tạo ra dữ liệu mới từ phân phối xác suất còn Discriminative tập trung phân biệt ranh giới giữa các lớp dữ liệu.",
+    "bay": "B sai vì đảo ngược chức năng giữa hai mô hình tạo nội dung và dự đoán kết quả."
+  },
+  "239": {
+    "moc_nho": "contextual prompt → includes background information",
+    "vi_sao": "Contextual prompt là kỹ thuật cung cấp ngữ cảnh chi tiết giúp AI hiểu rõ yêu cầu và phản hồi chính xác hơn.",
+    "bay": "B sai vì đó là cách tiếp cận tối giản (minimal), ngược lại hoàn toàn với việc cung cấp đầy đủ ngữ cảnh."
+  },
+  "238": {
+    "moc_nho": "GitHub Copilot → auto-generating Java code",
+    "vi_sao": "Copilot hỗ trợ lập trình viên bằng cách gợi ý và tạo mã nguồn dựa trên ngữ cảnh công việc.",
+    "bay": "B sai vì Copilot không thể tự viết toàn bộ test case mà không cần sự điều chỉnh từ người dùng."
+  },
+  "242": {
+    "moc_nho": "random forests → reduce overfitting, combining multiple trees",
+    "vi_sao": "Kỹ thuật ensemble của nhiều cây giúp trung hòa sai số và tăng tính tổng quát cho mô hình.",
+    "bay": "B sai vì Random forest phức tạp và khó giải thích hơn nhiều so với một cây đơn lẻ."
+  },
+  "240": {
+    "moc_nho": "Digital transformation → efficiency and value",
+    "vi_sao": "Chuyển đổi số là quá trình áp dụng công nghệ vào mọi khía cạnh doanh nghiệp nhằm tối ưu vận hành và gia tăng giá trị cho khách hàng.",
+    "bay": "D sai vì chuyển đổi số là sự thay đổi toàn diện mô hình kinh doanh chứ không chỉ là việc viết thêm phần mềm."
+  },
+  "241": {
+    "moc_nho": "Neural network → learn patterns for predictions",
+    "vi_sao": "Neural network mô phỏng mạng thần kinh để học các mẫu phức tạp từ dữ liệu nhằm đưa ra dự đoán.",
+    "bay": "B sai vì đó là đặc điểm của Decision Tree, không phải Neural network."
+  },
+  "248": {
+    "moc_nho": "AI vs ML → ML is a subset of AI",
+    "vi_sao": "Machine Learning là một nhánh kỹ thuật nằm trong phạm vi rộng lớn hơn của trí tuệ nhân tạo nhằm tối ưu hóa học máy từ dữ liệu.",
+    "bay": "A sai vì AI là tập mẹ chứa ML chứ không phải ngược lại."
+  },
+  "247": {
+    "moc_nho": "software complexity NOT → NOT insufficient hardware",
+    "vi_sao": "Độ phức tạp phần mềm được định nghĩa bởi các yếu tố nội tại của hệ thống như yêu cầu, dữ liệu và quy trình, trong khi tài nguyên phần cứng chỉ là môi trường vận hành bên ngoài.",
+    "bay": "D sai vì quy mô đội ngũ lớn thường làm tăng độ phức tạp trong quản lý và giao tiếp dự án."
+  },
+  "245": {
+    "moc_nho": "GitHub Copilot → generate code, debugging fixes, suggest functions",
+    "vi_sao": "Công cụ này hỗ trợ lập trình viên thông qua việc tự động tạo code, đề xuất sửa lỗi và hoàn thiện các hàm phức tạp.",
+    "bay": "A sai vì AI chỉ hỗ trợ chứ không thay thế hoàn toàn việc học cú pháp và kiến thức nền tảng của lập trình viên."
+  },
+  "250": {
+    "moc_nho": "Generative AI → bias in content",
+    "vi_sao": "Dữ liệu huấn luyện bị định kiến khiến mô hình tạo ra các kết quả sai lệch hoặc phân biệt đối xử.",
+    "bay": "A sai vì sự sáng tạo của con người là lo ngại về văn hóa thay vì là một vấn đề đạo đức kỹ thuật cốt lõi."
+  },
+  "251": {
+    "moc_nho": "Refactoring AI → Clean code readability",
+    "vi_sao": "Mục tiêu chính của refactoring là cải thiện cấu trúc và khả năng đọc hiểu của mã nguồn mà không làm thay đổi hành vi bên ngoài.",
+    "bay": "C sai vì tạo test cases là nhiệm vụ của automated testing chứ không phải quá trình refactoring."
+  },
+  "252": {
+    "moc_nho": "Training weights → Error feedback update",
+    "vi_sao": "Quá trình huấn luyện sử dụng thuật toán lan truyền ngược để điều chỉnh trọng số nhằm giảm thiểu sai số dự đoán.",
+    "bay": "A sai vì trọng số được cập nhật dựa trên toán học tối ưu hóa chứ không phải thay đổi ngẫu nhiên."
+  },
+  "253": {
+    "moc_nho": "software process → easier to divide work among team",
+    "vi_sao": "Quy trình chuẩn giúp phân chia nhiệm vụ rõ ràng và quản lý công việc hiệu quả hơn giữa các thành viên.",
+    "bay": "A sai vì quy trình không thay thế được việc đào tạo nhân sự."
+  },
+  "254": {
+    "moc_nho": "AI software design → boilerplate code, suggest design patterns",
+    "vi_sao": "AI đóng vai trò hỗ trợ đắc lực bằng cách tự động hóa các tác vụ lặp lại và đề xuất cấu trúc tối ưu cho kiến trúc phần mềm.",
+    "bay": "C sai vì AI chỉ là công cụ hỗ trợ, không thể thay thế hoàn toàn vai trò tư duy và quyết định của kiến trúc sư phần mềm."
+  },
+  "255": {
+    "moc_nho": "association NOT → NOT an instance of relationship",
+    "vi_sao": "Association là một mô tả tổng quát về mối quan hệ giữa các lớp, không phải là một instance cụ thể.",
+    "bay": "A sai vì association mặc định là hai chiều nhưng có thể giới hạn thành một chiều."
+  },
+  "256": {
+    "moc_nho": "early test design FALSE → FALSE takes more effort",
+    "vi_sao": "Thiết kế test sớm giúp phát hiện lỗi sớm nên thực tế tiết kiệm thời gian và công sức tổng thể thay vì làm tăng chúng.",
+    "bay": "A sai vì sửa lỗi sớm luôn rẻ hơn so với sửa ở giai đoạn sau."
+  },
+  "257": {
+    "moc_nho": "Interpretability → understand decisions",
+    "vi_sao": "Tính giải thích giúp con người hiểu được logic và lý do đằng sau các quyết định của hệ thống AI.",
+    "bay": "B sai vì không có công nghệ nào đảm bảo độ chính xác tuyệt đối 100%."
+  },
+  "258": {
+    "moc_nho": "GenAI bug detection → code patterns and anomalies",
+    "vi_sao": "AI hoạt động bằng cách phân tích cấu trúc mã nguồn để tìm ra các điểm bất thường so với mẫu chuẩn.",
+    "bay": "B sai vì AI chỉ hỗ trợ chứ không thể thay thế hoàn toàn con người trong mọi quy trình debug."
+  },
+  "259": {
+    "moc_nho": "Amazon Q Developer → syntax error corrections, code snippets",
+    "vi_sao": "Công cụ này hỗ trợ lập trình viên bằng cách cung cấp các đoạn mã phù hợp và phát hiện lỗi sai trực tiếp trong quá trình viết code.",
+    "bay": "A sai vì AI chỉ hỗ trợ chứ không thay thế hoàn toàn kiến thức lập trình của con người."
+  },
+  "260": {
+    "moc_nho": "GDPR, AI → Informed consent",
+    "vi_sao": "GDPR yêu cầu sự minh bạch và quyền kiểm soát của người dùng thông qua việc đồng ý tham gia thu thập dữ liệu.",
+    "bay": "A sai vì GDPR nghiêm cấm hành vi bỏ qua sự đồng ý của người dùng."
+  },
+  "261": {
+    "moc_nho": "AI interpretable → trust stakeholders",
+    "vi_sao": "Tính minh bạch giúp bác sĩ hiểu rõ cơ sở logic để tin tưởng và chịu trách nhiệm cho các quyết định y tế.",
+    "bay": "B sai vì mục tiêu là giải thích kết quả chứ không phải cho phép người dùng can thiệp trực tiếp vào thuật toán."
+  },
+  "263": {
+    "moc_nho": "digital transformation → data personalization, automation, training",
+    "vi_sao": "Đáp án A bao phủ toàn diện bốn trụ cột chuyển đổi số gồm trải nghiệm khách hàng, quy trình vận hành, công nghệ và năng lực nhân sự.",
+    "bay": "B sai vì chỉ tập trung vào giao diện website mà thiếu đi sự thay đổi về quy trình vận hành và dữ liệu nội bộ."
+  },
+  "262": {
+    "moc_nho": "AI explain decisions → SHAP feature contribution",
+    "vi_sao": "SHAP dựa trên lý thuyết trò chơi để phân bổ đóng góp của từng đặc trưng một cách chính xác và công bằng cho kết quả dự đoán.",
+    "bay": "D sai vì LIME chỉ xấp xỉ cục bộ quanh một điểm dữ liệu, không cung cấp độ tin cậy và chính xác về đóng góp tổng thể như SHAP."
+  },
+  "264": {
+    "moc_nho": "XOR constraint → only one of two classes",
+    "vi_sao": "Ràng buộc XOR đảm bảo rằng tại một thời điểm, một thực thể chỉ có thể tham gia vào đúng một trong các mối quan hệ được chỉ định.",
+    "bay": "B sai vì mô tả về giá trị thuộc tính chứ không phải mối quan hệ giữa các lớp."
+  },
+  "266": {
+    "moc_nho": "entity class → persistent information",
+    "vi_sao": "Entity class dùng để lưu trữ dữ liệu lâu dài trong hệ thống thay vì dữ liệu tạm thời.",
+    "bay": "D sai vì transient chỉ thông tin tạm thời, còn entity class phải là dữ liệu cần lưu trữ lâu dài."
+  },
+  "265": {
+    "moc_nho": "Generalization → specialize attributes operations",
+    "vi_sao": "Generalization thiết lập quan hệ kế thừa, cho phép lớp con kế thừa và chuyên biệt hóa các thuộc tính cùng phương thức từ lớp cha.",
+    "bay": "A sai vì association là quan hệ liên kết ngang, không phải quan hệ cha-con (generalization)."
+  },
+  "267": {
+    "moc_nho": "incomplete coverage → superclass not member of any subclass",
+    "vi_sao": "Incomplete nghĩa là không đầy đủ, tức là tồn tại đối tượng của superclass không thuộc bất kỳ subclass nào.",
+    "bay": "D sai vì đó là định nghĩa của constraint Complete, yêu cầu mọi superclass instance phải thuộc ít nhất một subclass."
+  },
+  "268": {
+    "moc_nho": "requirements validation → use a checklist",
+    "vi_sao": "Sử dụng bảng kiểm giúp đảm bảo mọi yêu cầu được rà soát một cách hệ thống, đầy đủ và khách quan nhất.",
+    "bay": "B sai vì khách hàng thường không có chuyên môn kỹ thuật để phát hiện các lỗi mâu thuẫn hoặc thiếu sót trong đặc tả yêu cầu."
+  },
+  "269": {
+    "moc_nho": "cost of fixing fault → increases towards live use",
+    "vi_sao": "Lỗi càng để lâu đến giai đoạn vận hành mới sửa thì chi phí khắc phục càng tốn kém do phải thay đổi cấu trúc hệ thống đã hoàn thiện.",
+    "bay": "B sai vì lỗi ở giai đoạn yêu cầu thường dễ sửa và ít tốn kém nhất so với các giai đoạn sau."
+  },
+  "270": {
+    "moc_nho": "Acceptance test → criteria system finished",
+    "vi_sao": "Acceptance test tập trung xác nhận hệ thống đã đáp ứng đầy đủ yêu cầu để nghiệm thu và bàn giao cho khách hàng.",
+    "bay": "A sai vì code structure là mối quan tâm của unit test hoặc code review chứ không phải acceptance test."
+  },
+  "271": {
+    "moc_nho": "Bridge pattern → decouple abstraction from implementation",
+    "vi_sao": "Bridge tách biệt phần trừu tượng và hiện thực để chúng có thể thay đổi độc lập.",
+    "bay": "A sai vì mô tả chức năng của Facade pattern."
+  },
+  "272": {
+    "moc_nho": "6 hours, 80% attendance → Pass",
+    "vi_sao": "Vì 6 giờ lớn hơn 4 và 80% lớn hơn 70%, thoả mãn điều kiện nhánh thứ hai của cây quyết định.",
+    "bay": "C sai vì dữ liệu đầu vào đã thoả mãn điều kiện của nhánh thứ hai nên kết quả là Pass."
+  },
+  "273": {
+    "moc_nho": "System analysis → Encapsulating implementation details",
+    "vi_sao": "Trong giai đoạn phân tích, ta cần cách ly các chi tiết môi trường thực thi để thiết kế tập trung vào logic nghiệp vụ.",
+    "bay": "A sai vì đưa chi tiết thực thi vào class ứng dụng sẽ làm mất tính độc lập của thiết kế."
+  },
+  "274": {
+    "moc_nho": "use case class distribution → isolate changes to specific classes",
+    "vi_sao": "Việc phân tách chức năng thành ba loại class giúp giới hạn phạm vi ảnh hưởng khi yêu cầu hệ thống thay đổi.",
+    "bay": "E sai vì mục đích chính của mô hình hóa là quản lý sự thay đổi chứ không chỉ để mô tả tương tác dễ hơn."
+  },
+  "12": {
+    "moc_nho": "Software Quality → Defect, Churn, Failure",
+    "vi_sao": "Các metric phổ biến đo chất lượng phần mềm bao gồm mật độ lỗi (Defect density), tốc độ thay đổi code (Code churn rate) và thời gian trung bình đến lỗi (Mean time to failure).",
+    "bay": "B sai vì Market share growth đo lường sự phát triển thị trường, không phải chất lượng phần mềm; D sai vì Employee satisfaction index đo lường sự hài lòng của nhân viên, không phải chất lượng phần mềm."
+  },
+  "16": {
+    "moc_nho": "Amazon Q Developer → pre-trained, cloud, continuous learning",
+    "vi_sao": "Amazon Q Developer là nền tảng của AWS, giúp tăng cường phát triển chatbot bằng cách tận dụng các mô hình đã huấn luyện, tích hợp dịch vụ đám mây và học hỏi liên tục.",
+    "bay": "C sai vì Amazon Q Developer được thiết kế để tăng tốc phát triển AI, không phải để phát triển AI từ đầu mà không dùng framework nào."
+  },
+  "9": {
+    "moc_nho": "test case effectiveness → code coverage, outcomes, execution time",
+    "vi_sao": "Đánh giá hiệu quả test case cần xem xét mức độ bao phủ mã, kết quả thực tế so với mong đợi và hiệu suất chạy test.",
+    "bay": "C sai vì tăng số lượng test case mà không quan tâm đến sự liên quan không đảm bảo hiệu quả, thậm chí có thể lãng phí tài nguyên."
+  },
+  "20": {
+    "moc_nho": "use case extension → Condition, Event, Exception",
+    "vi_sao": "Các extension trong use case thường được kích hoạt bởi một điều kiện cụ thể, một sự kiện xảy ra, hoặc một ngoại lệ cần xử lý.",
+    "bay": "D sai vì Time-based extensions không phải là một loại extension tiêu chuẩn trong use case; E sai vì Actor-based extensions không phải là điều kiện gây extension mà actor chỉ là người thực hiện."
+  },
+  "19": {
+    "moc_nho": "Class Diagram → Attributes, Methods, Relationships",
+    "vi_sao": "UML Class Diagram biểu diễn cấu trúc tĩnh của hệ thống, bao gồm các lớp, thuộc tính, phương thức và mối quan hệ giữa chúng.",
+    "bay": "C sai vì Actors là thành phần của Use Case Diagram, không phải Class Diagram. D sai vì Nodes là thành phần của Deployment Diagram, không phải Class Diagram."
+  },
+  "21": {
+    "moc_nho": "validating requirements → Peer review, Traceability, Automated tools",
+    "vi_sao": "Để đảm bảo yêu cầu hệ thống đầy đủ và nhất quán, cần có nhiều phương pháp kiểm tra chéo và tự động hóa.",
+    "bay": "C sai vì chỉ dựa vào phỏng vấn ban đầu là không đủ để xác thực yêu cầu, cần nhiều phương pháp khác; D sai vì bỏ qua phản hồi của các bên liên quan sẽ dẫn đến yêu cầu không chính xác hoặc thiếu sót."
+  },
+  "28": {
+    "moc_nho": "Factory Pattern Open-Closed → Extension not Modification",
+    "vi_sao": "Factory Pattern hỗ trợ nguyên lý Open-Closed bằng cách cho phép thêm loại đối tượng mới mà không cần sửa đổi code hiện có.",
+    "bay": "C sai vì đó là vai trò của Lazy Initialization, không phải trọng tâm của Factory Pattern trong việc áp dụng Open-Closed Principle."
+  },
+  "17": {
+    "moc_nho": "Loop testing → Entry/exit, performance, init",
+    "vi_sao": "Khi kiểm thử vòng lặp, cần xem xét các điều kiện vào/ra, hiệu suất và khởi tạo biến để đảm bảo vòng lặp hoạt động đúng và hiệu quả.",
+    "bay": "D sai vì giao diện người dùng không phải là điều kiện kiểm thử vòng lặp mà là vấn đề của giao diện chung."
+  },
+  "38": {
+    "moc_nho": "independent paths → Basis path",
+    "vi_sao": "Basis path testing được thiết kế để tìm các đường độc lập trong biểu đồ luồng.",
+    "bay": "D sai vì White box testing là một loại kiểm thử (bao gồm Basis path testing), không phải một kỹ thuật cụ thể để tìm đường độc lập."
+  },
+  "25": {
+    "moc_nho": "Requirements Worksheet → Stakeholder, Legal, Feasibility",
+    "vi_sao": "Khi thu thập yêu cầu, cần xem xét các yếu tố bên ngoài (stakeholder, pháp lý) và yếu tố khả thi nội tại của dự án.",
+    "bay": "C sai vì luôn phải giải quyết các yêu cầu mâu thuẫn chứ không phải bỏ qua; E sai vì không phải tất cả các yêu cầu đều không thể thương lượng."
+  },
+  "40": {
+    "moc_nho": "complete → review",
+    "vi_sao": "Kiểm tra kỹ lưỡng các yêu cầu là bước quan trọng nhất để đảm bảo chúng đầy đủ và chính xác.",
+    "bay": "B sai vì không thể giả định sự đồng thuận của các bên liên quan mà không có xác nhận."
+  },
+  "41": {
+    "moc_nho": "Scrum → framework iterative",
+    "vi_sao": "Scrum là một khung làm việc linh hoạt, tập trung vào việc phát triển phần mềm theo các chu kỳ lặp đi lặp lại để đạt được tiến độ liên tục.",
+    "bay": "B sai vì Scrum là một framework, không phải ngôn ngữ lập trình."
+  },
+  "44": {
+    "moc_nho": "risk impact → consequences on milestones",
+    "vi_sao": "Tác động của rủi ro thường được đánh giá qua những hậu quả mà nó gây ra cho các mục tiêu quan trọng của dự án, đặc biệt là các mốc thời gian.",
+    "bay": "B sai vì số lượng thành viên bị ảnh hưởng không phải là thước đo chính xác nhất về tác động tổng thể của rủi ro lên dự án."
+  },
+  "35": {
+    "moc_nho": "black box → functionality",
+    "vi_sao": "Kiểm thử hộp đen tập trung vào việc xác minh chức năng của phần mềm từ góc độ người dùng, không cần biết cấu trúc bên trong.",
+    "bay": "B sai vì đó là mục tiêu của refactoring hoặc clean code; C sai vì đó là mục tiêu của kiểm thử hiệu năng hoặc stress test; D sai vì đó là mục tiêu của kiểm thử tĩnh hoặc review code."
+  },
+  "47": {
+    "moc_nho": "abstraction use case → essential features",
+    "vi_sao": "Abstraction là quá trình đơn giản hóa hệ thống bằng cách chỉ tập trung vào các đặc điểm cốt lõi.",
+    "bay": "B sai vì abstraction không phải là loại bỏ non-functional requirements mà là tập trung vào các tính năng chính."
+  },
+  "54": {
+    "moc_nho": "hidden layer → process inputs",
+    "vi_sao": "Lớp ẩn có nhiệm vụ chính là biến đổi và xử lý dữ liệu đầu vào trước khi chuyển đến lớp đầu ra.",
+    "bay": "C sai vì việc so sánh trực tiếp output với kết quả mong đợi là vai trò của hàm mất mát (loss function) hoặc các thuật toán huấn luyện, không phải của lớp ẩn."
+  },
+  "62": {
+    "moc_nho": "design patterns NOT → NOT described using program code",
+    "vi_sao": "Design patterns là các giải pháp trừu tượng, mô tả cách giải quyết vấn đề chứ không phải bản thân đoạn mã cụ thể.",
+    "bay": "D sai vì design patterns có thể giúp xử lý các non-functional requirements như hiệu năng (ví dụ: Singleton) hoặc khả năng mở rộng (ví dụ: Strategy)."
+  },
+  "73": {
+    "moc_nho": "Use case UI → NOT TRUE",
+    "vi_sao": "Use case mô tả tương tác giữa người dùng và hệ thống, không phải là một phần của giao diện người dùng (UI) trực tiếp.",
+    "bay": "D sai vì use case được biểu diễn bằng UML use case diagram, không phải class diagram."
+  },
+  "74": {
+    "moc_nho": "actor NOT true → internal database",
+    "vi_sao": "Actor là một vai trò bên ngoài tương tác với hệ thống, không phải là thành phần bên trong như database.",
+    "bay": "B sai vì actor có thể là một hệ thống bên ngoài, nhưng không thể là một class trong domain model nội bộ."
+  },
+  "43": {
+    "moc_nho": "Banking structure → Class Diagram",
+    "vi_sao": "Class Diagram biểu diễn cấu trúc tĩnh của hệ thống, bao gồm các lớp, thuộc tính, phương thức và mối quan hệ giữa chúng, rất phù hợp để mô tả các đối tượng như người giữ tài khoản, tài khoản và giao dịch.",
+    "bay": "Sequence Diagram sai vì nó tập trung vào luồng tương tác giữa các đối tượng theo thời gian, không phải cấu trúc tĩnh."
+  },
+  "92": {
+    "moc_nho": "Beethoven music → Generative AI True",
+    "vi_sao": "Generative AI có khả năng học hỏi các mẫu và phong cách từ dữ liệu hiện có để tạo ra nội dung mới, bao gồm cả âm nhạc theo phong cách của các nhà soạn nhạc nổi tiếng.",
+    "bay": "B sai vì việc tạo ra nội dung mới dựa trên phong cách đã học là một ứng dụng điển hình của Generative AI."
+  },
+  "94": {
+    "moc_nho": "Neural network → input, hidden, output layers",
+    "vi_sao": "Mạng nơ-ron được cấu tạo bởi các lớp gồm lớp đầu vào, lớp ẩn và lớp đầu ra, với các nơ-ron trong mỗi lớp kết nối với nơ-ron của lớp kế tiếp.",
+    "bay": "B sai vì mô tả cấu trúc của mạng nơ-ron là hoàn toàn chính xác."
+  },
+  "66": {
+    "moc_nho": "programming-in-the-large → Validating user input",
+    "vi_sao": "Programming-in-the-large liên quan đến các vấn đề quản lý, tổ chức và cấu trúc hệ thống lớn, không phải chi tiết kỹ thuật như kiểm tra đầu vào người dùng.",
+    "bay": "A sai vì việc hiểu yêu cầu người dùng là một thách thức lớn khi phát triển phần mềm quy mô lớn."
+  },
+  "96": {
+    "moc_nho": "Generative AI Java → design patterns, boilerplate",
+    "vi_sao": "Generative AI xuất sắc trong việc tạo và giải thích nội dung dựa trên dữ liệu hiện có, rất phù hợp cho việc giải thích các mẫu thiết kế và viết code lặp đi lặp lại.",
+    "bay": "C sai vì phát hiện lỗ hổng trong hệ thống đã triển khai thường cần phân tích runtime và các công cụ bảo mật chuyên biệt, không phải là ứng dụng chính của Generative AI; D sai vì triển khai ứng dụng là một quy trình DevOps yêu cầu công cụ CI/CD, không phải chức năng trực tiếp của Generative AI."
+  },
+  "91": {
+    "moc_nho": "Chain-of-thought → step-by-step",
+    "vi_sao": "Chain-of-thought hướng dẫn mô hình tư duy theo từng bước để tăng độ chính xác của kết quả.",
+    "bay": "B sai vì Chain-of-thought chính là kỹ thuật giúp AI suy luận logic thay vì đưa ra kết quả trực tiếp."
+  },
+  "104": {
+    "moc_nho": "Copilot → Auto-complete, Snippets",
+    "vi_sao": "GitHub Copilot là một công cụ AI hỗ trợ lập trình viên bằng cách tự động hoàn thành mã và gợi ý các đoạn mã.",
+    "bay": "C sai vì Copilot không phải là công cụ debug lỗi runtime, D sai vì Copilot không đảm bảo khả năng thích ứng của mã trong lúc chạy."
+  },
+  "100": {
+    "moc_nho": "GitHub Copilot → Code block, Autocomplete",
+    "vi_sao": "GitHub Copilot là công cụ AI hỗ trợ viết code thông qua việc gợi ý hoàn thiện hàm hoặc tạo các đoạn mã dựa trên ngữ cảnh.",
+    "bay": "A sai vì Copilot không trực tiếp tích hợp trình gỡ lỗi (debugger) mà chỉ gợi ý sửa lỗi qua chat."
+  },
+  "111": {
+    "moc_nho": "Generative AI → painting from prompt, writing stories, completing code",
+    "vi_sao": "Generative AI có khả năng tạo ra nội dung mới, độc đáo từ các gợi ý hoặc tự động, bao gồm văn bản, hình ảnh và mã.",
+    "bay": "A sai vì Generative AI thường cần một prompt (gợi ý) ban đầu, dù là rất nhỏ, để bắt đầu quá trình tạo ra nội dung mới, không hoàn toàn 'without any human prompt'."
+  },
+  "106": {
+    "moc_nho": "Unseen data → Generalize & Biases",
+    "vi_sao": "Kiểm thử trên dữ liệu chưa thấy giúp xác định khả năng tổng quát hóa và phát hiện các sai lệch của mô hình.",
+    "bay": "C sai vì mục tiêu là tổng quát hóa, không phải ghi nhớ tất cả dữ liệu huấn luyện. D sai vì kiểm tra khả năng xử lý nhiễu là một mục tiêu khác, không phải lý do chính của validation trên unseen data."
+  },
+  "101": {
+    "moc_nho": "trained model → predictions without instructions, mimic human",
+    "vi_sao": "Mô hình AI sau khi huấn luyện có khả năng tự suy luận dựa trên dữ liệu đã học thay vì tuân thủ các quy tắc cứng nhắc.",
+    "bay": "B sai vì mô hình đã huấn luyện không yêu cầu hướng dẫn chi tiết cho từng trường hợp cụ thể."
+  },
+  "118": {
+    "moc_nho": "Generative AI code review → optimize, bug, redundant",
+    "vi_sao": "Generative AI giúp cải thiện chất lượng code bằng cách đề xuất tối ưu hóa, phát hiện lỗi và logic trùng lặp.",
+    "bay": "D sai vì Generative AI trong code review không trực tiếp xử lý cấu hình phần cứng."
+  },
+  "125": {
+    "moc_nho": "Random Forests → reduced overfitting, versatility, accuracy",
+    "vi_sao": "Random Forests kết hợp nhiều cây quyết định để giảm thiểu overfitting, tăng cường độ chính xác và có thể áp dụng cho nhiều loại dữ liệu.",
+    "bay": "D sai vì Random Forests được thiết kế để GIẢM overfitting, không phải TĂNG."
+  },
+  "136": {
+    "moc_nho": "SRS → System Requirements Specification",
+    "vi_sao": "SRS là viết tắt của System Requirements Specification, tài liệu mô tả các yêu cầu chức năng và phi chức năng của một hệ thống phần mềm.",
+    "bay": "C sai vì 'Structured Requirements Specification' không phải là tên gọi chuẩn, mà là 'System Requirements Specification'."
+  },
+  "123": {
+    "moc_nho": "AI transparency → LIME, SHAP, documentation",
+    "vi_sao": "Các phương pháp giải thích model và tài liệu minh bạch giúp người dùng hiểu rõ căn cứ đưa ra quyết định của AI.",
+    "bay": "B sai vì black-box model không có khả năng giải thích, làm giảm tính minh bạch của hệ thống."
+  },
+  "133": {
+    "moc_nho": "State machine → object",
+    "vi_sao": "State machine diagram tập trung mô tả vòng đời và các trạng thái chuyển đổi của một đối tượng cụ thể.",
+    "bay": "E sai vì class là khuôn mẫu, còn state machine mô tả hành vi của một thực thể (object) cụ thể trong quá trình thực thi."
+  },
+  "144": {
+    "moc_nho": "Classifier → method",
+    "vi_sao": "Method là một phần của operation, không phải một classifier độc lập trong UML.",
+    "bay": "B sai vì operation là một classifier, nó định nghĩa hành vi có thể thực hiện trên một đối tượng."
+  },
+  "140": {
+    "moc_nho": "Use-case modeling → System behaviour",
+    "vi_sao": "Mô hình hóa use-case tập trung mô tả cách hệ thống phản ứng với các tương tác của người dùng để đạt được mục tiêu.",
+    "bay": "A sai vì giao diện người dùng chỉ là một phần nhỏ thể hiện hành vi chứ không phải toàn bộ mục tiêu của use-case."
+  },
+  "142": {
+    "moc_nho": "Non-functional testing → Performance testing",
+    "vi_sao": "Performance testing đánh giá hiệu năng hệ thống thay vì chức năng cụ thể.",
+    "bay": "A sai vì black box là kỹ thuật kiểm thử chức năng dựa trên đầu vào và đầu ra."
+  },
+  "145": {
+    "moc_nho": "Generalization coverage → Disjoint",
+    "vi_sao": "Disjoint là ràng buộc phổ biến nhất yêu cầu các lớp con không được trùng lặp đối tượng.",
+    "bay": "C sai vì overloaded không phải là một loại constraint trong sơ đồ phân cấp lớp."
+  },
+  "153": {
+    "moc_nho": "Random Forest prediction → average of individual predictions",
+    "vi_sao": "Trong mô hình Random Forest cho bài toán hồi quy, kết quả cuối cùng là giá trị trung bình của tất cả các cây quyết định.",
+    "bay": "Các phương án khác sai vì đây không phải là bài toán phân loại theo đa số phiếu bầu mà là tính toán giá trị trung bình."
+  },
+  "154": {
+    "moc_nho": "Smart city, connected devices → Internet of Things (IoT)",
+    "vi_sao": "Internet of Things là hạ tầng kết nối các thiết bị thông minh để thu thập dữ liệu trong môi trường đô thị.",
+    "bay": "A sai vì Cloud computing chỉ là nơi lưu trữ và xử lý dữ liệu, không phải công nghệ kết nối thiết bị đầu cuối."
+  },
+  "160": {
+    "moc_nho": "Black box → integration testing",
+    "vi_sao": "Black box testing tập trung vào giao diện và tương tác giữa các thành phần nên phù hợp nhất với integration testing.",
+    "bay": "A sai vì unit testing thường sử dụng white box testing để kiểm tra logic bên trong mã nguồn."
+  },
+  "161": {
+    "moc_nho": "Behavioral testing → Black box",
+    "vi_sao": "Behavioral testing tập trung vào hành vi đầu ra dựa trên đầu vào mà không quan tâm đến cấu trúc mã nguồn bên trong.",
+    "bay": "B sai vì White box là Structural testing tập trung vào cấu trúc bên trong của phần mềm."
+  },
+  "162": {
+    "moc_nho": "UML class → attributes, operations, relationships, semantics",
+    "vi_sao": "Định nghĩa chuẩn của một class trong UML bao gồm bốn thành phần cốt lõi là thuộc tính, hành vi, mối quan hệ và ý nghĩa ngữ nghĩa.",
+    "bay": "B sai vì identity là đặc điểm của object chứ không phải class."
+  },
+  "169": {
+    "moc_nho": "source code changed → regression testing",
+    "vi_sao": "Regression testing được thực hiện để đảm bảo các thay đổi trong mã nguồn không làm hỏng những chức năng đã hoạt động ổn định trước đó.",
+    "bay": "D sai vì Acceptance testing tập trung vào yêu cầu người dùng cuối chứ không kiểm tra trực tiếp trên mã nguồn."
+  },
+  "171": {
+    "moc_nho": "Manufacturing → quality of conformance",
+    "vi_sao": "Quality of conformance là thước đo mức độ sản phẩm thực tế tuân thủ đúng các đặc tả thiết kế ban đầu.",
+    "bay": "C sai vì quality of design tập trung vào giá trị các tính năng chứ không phải quá trình sản xuất."
+  },
+  "173": {
+    "moc_nho": "Risk analysis → Spiral",
+    "vi_sao": "Mô hình Spiral đặt trọng tâm vào việc đánh giá và giảm thiểu rủi ro trong mỗi vòng lặp phát triển.",
+    "bay": "A sai vì Waterfall là mô hình tuyến tính, không chú trọng việc phân tích rủi ro ngay từ đầu."
+  },
+  "177": {
+    "moc_nho": "Hidden layers → extract patterns",
+    "vi_sao": "Các tầng ẩn thực hiện tính toán phi tuyến tính để trích xuất và kết hợp các đặc trưng phức tạp từ dữ liệu đầu vào.",
+    "bay": "A sai vì tầng đầu ra (output layer) mới là nơi thực hiện dự đoán cuối cùng."
+  },
+  "217": {
+    "moc_nho": "Model → data",
+    "vi_sao": "Model đóng vai trò là nơi lưu trữ dữ liệu và các quy tắc nghiệp vụ liên quan đến dữ liệu đó.",
+    "bay": "E sai vì business logic thường là phần xử lý nằm giữa Model và Controller trong các kiến trúc phức tạp hơn."
+  },
+  "243": {
+    "moc_nho": "Decision tree → split data into branches",
+    "vi_sao": "Cấu trúc cây quyết định hoạt động bằng cách phân tách tập dữ liệu thành các nhánh nhỏ dựa trên các giá trị đặc trưng để đưa ra kết luận.",
+    "bay": "A sai vì mô tả cơ chế của Neural Networks chứ không phải Decision tree."
+  }
+}

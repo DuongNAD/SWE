@@ -1,0 +1,4 @@
+id=b3-2
+file=YTSave_YouTube_Buoi-3-2-Luyen-tap-Q2-de-so-1_Media_QToTGFd3W3I_002_720p.mp4
+duration_sec=2904
+frame_interval=5

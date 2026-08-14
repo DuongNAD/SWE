@@ -1,0 +1,239 @@
+{
+  "id": "b4",
+  "tieu_de_tu_suy_ra": "Luyện tập Q4 - Hướng dẫn làm câu 4: Non-Functional Requirements (NFRs), Xung đột NFR và Chiến lược Trade-off",
+  "cau_hoi_lien_quan": [
+    "Q4"
+  ],
+  "do_dai_phut": 24.4,
+  "dan_bai": [
+    {
+      "ts": "00:00",
+      "muc": "Giảng viên giới thiệu kiến thức liên quan đến Q4 (Non-Functional Requirements - NFR) và mở file template Google Docs 'Luyện tập Q4'. Nhấn mạnh tất cả các campus đều thi bằng phần mềm PEI nên có thể copy-paste dữ liệu."
+    },
+    {
+      "ts": "00:30",
+      "muc": "Đọc đề trial 'Green University Course Registration System (CRS)'. Phân biệt Functional Requirement (hệ thống làm cái gì) và Non-Functional Requirement (hệ thống hoạt động như thế nào, là chất lượng hệ thống và phải đo lường được bằng con số cụ thể)."
+    },
+    {
+      "ts": "01:30",
+      "muc": "Giới thiệu các NFR categories phổ biến (Performance, Security, Availability, Usability, Scalability) và các cặp xung đột phổ biến (Security vs Performance, Usability vs Security, Performance vs Scalability)."
+    },
+    {
+      "ts": "02:00",
+      "muc": "Hướng dẫn lập bảng 3 cột cho Part 1 của Q4: Category | NFR Description | Acceptance Criterion."
+    },
+    {
+      "ts": "03:00",
+      "muc": "Điền các Category NFR vào bảng: Performance, Security, Availability, Usability, Scalability (khuyên nên làm 5 cái dù đề chỉ yêu cầu 4)."
+    },
+    {
+      "ts": "05:00",
+      "muc": "Hướng dẫn mẹo lấy Acceptance Criterion: Chỉ cần tìm đoạn kỹ thuật/ràng buộc (technical constraints) ở cuối case study và copy nguyên văn các câu chứa chỉ số đo lường dán vào cột Acceptance Criterion."
+    },
+    {
+      "ts": "08:00",
+      "muc": "Viết cột NFR Description cho từng dòng theo mẫu template 'The system should/must [action/quality]'."
+    },
+    {
+      "ts": "15:00",
+      "muc": "Chuyển sang Part 2: Xử lý xung đột NFR. Lựa chọn cặp xung đột Security và Performance để làm."
+    },
+    {
+      "ts": "17:00",
+      "muc": "Giải thích chi tiết nguyên nhân xung đột (Explain: Reason): Bảo mật cần mã hóa và phân quyền (RBAC), gây tốn thêm tài nguyên xử lý (more processing), khiến hệ thống bị chậm khi nhiều người dùng cùng truy cập."
+    },
+    {
+      "ts": "20:00",
+      "muc": "Đề xuất chiến lược đánh đổi/dung hòa (Trade-off): Sử dụng thuật toán mã hóa đơn giản & nhanh, cache vai trò người dùng, đồng thời dùng thêm server (scaling) để giữ tốc độ nhanh mà vẫn bảo mật."
+    },
+    {
+      "ts": "22:00",
+      "muc": "Lưu ý chiến thuật chấm điểm: Copy-paste đề bài vs tự viết lại câu văn cô đọng. Khuyên học viên tự luyện tập trên web TQMaster."
+    }
+  ],
+  "quy_trinh_lam_bai": [
+    {
+      "buoc": 1,
+      "ten_buoc": "Tạo bảng NFR 3 cột theo đúng template đề thi",
+      "lam_gi_cu_the": "Vẽ hoặc chép bảng đáp án gồm đúng 3 cột: Category | NFR Description | Acceptance Criterion.",
+      "dau_vao": "Yêu cầu đề thi Part 1 của Question 4",
+      "dau_ra": "Khung bảng NFR 3 cột",
+      "cau_noi_goc": "Để nói cho có anh em gì phải làm đúng 3 cuộc này Thì bây giờ mình sẽ làm đúng 3 cuộc nhé Mình cứ vẽ ra này",
+      "ts": "02:00"
+    },
+    {
+      "buoc": 2,
+      "ten_buoc": "Xác định các loại NFR (Category) và trích xuất Acceptance Criterion từ đề bài",
+      "lam_gi_cu_the": "Liệt kê các Category phổ biến: Performance, Security, Availability, Usability, Scalability (nên làm 5 cái để phòng thiếu). Đọc đoạn kỹ thuật/ràng buộc ở cuối case study, copy chính xác các câu chứa chỉ số đo lường cụ thể vào cột Acceptance Criterion.",
+      "dau_vao": "Đoạn văn kỹ thuật và ràng buộc hệ thống trong Case Study đề thi",
+      "dau_ra": "Các dòng Category và dữ liệu tiêu chí chấp nhận ở cột Acceptance Criterion",
+      "cau_noi_goc": "bạn nhầm liệt kê ra ít nhất là bốn cái non functional requirement... mình sẽ liệt kê khoảng 5 cái để ăn được điểm tối đa... copy luôn cho mình... chỉ cần copy thôi",
+      "ts": "03:00"
+    },
+    {
+      "buoc": 3,
+      "ten_buoc": "Viết câu mô tả NFR (NFR Description)",
+      "lam_gi_cu_the": "Sử dụng cấu trúc 'The system should [action/quality]' hoặc 'The system must [action/quality]' để mô tả mục tiêu chất lượng tổng quan cho từng Category.",
+      "dau_vao": "Các Category NFR đã chọn (Performance, Security, Availability, Usability, Scalability)",
+      "dau_ra": "Các câu mô tả ở cột NFR Description",
+      "cau_noi_goc": "Template NFR Description: The system should [action/quality]... anh em chỉ quan tâm đoạn cuối mình nhé",
+      "ts": "04:30"
+    },
+    {
+      "buoc": 4,
+      "ten_buoc": "Chọn cặp NFR bị xung đột (Part 2 Conflict)",
+      "lam_gi_cu_the": "Chọn cặp Security và Performance. Đây là cặp xung đột điển hình, phổ biến và dễ giải thích nhất.",
+      "dau_vao": "Bảng NFR ở Part 1",
+      "dau_ra": "Tên cặp xung đột: Security and Performance",
+      "cau_noi_goc": "mình sẽ hay dùng là anh em có cho mình cái security em em performance cái này thì rất là quen thuộc anh em cứ làm cho mình cái này",
+      "ts": "15:30"
+    },
+    {
+      "buoc": 5,
+      "ten_buoc": "Giải thích nguyên nhân xung đột (Explain Reason)",
+      "lam_gi_cu_the": "Trình bày lý do: Security bảo vệ dữ liệu bằng mã hóa (encryption) và kiểm soát truy cập (access control), nhưng điều này đòi hỏi thêm tài nguyên xử lý (need more processing), dẫn tới hệ thống có thể bị chậm đi khi nhiều người dùng truy cập đồng thời (system can slower when many users use it at the same time).",
+      "dau_vao": "Khái niệm bảo mật và hiệu năng trong ngữ cảnh bài toán",
+      "dau_ra": "Đoạn giải thích lý do xung đột (Explain: Reason)",
+      "cau_noi_goc": "Cái nào mà càng nhiều bảo vật Thì nó sẽ làm cho dẫn đến là Phải xử lý nhiều hơn Xử lý nhiều hơn thì thế nào Thì làm cho hệ thống chậm đi Đấy là lý do tại sao mà xung đột giữa 2 cái này nó là Phổ biến nhất",
+      "ts": "17:00"
+    },
+    {
+      "buoc": 6,
+      "ten_buoc": "Đề xuất chiến lược dung hòa/đánh đổi (Trade-off Strategy)",
+      "lam_gi_cu_the": "Nêu giải pháp kỹ thuật dung hòa: Dùng mã hóa đơn giản và nhanh (simple and fast encryption), lưu cache vai trò người dùng (cache user roles to reduce processing), đồng thời dùng thêm server / mở rộng máy chủ (more server/scaling) để giữ hệ thống chạy nhanh mà vẫn đảm bảo an toàn.",
+      "dau_vao": "Vấn đề xung đột giữa Security và Performance",
+      "dau_ra": "Đoạn giải pháp Trade-off hoàn chỉnh",
+      "cau_noi_goc": "Use simple and fast encryption and cache user roles to reduce processing. Also, use more server (scaling) to keep the system fast while still use secure",
+      "ts": "20:00"
+    }
+  ],
+  "vi_du_giang_vien_lam": [
+    {
+      "de_bai_goc": "Question 4: Non-Functional Requirements (1.0 points)\n1. From the case study, identify and classify at least FOUR non-functional requirements (NFRs) into appropriate quality categories (e.g., Performance, Security, Availability, Usability, Scalability, Maintainability). For each NFR, write one measurable acceptance criterion. Present your answer as a table with the columns: Category | NFR Description | Acceptance Criterion. (0.9 points)\n2. Identify TWO NFRs from your table that may conflict with each other in the CRS context. Clearly explain why the conflict arises and propose a concrete trade-off strategy that the development team could apply. (0.1 points)",
+      "bai_lam_hoan_chinh": "Category | NFR Description | Acceptance Criterion\nPerformance | The system should handle many user at the time and response quickly | The system must remain responsive—handling at least 1,000 simultaneous users during peak registration periods with a page-response time under 3 seconds\nSecurity | The system must protect sensitive data and control access | All communication must be encrypted using TLS 1.2 or higher, and access must be governed by a role-based access control (RBAC)\nAvailability | The system should be available during the semester | The platform must be available 99.5% of the time during the semester, with any planned maintenance scheduled outside the registration window\nUsability | The system should be easy to use on different device | The interface must be accessible on both desktop and mobile browsers and conform to WCAG 2.1 Level AA accessibility standards\nScalability | The system should... | The architecture should also support horizontal scaling\n\nPart 2 Conflict:\nSecurity and Performance\n\nExplain:\nReason:\nSecurity protects data by encryption and access control but it need more processing, so the system can slower, when many users use it at the same time\n\nTrade-off:\nUse simple and fast encryption and cache user roles to reduce processing\nAlso, use more server (scaling) to keep the system fast while still use secure",
+      "giang_giai": "Giảng viên lấy dữ liệu trực tiếp từ đoạn ràng buộc kỹ thuật của case study CRS (Green University) để điền vào cột Acceptance Criterion. Phần NFR Description điền theo cấu trúc 'The system should/must...'. Với câu hỏi xung đột, giảng viên chọn Security vs Performance, giải thích việc mã hóa làm tốn thời gian xử lý và đề xuất trade-off kết hợp mã hóa nhanh + caching + horizontal scaling.",
+      "ts": "03:00"
+    }
+  ],
+  "khai_niem": [
+    {
+      "thuat_ngu": "Non-Functional Requirement (NFR)",
+      "dinh_nghia_theo_giang_vien": "NFR chính là chỉ số chất lượng của hệ thống, mô tả hệ thống hoạt động như thế nào (khác với Functional Requirement mô tả hệ thống làm cái gì) và bắt buộc phải đo lường được bằng các con số cụ thể (measurable).",
+      "vi_du": "Xử lý ít nhất 1.000 người dùng đồng thời với thời gian phản hồi trang dưới 3 giây; thời gian hoạt động đạt 99.5% trong học kỳ.",
+      "ts": "00:30"
+    },
+    {
+      "thuat_ngu": "NFR Categories",
+      "dinh_nghia_theo_giang_vien": "Các nhóm thuộc tính chất lượng phổ biến để phân loại NFRs trong phần mềm bao gồm Performance (hiệu năng/tốc độ phản hồi), Security (bảo mật/mã hóa/mật khẩu), Availability (tính sẵn sàng/thời gian hoạt động uptime), Usability (tính dễ sử dụng/giao diện đa thiết bị), Scalability (khả năng mở rộng/chịu tải số lượng lớn user), Maintainability (khả năng bảo trì/dễ sửa code).",
+      "vi_du": "Performance (speed, response time), Security (login, encryption), Availability (uptime), Usability (easy to use), Scalability (nhiều user), Maintainability (dễ sửa code).",
+      "ts": "00:50"
+    },
+    {
+      "thuat_ngu": "NFR Conflict",
+      "dinh_nghia_theo_giang_vien": "Sự xung đột/mâu thuẫn giữa hai yêu cầu phi chức năng trong cùng một hệ thống, khi việc tối ưu hoặc gia tăng một chỉ số chất lượng này dẫn đến làm suy giảm hoặc cản trở một chỉ số chất lượng khác.",
+      "vi_du": "Security vs Performance (càng mã hóa phức tạp thì xử lý càng chậm), Usability vs Security (bảo mật càng chặt thì người dùng thao tác càng rườm rà), Performance vs Scalability.",
+      "ts": "01:30"
+    }
+  ],
+  "cau_chu_mau": [
+    {
+      "dung_khi": "Viết cột NFR Description trong bảng Part 1",
+      "mau": "The system should [action/quality]",
+      "ts": "02:00"
+    },
+    {
+      "dung_khi": "Viết cột Acceptance Criterion trong bảng Part 1",
+      "mau": "[X]% of [actions] must be [measurable condition]",
+      "ts": "02:00"
+    },
+    {
+      "dung_khi": "Đề xuất chiến lược trade-off giải quyết xung đột NFR ở Part 2",
+      "mau": "Use [solution 1], [solution 2] to balance both",
+      "ts": "07:30"
+    }
+  ],
+  "luu_y_cham_diem": [
+    {
+      "noi_dung": "Tất cả các campus FPT thi SWE202c đều thi trên máy tính bằng phầm mềm PEI, thí sinh có thể copy-paste dữ liệu từ đề bài vào file làm bài.",
+      "muc_do": "chac_chan",
+      "ts": "00:00"
+    },
+    {
+      "noi_dung": "NFR bắt buộc phải measurable (có con số đo lường cụ thể). Nếu chỉ nói chung chung như 'hệ thống phản hồi nhanh' sẽ không có điểm, phải ghi chi tiết con số như '1.000 users, response time under 3 seconds'.",
+      "muc_do": "chac_chan",
+      "ts": "01:00"
+    },
+    {
+      "noi_dung": "Đề bài chỉ yêu cầu liệt kê ít nhất 4 NFRs, nhưng nên làm 5 cái (Performance, Security, Availability, Usability, Scalability) để đảm bảo ăn trọn điểm tối đa.",
+      "muc_do": "co_the",
+      "ts": "01:30"
+    },
+    {
+      "noi_dung": "Part 1 (lập bảng NFR) chiếm 0.9 điểm; Part 2 (xung đột & trade-off) chiếm 0.1 điểm.",
+      "muc_do": "chac_chan",
+      "ts": "03:00"
+    },
+    {
+      "noi_dung": "Khi làm Acceptance Criterion, copy nguyên văn đoạn kỹ thuật trong đề vào thì giảng viên dễ tính vẫn cho điểm tối đa, nhưng giảng viên khó tính có thể trừ điểm vì quá dài. Nếu có thời gian nên tóm tắt lại cô đọng chứa các chỉ số chính.",
+      "muc_do": "co_the",
+      "ts": "22:30"
+    }
+  ],
+  "meo_lam_bai": [
+    {
+      "meo": "Cách lấy Acceptance Criterion nhanh nhất: Cuộn xuống đoạn văn chứa thông số kỹ thuật (technical constraints) ở cuối Case Study, copy nguyên văn các câu chứa con số tiêu chuẩn (1,000 users, 3s, TLS 1.2, 99.5%, WCAG 2.1) dán thẳng vào cột Acceptance Criterion.",
+      "ts": "05:00"
+    },
+    {
+      "meo": "Nên luôn luôn chọn cặp xung đột 'Security and Performance' vì là cặp dễ giải thích nguyên nhân (Mã hóa + Phân quyền = Tốn CPU/xử lý làm máy chậm) và dễ đưa ra giải pháp Trade-off nhất (Mã hóa nhanh + Cache user roles + Horizontal scaling).",
+      "ts": "15:30"
+    },
+    {
+      "meo": "Ghi nhớ bộ từ khóa (keywords) để nhận diện và mô tả nhanh các Category: Performance (speed, response time), Security (login, encryption), Availability (uptime), Usability (easy to use), Scalability (nhiều user), Maintainability (dễ sửa code).",
+      "ts": "26:20"
+    }
+  ],
+  "loi_sai_thuong_gap": [
+    {
+      "loi": "Mô tả NFR mang tính định tính chung chung, thiếu các con số tiêu chuẩn đo lường cụ thể.",
+      "cach_tranh": "Phải luôn đưa các chỉ số đo lường cụ thể từ đề bài vào (ví dụ: '1,000 simultaneous users', 'under 3 seconds', '99.5% of the time').",
+      "ts": "01:00"
+    },
+    {
+      "loi": "Copy-paste quá nhiều câu từ thừa thãi ngoài phạm vi chỉ số kỹ thuật từ đề bài vào cột Acceptance Criterion làm bảng bị dài lê thê.",
+      "cach_tranh": "Chỉ trích xuất chính xác câu chứa tiêu chuẩn kỹ thuật hoặc tóm tắt ngắn gọn giữ nguyên con số.",
+      "ts": "06:00"
+    }
+  ],
+  "prompt_ai_giang_vien_dung": [],
+  "so_do_va_bang": [
+    {
+      "ts": "00:50",
+      "loai": "khac",
+      "noi_dung_chep_lai": "Trick:\nPerformance (2s)\nSecurity (login + encrypt)\nAvailability (99%)\nScalability (10k users)\n\n5. Kiến thức cần nhớ nhanh trước thi\n• NFR = chất lượng hệ thống\n• Phải measurable\n• Categories phổ biến:\n  • Performance\n  • Security\n  • Availability\n  • Usability\n  • Scalability\n• Conflict phổ biến:\n  • Security vs Performance\n  • Usability vs Security\n  • Performance vs Scalability"
+    },
+    {
+      "ts": "02:00",
+      "loai": "khac",
+      "noi_dung_chep_lai": "Cách làm\nTemplate NFR Description\nThe system should [action/quality]\n\nAcceptance:\n[X]% of [actions] must be [measurable condition]\n\nVí dụ:\n• The system should respond quickly\n→ 95% requests ≤ 2 seconds\n\nCategory | Keywords nhớ nhanh\nPerformance | speed, response time\nSecurity | login, encryption"
+    },
+    {
+      "ts": "08:00",
+      "loai": "khac",
+      "noi_dung_chep_lai": "Category | NFR Description | Acceptance Criterion\nPerformance | The system should handle many user at the time and response quickly | The system must remain responsive—handling at least 1,000 simultaneous users during peak registration periods with a page-response time under 3 seconds\nSecurity | The system must protect sensitive data and control access | All communication must be encrypted using TLS 1.2 or higher, and access must be governed by a role-based access control (RBAC)\nAvailability | The system should be available during the semester | The platform must be available 99.5% of the time during the semester, with any planned maintenance scheduled outside the registration window\nUsability | The system should be easy to use on different device | The interface must be accessible on both desktop and mobile browsers and conform to WCAG 2.1 Level AA accessibility standards\nScalability | The system should... | The architecture should also support horizontal scaling"
+    },
+    {
+      "ts": "19:30",
+      "loai": "khac",
+      "noi_dung_chep_lai": "Part 2 Conflict:\nSecurity and Performance\n\nExplain:\nReason:\nSecurity protects data by encryption and access control but it need more processing, so the system can slower, when many users use it at the same time\n\nTrade-off:\nUse simple and fast encryption and cache user roles to reduce processing\nAlso, use more server (scaling) to keep the system fast while still use secure"
+    },
+    {
+      "ts": "26:20",
+      "loai": "khac",
+      "noi_dung_chep_lai": "Category | Keywords\nnhanh | Performance (speed, response time)\nSecurity | login, encryption\nAvailability | uptime\nUsability | easy to use\nScalability | nhiều user\nMaintainability | dễ sửa code"
+    }
+  ],
+  "cho_khong_ro": [],
+  "ghi_chu_ngoai_khoa": [],
+  "do_bao_phu": "đã đọc hết dossier: có"
+}

@@ -1,0 +1,240 @@
+{
+  "id": "b3-2",
+  "tieu_de_tu_suy_ra": "Luyện tập Q2 (Use Case Modeling) - Đề số 1: E-Commerce & Smart Logistics (SwiftMart / IFS)",
+  "cau_hoi_lien_quan": [
+    "Q2"
+  ],
+  "do_dai_phut": 48.4,
+  "dan_bai": [
+    {
+      "ts": "00:00",
+      "muc": "Giới thiệu video và đọc đề Practice Test 1: E-Commerce & Smart Logistics (Integrated Fulfillment System - IFS), phân tích các yêu cầu của Question 2: UC Modeling"
+    },
+    {
+      "ts": "01:00",
+      "muc": "Phân tích đoạn văn Case Study để trích xuất các Actor (Customers, Delivery Riders, Warehouse Staff, Procurement Team, Managers)"
+    },
+    {
+      "ts": "06:00",
+      "muc": "Nhận diện các hệ thống bên thứ ba (Payment Gateway, Mapping Service API) và phân loại Actor Primary vs Secondary"
+    },
+    {
+      "ts": "07:30",
+      "muc": "Lập Bảng 2.1: Identify All Actors gồm 7 Actor kèm Type (Primary/Secondary) và Goal"
+    },
+    {
+      "ts": "14:30",
+      "muc": "Lập Bảng 2.2: Liệt kê danh sách 16 Use Cases kèm ID, Use Case name, Initiating Actor và Goal"
+    },
+    {
+      "ts": "23:00",
+      "muc": "Thao tác trên phần mềm StarUML: Tạo diagram, vẽ khung Use Case Subject 'Integrated Fulfillment System' và tạo các tượng Actor"
+    },
+    {
+      "ts": "27:30",
+      "muc": "Tạo các Use Case hình elip trong StarUML và gán tên tương ứng"
+    },
+    {
+      "ts": "30:00",
+      "muc": "Nối các đường quan hệ Association giữa Actor và các Use Case"
+    },
+    {
+      "ts": "33:30",
+      "muc": "Xác định và vẽ quan hệ «include» (Checkout -> Process payment, Navigate to customer -> Use map)"
+    },
+    {
+      "ts": "41:30",
+      "muc": "Xác định và vẽ quan hệ «extend» (Retry Payment -> Checkout, Receive Restock Alert -> Update inventory)"
+    },
+    {
+      "ts": "45:00",
+      "muc": "Giải thích lý thuyết mở rộng về quan hệ Generalization (kế thừa) giữa các Actor (ví dụ: System User) và kết thúc video"
+    }
+  ],
+  "quy_trinh_lam_bai": [
+    {
+      "buoc": 1,
+      "ten_buoc": "Đọc đề case study và xác định danh sách các Actor",
+      "lam_gi_cu_the": "Đọc lướt qua case study, tìm các danh từ chỉ đối tượng người dùng hoặc hệ thống bên ngoài tương tác với hệ thống (Customer, Delivery Rider, Warehouse Staff, Procurement Team, Manager, Payment Gateway, Mapping Service API). Phân loại Primary Actor (người chủ động tương tác để đạt mục tiêu) và Secondary Actor (hệ thống bên ngoài hoặc đối tượng chỉ nhận thông báo thụ động).",
+      "dau_vao": "Đoạn văn Case Study trong đề bài",
+      "dau_ra": "Bảng danh sách Actor gồm 3 cột: Actor, Type (Primary/Secondary), Goal",
+      "cau_noi_goc": "Đầu tiên mình sẽ tìm hiểu qua một chút về cái này... customer ở đây này từ cái chỗ này nó đã bắt đầu nhắc đến phần actor này... thằng này nó chỉ nhận thông báo thôi cái thằng này nó chỉ nhận thông báo cho nên là nó sẽ chỉ là actor phụ thôi anh em nhé",
+      "ts": "01:00"
+    },
+    {
+      "buoc": 2,
+      "ten_buoc": "Liệt kê danh sách Use Case (yêu cầu 2 của Question 2)",
+      "lam_gi_cu_the": "Dựa vào từng Actor đã tìm ở Bước 1, nhặt ra các hành động chính mà Actor đó thực hiện với hệ thống hoặc hệ thống tự động làm. Đề yêu cầu tối thiểu 8 use case, giảng viên liệt kê 16 use case để làm đầy đủ không sót. Viết theo bảng gồm 4 cột: ID, Use case, Initiating actor, Goal (mô tả ngắn 1 câu).",
+      "dau_vao": "Danh sách Actor và các câu mô tả chức năng trong Case Study",
+      "dau_ra": "Bảng danh sách Use Case đầy đủ",
+      "cau_noi_goc": "ở dưới này mình sẽ xử lý nốt cái phần là liệt kê ra đúng không thì chỗ này mình nghĩ là mình sẽ liệt kê hết ra nhá... 8 cái thì đây mình có thể làm là... vứt vào đây luôn",
+      "ts": "14:30"
+    },
+    {
+      "buoc": 3,
+      "ten_buoc": "Tạo Use Case Subject (Boundary) trong phần mềm StarUML",
+      "lam_gi_cu_the": "Mở StarUML, chọn Model -> Add Diagram -> Use Case Diagram. Kéo công cụ Use Case Subject (Boundary) ra canvas và đặt tên hệ thống đúng theo đề bài: 'Integrated Fulfillment System'.",
+      "dau_vao": "Tên hệ thống trong đề bài ('Integrated Fulfillment System')",
+      "dau_ra": "Khung hệ thống Boundary trên diagram",
+      "cau_noi_goc": "vào model này add diagram này use case diagram đây... tên của cái này là gì... Integrated Fulfillment System",
+      "ts": "23:30"
+    },
+    {
+      "buoc": 4,
+      "ten_buoc": "Thêm Actor và Use Case vào sơ đồ StarUML",
+      "lam_gi_cu_the": "Đặt các Actor bên ngoài khung Boundary (Primary Actor ở phía bên trái, Secondary Actor ở phía bên phải). Tạo các hình elip Use Case bên trong khung Boundary tương ứng với danh sách đã liệt kê ở Bước 2.",
+      "dau_vao": "Bảng Actor và Bảng Use Case từ Bước 1 & Bước 2",
+      "dau_ra": "Các phần tử Actor và Use Case hiển thị trên sơ đồ StarUML",
+      "cau_noi_goc": "bấm 2 lần nhé thì nó khóa vào chỉ cần bấm là... kéo này sang đây... thêm cho mình 1, 2, 3, 4... điền vào đó",
+      "ts": "25:30"
+    },
+    {
+      "buoc": 5,
+      "ten_buoc": "Nối quan hệ Association giữa Actor và Use Case",
+      "lam_gi_cu_the": "Nối đường thẳng Association từ các Primary Actor đến các Use Case họ khởi tạo/tương tác, và từ các Secondary Actor (Payment Gateway, Mapping Service API, Procurement Team) đến các Use Case tương ứng của họ.",
+      "dau_vao": "Mối liên quan giữa Actor và Use Case",
+      "dau_ra": "Các đường Association nối Actor với Use Case",
+      "cau_noi_goc": "nối hết này nó hết cho mình nhá... ok xong customer nhé mình sẽ cân chỉnh lại luôn",
+      "ts": "30:30"
+    },
+    {
+      "buoc": 6,
+      "ten_buoc": "Xác định và vẽ quan hệ «include»",
+      "lam_gi_cu_the": "Xác định các Use Case bắt buộc phải gọi/sử dụng Use Case khác để hoàn thành nhiệm vụ (ví dụ: Checkout/Retry Payment bắt buộc «include» Process payment; Navigate to customer bắt buộc «include» Use map). Vẽ mũi tên nét đứt từ Use Case gốc chỉ sang Use Case phụ thuộc và ghi nhãn «include».",
+      "dau_vao": "Các chức năng cần gọi dịch vụ dùng chung hoặc dịch vụ bên thứ ba",
+      "dau_ra": "Quan hệ «include» với mũi tên nét đứt hướng từ Use Case chính tới Use Case được include",
+      "cau_noi_goc": "để mà thanh toán được thì phải thông qua là bên thứ ba đúng không thì có phải là nó sẽ có cái include lúc này... để mà anh tìm được chỗ khách hàng thì phải sử dụng map",
+      "ts": "38:00"
+    },
+    {
+      "buoc": 7,
+      "ten_buoc": "Xác định và vẽ quan hệ «extend»",
+      "lam_gi_cu_the": "Xác định các Use Case mở rộng chỉ xảy ra khi có điều kiện đặc biệt/lỗi (ví dụ: Retry Payment «extend» Checkout - chỉ khi thanh toán lỗi mới chọn trả lại; Receive Restock Alert «extend» Update inventory - chỉ khi số lượng hàng giảm dưới ngưỡng mới kích hoạt cảnh báo). Mũi tên nét đứt «extend» trỏ TỪ Use Case mở rộng VỀ Use Case chính.",
+      "dau_vao": "Các luồng ngoại lệ, tính năng tự động/tùy chọn theo điều kiện trong case study",
+      "dau_ra": "Quan hệ «extend» với mũi tên nét đứt hướng từ Use Case mở rộng/ngoại lệ trỏ về Use Case cơ sở",
+      "cau_noi_goc": "Nếu mà xảy ra lỗi mà chết... thì mình mới phải thanh toán lại... mũi tên thì luôn trỏ vào cái thằng chính... Thằng này update mà Nếu mà nó bị ít quá thì mới gửi thông báo nhập hàng đúng không, còn không thì thôi đấy, thì đây nó chính là extend nhé",
+      "ts": "41:30"
+    }
+  ],
+  "vi_du_giang_vien_lam": [
+    {
+      "de_bai_goc": "PRACTICE TEST 1: E-COMMERCE & SMART LOGISTICS\nI. CASE STUDY\n\"SwiftMart\" is a rapidly growing online grocery platform currently struggling with a manual backend that leads to frequent delivery delays. The company has commissioned an \"Integrated Fulfillment System\" (IFS) to digitize its operations. Customers use the web and mobile platform to browse products, manage their shopping carts, and process payments. A unique feature is the \"Subscription Mode,\" where customers can schedule recurring weekly deliveries; the system automatically generates these orders every Monday. Delivery Riders use a dedicated mobile interface to accept delivery assignments, navigate to customer locations using integrated maps, and update the order status to \"Delivered.\" Warehouse Staff are responsible for inventory management, including updating stock levels and marking items as \"Damaged\" or \"Out of Stock.\" When inventory for a high-demand item falls below a certain threshold, the system automatically triggers a \"Restock Alert\" to the Procurement Team. Managers oversee the platform by viewing real-time sales analytics, managing promotional discount codes, and handling customer refund requests for missing items.\nTechnically, the IFS must integrate with a third-party Payment Gateway and a Mapping Service API. The system must handle up to 5,000 transactions per hour with a sub-2-second response time for checkout. Security is paramount; all payment data must be PCI-DSS compliant. If a payment fails, the system offers an optional \"Retry Payment\" path. The system must maintain 99.9% uptime, as any downtime directly results in lost revenue.\n\nQuestion 2: UC Modeling (1.5 points)\n1. Identify ALL actors in the IFS. For each actor, state their primary goal and whether they are a primary or secondary actor. (0.3 points)\n2. List at least EIGHT use cases for the IFS. For each use case, state the initiating actor(s) and a one-sentence description of the goal. (0.4 points)\n3. Draw a complete UML Use Case Diagram for the IFS. The diagram must include: (0.8 points)\n- All identified actors and major use cases.\n- At least ONE <<include>> and ONE <<extend>> relationship with rationales.\n- Any actor-generalisation relationships that apply.",
+      "bai_lam_hoan_chinh": "1. Identify All actors:\n| Actor | Type | Goal |\n| Customers | Primary | Browse products, manage shopping cart, payment, Subscription Mode |\n| Delivery Riders | Primary | Accept orders, navigate to customer, update status orders |\n| Warehouse Staff | Primary | inventory management, mark item |\n| Procurement Team | Secondary | Receive Restock Alert (When inventory for a high-demand item falls below a certain threshold, the system automatically triggers a \"Restock Alert\") |\n| Managers | Primary | View sales analytics, managing promotional discount codes and manage refund |\n| Payment Gateway | Secondary | Handle payment / the IFS must integrate with a third-party to Process payment |\n| Mapping Service API | Secondary | Use map to navigate to customer / the IFS must integrate with a third-party |\n\n2. List use cases:\n| ID | Use case | Initiating actor | Goal |\n| 1 | Browse products | Customers | View products |\n| 2 | Manage shopping cart | Customers | Manage shopping cart |\n| 3 | Checkout | Customers | payment |\n| 4 | Retry Payment | Customers | If checkout error customer can pay again |\n| 5 | Manage Subscription | Customers | customers can schedule recurring weekly deliveries |\n| 6 | Accept orders | Delivery Riders | Delivery Riders use a dedicated mobile interface to accept delivery assignments |\n| 7 | Navigate to customer | Delivery Riders | navigate to customer locations using integrated maps |\n| 8 | Update status orders | Delivery Riders | update the order status to \"Delivered\" |\n| 9 | Update inventory | Warehouse Staff | responsible for inventory management |\n| 10 | Mark item | Warehouse Staff | marking items as \"Damaged\" or \"Out of Stock.\" |\n| 11 | View sales analytics | Managers | viewing real-time sales analytics |\n| 12 | Manage discount code | Managers | managing promotional discount codes |\n| 13 | Handle refund request | Managers | Handling customer refund requests for missing items. |\n| 14 | Receive Restock Alert | Procurement Team | When inventory for a high-demand item falls below a certain threshold, the system automatically triggers a \"Restock Alert\" |\n| 15 | Process payment | Payment Gateway | the IFS must integrate with a third-party to Process payment |\n| 16 | Use map | Mapping Service API | the IFS must integrate with a third-party |\n\n3. Use Case Diagram (StarUML):\nSubject Boundary: Integrated Fulfillment System\nPrimary Actors (Left): Customers, Delivery Riders, Warehouse Staff, Managers\nSecondary Actors (Right): Procurement Team, Payment Gateway, Mapping Service API\n\nAssociations:\n- Customers -> Browse products, Manage shopping cart, Checkout, Retry Payment, Manage Subscription\n- Delivery Riders -> Accept orders, Navigate to customer, Update status orders\n- Warehouse Staff -> Update inventory, Mark item\n- Managers -> View sales analytics, Manage discount code, Handle refund request\n- Procurement Team -> Receive Restock Alert\n- Payment Gateway -> Process payment\n- Mapping Service API -> Use map\n\nInclude Relationships («include»):\n- Checkout --«include»--> Process payment\n- Navigate to customer --«include»--> Use map\n\nExtend Relationships («extend»):\n- Retry Payment --«extend»--> Checkout (Condition: If payment fails)\n- Receive Restock Alert --«extend»--> Update inventory (Condition: When inventory falls below threshold)",
+      "giang_giai": "Giảng viên phân tích chi tiết từng yêu cầu đề bài: xác định Primary Actor (tác nhân chính tạo ra hành động) vs Secondary Actor (hệ thống bên ngoài hoặc đối tượng thụ động chỉ nhận tin nhắn). Đề yêu cầu tối thiểu 8 use case nhưng nên làm đầy đủ 14-16 use case để không sót điểm. Phân biệt rõ quan hệ «include» (bắt buộc phải thực hiện Use Case phụ) và «extend» (chức năng mở rộng chỉ thực hiện khi có điều kiện/lỗi xảy ra, với mũi tên extend luôn trỏ về Use Case chính).",
+      "ts": "00:00"
+    }
+  ],
+  "khai_niem": [
+    {
+      "thuat_ngu": "Primary Actor",
+      "dinh_nghia_theo_giang_vien": "Tác nhân chính - người dùng trực tiếp sử dụng ứng dụng/hệ thống để tương tác và đạt được mục tiêu của họ.",
+      "vi_du": "Customers, Delivery Riders, Warehouse Staff, Managers",
+      "ts": "07:00"
+    },
+    {
+      "thuat_ngu": "Secondary Actor",
+      "dinh_nghia_theo_giang_vien": "Tác nhân phụ - thường là hệ thống bên thứ ba tích hợp với ứng dụng hoặc bộ phận chỉ nhận thông báo thụ động mà không khởi tạo hành động trực tiếp.",
+      "vi_du": "Payment Gateway, Mapping Service API, Procurement Team",
+      "ts": "07:30"
+    },
+    {
+      "thuat_ngu": "Include Relationship («include»)",
+      "dinh_nghia_theo_giang_vien": "Mối quan hệ bắt buộc: Use Case chính bắt buộc phải gọi/sử dụng Use Case phụ để hoàn thành công việc. Mũi tên nét đứt trỏ từ Use Case chính sang Use Case phụ được include.",
+      "vi_du": "Checkout --«include»--> Process payment; Navigate to customer --«include»--> Use map",
+      "ts": "38:00"
+    },
+    {
+      "thuat_ngu": "Extend Relationship («extend»)",
+      "dinh_nghia_theo_giang_vien": "Mối quan hệ mở rộng: Chức năng mở rộng chỉ xảy ra khi có điều kiện đặc biệt hoặc ngoại lệ/lỗi. Mũi tên nét đứt luôn trỏ từ Use Case mở rộng VỀ Use Case chính.",
+      "vi_du": "Retry Payment --«extend»--> Checkout; Receive Restock Alert --«extend»--> Update inventory",
+      "ts": "41:30"
+    },
+    {
+      "thuat_ngu": "Generalization Relationship",
+      "dinh_nghia_theo_giang_vien": "Quan hệ kế thừa giữa các Actor hoặc Use Case: Actor con kế thừa tất cả chức năng của Actor cha và có thêm chức năng riêng.",
+      "vi_du": "Các Actor (Customer, Rider, Manager...) kế thừa từ Actor cha 'System User' để sử dụng chung tính năng Login",
+      "ts": "45:30"
+    }
+  ],
+  "cau_chu_mau": [
+    {
+      "dung_khi": "Mô tả mục tiêu của Actor trong bảng 2.1 hoặc bảng 2.2",
+      "mau": "Accept orders, navigate to customer locations using integrated maps, and update the order status to 'Delivered'",
+      "ts": "18:30"
+    },
+    {
+      "dung_khi": "Mô tả điều kiện để sử dụng quan hệ extend trong sơ đồ",
+      "mau": "If payment fails, the system offers an optional Retry Payment path. / When inventory for a high-demand item falls below a certain threshold...",
+      "ts": "42:30"
+    }
+  ],
+  "luu_y_cham_diem": [
+    {
+      "noi_dung": "Thằng nào chỉ nhận thông báo thụ động (như Procurement Team nhận Restock Alert) thì xếp là Secondary Actor (tác nhân phụ) chứ không phải Primary Actor.",
+      "muc_do": "chac_chan",
+      "ts": "07:30"
+    },
+    {
+      "noi_dung": "Trong sơ đồ Use Case Diagram, mũi tên quan hệ «extend» LUÔN LUÔN trỏ về Use Case chính (cơ sở), không được vẽ ngược lại. Nếu vẽ ngược là mất điểm.",
+      "muc_do": "chac_chan",
+      "ts": "41:30"
+    },
+    {
+      "noi_dung": "Quan hệ «include» mũi tên trỏ từ Use Case gốc sang Use Case phụ được gọi (ví dụ từ Checkout trỏ sang Process payment). Bắt buộc trong bài thi phải vẽ ít nhất 1 quan hệ «include» và 1 quan hệ «extend» có giải thích rationale.",
+      "muc_do": "chac_chan",
+      "ts": "38:00"
+    }
+  ],
+  "meo_lam_bai": [
+    {
+      "meo": "Khi điền cột Goal hoặc Description cho Use Case trong bảng, nếu không biết viết tiếng Anh sao cho chuẩn thì copy nguyên văn cả cụm câu từ đề bài Case Study dán vào, không sợ bị trừ điểm.",
+      "ts": "18:30"
+    },
+    {
+      "meo": "Trong StarUML, để đặt liên tiếp nhiều Actor hoặc Use Case mà không phải click chọn lại tool nhiều lần, hãy double-click (bấm 2 lần) vào icon tool trên Toolbox để khóa công cụ đó.",
+      "ts": "25:30"
+    },
+    {
+      "meo": "Đề bài chỉ yêu cầu tối thiểu 8 use cases (List at least EIGHT use cases), nhưng khi làm nên nhặt hết tất cả các Use Case tìm được trong đề bài (14-16 use case) để sơ đồ đầy đủ và chắc chắn đạt điểm tối đa.",
+      "ts": "22:30"
+    }
+  ],
+  "loi_sai_thuong_gap": [
+    {
+      "loi": "Nhầm lẫn chiều mũi tên của quan hệ «extend» (vẽ mũi tên từ Use Case chính trỏ sang Use Case extend).",
+      "cach_tranh": "Nhớ quy tắc: Mũi tên «extend» luôn trỏ VỀ Use Case chính (ví dụ: Retry Payment trỏ VỀ Checkout, Receive Restock Alert trỏ VỀ Update inventory).",
+      "ts": "41:30"
+    },
+    {
+      "loi": "Phân loại sai Procurement Team thành Primary Actor.",
+      "cach_tranh": "Phân tích xem đối tượng đó có chủ động thao tác với hệ thống không. Procurement Team chỉ nhận thông báo Restock Alert tự động gửi tới nên là Secondary Actor.",
+      "ts": "07:30"
+    },
+    {
+      "loi": "Quên vẽ các hệ thống bên thứ ba (Payment Gateway, Mapping Service API) thành Secondary Actor.",
+      "cach_tranh": "Đọc kỹ đoạn 'Technically, the IFS must integrate with third-party...' để nhặt ra các External Systems / APIs làm Secondary Actor.",
+      "ts": "06:00"
+    }
+  ],
+  "prompt_ai_giang_vien_dung": [],
+  "so_do_va_bang": [
+    {
+      "ts": "07:30",
+      "loai": "khac",
+      "noi_dung_chep_lai": "Identify All actors\nActor                Type        Goal\nCustomers            Primary     Browse products, manage shopping cart, payment, Subscription Mode\nDelivery Riders      Primary     Accept orders, navigate to customer, update status orders\nWarehouse Staff      Primary     inventory management, mark item\nProcurement Team     Secondary   Receive Restock Alert\nManagers             Primary     View sales analytics, managing promotional discount codes and manage refund\nPayment Gateway      Secondary   Handle payment / the IFS must integrate with a third-party to Process payment\nMapping Service API  Secondary   Use map to navigate to customer / the IFS must integrate with a third-party"
+    },
+    {
+      "ts": "22:30",
+      "loai": "khac",
+      "noi_dung_chep_lai": "2, Liet ke use case\nID  Use case               Initiating actor    Goal\n1   Browse products        Customers           View products\n2   Manage shopping cart   Customers           Manage shopping cart\n3   Checkout               Customers           payment\n4   Retry Payment          Customers           If checkout error customer can pay again\n5   Manage Subscription    Customers           customers can schedule recurring weekly deliveries\n6   Accept orders          Delivery Riders     Delivery Riders use a dedicated mobile interface to accept delivery assignments\n7   Navigate to customer   Delivery Riders     navigate to customer locations using integrated maps\n8   Update status orders   Delivery Riders     update the order status to \"Delivered\"\n9   Update inventory       Warehouse Staff     responsible for inventory management\n10  Mark item              Warehouse Staff     marking items as \"Damaged\" or \"Out of Stock.\"\n11  View sales analytics   Managers            viewing real-time sales analytics\n12  Manage discount code   Managers            managing promotional discount codes\n13  Handle refund request  Managers            Handling customer refund requests for missing items.\n14  Receive Restock Alert  Procurement Team    When inventory for a high-demand item falls below a certain threshold, the system automatically triggers a \"Restock Alert\"\n15  Process payment        Payment Gateway     the IFS must integrate with a third-party to Process payment\n16  Use map                Mapping Service API the IFS must integrate with a third-party"
+    },
+    {
+      "ts": "44:30",
+      "loai": "use_case",
+      "noi_dung_chep_lai": "StarUML Diagram: Integrated Fulfillment System (Use Case Diagram)\n\nSubject Boundary: Integrated Fulfillment System\n\nPrimary Actors (Left Side):\n- Customers\n- Delivery Riders\n- Warehouse Staff\n- Managers\n\nSecondary Actors (Right Side):\n- Procurement Team\n- Payment Gateway\n- Mapping Service API\n\nUse Cases & Associations:\n- Customers <-> Browse products\n- Customers <-> Manage shopping cart\n- Customers <-> Checkout\n- Customers <-> Retry Payment\n- Customers <-> Manage Subscription\n- Delivery Riders <-> Accept orders\n- Delivery Riders <-> Navigate to customer\n- Delivery Riders <-> Update status orders\n- Warehouse Staff <-> Update inventory\n- Warehouse Staff <-> Mark item\n- Managers <-> View sales analytics\n- Managers <-> Manage discount code\n- Managers <-> Handle refund request\n- Procurement Team <-> Receive Restock Alert\n- Payment Gateway <-> Process payment\n- Mapping Service API <-> Use map\n\nInclude Relationships («include»):\n- Checkout --«include»--> Process payment\n- Navigate to customer --«include»--> Use map\n\nExtend Relationships («extend»):\n- Retry Payment --«extend»--> Checkout (Rationale: Triggered only when payment fails during checkout)\n- Receive Restock Alert --«extend»--> Update inventory (Rationale: Triggered automatically when inventory falls below threshold)"
+    }
+  ],
+  "cho_khong_ro": [],
+  "ghi_chu_ngoai_khoa": [],
+  "do_bao_phu": "đã đọc hết dossier: có"
+}

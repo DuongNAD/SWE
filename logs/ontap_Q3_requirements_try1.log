@@ -1,0 +1,9 @@
+Tôi đã đọc qua các tài liệu theo yêu cầu và tạo thành công file tài liệu ôn tập cho Câu 3 tại đường dẫn tuyệt đối: [Q3_requirements.md](file:///Users/duongnad/Documents/project/SWE/ON_TAP/Q3_requirements.md).
+
+Tài liệu được viết với những lưu ý sau để phù hợp với người đọc mục tiêu:
+1. **Sử dụng tiếng Việt dễ hiểu:** Giải thích cặn kẽ bản chất của Functional và Non-functional Requirements từ mức cơ bản, tránh chép định nghĩa khô khan. Dùng ví dụ đời thường (như điện thoại, quán ăn) để sinh viên dễ hình dung.
+2. **Cấu trúc 8 phần rõ ràng:** Đã bao gồm các mục mà bạn yêu cầu như: Đề hỏi thế nào (dịch nghĩa từ `de.txt`), Hiểu bản chất, Phân loại dễ nhầm lẫn, Các bước làm bài, Mẫu câu tiếng Anh, Ví dụ đầy đủ, Các lỗi hay mất điểm và Phần tự kiểm tra.
+3. **Mẫu câu tiếng Anh & Ví dụ:** Lấy trực tiếp thông tin từ file `de.txt` (Dự án QuickMart) để minh họa rõ cách chọn lọc từ ngữ và dùng mẫu câu bắt đầu bằng "The system must..."
+4. **Chuẩn nguồn khóa học:** Lồng ghép các kiến thức và nguyên tắc trích xuất ý có dẫn nguồn như `(b4 @ 01:00)` hay `(b6 @ 06:00)` từ Playbook/Glossary, đồng thời cảnh báo rủi ro về việc tự suy luận thông số (Hallucinate/NGOÀI-KHOÁ).
+
+Bạn có thể mở file để xem chi tiết và cho tôi biết nếu cần chỉnh sửa hay bổ sung điều gì nhé!

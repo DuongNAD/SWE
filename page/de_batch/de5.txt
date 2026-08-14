@@ -1,0 +1,72 @@
+=== ĐỀ THI SWE202c (nguồn: papers/paper.pdf) ===
+
+PRACTICAL EXAM DESCRIPTION - PAGE 02
+(Đề thi thực hành trên EOS)
+I Case Study
+MedCare Solutions (MCS) is a mid-sized healthcare technology firm based in Vietnam, devoted to improving patient care through digital innovation. It serves both public
+and private medical clinics across the country. Seeing the growing demand for efficient healthcare management tools, MCS's board of directors (BOD) has decided to
+build a comprehensive Clinic Management System (CMS) that modernizes clinic operations and fully eliminates paper-based workflows.
+Through a single centralized platform, the CMS connects patients, doctors, nurses, receptionists, pharmacists, and administrators. When a patient arrives, a receptionist —
+or the patient themselves — creates a digital profile that stores demographics, health insurance, allergies, and the complete medical history. Appointments are booked
+online or at the front desk, with real-time doctor availability, automated SMS/email reminders, and dynamic queue management that offers live wait-time estimates on the
+day of the visit. During the consultation, nurses record vital signs (BP, temperature, HR, SpO2) and doctors enter ICD-10 diagnoses and treatment plans through structured
+templates; every entry is time-stamped and attributed to the responsible clinician. Lab and imaging orders (X-ray, ultrasound, MRI) are raised electronically from the EMR,
+results are auto-linked to the patient record, and critical values trigger immediate alerts. Doctors issue e-prescriptions with automatic drug-drug interaction and allergy
+checks; prescriptions flow to the pharmacy for dispensing, supported by real-time inventory updates and low-stock alerts. Administrators manage user roles (RBAC),
+schedules, fee structures, and view KPI dashboards covering patient volume, revenue, and staff productivity.
+Beyond the functional requirements above, the system must let staff users authenticate with MCS's corporate email account through the MCS Identity Platform (Single
+Sign-On). The CMS has to be intuitive and simple to use, even for clinical staff with limited technical experience. The interface should be clean and consistent, with clearly
+labeled navigation for frequent tasks such as patient lookup, appointment creation, and prescription entry. Color coding must be applied meaningfully - green to confirm
+actions, red for errors or critical alerts — so staff can act quickly without confusion.
+The system must cope with peak transaction volumes without performance degradation, especially during morning rush hours when many patient check-ins,
+consultations, and lab requests occur at the same time. Under normal operating load, the system shall respond to user interactions (page loading, form submission,
+search) within 2 seconds. It shall also scale horizontally to support a growing number of patients, clinics, and staff users without any service interruption.
+The CMS is a green-field project whose requirements keep evolving; MCS's IT department heads the build with 3-4 experienced developers and clinical representatives,
+targeting the first release in 3 months and full completion within 9 months.
+- Tài liệu được thành viên đăng tải tại FUOVERFLOW và được biên soạn lại để hỗ trợ ôn tập -
+Il Questions
+Assume that you are assigned to implement this project. Read the description above carefully and answer the following questions:
+1. Your development team consists of highly skilled and experienced members. Your manager suggests applying the XP framework to this project. Do you agree or
+disagree? List and explain all main principles, practices, and characteristics of the XP framework, then match each of them to the project characteristics above to justify
+your answer. (2.0 points)
+2. Your manager requires the system to be tested from the smallest unit level up to the fully integrated system level. At the unit level, testing must focus on program
+structure; at higher levels, testing must be based on functional requirements.
+• a. What type and level/stage of testing does your manager require? (0.7 point)
+• b. Who performs testing at each stage/level, and why are they the most suitable for that role? (0.3 point)
+3. Based on the project description above, identify and list: 5 functional requirements, 3 performance requirements, and 2 usability requirements. (2.0 points)
+4. Write 5 user stories that are derived from your answers in Question 3. (1.5 points)
+5. The manager asks you to apply some design patterns to the software system. Please list and describe in detail two design patterns discussed in the courses (1.0 points).
+6. Build a story map for the "Manage Patient Appointments" activities described in the project above. (2.5 points)
+Ill Notes
+a) Mỗi câu trả lời không đúng sẽ bị trừ 0.1 điểm b) Dưới đây là phần hướng dẫn cách viết Story Map trên phần mềm EOS.
+Cấu trúc trình bày Story Map gồm 2 phần. Phần 1 (A) mô tả các activities và user tasks. Phần 2 (B) mô tả các user story sẽ thực hiện cho mỗi lần bàn giao. Các phần được
+trình bày như sau:
+A. Activities and User tasks
+1. <Actitivity 1 name>
+• 1.1 < User task 1 of activity 1>
+• 2.2 < User task 2 of activity 1>
+2. < Actitivity 2 name>
+• 2.1 < User task 1 of activity 2>
+• 2.2 < User task 2 of activity 2>
+B. Releases
+
+
+Release 1-—-
+< Liệt kê các user story cho từng user task sẽ thực hiện trong lân bàn giao đầu tiên. Danh chỉ mục cho các user story tương ứng với các user task ở phân trên>
+• 1.1.1 User story 1 of user task 1 in activity 1
+• 1.1.2 User story 2 of user task 1 in activity 1
+• 2.1.1 User story 1 of user task 1 in activity 2
+• 2.1.2 User story 2 of user task 1 in activity 2
+Release #--
+< Liệt kê các user story cho từng user task sẽ thực hiện trong lần bàn giao #>
+• 1.1.3 User story 3 of user task 1 in activity 1
+• 2.1.3 User story 3 of user task 2 in activity 2
+Ví dụ: Khi mô tả Story Map có cấu trúc biểu đồ sau trên EOS
+Release 1
+Release 2
+Release 3
+- Tài liệu được thành viên đăng tải tại FUOVERFLOW và được biên soạn lại để hỗ trợ ôn tập —
+[Hình ảnh: Phần ví dụ Story Map (sơ đồ Email/Calendar/Contacts của Steve Rogalsky) - được tham chiếu trong III Notes của đề; sơ đồ chi tiết không nằm trong ảnh
+thread này.]
+
+

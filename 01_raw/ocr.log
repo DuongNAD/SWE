@@ -1,0 +1,7 @@
+== b1-1 (FRAME_INTERVAL=5s)
+OCR xong: 345/345 ảnh có chữ
+   ocr_frames.txt  0 ký tự
+OCR xong: 37/37 ảnh có chữ
+   ocr_scenes.txt  63311 ký tự
+== b1-2 (FRAME_INTERVAL=5s)
+scripts/01c_ocr.sh: line 33: 44599 Terminated: 15          "$BIN" "$d$kind"/*.jpg > "$d/ocr_$kind.txt"

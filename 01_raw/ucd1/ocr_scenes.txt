@@ -1,0 +1,3580 @@
+### 00:30
+Ở cốc cốc  Luyện tập Q2 - Google Doc X  +  La ..
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  * ®
+88  Tắt cả dầu trang
+Luyện tập Q2  +
+File Edit View  Inser
+A E
+Land  ENG  1:56 PM
+US  4/18/2026
+
+### 00:35
+Ở cốc cốc  Luện tập Q2 - Google Doc X  +  La  ...
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  I CO
+88  • Tất cả dấu trang
+Luyện tập Q2  +
+Share
+File Edit View Insert Format Tools Extensions Help
+95ca A § 100% = Normal text =  Arial  | - 11 +  / Editing
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration periods
+with a page-response time under 3 seconds. Because student records and grade data are
+sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must be
+governed by a role-based access control (RAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration window.
+The interface must be accessible on both desktop and mobile browsers and must conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+tuture years.
+Question 2: UC Modeling (1.5 points)
+1. Identify ALL actors in the Course Registration System. For each actor, state their primary
+goal and whether they are a primary or secondary actor. (0.3 points)
+2. List at least EIGHT use cases for the CRS. For each use case, state the initiating
+actors) and a one-sentence description of the goal. (0.4 points)
+3. Draw a complete UML Use Case Diagram for the CRS. The diagram must include: (0.8
+points)
+• All identified actors, placed correctly inside or outside the system boundary
+• All major use cases inside the system boundary rectangle
+ENG  1:56 PM
+US  4/18/2026
+
+### 00:42
+Ở cốc cốc  Luyện tập Q2 - Google Doc  +  La
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  ICO
+88  • Tất cả dấu trang
+Search for apps, settings, and documents  +
+Luyện tập Q2  Share
+File Edit View Insert Format Tools Extensions
+A § 100% -  Normal text -  Pinned  All  Editing
+scalin
+future  Microsoft Edge  Word  Excel  PowerPoint  Settings  File Explorer
+Ques
+MAETOTslides
+(2)
+Recommended  More
+PDF  SWE202c_Practical_Exam_Sample.d...  PDF  L07Requirements.pdf
+25m ago  28m ago
+SWE202c_PE_AnswerSheet.docx  SWE202c_Practical_Exam_Sample.d..
+2h ago  2h ago
+test2.mdi  testuc.mdi
+3h ago  4h ago
+DELL
+AG V  ENG  1:56 PM
+US  4/18/2026
+
+### 00:44
+Nội dung của kênh - YouTube S  tạo ảnh anime nữ cute để t làm
+studio.youtube.com/channe//UCAOC0GiiKfqMwDjZ98DMoxg/videos/upload?filter=%5B%5D&/sort=%7B columnType*%3A"date"%2C" sortOrder"%3A"DESCENDING"%7D  *
+Studio  scrble Lite  Ep Tạo
+Apps  Documents  Settings  Folders  Photos  •  C ...
+Nội dung
+&Q  Best match
+AN VA QUAN  Nguồn cảm hi  toá học  Quảng bá  Video cộng tác
+Scrble Lite  lite
+=  Lọc  App
+Kênh của bạn
+Tuần và Quản FPT UNIVERSITY  Video  Documents  Scrble Lite  Số bình luận  Lượt thích (%)
+Lượt xem
+App
+88  Tổng quan  SACH ÔN  scriptjs
+script-async.js  Open
+Nội dung
+screen-share.js  *  Pin to Start
+Số liệu phân tích  Pin to taskbar
+Scrolljs
+App settings
+Cộng đồng
+scrollLeft.d.ts - in esm  Rate and review
+Ngôn ngữ  Apps  Share
+On-Screen Keyboard  Uninstall
+Phát hiện nội dung
+Settings
+Kiếm tiền
+Settings
+Cài đặt  Change screen saver
+Gứi ý kiến phản hồi  Mouse settings
+in dot annd  enn an
+ENG  1:56 PM
+US  4/18/2026
+
+### 00:46
+Ở cồc cốc  5 Luện tập Q2 - Google Doc X  +  La
+< > C  @docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  =
+• Tất cả dấu trang
+Luyện tập Q2 * G  +
+E  Share
+File Edit View Insert Format Tools Extensions Help
+95ca10%  Normal text  Arial  | - 11  +  I U A O  / Editing
+HaL.
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 2: UC Modeling (1.5 points)
+1. Identify ALL actors in the Course Registration System. For each actor, state their primary
+goal and whether they are a primary or secondary actor. (0.3 points)
+2. List at least EIGHT use cases for the CRS. For each use case, state the initiating
+actors) and a one-sentence description of the goal. (0.4 points)
+3. Draw a complete UML Use Case Diagram for the CRS. The diagram must include: (0.8
+• All identified actors, placed correctly inside or outside the system boundary
+• All major use cases inside the system boundary rectangle
+• At least ONE <<include>> relationship - provide a brief written rationale
+• At least ONE <<extend>> relationship - provide a brief written rationale
+Any actor-generalisation relationships that apply
+G  ENG  1:56 PM
+US  4/18/2026
+
+### 00:48
+Ở cốc cốc  Luyện tập Q2 - Google Doc X  +  La
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  ICO
+88  • Tất cả dấu trang
+Search for apps, settings, and documents  +
+Luyện tập Q2  Share
+File Edit View Insert Format Tools Extensions
+Q 5  A E 100% -  Normal text -  Pinned  All  • E  Editing
+scalin
+future  Microsoft Edge  Word  Excel  PowerPoint  Settings  File Explorer
+Ques
+MAE1O1_slides
+(2)
+Recommended  More
+Gemini_Generated_Image_iurumgi...  PE SWE202.mp4
+5m ago  11m ago
+Gemini_Generated_Image_c24irrc2...  SWE202c_Practical_Exam_Sample.d...
+13m ago  25m ago
+L07Requirements.pdf  W  SWE202c PE_ AnswerSheet.docx
+28m ago  2h ago
+DELL
+Zalo
+^ G V Q  ENG  1:56 PM
+US  4/18/2026
+
+### 00:48
+Ở cồc cốc  5 Luện tập Q2 - Google Doc X  +  La
+< > C  @docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  I CO  .14
+• Tất cả dấu trang
+Luyện tập Q2 * G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+95c10%  Normal text -  Arial  |- 11] +  / Editing
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 2: UC Modeling (1.5 points)
+1. Identify ALL actors in the Course Registration System. For each actor, state their primary
+goal and whether they are a primary or secondary actor. (0.3 points)
+2. List at least EIGHT use cases for the CRS. For each use case, state the initiating
+actor(s) and a one-sentence description of the goal. (0.4 points)
+3. Draw a complete UML Use Case Diagram for the CRS. The diagram must include: (0.8
+• All identified actors, placed correctly inside or outside the system boundary
+• All major use cases inside the system boundary rectangle
+Il
+• At least ONE <<include>> relationship - provide a brief written rationale
+• At least ONE <<extend>> relationship - provide a brief written rationale
+Any actor-generalisation relationships that apply
+Zalo
+ENG  1:56 PM
+US  4/18/2026
+
+### 00:50
+Ới cốc cốc  Luyện tập Q2 - Google Doc  +  La
+< →  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  ICO
+88  • Tất cả dấu trang
+Search for apps, settings, and documents  +
+Luyện tập Q2  Share
+File  Edit View Insert Format Tools Extensions
+Q 5  A S 100% -  Normal text  Pinned  All  Editing
+scalin
+future  Microsoft Edge  Word  Excel  PowerPoint  Settings  File Explorer
+Ques
+MAE1O1_slides
+(2)
+Recommended  More
+Gemini_Generated_Image_iurumgi...  PE SWE202.mp4
+5m ago  11m ago
+Gemini_Generated_Image_c24irrc2...  SWE202c_Practical_Exam_Sample.d...
+13m ago  25m ago
+L07Requirements.pdf  SWE202c_ PE_ AnswerSheet.docx
+28m ago  2h ago
+DELL
+^ G V  ENG  1:56 PM
+US  4/18/2026
+
+### 00:51
+Ở cốc cốc  5 Luện tập Q2 - Google Doc X  +  La ..
+< > C  @ docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  ∞ |
+88  • Tất cả dấu trang
+Luện tập Q2  +
+• -  Share
+File Edit View Insert Format Tools Extensions Heip
+Normal text -  Arial  - | 11  +  I U A O  Editing
+7...?..
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 2: UC Modeling (1.5 points)
+1. Identify ALL actors in the Course Registration System. For each actor, state their primary
+goal and whether they are a primary or secondary actor. (0.3 points)
+2. List at least EIGHT use cases for the CRS. For each use case, state the initiating
+actors) and a one-sentence description of the goal. (0.4 points)
+3. Draw a complete UML Use Case Diagram for the CRS. The diagram must include: (0.8
+• All identified actors, placed correctly inside or outside the system boundary
+• All major use cases inside the system boundary rectangle
+• At least ONE <<include>> relationship - provide a brief written rationale
+• At least ONE <<extend>> relationship — provide a brief written rationale
+• Any actor-generalisation relationships that apply
+ENG  1:56 PM
+US  4/18/2026
+
+### 00:52
+Scrble Lite
+SC
+Apps  Documents  Settings  Folders  Photos  •  C ...
+Best match
+Scrble Lite  lite
+App
+Documents  Scrble Lite
+App
+script.js
+Apps  Open
+Task Scheduler  Pin to Start
+*  Pin to taskbar
+On-Screen Keyboard
+App settings
+• Settings
+Rate and review
+Settings  Share
+• Printers & scanners  Uninstall
+Virus & threat protection
+Mouse settings
+Edit power plan
+Store
+ENG  Ф)  1:56 PM
+US  4/18/2026
+
+### 00:52
+Untitled - 1 / 0 - Scrble Lite
+Untitled • 1/0 • 1280%  •
+AS VENG 4/18/2026  1:56 PM
+
+### 02:07
+TQMaster - Nên tảng luyện thX  +  X
+tuanvaquantop1.o.  . *
+88  * Bookmarks  f Facebook  • youtube  M Hộp thư đến (812) -...  Tất cả dấu trang
+TQMaster
+Nén tảng luyện thi trực tuyên
+Đăng nhập
+Nhập thông tin để truy cặp tài khoản
+Email
+caotuan01122005@gmail.com
+Mặt kháu
+" ….••••
+→ Đăng nhập
+HOẠC
+Chưa có tải khoản? Đăng kỷ ngay
+© 2024. TQMaster - Author: Tuấn và Quân
+ENG  1:58 PM
+^ G V  US  4/18/2026
+
+### 02:07
+TQMaster- Nn tổng luyên thX
+A  tuanvaquantop1.o...  G
+88  * Bookmarks  arKiok  → youtUbe  M Hộp thư đến (812) - ....
+TQMaster
+Nến tàng luyện thi trực tuyến
+Đăng nhập
+Nhập thông tin để truy cập tài khoản
+Email
+caotuan01122005@gmail.com
+Mật khẩu
+8 1..•••••
+→) Đăng nhập
+HOẶC
+Chưa có tài khoản? Đăng ký ngay
+© 2024 TQMaster - Author: Tuần và Quân
+Eard  ENG - Q) 4/18/2026  1:58 PM
+
+### 02:24
+Untitled - 2 / 2 - Scrble Lite
+Untitled • 2/2 • Fit (123%)  • O
+Actor
+Rand  1:58 PM
+
+### 02:27
+AS VO ENG 4/18/2026  1:58 PM
+
+### 02:27
+TQMaster - Nên tảng luyện th  x  +
+A  tuanvaquantop1.onrender.com/dashboard  Co  *
+88  * Bookmarks  Facebook  • youtube  M Hộp thư đến (812) -....  & Drive của tôi - Goo....  5 FPT University Acad...  ChatGPT  FPT University Learn...  FuOverflow Commu...  HireLogic  Tất cà dấu trang
+Trang  Môn  Lý  Đơn  Liên  Cao Thanh
+TQMaster  Q Tìm kiếm môn học...  88  chủ  học  thuyết  hàng  hệ  Tuấn  (→ Đăng xuất
+Student
+Chảo mừng trở lại
+Cao Thanh Tuấn
+Q Xem mỗn học  • Hoàn thành mục tiêu học tập
+8 bài  môn
+Bải đã làm  Đã chi tiêu  Môn đang học
+Hướng dẫn cách học hiệu quả
+•  Xem video để tim hiểu cách tối ưu hóa quá trình học tập của bạn
+WEB HỌC TẬP TUẤN & QUÂN UPDATE 90% - THÊM VIDEO HƯỚNG DẪN DÙNG + CÁCH HỌC ĐIỂM CAO II Tuấn và Quân
+Tuàn và Quân FPT UNIVERSITY
+AN laT
+CỨC KHUNG
+ENG  1:58 PM
+NOFC  US  4/18/2026
+
+### 02:28
+TQMaster - Nên tảng luyện th  x  +
+A  =- tuanvaquantop1.onrender.com/dashboard  Q  *
+88  * Bookmarks  Facebook  • youtube  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT|  FPT University Learn...  FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Trang  Môn  Lý  Đơn  Liên  Cao Thanh
+TQMaster  Q Tìm kiếm môn học...  88  chủ  học  thuyết  hàng  hệ  Tuấn  (→> Đăng xuất
+Student
+Cao Thanh Tuấn
+C Xem mõn học  • Hoàn thành mục tiêu học tập
+8 bài  môn
+Bài đã làm  Đã chi tiêu  Môn đang học
+•  Hướng dẫn cách học hiệu quả
+Xem video để tim hiểu cách tối ưu hóa quá trình học tập của bạn
+WEB HỌC TẬP TUẤN & QUÂN UPDATE 90% - THÊM VIDEO HƯỚNG DẪN DÙNG + CÁCH HỌC ĐIỂM CAO || Tuấn và Quân
+Tuấn và Quân FPT UNIVERSITY
+CỰC KHUNG
+s0 uB  nari na
+ARATE
+ENG  1:58 PM
+NOrC®  US  4/18/2026
+
+### 02:28
+TQMaster - Nên tảng luyện th  x  +
+A  tuanvaquantop1.onrender.com/dashboard  *
+88  * Bookmarks  Facebook  • youtube  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT|  FPT University Learn...  FuOverflow Commu...  HireLogic  Tất cà dấu trang
+Trang  Môn  Lý  Đơn  Liên  Cao Thanh
+TQMaster  Q Tìm kiếm môn học...  88  chủ  học  thuyết  hàng  hệ  Tuấn  (→> Đăng xuất
+Student
+L Xem môn học  • Hoàn thành mục tiêu bọc tập
+8 bài  9 môn
+Bài đã làm  Đã chỉ tiêu  Môn đang học
+Hướng dẫn cách học hiệu quả
+Xem video để tìm hiểu cách tối ưu hóa quá trình học tập của bạn
+WEB HỌC TẬP TUẤN & QUÂN UPDATE 90% - THÊM VIDEO HƯỚNG DẪN DÙNG + CÁCH HỌC ĐIỂM CAO || Tuấn và Quân
+Tuăn và Quân FPT UNIVERSITY
+CŨC KHUNG
+UPDATE
+IRO r C &  ENG  (D))  1:58 PM
+US  4/18/2026
+
+### 02:30
+Untitled - 2 / 2 - Scrble Lite
+Untitled • 2 / 2 • Fit (123%)|  •
+Actor
+ENG -Ф)E 4/18/2026  1:58 PM
+
+### 02:46
+Ở cốc cốc  E Luyện tập Q2 - Google Docs  Thẻ mới  x  +  La ..  • ×
+< → C ®|  Q ) &  LIA =
+88  D Tất cả dấu trang
++
+• Tìm kiếm với Cốc Cốc
+"HOF CG G G . &  ^ G  ENG  4)  1:58 PM
+US  4/18/2026
+
+### 02:46
+CÔC côC  Luyện tập Q2 - Google Docs  Thẻ mới  +  La
+ICD
+C• Tất cả dấu trang
++
+28°C - Hà Nội
+A  f  C
+Then maca  Xin vào lớp  treooi?  Inbox (351)  Võ Lâm 20  MU CMPlay  Đing Kỳ Vantage
+Tìm kiếm với Cốc Cốc
+ENG  Ф)  1:58 PM
+US  4/18/2026
+
+### 02:47
+Cà cc chuyện tp Q- ig/e CHộc cùng Tưn và Qun1 +  La ..  -
+X  ® tuanvaquanfptu-1.onrender.com  L0 =
+88  C Tất cả dấu trang
++
+"HOF C GO•CS a  ATT 418/2026  1:58 PM
+
+### 02:48
+Ở cốc cốc  Luyện tập Q2 - Google Docs  Học cùng Tuấn và Quản - N  +  La  ...  -
+tuanvaquanfptu-1.onrender.com  • | CD
+88  C Tất cả dấu trang
+Tuấn & Quân  +
+Khóa học  Dịch vụ  Tài liệu  Coursera  Liên hệ  Admin  Đăng nhập
+Dịch vụ học tập FPT
+f
+Land  ^  ENG  1:58 PM
+US  4/18/2026
+
+### 02:52
+CÔC CÔC  Luyện tập Q2 - Google Docs  Học cùng Tuấn và Quần - N  × l n
+C  tuanvaquanfptu-1.onrender.com
+Tuấn & Quân  Khóa học  Dịch vụ  Tài liệu  Coursera  Liên hệ  Admin
+Dịch vụ học tập FPT
+Được 500+ sinh viên FPT tin dùng
+Đạt điểm 8-9+ môn học
+chỉ sau 2-3 tuần ôn tập
+Tài liệu được tổng hợp bởi những sinh viên đã đạt
+điểm cao. Không lý thuyết dài dòng, chỉ những gì bạn
+cần để đậu môn.
+Tài liệu cập nhật theo để thi mới nhất
+Tiết kiệm 80% thời gian ôn tập
+Hỗ trợ giải đáp thắc mắc 24/7
+Xem khóa học ngay →  Tư vấn miễn nhí.
+^ G  V  ENG  Ф)  1:58 PM
+US  4/18/2026
+
+### 02:52
+Untitled - 2/2 - Scrble Lite
+Untitled • 2/2 • Fit (123%)  •
+G cốc cồc  Luyện tập Q2 - Google Docs  Học cùng Tuấn và Quyên - 1 X +
+tuanvaquanfptu-1.onrender.com
+Actor  88
+Tuấn & Quân  Khóa học  Dịch vụ  Tài liệu  Coursera  Liên hệ  Admin
+Dịch vụ học tập FPT
+Được 500+ sinh viên FPT tin dùng
+Đạt điểm 8-9+ môn học
+chỉ sau 2-3 tuần ôn tập
+Tài liệu được tổng hợp bởi những sinh viên đã đạt
+điểm cao. Không lý thuyết dài dòng, chi những gì bạn
+cần đề đậu môn.
+ENG  1:58 PM
+US  4/18/2026
+
+### 02:52
+Untitled - 2 /2 - Scrble Lite
+Untitled • 2/2 • Fit (123%)
+Acton
+Ở côc cốc  Luyện tập Q2 - Google Docs  Học cùng Tuấn và Quận - N X
+<  •a tuanvaquanfptu-1.onrender.com
+Tuấn & Quân  Khóa học  Dịch vụ  Tài liêu  Courser:
+Dịch vụ học tập FPT
+Được 500+ sinh viên FPT tin dùng
+Đạt điếm 8-9+ môn họ
+chỉ sau 2-3 tuần ôn tậ
+• • G  ^  ENG  1:58 PM
+US  4/18/2026
+
+### 03:06
+Untitled - 2 / 2 - Scrble Lite
+Untitled • 2/2 • Fi
+Actor
+G cốc cốc B  Luyện tập Q2 - Google Docs  Học cùng Tuấn và Quân - 1 X
++ > c å  tuanvaquanfptu-1.onrender.com/admin
+88
+Admin Panel  P. Đơn hang
+TUAN VA QUAN  Quản lỳ hệ thông TUAN VA QUAN
+88  Tổng quan  Lê Hương Giang  #1776421
+• 17/4/2026  © 17:32
+Đơn hàng
+Hoàng Nhật Minh  #177630
+Người dùng  H
+Zad  ENG  Ф)  1:59 PM
+US  4/18/2026
+
+### 03:06
+côc CôC  Luyện tập Q2 - Google Docs  Học cùng Tuấn và Quân.
+tuanvaquanfptu-1.onrender.com/admin
+u trang
+Admin Panel  Đơn hàng  +
+C Làm mới
+TUAN VA QUAN  Quản lý hệ thống TUAN VA QUAN
+Tổng quan  Lê Hương Giang  #1776421947220
+• Chở xử lý  • 70.000đ
+@ 17/4/2026 © 17:32
+Đơn hàng
+Hoàng Nhật Minh  #1776304318686
+Người dùng  H  C Hoàn thành  - 150.000đ
+@ 16/4/2026 08:51
+Sản phẩm
+Lê Đình Dũng  #1776252682097
+G Hoàn thành  E 200.000đ
+Mã giảm giá  • 15/4/2026  © 18:31
+Vòng quay  #1776247922272
+Hoàng Xuân An
+G Hoàn thành  • 200.000đ
+E15/4/2026 O 17:12
+Chỉ tiêu
+Quản lý kỳ học  Tổng Huy Hoàng  #1776221570379
+T  C Hoàn thành  @ 70.000đ
+15/4/2026 09:52
+Về trang chính
+•→ Đăng xuất  Ngô Sỹ Bình  #1776059237772
+N  C Hoàn thành  E 70.000đ
+-13/4/20260.12:47
+^ G V0  ENG  1:59 PM
+US  4/18/2026
+
+### 03:06
+cÔC Côc  Luyện tập Q2 - Google Docs  Hợc cùng ưnà Quản N  + W  La ..
+tuanvaquanfptu-1.onrender.com/admin  • CD
+• Tất cà dấu trang
+Admin Panel  +
+Đơn hàng  C Làm mới
+TUAN VA QUAN  Quản lý hệ thống TUAN VA QUAN
+Tổng quan  Lê Hương Giang  #1776421947220
+• Chở xử lý  • 70.000đ
+• 17/4/2026 © 17:32
+Đơn hàng
+Hoàng Nhật Minh  #1776304318686
+Người dùng  H  C Hoàn thành  @ 150.000đ
+@ 16/4/2026 08:51
+Sản phẩm
+Lê Đình Dũng  #1776252682097
+G Hoàn thành  E 200.000đ
+Mã giảm giá  • 15/4/2026  © 18:31
+Vòng quay  #1776247922272
+Hoàng Xuân An
+H  G Hoàn thành  • 200.000g
+B 15/4/2026 17:12
+Chi tiêu
+Tổng Huy Hoàng  #1776221570379
+Quản lý kỳ học  T  G Hoàn thành  e 70.000đ
+15/4/2026 09:52
+Về trang chính
+→ Đăng xuất  Ngô Sỹ Bình  #1776059237772
+N  C Hoàn thành  E 70.000đ
+E13/4/2026  © 12:47
+ENG  1:59 PM
+US  4/18/2026
+
+### 03:21
+Untitled - 2/ 2 - Scrble Lite  cốc cốc  • Luyện tập Q2 - Google Docs  Hợc cùng hn và Quảng NX  +
+H  tuanvaquanfptu-1.onrender.com/admin
+Admin Panel  Đơn hàng
+TUAN VA QUAN  Quần lý hệ thống TUAN VA QUAN
+98  Tổng quan  Lê Hương Giang  #1776421947220
+# 17/4/2026 © 17:32
+A  P  Đơn hàng
+Hoàng Nhật Minh  #1776304318686
+H
+Người dùng  B 16/4/2026 08:51
+Sản phẩm
+Lê Đình Dũng  #1776252682097
+# 15/4/2026 18:31
+Mã giảm giá
+Vòng quay  Hoàng Xuân An  #1776247922272
+H
+B 15/4/2026  © 17:12
+Chi tiêu
+Tổng Huy Hoàng  #1776221570379
+Quản lý kỳ học  C15/4/2026 09:52
+Về trang chính
+Đáng xuất  THÔNG TIN KHÁCH HÀNG
+V  ENG  1:59 PM
+US  4/18/2026
+
+### 03:21
+Untitled - 2/ 2 - Scrble Lite
+Untitled • 2/2 • Fit (123%)
+cốc côc  Luyện tập Q2 - Google Docs  Học cùng Tuấn và Quân - ^  +
+tuanvaquanfptu-1.onrender.com/admin
+Actor
+Admin Panel  F Đơn hàng
+TUAN VÀ QUAN  Quản lý hệ thống TUAN VA QUAN
+88  Tổng quan  Lê Hương Giang  #1776421947220
+@ 17/4/2026 17:32
+Đơn hàng
+Hoàng Nhật Minh  #1776304318686
+Người dùng  H
+B16/4/2026 08:51
+Sản phẩm
+Lê Đình Dũng  #1776252682097
+• 15/4/2026 O 18:31
+Mã giảm giá
+Vòng quay  Hoàng Xuân An  #1776247922272
+H
+@ 15/4/2026 © 17:12
+Chỉ tiêu
+ENG  ф)  1:59 PM
+US  4/18/2026
+
+### 03:21
+Untitled - 2/ 2 - Scrble Lite
+Untitled • 2/2 • Fit (123%)
+Actor
+G cốc cốc  E Luyện tập Q2 - Google Docs  Học cùng Tuấn và Quần - A X
+< > C å tuanvaquanfptu-1.onrender.com/admin
+88
+Admin Panel  P. Đơn hàng
+TUAN VA QUAN  Quản lý hệ thống TUAN VA QUAN
+88  Tổng quan  Lê Hương Giang #1776421941
+17/4/2026 © 17:32
+Đơn hàng
+Hoàng Nhật Minh  #17763043
+H
+Người dùng  B16/4/2026 ©08:51
+Sản phẩm
+Lê Đình Dũng  #177625268209
+L
+15/4/2026 ®18:31
+2 Mã giảm giá
+ENG  ф)  1:59 PM
+US  4/18/2026
+
+### 03:24
+< →  C  docs  *
+88  • Tất cả dầu trang
+Luyện tập Q2  +
+C -  • Share  +
+File  Edit  View  Insert  Format Tools Extensions Help
+100% -  Normal text  Arial  +  B I
+1...1.  scalling so that additional server capacity can be added smoothly as student numbers grow in
+=  future years.
+Question 2: UC Modeling (1.5 points)
+1. Identify ALL actors in the Course Registration System. For each actor, state their primary
+goal and whether they are a primary or secondary actor. (0.3 points)  f
+List at least EIGHT use cases for the CRS. For each use case, state the initiating
+actors) and a one-sentence description of the goal. (0.4 points)
+Draw a complete UML Use Case Diagram for the CRS. The diagram must include: (0.8
+All identified actors, placed correctly inside or outside the system boundary
+• All major use cases inside the system boundary rectangle
+At least ONE <<include>> relationship - provide a brief written rationale
+At least ONE <<extend>> relationship — provide a brief written rationale
+Any actor-generalisation relationships that apply
+203
+ENG  - Ф)  1:59 PM
+US  4/18/2026
+
+### 03:24
+Ở cốc cốc  = l  Luyện tập Q2 - Google Doc  +
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyM  =
+88  i trang
+Luyện tập Q2  +
+Share
+File Edit View Insert Format Tools Extensions Help
+95c8 AS 100% ~  Normal text -  Arial  - L  +  U  A  0. ~
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+=  future years.
+Question 2: UC Modeling (1.5 points)
+1. Identify ALL actors in the Course Registration System. For each actor, state their primary
+goal and whether they are a primary or secondary actor. (0.3 points)  f
+2. List at least EIGHT use cases for the CRS. For each use case, state the initiating
+actors) and a one-sentence description of the goal. (0.4 points)
+3. Draw a complete UML Use Case Diagram for the CRS. The diagram must include: (0.8
+All identified actors, placed correctly inside or outside the system boundary
+• All major use cases inside the system boundary rectangle
+• At least ONE <<include>> relationship - provide a brief written rationale
+• At least ONE ‹<extend>> relationship - provide a brief written rationale
+• Any actor-generalisation relationships that apply
+Site  1:59 PM
+4/18/2026
+
+### 03:29
+=t.0  CD
+88  • Tất cả dấu trang
+Luyện tập G  +
+• -  Share
+File Edit View  Insert  Format  Tools Extensions  Help
+Q  § 100%  Normal text -  Arial  +  B  U
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 2: UC Modeling (1.5 points)
+1. Identify ALL actors in the Course Registration System. For each actor, state their primary
+goal and whether they are a primary or secondary actor. (0.3 points)  f
+2. List at least EIGHT use cases for the CRS. For each use case, state the initiating
+actors) and a one-sentence description of the goal. (0.4 points)
+3. Draw a complete UML Use Case Diagram for the CRS. The diagram must include: (0.8
+• All identified actors, placed correctly inside or outside the system boundary
+• All major use cases inside the system boundary rectangle
+• At least ONE <<include>> relationship - provide a brief written rationale
+• At least ONE <<extend>> relationship - provide a brief written rationale
+• Any actor-generalisation relationships that apply
+^  ENG  1:59 PM
+US  4/18/2026
+
+### 03:30
+cốc cốc  +
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyM  =
+88  u trang
+Luyện tập Q2  +
+Share
+File Edit View Insert  Format Tools Extensions Help
+Normal text  Arial  +  U  A  0. ^
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 2: UC Modeling (1.5 points)
+1. Identify ALL actors in the Course Registration System. For each actor, state their primary
+goal and whether they are a primary or secondary actor. (0.3 points)
+2. List at least EIGHT use cases for the CRS. For each use case, state the initiating
+actors) and a one-sentence description of the goal. (0.4 points)
+3. Draw a complete UML Use Case Diagram for the CRS. The diagram must include: (0.8
+points)
+All identified actors, placed correctly inside or outside the system boundary
+• All major use cases inside the system boundary rectangle
+• At least ONE <<include>> relationship — provide a brief written rationale
+• At least ONE <<extend>> relationship - provide a brief written rationale
+• Any actor-generalisation relationships that apply
+Site  ^ G V $  ENG  1:59 PM
+4/18/2026
+
+### 06:00
+V  ENG  2:02 PM
+^ G  US  4/18/2026
+
+### 06:02
+VE Lo7Requirements.pdf  x +  X
+- GO FileD:/wd%20c%20sang%20d/Downloads/L07Requirements.pdf  E Sign in e  T Chat
+2:02 PM
+US  4/18/2026
+
+### 06:02
+LO7Requirements.pdf  +  X
+© D:/wd%20c%20sang%20d/Downloads/L07Requirements.pdf  Sign in  Chat
+Zard  V  ENG  2:02 PM
+US  4/18/2026
+
+### 06:02
+VE Lo7Requirements.pdf  -  X
+-GO FileD:/wd%20c%20sang%20d/Downloads/L07Requirements.pdf  Sign in e  Chat
+G  ENG 46  2:02 PM
+IAOR  C C  US  4/18/2026
+
+### 06:02
+LO7Requirements.pdf  +  X
+© FileD:/wd%20c%20sang%20d/Downloads/L07Requirements.pdf  Sign in  Chat
+Software Engineering
+System Requirements Capture
+ENG  2:02 PM
+US  4/18/2026
+
+### 06:02
+VE Lo7Requirements.pdf  +  X
+© D:/wd%20c%20sang%20d/Downloads/L07Requirements.pdf  Sign in e  Chat
+ENG  2:02 PM
+US  4/18/2026
+-
+
+### 06:04
+New tab  +
+Q l  Search or enter web address  Sign in  Chat
+ia Import favorites  On tap ngữ pháp ...  Từ mới L1-L7 JPD1...
+Tìm kiếm trên web  Hà Nôi  27°C  VI
+msn  Khám phá  Tìn tức  Thể thao  Tài chính  Thời tiết  Bố cục Nguồn cáp dữ liệu  Cá nhân hóa
+VTC News • 1 ngày  VnExpress
+Luôn phải tỏ ra là người hiểu
+Sự biến mất bí ẩn của 'Lý Tiểu Long nhí trong nhiều
+chuyện nhất trong gia đình
+năm
+Câu chuyện hàng đầu
+Tiền Phong • 42 phút
+Tống Bí thư, Chủ tịch nước Tô Lâm tiếp
+các già làng, trưởng bản, nghệ nhân,...
+Tuổi trẻ - 2 giờ
+Thủ tướng: Cảnh sát hình sự không chi
+giỏi 'đánh án", mà còn giỏi vận động...  Ngoi sao - 3 giờ
+VietnamPlus - 3 giờ  6 việc bác sĩ tim mạch Anh 'không bao giờ làm sau
+https://www.msn.com/vi-vn/news/national/sy-biến-mất-bí-ần-của-lý-tiểu-long-nhí-trong-nhiều-năm/ar-AA213ljW  10 L1
+^  ENG  Ф)  2:02 PM
+US  4/18/2026
+
+### 06:05
+LO7Requirements.pdf  +
+FileD:/wd%20c%20sang%20d/Downloads/L07Requirements.pdf  Sign in  Chat
+Draw -  A an 4D Ask Copilot v  - +  17  of 23  Q
+WHAT IS A GOOD USE CASE?
+A use case typically represents a major piece of
+functionality that is complete from beginning to end.
+A use case must deliver something of value to an actor.
+Add Course Offering  Browse Course Offering  Drop Course Offering
+Are these good
+use cases?
+Select Course Offering  ^  Change Course Offering
+Student
+What is the
+^  actor trying to
+Student  Register For Courses  accomplish?
+THE HONG KONG  DEPARTMENT OF
+UNIVERSITY OF SCIENCE  AND TECHNOLOGY  COMPUTER SCIENCE & ENGINEERING
+ENG  2:02 PM
+US  4/18/2026
+
+### 06:45
+V  ENG  Ф)  2:02 PM
+US  4/18/2026
+
+### 06:45
+Untitled - 2 / 2 - Scrble Lite
+Untitled • 2/2 • Fit (123%)
+Use are →  V + 1y
+^ GY  ENG - 4)E 4/18/2026  2:02 PM
+
+### 08:24
+Calo  ^G  V  ENG  Ф)  2:05 PM
+US  4/18/2026
+
+### 08:24
+LO7Requirements.pdf  X  +
+FileD:/wd%20c%20sang%20d/Downloads/L07Requirements.pdf  Sign in  Chat
+Draw -  Un Ask Copilot v  +  17  of 23  Q
+Add Course Offering  Browse Course Offering  Drop Course Offering
+Are these good
+use cases?
+Select Course Offering  Change Course Offering
+Student
+What is the
+-  actor trying to
+^
+Student  Register For Courses  accomplish?
+THE HONG KONG  DEPARTMENT OF
+OUT UNNVERSITY OF SCIENCE  AND TECHNOLOGY  COMPUTER SCIENCE & ENGINEERING
+WHAT IS A GOOD USE CASE?
+A use case typically represents a major piece of
+functionality that is complete from beginning to end.
+A use case must deliver something of value to an actor.
+ENG  Ф)  2:05 PM
+US  4/18/2026
+
+### 08:36
+Untitled - 2 / 2 - Scrble Lite
+Untitled • 2/2 • Fit (123%)
+Qunhe
+1,  Associatin.
+Actar - uce -cas
+ENG -Ф) 4/18/2026  2:05 PM
+
+### 08:36
+Untitled - 2 / 2 - Scrble Lite
+Untitled  • 2/2 • Fit (123%)
+LO7Requirements.pdf - Personal - Microsoft Edge  Untitled - 2 / 2 - Scrble Lite  Use Case Diagram Giải Thích - Google Chrome
+Gu-he
+3, Ala catin (kná )
+Arme - uce -or
+WHATSAGCOO USECAMYI
+OBS 31.1.2 - Cấu hinh: Không tên - Phân cảnh: Khôn...  Luyện tập Q2 - Google Docs - Cốc Cốc  Sticky Notes
+phit 56 https://www.youdube.com/wetch?
+1h15
+C  ENG  ф)  2:05 PM
+US  4/18/2026
+
+### 08:39
+LO7Requirements.pdf  +
+FileD:/wd%20c%20sang%20d/Downloads/L07Requirements.pdf  Sign in  Chat
+Draw -  as i  Ask Copilot v  + a  17  of 23  Q
+A use case must deliver something of value to an actor.
+Add Course Offering  Browse Course Offering  Drop Course Offering
+Are these good
+use cases?
+Select Course Offering  Change Course Offering
+Student
+What is the
+actor trying to
+Student  Register For Courses  accomplish?
+THE HONKING  DEPARTMENT O
+I AND TECHNO GIENCE  COMPUTER SCIENCE & ENGINEERING
+WHAT IS A GOOD USE CASE?
+A use case typically represents a major piece of
+•HOE GO CO  ENG  2:05 PM
+US  4/18/2026
+
+### 09:09
+Untitled - 2/2 - Scrble Lite
+Untitled • 2/2 • Fit (123%)  •
+Que he
+(Kri).
+1,  Associatin.
+Actar - uce -cas
+2:06 PM
+
+### 13:49
+Untitled - 4 / 3 - Scrble Lite
+Untitled • 4/3 • Fit (123%)  •
+stakent
+bgm
+Lecturer.
+Unsaved Changes
+There are unsaved changes in the current document
+Staft.  Save  Don't Save  Cancel
+V  ENG  US  4/18/2026  2:10 PM
+
+### 13:50
+Ở cốc cốc  5 Luyện tập Q2 - Google Doc X  +  La ..
+< > G @ docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  • |  .10 =
+• Tất cả dầu trang
+Luyện tập Q2 * G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+asea 100%-  Normal text  Arial  | - 11] +  I U A O  E X  0 Editing
+T...T..
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 2: UC Modeling (1.5 points)
+1. Identify ALL actors in the Course Registration System. For each actor, state their primary
+goal and whether they are a primary or secondary actor. (0.3 points)
+2. List at least EIGHT use cases for the CRS. For each use case, state the initiating
+actor(s) and a one-sentence description of the goal. (0.4 points)
+3. Draw a complete UML Use Case Diagram for the CRS. The diagram must include: (0.8
+• All identified actors, placed correctly inside or outside the system boundary
+• All major use cases inside the system boyndary rectangle
+• At least ONE <<include>> relationship - provide a brief written rationale
+• At least ONE <<extend>> relationship - provide a brief written rationale
+• Any actor-generalisation relationships that apply
+ite  ENG  2:10 PM
+US  - ( 4/18/2026
+
+### 14:06
+ớ cốc cốc  Luyện tập Q2 - Google Doc X  +  La
+< →  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  ICO
+88  • Tất cả dấu trang
+Search for apps, settings, and documents  +
+Luyện tập Q2  Share
+File Edit View Insert  Format Tools Extensions
+A, S 100% -  Normal text  Pinned  All  Editing
+...... 7
+Microsoft Edge  Word  Excel  PowerPoint  Settings  File Explorer
+MAE1O1_slides  2 of 6
+(2)
+-
+Recommended  More
+Gemini_Generated_Image_iurumgi...  PE SWE202.mp4
+19m ago  25m ago
+Gemini_Generated_Image_c24irrc2...  SWE202c_Practical_Exam_Sample.d..
+27m ago  39m ago
+L07Requirements.pdf  SWE202c_ PE_ AnswerSheet.docx
+42m ago  2h ago
+DELL
+ENG  2:11 PM
+US  4/18/2026
+
+### 14:06
+Ở cốc cốc  5 Luện tập Q2 - Google Doc X  +  La ..
+< > C  @ docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  L• =
+• Tất cả dấu trang
+Luện tập Q2 * G  +
+• Share
+File Edit View Insert Format Tools Extensions Help
+Normal text  Arial  / Editing
+......7  2  3  4  6 т...?..
+• At least ONE ‹include>> relationship — provide a brief written rationale
+• At least ONE <<extend>> relationship  - provide a brief written rationale
+• Any actor-generalisation relationships that apply
+-
+2:11 PM
+
+### 14:10
+Ở cốc cốc  5 Luện tập Q2 - Google Doc X  +  La ..
+< > G  @ docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+D Tất cả dấu trang
+Luện tập Q2 * G  +
+© Share
+File Edit View Insert Format Tools Extensions Help
+Normal text -  Arial  | - 11] +  BIVA ORO  0 Editing
+.....7  2  4
+• At least ONE <<include>> relationship - provide a brief written rationale
+• At least ONE <<extend>> relationship  — provide a brief written rationale
+• Any actor-generalisation relationships that apply
+-
+2:11 PM
+
+### 14:12
+* StarUML
+File  Edit View Window Help
+ENG  Ф)  2:11 PM
+^G  US  4/18/2026
+
+### 14:13
+* StarUML
+File  Edit Format Model Tools  View  Window Debug Help
+WORKING DIAGRAMS  MODEL EXPLORER
+2 Main - Model  i Untitled
+El Model
+TOOLBOX  EDITORS
+Classes (Basic)
+Classes (Advanced)
+Packages
+Composite Structure
+Instances
+Annotations
+Robustness
+100%
+^  ENG  2:11 PM
+US  4/18/2026
+
+### 14:19
+Ở cốc cốc  5 Luện tập Q2 - Google Doc X  +
+< > C  & docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  | | =
+• Tất cả dấu trang
+Lyn tập Q2 * G  +
+=  Share
+File Edit View Insert Format Tools Extensions Help
+95c8 AS 100% -  Normal text  Arial  | - 11] +  BIVA CADE CERTIT  / Editing
+.......  4 5 6 7...?...
+• At least ONE <<include>> relationship - provide a brief written rationale
+• At least ONE <<extend>> relationship  - provide a brief written rationale
+• Any actor-generalisation relationships that apply
+I DO C C  2:11 PM
+
+### 39:42
+cốc cốc  Luyện tập Q2 - Google Doc X  +  La
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  I CD
+88  • Tất cả dấu trang
+Search for apps, settings, and documents  +
+Luyện tập Q2  C  Share
+File Edit View Insert Format Tools Extensions
+Q  A § 100% -  Normal text -  Pinned  All  Editing
+Sys  Microsoft Edge  Word  Excel  PowerPoint  Settings  File Explorer
+Not.  f
+MAE101 slides
+4 +  (2)
+Recommended  More
+L07Exercise-RequirementsDomain...  LO7Exercise-MovieShopDMWorksh..
+PDF  th ago  2h ago
+2026-04-18_13-56-01.mp4  Gemini_Generated_Image_iurumgi..
+2h ago  3h ago
+PE SWE202.mp4  Gemini_Generated_Image_c24irrc2..
+3h ago  3h ago
+DELL
+ENG  " Ф)  5:30 PM
+US  4/18/2026
+
+### 39:42
+Ở cốc cốc  Luện tập Q2 - Google Doc X  +  La ..
+< > C  @ docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  " ®
+• Tất cả dấu trang
++
+Share
+File Edit View Insert Format Tools Extensions Heip
+8A 100%  Normal text  Arial  | - 11] +  U  *•E•E-EEX  Editing
+2  4  6
+=  System Administrator  Primary  manages user accounts,
+configures system, back up
+data
+Notification sys sm  Secondary  Send automated notification
+4 +  for waitlist
+2, Liet ke use case
+ID  Use case  Initiating actor  Goal
+1  Browse course catalogue  Student  View course list
+and detail
+Check prerequisites  Student  Check condition
+before registration
+•  ENG  5:30 PM
+US  4/18/2026
+
+### 39:46
+Ở cc cốc  Luyện tập Q2 - Google Doc ×  +  La ..
+< > C  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  • |
+• Tất cả dấu trang
+Luyện tập Q2 * G  +
+=  Share
+File Edit View Insert Format Tools Extensions Help
+a sca A S 100% -Normal text •  Arial  | - 11 +  BIU  A  *.EE-E  E X  / Editing
+1  3  apprure nespino  ..le
+System Administrator  Primary  manages user accounts,
+configures system, back up
+data  •
+Notification sysłem  Secondary  Send automated notification
+4 +  for waitlist
+2, Liet ke use case
+ID  Use case  initiating actor  Goal
+1  Browse course catalogue  Student  View course list
+and detail
+2  Check prerequisites  Student  Check condition
+before registration
+^G E O  ENG  5:30 PM
+US  4/18/2026
+
+### 39:49
+* StarUML
+File  View Window  Help
+ENG  Ф)  5:30 PM
+US  4/18/2026
+
+### 39:49
+* StarUML (TRIAL MODE)
+File  Edit Format Model Tools  View Window Debug Help
+WORKING DIAGRAMS  MODEL EXPLORER
+Main - Model  (7) Untitled
+2 Model
+TOOLBOX  EDITORS
+Classes (Basic)
+= Class
+Classes (Advanced)
+Packages
+Composite Structure
+Instances
+Annotations
+Robustness
+100%
+ENG  Ф)  5:30 PM
+• 0  US  4/18/2026
+
+### 40:29
+Ở cốc cốc  Luyện tập Q2 - Google Doc  +
+< →  @ docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  . 10
+• Tất cả dấu trang
+Luyện tập Q2 * G  +
+=  • ea-  Share
+File Edit View Insert Format Tools Extensions Help
+a5 e  A § 100% - Normal text =  Arial  |- 11] +  "BE-EEX  0 Editing
+.....  3  4  appure uAnipiUro  6  ..!..
+=  System Administrator  Primary  manages user accounts,
+configures system, back up
+data
+Notification system  Secondary  Send automated notification
+4 +  for waitlist
+2, Liet ke use case
+ID  Use case  Initiating actor  Goal
+1  Browse course catalogue  Student  View course list
+and detail
+2  Check prerequisites  Student  Check condition
+before registration
+• •  ^GE O  ENG  5:31 PM
+*  US  4/18/2026
+
+### 40:38
+cốc cốc  Luện tập Q2 - Google Doc.  +  La ..
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  I CO
+88  • Tất cả dấu trang
++
+Luyện tập Q2 *  E  Share
+File Edit View  Insert  Format Tools Extensions Help
+Q  100% -  Normal text -  Arial  +  I
+Phân tích Actor và Use Case - G...  Luyện tập Q2 - Google Docs - C..  • StarUML (TRIAL MODE)  OBS 31.1.2 - Cấu hình: Không tê...  Sticky Notes
+slow, and creates long queues during the registration window. The university's administration
+has therefore decided to commission a web-based Course Registration System (CRS) to
+N-
+automate and streamline the entire workflow.
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibility based on completed prerequisites, submit
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitlist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades, and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+E  ENG  Ф)  5:31 PM
+US  4/18/2026
+
+### 40:41
+•StarUML (TRIAL MODE)
+File  Edit  Format  Model  lools  View  Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+2 Main - Model  UseCase Subject1  EB  Untitled
+[2] UseCaseDiagram1 - Mo  MI  El Model
+Est Modell
+8] UseCaseDiagram1
+• UseCaseSubjecti
+TOOLBOX  EDITORS
+• Properties
+Use Cases  name  UseCaseSubject1
+El Package  stereotype  Q.
+• Use Case Subject  visibility  public
+• Use Case  isAbstract
+? Actor  isFinalSpecialization
+Frame  isLeaf
+_ Association  isindirectlyinstantiated
+Directed Association  represent
+Generalization  * Documentation
+Dependency
+Include
+a Model1  Uselasesubjecta [UMLUseCaseSubject]  100%
+E  ENG  5:31 PM
+US  4/18/2026
+
+### 40:45
+cốc cốc  Lun tập Google Don  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  I CO
+88  • Tất cả dấu trang
+Luyện tập Q2  +
+•* -  Share
+File Edit View  Insert Format Tools Extensions Help
+100% -  Normal text•  Arial  +
+Đề trial
+I. CASE STUDY
+Green University is a mid-sized institution with approximately 8,000 students and 400 academic
+staff. Each semester, the university must manage course enrollment for all undergraduate and
+postgraduate programmes. Currently, students submit paper-based registration forms to their
+faculty office, and clerks manually enter the data into spreadsheets. This process is error-prone,
+slow, and creates long queues during the registration window. The university's administration
+has therefore decided to commission a web-based Course Registration System (CRS) to
+automate and streamline the entire workflow.
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibility based on completed prerequisites, submit
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitlist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades, and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+ENG  5:31 PM
+US  4/18/2026
+
+### 40:47
+CÔC CÔC  Luện tập Q2 - Google Doc  +  La
+C  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  I CD
+88  • Tất cả dấu trang
+Luyện tập Q2 #  +
+E  0 -  Share
+File Edit View  Insert Format Tools Extensions Help
+Q  100% -  Normal text -  Arial  +  I  U  EE SEE :
+Luện tập Q2 - Google Docs - C..  • StarUML (TRIAL MODE)  Phân tích Actor và Use Case - G...  OBS 31.1.2 - Cau hình: Không tê...  Sticky Notes
+slow, and creates long queues during the registration window. The university's administration
+has therefore decided to commission a web-based Course Registration System (CRS) to
+automate and streamline the entire workflow.
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibility based on completed prerequisites, submit
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitlist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades, and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+C  ENG  5:31 PM
+US  4/18/2026
+
+### 40:47
+* • StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+E3 Main - Model  Untitled
+12] UseCaseDiagram1 - Mos  MI  & Model
+E Modeli
+2] UseCaseDiagram1
+• UseCaseSubjecti
+TOOLBOX  EDITORS
+• Styles
+Use Cases  Font  Arial  13
+E Package  Color  • Inherit
+• Use Case Subject  Line Style
+• Use Case  Format  =i l
+2 Actor  Label
+[T]
+Frame
+Association
+Alignment  ol-
+Directed Association
+i Generalization  • Properties
+/ Dependency  UseCaseSubjectl
+i Include
+E Modell  • UseCaseSubjecti [UMŁUseCaseSubject]  100%
+C  ENG  5:31 PM
+US  4/18/2026
+
+### 41:36
+cốc cốc  Luyện tập Q2 - Google Doc  +  La
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q
+88  • Tất cả dấu trang
+Luyện tập Q2 #  +
+E  Share
+File Edit View Insert  Format  Tools Extensions Help
+Q  100% -  Normal text -  Arial  +  = 15
+Đề trial
+I. CASE STUDY
+Green University is a mid-sized institution with approximately 8,000 students and 400 academic
+staff. Each semester, the university must manage course enrollment for all undergraduate and
+postgraduate programmes. Currently, students submit paper-based registration forms to their
+faculty office, and clerks manually enter the data into spreadsheets. This process is error-prone,
+slow, and creates long queues during the registration window. The university's administration
+has therefore decided to commission a web-based Course Registration System (CRS) to
+automate and streamline the entire workflow.
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibility based on completed prerequisites, submit
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitlist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades, and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+ENG  5:32 PM
+US  4/18/2026
+
+### 41:40
+** • StarUML (TRIAL MODE)  X
+File Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+3 Main - Model  1 Untitled
+2] UseCaseDiagram1 - Modeli  MI  a Model
+Course Registration System  El Modell
+2] UseCaseDiagram1
+Course Registration System
+Student  Student
+% Actor2
+Actor4  * Actor3
+* Actor4
+Actor5
+Actor2
+TOOLBOX  EDITORS
+^  • Styles
+Use Cases  Actors  Font  Arial  13
+i Package  Color  • Inherit
+Actor3
+• Use Case Subject  Line Style
+• Use Case  Format
+? Actor  Label
+[O]  ET]
+• Frame
+_ Association
+Alignment  al-
+I Directed Association  dilo
+İ Generalization  • Properties
+I Dependency  Actor2
+: Include  stereotype
+& Modell  9 Actor2 [UMLActor]  80%
+ENG  5:32 PM
+US  4/18/2026
+
+### 41:42
+Ởi côc cốc  Luyện tập Q2 - Google Doc X  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  CD
+88  • Tất cả dầu trang
+Luyện tập Q2 *  +
+E  Share
+File Edit View Insert Format Tools Extensions Help
+100% -  Normal text -  Arial  +  в I  +
+3  4
+Students  Primary  Register for courses, track
+status, join waitlist
+Lecturers  Primary  View class roster, input
+:4 +  grades and publish grades
+Academic Staff  Primary  Manage timetable, quotas,
+approve exceptions
+System Administrator  Primary  manages user accounts,
+configures system, back up
+data
+Notification system  Secondary  Send automated notification
+for waitlist
+N-  2, Liet ke use case
+ID  Use case  Initiating actor  Goal
+1  Browse course catalogue  Student  View course list
+and detail
+*  ^ GE  ENG  5:32 PM
+US  4/18/2026
+
+### 41:45
+* • StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+Main - Model  EB  • Untitled
+12] UseCaseDiagram1 - Modeli  a Model
+Course Registration System  2 Modell
+2) UseCaseDiagram1
+• Course Registration System
+Student  Student
+& Lecturers
+Actor4  * Actor3
+÷ Actor4
+Actors
+(Lecturers
+TOOLBOX  EDITORS
+• Styles
+Use Cases  Actors  Font  Arial  13
+* Package  Color  7  • Inherit
+Actor3
+• Use Case Subject  Line Style
+• Use Case  Format  =i l
+% Actor  Label
+[O]  Er]
+• Frame
+Association
+Alignment  al-
+Directed Association
+i Generalization  • Properties
+Dependency  Lecturers
+: Include  stereotype
+a Modell  % Actor2 [UMLActor]  80%
+ENG  5:32 PM
+US  4/18/2026
+
+### 41:47
+Ở cốc cốc  Luyện tập Q2 - Google Doc X  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  CD
+88  • Tắt cả dầu trang
+Luyện tập Q2 *  +
+E  Share
+File Edit View Insert Format Tools Extensions Help
+100% -  Normal text -  Arial  +  в I
+3  4
+Students  Primary  Register for courses, track
+status, join waitlist
+Lecturers  Primary  View class roster, input
+grades and publish grades
+Academic Staff  -Primary  Manage timetable, quotas,
+:4 +  approve exceptions
+...
+System Administrator  Primary  manages user accounts,
+configures system, back up
+data
+Notification system  Secondary  Send automated notification
+for waitlist
+2, Liet ke use case
+ID  Use case  Initiating actor  Goal
+1  Browse course catalogue  Student  View course list
+and detail
+*  ^GEO  ENG  5:32 PM
+US  4/18/2026
+
+### 41:50
+* • StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+Main - Model  EB  i Untitled
+[2] UseCaseDiagram1 - Modett  MI  a Model
+Course Registration System  Et Modelt
+2] UseCaseDiagram1
+Course Registration System
+Student  Student
+% Lecturers
+* Academic Staff
+÷ Actor4
+} Actor5
+Lecturers
+TOOLBOX  EDITORS
+^  • Styles
+Use Cases  Actor5  Font  Arial  13
+i Package  Color  • Inherit
+• Use Case Subject  • Academit  Line Style
+**  =i l
+• Use Case  Format
+2 Actor  Label
+[a]  [O]  [T]
+• Frame
+Association
+Alignment
+Directed Association
+i Generalization  • Properties
+Dependency  Academic Staff
+= Include
+a Modell  % Actor3 [UMLActor]  80%
+ENG  ф)  5:32 PM
+E  US  4/18/2026
+
+### 41:52
+Ở côc cốc  Luyện tập Q2 - Google Doc x  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  CD
+88  • Tất cả dầu trang
+Luyện tập Q2 *  +
+E  Share
+File Edit View Insert Format Tools Extensions Help
+100% -  Normal text -  Arial  11  +  E #SE-E-E
+3  4
+Students  Primary  Register for courses, track
+status, join waitlist
+Lecturers  Primary  View class roster, input
+grades and publish grades
+Academic Staff  Primary  Manage timetable, quotas,
+approve exceptions
+...
+System Administrator  Primary  manages user accounts,
+4 +  configures system, back up
+data
+Notification system  Secondary  Send automated notification
+for waitlist
+2, Liet ke use case
+ID  Use case  Initiating actor  Goal
+1  Browse course catalogue  Student  View course list
+and detail
+G E  ENG  5:32 PM
+US  4/18/2026
+
+### 41:52
+côc côc  Luyện tập Q2 - Google Doc  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  •CD
+88  •• Tất cả dầu trang
+Luyện tập Q2 *  +
+E  O -  Share
+File Edit View  Insert Format Tools Extensions Help
+100% -  Normal text -  Arial  +  B  I  = #S-EE• :
+2-:
+zinonie  Drimon.  Doniatar fo
+• StarUML (TRIAL MODE)  Luyện tập Q2 - Google Docs - C..  Phân tích Actor và Use Case - G...  OBS 31.1.2 - Cấu hình: Không tê...  Sticky Notes
+for waitlist
+2, Liet ke use case
+ID  Use case  Initiating actor  Goal
+co-  Browse course catalogue  Student  View course list
+203
+and detail
+ENG  5:32 PM
+US  4/18/2026
+
+### 41:55
+cốc cốc  Luyện tập Q2 - Google Doc X  +
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  G  ICO
+• Tất cả dấu trang
+Luyện tập Q2 *  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Q  100% -  Normal text -  Arial  +  B  I  =" #S-EE•R
+2-:
+Churonto  Drimon  Donictor to
+Luyện tập Q2 - Google Docs - C...  • StarUML (TRIAL MODE)  Phân tích Actor và Use Case - G...  OBS 31.1.2 - Cấu hình: Không tê...  Sticky Notes
+for waitlist
+2, Liet ke use case
+ID  Use case  Initiating actor  Goal
+Browse course catalogue  Student  View course list
+and detail
+^ G  ENG  5:32 PM
+US  4/18/2026
+
+### 41:55
+* • StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+3 Main - Model  Untitled
+19] UseCaseDiagram1 — Model1  & Model
+Course Registration System  & Modell
+2] UseCaseDiagram1
+Course Registration System
+Student  Student
+% Lecturers
+* Academic Staff
+* System Administrator
+7 D
+₺ Actor5
+Lecturers
+TOOLBOX  EDITORS
+^  • Styles
+Use Cases  Actors  Font  Arial  13
+# Package  Color  • Inherit
+Academic Staff
+• Use Case Subject  Line Style
+• Use Case  Format
+2 Actor  Label
+[O]  [T]
+•l Frame
+_ Association
+Alignment  cu
+1 Directed Association
+i Generalization  • Properties
+Dependency  System Administrator
+• Include
+i Modell  7 Actor4 [UMLActor]  80%
+E  ENG  5:32 PM
+US  4/18/2026
+
+### 43:21
+Ở côc cốc  Luyện tập Q2 - Google Doc X  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  CD
+88  • Tất cả dầu trang
+Luyện tập Q2 *  +
+E  Share
+File Edit View Insert Format Tools Extensions Help
+100% -  Normal text -  Arial  11  +  E #SE-E-g
+3  4
+Students  Primary  Register for courses, track
+status, join waitlist
+Lecturers  Primary  View class roster, input
+grades and publish grades
+Academic Staff  Primary  Manage timetable, quotas,
+approve exceptions
+System Administrator  Primary  manages user accounts,
+configures system, back up
+data
+Notification system  Secondary  Send automated notification
+for waitlist
+2, Liet ke use case
+ID  Use case  Initiating actor  Goal
+1  Browse course catalogue  Student  View course list
+and detail
+^ G EO  ENG  5:40 PM
+US  4/18/2026
+
+### 43:23
+* - StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+Main - Model  EB  Untitled
+MI  E Model
+19] UseCaseDiagram1 — Modelt  Course Registration System
+* Modell
+2 UseCaseDiagram1
+• Course Registration System
+Student  System Administrator  * Student
+* Lecturers
+Academic Staff
+* System Administrator
+% Notification system
+• Constrainti
+Lecturers  • Operation1
+} Actort
+TOOLBOX  EDITORS
+Actor1  • Styles
+Use Cases  Font  Arial  13
+i Package  Color  • Inherit
+Academic Staff
+• Use Case Subject  Line Style
+• Use Case  Format
+% Actor  Label
+[a]  [O]  [T]
+•l Frame
+Association
+Alignment
+1 Directed Association  dile
+i Generalization  • Properties
+Dependency  Actorl
+Include  stereotype
+E] Modell  % Actors [UMLActor  80%
+ENG  5:40 PM
+US  4/18/2026
+
+### 43:31
+Ởi côc cốc  Luyện tập Q2 - Google Doc X  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  CD
+88  • Tất cả dầu trang
+Luyện tập Q2 *  +
+E  •4 -  Share
+File Edit View Insert Format Tools Extensions Help
+Q  100% -  Normal text -  Arial  -  11  +  A  +
+2-1  3  4
+Students  Primary  Register for courses, track
+status, join waitlist
+Lecturers  Primary  View class roster, input
+grades and publish grades
+Academic Staff  Primary  Manage timetable, quotas,
+approve exceptions
+System Administrator  Primary  manages user accounts,
+configures system, back up
+data
+Notification system  Secondary  Send automated notification
+for waitlist
+2, Liet ke use case
+ID  Use case  Initiating actor  Goal
+1  Browse course catalogue  Student  View course list
+and detail
+*  ^G E O  ENG  5:40 PM
+US  4/18/2026
+
+### 43:37
+CÔC CÔC  Luyện tập Q2 - Google Doc  +
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  I CD
+• Tất cả dấu trang
++
+Luyện tập Q2 *  Share
+File Edit View Insert Format Tools Extensions Help
+Q  100% -  Normal text -  Arial  +  U  E"#S-EE•:
+• Luyện tập Q2 - Google Docs - C...  *k • StarUML (TRIAL MODE)  OBS 31.1.2 - Cấu hình: Không tê...  • Secondary Actor trong StarUM.L....  Sticky Notes
+2 of 7
+3  Submit registration request  Student  Register for a
+specific course
+4  Join waitlist  Student  Register when the
+course is filll
+E  ENG  ф)  5:40 PM
+US  4/18/2026
+
+### 43:38
+* • StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+5 Main - Model  • M Untitled
+E Model
+19] UseCaseDiagram1 — Model1  Course Registration System
+E Modell
+9) UseCaseDiagram 1
+XC  • Course Registration System
+Student  System Administrator  * Student
+* Lecturers
+* Academic Staff
+* System Administrator
+} Notification system
+0) Constrainti
+Lecturers  • Operation1
+7 Notification system
+TOOLBOX  EDITORS
+Notification system
+Use Cases
+i Package
+Academic Staff
+• Use Case Subject
+• Use Case
+2 Actor
+• Frame
+_ Association
+Directed Association
+* Generalization
+1 Dependency
+El Include
+80%
+course Is tillE
+E  ENG  Ф)  5:40 PM
+• D  US  4/18/2026
+
+### 44:18
+Ở cốc cốc  Luyện tập Q2 - Google Doc ×  +
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  ICO
+88  • Tất cả dấu trang
+Luyện tập Q2 #  +
+E  0 -  Share
+File Edit View Insert Format Tools Extensions Help
+Q  100% -  Normal text -  Arial  -  +  I  A  SE -E- :
+2  3
+2, Liet ke use case
+ID  Use case  Initiating actor  Goal
+1  Browse course catalogue  Student  View course list
+and detail  2 of 7
+Check prerequisites  Student  Check condition
+before registration
+3  Submit registration request  Student  Register for a
+specific course
+4  Join waitlist  Student  Register when the  203
+course is fill
+• •  G  *  ^ G E  ENG  5:41 PM
+US  4/18/2026
+
+### 44:23
+cốc cốc  Luyện tập Q2 - Google Doc X  +  La ..
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  ICD
+• Tất cả dấu trang
++
+Luyện tập Q2 *  E  0 -  Share
+File Edit View Insert Format Tools Extensions Help
+Q  100% -  Normal text -  Arial  E 1S-EE•:
+Luyện tập Q2 - Google Docs - C...  • StarUML (TRIAL MODE)  Phân tích Actor và Use Case - G...  OBS 31.1.2 - Cấu hình: Không tê...  Sticky Notes
+3  Submit registration request  Student  Register for a
+specific course
+4  Join waitlist  Student  Register when the
+course is fill
+E  ENG  5:41 PM
+US  4/18/2026
+
+### 44:23
+• StarUML (TRIAL MODE)
+File  Edit  Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER  Q.
+8 Main - Model  EB  • UseCase10
+MI  • UseCase11
+12) UseCaseDiagram1 - Modelt  Course Registration System
+© UseCase12
+UseCase1  • UseCase13
+UseCase?  • UseCase14
+UseCase3
+Student  UseCase4  System Administrator  & Student
+* Lecturers
+Academic Staff
+UseCases  UseCase7  UseCase8  * System Administrator
+UseCase6
+* Notification system
+• Constraintl
+Lecturers  • Operation1
+UseCase12  % Notification system
+UseCase9  UseCase11
+TOOLBOX  UseCase10  EDITORS
+Notification system
+Use Cases
+i Package
+Academic Staff
+• Use Case Subject  UseCase13  UseCase14
+• Use Case
+% Actor
+Frame
+_ Association
+Directed Association
+İ Generalization
+Dependency
+= Include
+course is till
+E  ENG  5:41 PM
+US  4/18/2026
+
+### 44:25
+Ở cốc cốc  Luyện tập Q2 - Google Doc x  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  ICO
+88  • Tất cả dấu trang
+Luyện tập Q2 #  +
+E  0 -  Share
+File Edit View Insert Format Tools Extensions Help
+100% -  Normal text -  Arial  -  11  +  B  I  A  S-E•E-:
+2  3
+2, Liet ke use case
+ID  Use case  Initiating actor  Goal
+1  Browse course catalogue  Student  View course list
+and detail
+Check prerequisites  Student  Check condition
+before registration
+a-
+3  Submit registration request  Student  Register for a
+specific course
+4  Join waitlist  Student  Register when the
+course is fill
+G  *  ^ GE Q  ENG  5:41 PM
+US  4/18/2026
+
+### 44:29
+• StarUML (TRIAL MODE)
+File  Edit  Format  Model lools  View  Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+2 Main - Modet  © UseCase10
+MI  • UseCase11
+9] UseCaseDiagram1 - Model1  Course Registration System
+• UseCase12
+• UseCase13
+• UseCase14
+UseCase2  UseCase3
+Student  UseCase4  System Administrator  * Student
+* Lecturers
+Academic Staff
+trator
+Luyện tập Q2 - Google Docs - C...  • StarUML (TRIAL MODE)  Phân tích Actor và Use Case - G...  OBS 31.1.2 - Cấu hình: Không tê...  Sticky Notes
+tem
+TOOLBOX
+Use Cases  13
+E Package  • Inherit
+• Use Case Subject
+• Use Case
+Actor  Label
+(*)  [o]  [O)  Er)
+Frame
+Association
+Alignment  ol-
+1 Directed Association  dij-
+i Generalization  • Properties
+1 Dependency  Browse course catalogue
+: Include  stereotype
+E] Modell  (seCasel [UMLUseCase]  80%
+conrse sainl
+ENG  ф)  5:41 PM
+US  4/18/2026
+
+### 44:29
+• StarUML (TRIAL MODE)  X
+File  Edit  Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+2 Main - Model  © UseCase10
+MI  • UseCase11
+2] UseCaseDiagram1 — Modeli  Course Registration System
+• UseCase12
+Browse course ca  • UseCase13
+UseCase2  UseCase14
+8 8  UseCase3
+Student  UseCase4  System Administrator  Student
+& Lecturers
+* Academic Staff
+UseCases  UseCase7  UseCase8  * System Administrator
+UseCased
+% Notification system
+• Constrainti
+Lecturers  • Operation1
+UseCase12  } Notification system
+UseCase9  UseCase11
+TOOLBOX  UseCase10  EDITORS
+Notification system  • Styles
+Use Cases  Font  Arial  13
+• Package  Color  • Inherit
+Academic Staff
+• Use Case Subject  UseCase13  UseCase14  Line Style
+• Use Case  Format
+2 Actor  Label
+EO]  [T]
+2l Frame
+Association
+Alignment  al-  cu
+Directed Association
+İ Generalization  • Properties
+Dependency  Browse course catalogue
+= Include  stereotype
+E] Modell  Usecase: [UMLUseCase]
+course is till
+ENG  5:41 PM
+US  4/18/2026
+
+### 44:39
+Ở cốc cốc  Luyện tập Q2 - Google Doc x  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  ₺ I
+88  • Tất cả dấu trang
+Luyện tập Q2 #  +
+E  0 -  Share
+File Edit View Insert Format Tools Extensions Help
+Q  100% -  Normal text -  Arial  -  +  B  SE•E- :
+3
+2, Liet ke use case
+ID  Use case  Initiating actor  Goal
+1  Browse course catalogue  Student  View course list
+and detail
+Check prerequisites  Student  Check condition
+before registration
+3  Submit registration request  Student  Register for a
+specific course
+4  Join waitlist  Student  Register when the  203
+course is fill
+• •  ^ G E  ENG  5:41 PM
+US  4/18/2026
+
+### 44:42
+* • StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+23 Main - Model  • UseCase10
+MI  • UseCase11
+19] UseCaseDiagram1 - Modelt  Course Registration System
+• UseCase12
+Browse course catalogue  • UseCase13
+• UseCase14
+Check prerequisites
+Student  UseCase3  UseCase4  System Administrator  Student
+* Lecturers
+÷ Academic Staff
+UseCases  UseCase7  UseCase8  * System Administrator
+UseCase6
+* Notification system
+• Constrainti
+Lecturers  • Operation1
+UseCase12  & Notification system
+UseCase9  UseCase11
+TOOLBOX  UseCase10  EDITORS
+Notification system  • Styles
+Use Cases  Font  Arial  13
+• Package  Color  • Inherit
+Academic Staff
+• Use Case Subject  UseCase13  UseCase14  Line Style
+• Use Case  Format
+2 Actor  Label
+[a]  (0]  [T]
+Frame
+Association
+Alignment  al-
+Directed Association
+i Generalization  • Properties
+Dependency  UseCase3
+= Include  stereotype
+a Modell  Usecases [UMLUseCase]  80%
+E  ENG  Ф)  5:41 PM
+US  4/18/2026
+
+### 44:52
+côc côc  Luyện tập Q2 - Google Doc  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  ICD
+88  • Tất cả dấu trang
++
+Luyện tập Q2 *  E  0 -  Share
+File Edit View  Insert Format Tools Extensions Help
+Q  5  100% -  Normal text -  Arial  +  STE E:
+•
+• StarUML (TRIAL MODE)  Luyện tập Q2 - Google Docs - C..  Phân tích Actor và Use Case - G...  OBS 31.1.2 - Cấu hình: Không tê...  Sticky Notes
+course 1o TUm
+5  Track registration status  Student  View status
+View enrolled roster  Lecturer  View the list
+student enrolled the
+course
+7  Record grades  Lecturer  Input the midterm
+and final grades
+8  Release grades  Lecturer  Publish grades
+9  Manage timetable  Academic Staff  Create, update
+timetable  203
+C  ENG  Ф)  5:41 PM
+US  4/18/2026
+
+### 44:52
+cốc cốc  Luyện tập Q2 - Google Doc x  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  •CD
+88  • Tất cả dấu trang
+Luyện tập Q2 *  +
+E  Share
+File Edit View Insert Format Tools Extensions Help
+Q  5  100%  Normal text -  Arial  -  11  +  B  I  A  S-E •E• :
+3  4
+•
+I
+3  Submit registration request "  Student  Register for a
+specific course
+4  Join waitlist  Student  Register when the
+course is full
+5  Track registration status  Student  View status
+.--
+View enrolled roster  Lecturer  View the list
+student enrolled the
+course
+7  Record grades  Lecturer  Input the midterm
+and final grades
+8  Release grades  Lecturer  Publish grades
+9  Manage timetable  Academic Staff  Create, update
+timetable
+ENG  5:41 PM
+US  4/18/2026
+
+### 44:54
+* • StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+2 Main - Modet  © UseCase10
+MI  • UseCase11
+[2] UseCaseDiagram1 - Modelt  Course Registration System
+• UseCase12
+Browse course catalogue  • UseCase13
+OH
+• UseCase14
+Check prerequisites
+Student  UseCase4  System Administrator  ° Student
+UseCase6  * Lecturers
+Submit registration request
+Academic Staff
+UseCase7  UseCases  * System Administrator
+} Notification system
+UseCases  UseCase9  • Constraintl
+Lecturers  • Operation1
+UseCase12  % Notification system
+UseCase11
+TOOLBOX  UseCase10  EDITORS
+Notification system  • Styles
+Use Cases  Font  Arial  13
+i Package  Color  • Inherit
+Academic Staff
+• Use Case Subject  Usizase13  UseCase14  Line Style
+• Use Case  Format
+Actor  Label
+[O]  [T]
+| Frame
+Association
+Alignment
+I Directed Association
+i Generalization  • Properties
+Dependency  UseCase9
+: Include  stereotype
+i Modell  Usecases [UMLUseCasel  80%
+ENG  5:42 PM
+US  4/18/2026
+
+### 45:00
+Ở cốc cốc  Luyện tập Q2 - Google Doc X  +  La ..
+→  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  | D
+• Tất cả dấu trang
+Luyện tập Q2 *  +
+E  O -  Share
+File Edit View Insert Format Tools Extensions Help
+5  100% -  Normal text -  Arial  - 11  +  I  ! A  +  E #SE-E-g
+F  4
+=
+3  Submit registration request  Student  Register for a
+specific course
+4  Join waitlist  - Student  Register when the
+course is full
+Track registration status  Student  View status
+View enrolled roster  Lecturer  View the list
+student enrolled the
+course
+7  Record grades  Lecturer  Input the midterm
+and final grades
+8  Release grades  Lecturer  Publish grades
+9  Manage timetable  Academic Staff  Create, update
+timetable
+• •  ENG  - 4)  5:42 PM
+US  4/18/2026
+
+### 45:02
+* • StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+2 Main - Modet  • UseCase&
+MI  • UseCase11
+12] UseCaseDiagram1 - Modelt  Course Registration System
+• UseCase12
+Browse course catalogue  • UseCase13
+• UseCase14
+Check prerequisites
+Student  UseCase4  System Administrator  % Student
+UseCase6  * Lecturers
+Submit registration request
+Academic Staff
+UseCase7  UseCases  * System Administrator
+Join waitlist  * Notification system
+UseCase9  • Constraintl
+Lecturers  • Operation1
+UseCase10
+UseCase12  & Notification system
+UseCase11
+TOOLBOX  EDITORS
+Notification system  • Styles
+Use Cases  Font  Arial  13
+• Package  Color  • Inherit
+Academic Staff
+• Use Case Subject  UseCase13  UseCase14  Line Style
+• Use Case  Format
+9 Actor  Label
+(H]  (a]  [0]  [T]
+Frame
+/ Association
+Alignment  al-
+I Directed Association
+Generalization  • Properties
+Dependency  UseCase10
+: Include  stereotype
+ta Modell  • UseCase10 [UMLUseCase]  80%
+E  ENG  5:42 PM
+US  4/18/2026
+
+### 45:05
+ở cốc cốc  Luyện tập Q2 - Google Doc X  +  La ..
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  | D  L I0
+88  • Tất cả dấu trang
+Luyện tập Q2 #  +
+E  O -  Share
+File Edit View Insert Format Tools Extensions Help
+Q  5  100% -  Normal text -  Arial  +  I  A  S-E•E- :
+F  4
+=
+3  Submit registration request  Student  Register for a
+specific course
+4  Join waitlist  Student  Register when the
+course is full  +
+Track registration status  Student  View status
+View enrolled roster  Lecturer  View the list
+student enrolled the
+course
+7  Record grades  Lecturer  Input the midterm
+and final grades
+8  Release grades  Lecturer  Publish grades
+Manage timetable  Academic Staff  Create, update
+timetable
+• •  ENG  5:42 PM
+US  4/18/2026
+
+### 45:08
+* • StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER  Q
+a Main - Model  • UseCase8
+MI  • UseCase11
+13] UseCaseDiagrami — Modelt  Course Registration System
+• UseCase12
+Browse course catalogue  Q  • UseCase13
+• UseCase14
+Check  prerequisites
+Student  UseCase4  System Administrator  & Student
+UseCase  & Lecturers
+Submit registration request
+Academic Staff
+UseCase7  UseCases  * System Administrator
+Som mita  } Notification system
+• Constraintl
+Lecturers  • Operation1
+Track registration status
+UseCase12  % Notification system
+UseCase11
+TOOLBOX  eCasel  EDITORS
+Notification system  • Styles
+Use Cases  Font  Arial  13
+• Package  Color  • Inherit
+Academic Staff
+• Use Case Subject  UseCase13  UseCase14  Line Style
+• Use Case  Format
+7 Actor  Label
+(0]  ET]
+• Frame
+Association
+Alignment
+Directed Association
+i Generalization  • Properties
+Dependency  UseCase9
+: Include  stereotype
+E Modell  • Course Registration System  UseLases [UMLUseCase]
+ENG  5:42 PM
+US  4/18/2026
+
+### 45:11
+Ới cốc cốc  Luyện tập Q2 - Google Doc X  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  ICO
+88  • Tất cả dấu trang
+Luyện tập Q2 *  +
+E  C -  Share
+File Edit View Insert Format Tools Extensions Help
+Q  100% -  Normal text -  Arial  - 11  +  B  I  A  E #S-E-E-g
+1  F  2  4
+Submit registration request  Student  Register for a
+specific course
+4  Join waitlist  Student  Register when the
+course is full
+5  Track registration status  Student  View status
+6  View enrolled roster  Lecturer  View the list
+student enrolled the
+course
+Record grades  Lecturer  Input the midterm
+and final grades
+8  Release grades  Lecturer  Publish grades
+9  Manage timetable  Academic Staff  Create, update
+timetable
+....
+10  Manage registration  Academic Staff  Control open and
+window  close registration
+window
+• a  ENG  5:42 PM
+US  4/18/2026
+
+### 45:14
+* • StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+3) Main - Model  • UseCase8
+MI  • UseCase11
+8] UseCaseDiagram1 - Modelt  Course Registration System
+• UseCase12
+Browse course catalogue  • UseCase13
+• UseCase14
+Check prerequisites
+Student  UseCase4  System Administrator  ° Student
+UseCasel  & Lecturers
+Submit registration request
+} Academic Staff
+UseCase7  UseCases  * System Administrator
+Join waitlist  } Notification system
+• Constrainti
+Lecturers  • Operation1
+Track registration status
+UseCase12  & Notification system
+UseCase11
+TOOLBOX  View enrolled roster  EDITORS
+Notification system  • Styles
+Use Cases  Font  Arial  13
+i Package  Color  • Inherit
+Academic Staff
+• Use Case Subject  UseCase13  UseCase14  Line Style
+• Use Case  Format
+Actor  Label
+(0]  [T]
+Frame
+Association
+Alignment  ol-
+Directed Association
+i Generalization  • Properties
+Dependency  name  Course Registration Sy:
+= Include  stereotype
+E] Modell  Course Registration System [UMLUseCaseSubject]  80%
+C  ENG  Ф)  5:42 PM
+US  4/18/2026
+
+### 45:18
+Ở cốc cốc  Luyện tập Q2 - Google Doca  +  La
+→  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  CD
+• Tất cả dấu trang
+Luyện tập Q2 #  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Q  100%  Normal text -  Arial  -  +  B  I  S-E E . :
+3  4
+Submit registration request  Student  Register for a
+specific course
+4  Join waitlist  Student  Register when the
+course is full
+5  Track registration status  Student  View status
+6  View enrolled roster  Lecturer  View the list
+student enrolled the
+course
+7  Record grades  Lecturer  Input the midterm
+and final grades
+8  Release grades  Lecturer  Publish grades
+9  Manage timetable  Academic Staff  Create, update
+timetable
+10  Manage registration  Academic Staff  Control open and
+window  close registration
+window
+11  Approve exceptions  Amademic Staff  Manually approve
+special case
+12  Generate reports  Academic Staff  Export registration
+and grade
+distribution
+E  ENG  5:42 PM
+US  4/18/2026
+
+### 45:20
+• StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  MODEL EXPLORER
+Main - Model  • UseCase7
+MI  • UseCase8
+9] UseCaseDiagram1 — Modeli  Course Registration System
+• UseCase12
+Browse course catalogue  • UseCase13
+• UseCase14
+Check prerequisites
+Student  UseCase4  System Administrator  * Student
+UseCase6  & Lecturers
+Submit registration request
+Academic Staff
+UseCase7  UseCase8  * System Administrator
+Join waitlist  } Notification system
+• Constrainti
+Lecturers  • Operation1
+Track registration status
+UseCase12  & Notification system
+TOOLBOX  View enrolled roster  EDITORS
+Notification system  • Styles
+Use Cases  UseCase11  Font  Arial  13
+# Package  Color  • Inherit
+Academic Staff
+• Use Case Subject  UseCase13  UseCase14  Line Style
+• Use Case  Format
+? Actor  Label
+[0]  [T]
+Frame
+• Association
+Alignment  cU
+I Directed Association
+i Generalization  • Properties
+Dependency  UseCasell
+= Include  stereotype
+i Modell  UseCase11 [UMLUseCase]  80%
+E  ENG  Ф)  5:42 PM
+US  4/18/2026
+
+### 45:24
+ớ cốc cốc  Luyện tập Q2 - Google Doc x  +  La
+→  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  CD
+• Tất cả dấu trang
+Luyện tập Q2 #  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Q  100%  Normal text -  Arial  -  +  B  A  E 1E  "= -  E-E:
+2  3  4
+Submit registration request  Student  Register for a
+specific course
+4  Join waitlist  Student  Register when the
+course is full
+5  Track registration status  Student  View status
+6  View enrolled roster  Lecturer  View the list
+student enrolled the
+course
+7  Record grades  Lecturer  Input the midterm
+and final grades
+8  Release grades  Lecturer  Publish grades
+9  Manage timetable  Academic Staff  Create, update
+timetable
+10  Manage registration  Academic Staff  Control open and
+window  close registration
+window
+11  Approve exceptions  Academic Staff  Manually approve
+special case
+12  Generate reports  Academic Staff  Export registration
+and grade
+distribution
+I R  ENG  5:42 PM
+US  4/18/2026
+
+### 45:27
+* • StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  MODEL EXPLORER
+2) Main - Model  • UseCase7
+MI  • UseCase&
+2] UseCaseDiagram1 — Modeli  Course Registration System
+• UseCase12
+Browse course catalogue  • UseCase13
+• UseCase14
+Check prerequisites
+Student  UseCase4  System Administrator  & Student
+UseCase6  * Lecturers
+Submit registration request
+} Academic Staff
+UseCase7  UseCases  System Administrator
+Join waitlist  } Notification system
+• Constrainti
+Lecturers  • Operation1
+Track registration status
+UseCase12  & Notification system
+TOOLBOX  View enrolled roster  EDITORS
+Notification system  • Styles
+Use Cases  Record grades  Font  Arial  13
+• Package  Color  • Inherit
+Academic Staff
+• Use Case Subject  UseCase13  UseCase14  Line Style
+• Use Case  Format
+2 Actor  Label
+(H]  [a]  (0)]  ET]
+• Frame
+Association
+Alignment  o|-
+I Directed Association
+i Generalization  • Properties
+7 Dependency  Course Registration Sy:
+ET Include  stereotype
+E Modell  Course Registration System [UMLUseCaseSubject]  80%
+ENG  Ф)  5:42 PM
+US  4/18/2026
+
+### 45:33
+cốc cốc  Luyện tập Q2 - Google Doc x  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  CD
+88  • Tất cả dấu trang
+Luyện tập Q2 *  +
+Share
+File Edit View Insert Format Tools Extensions Help
+100%  Normal text -  Arial  -  +  I  A  = 1=  "E-E- :
+2  3  4
+Submit registration request  Student  Register for a
+specific course
+4  Join waitlist  Student  Register when the
+course is full
+5  Track registration status  Student  View status
+...
+6  View enrolled roster  Lecturer  View the list
+student enrolled the
+course
+7  Record grades  Lecturer  Input the midterm
+and final grades
+8  Release grades  Lecturer  Publish grades
+9  Manage timetable  Academic Staff  Create, update
+timetable
+10  Manage registration  Amademic Staff  Control open and
+window  close registration
+window
+11  Approve exceptions  Amademic Staff  Manually approve
+special case
+12  Generate reports  Academic Staff  Export registration
+and grade
+distribution
+ENG  5:42 PM
+US  4/18/2026
+
+### 45:34
+* • StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  MODEL EXPLORER
+2) Main - Model  • UseCase4
+MI  • UseCase7
+2] UseCaseDiagram1 — Modell  Course Registration System
+• UseCase8
+Browse course catalogue  • UseCase12
+• UseCase14
+Check prerequisites
+Student  UseCase4  System Administrator  % Student
+UseCase6  * Lecturers
+Submit registration request  Academic Staff
+UseCase7  UseCases  * System Administrator
+Join waitlist  } Notification system
+• Constrainti
+Lecturers  • Operation1
+Track registration status
+UseCase12  & Notification system
+TOOLBOX  View enrolled roster  EDITORS
+Notification system  • Styles
+Use Cases  Record grades  Font  Arial  13
+* Package  Color  • Inherit
+Academic Staff  Release grades
+• Use Case Subject  UseCase14  Line Style
+• Use Case  Format  =i l
+2 Actor  Label
+• Frame  E0)  Er)
+_ Association
+Alignment  al-
+I Directed Association
+İ Generalization  • Properties
+* Dependency  Release grades
+= Include  stereotype
+* Modell  Release grades [UMLUseCase]  80%
+ENG  Ф)  5:42 PM
+US  4/18/2026
+
+### 45:40
+cốc cốc  Luyện tập Q2 - Google Doc X  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  CD
+88  • Tất cả dấu trang
+Luyện tập Q2 *  +
+Share
+File Edit View Insert |  Format Tools Extensions Help
+5  100%  Normal text -  Arial  -  +  B  I  A  = 1=  "E•E- :
+2  3  4
+Submit registration request  Student  Register for a
+specific course
+4  Joid waitlist  Student  Register when the
+course is full
+5  Track registration status  Student  View status
+6  View enrolled roster  Lecturer  View the list
+student enrolled the
+course
+Record grades  Lecturer  Input the midterm
+and final grades
+8  Release grades  Lecturer  Publish grades
+9  Manage timetable  Academic Staff  Create, update
+imetable
+10  Manage registration  Amademic Staff  Control open and
+window  close registration
+window
+-1
+11  Approve exceptions  Amademic Staff  Manually approve
+special case
+12  Generate reports  Academic Staff  Export registration
+and grade
+distribution
+E  ENG  5:42 PM
+US  4/18/2026
+
+### 45:40
+CÔC CÔC  Luyện tập Q2 - Google Doc X  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  ICO
+• Tất cả dấu trang
+Luyện tập Q2 #  +
+„„ -  Share
+File Edit View  Insert Format Tools Extensions Help
+5  100% -  Normal text -  Arial  = #S-E E•:
+• StarUML (TRIAL MODE)  Luyện tập Q2 - Google Docs - C.  Phân tích Actor và Use Case - G...  OBS 31.1.2 - Cấu hình: Không tê...  Sticky Notes
+9  Manage timetable  Academic Staff  Create, update
+timetable
+10  Manage registration  Amademic Staff  Control open and
+window  close registration
+window
+11  Approve exceptions  Amademic Staff  Manually approve
+special case
+12  Generate reports  Academic Staff  Export registration
+and grade
+distribution  203
+E  ENG  5:42 PM
+US  4/18/2026
+
+### 45:43
+* • StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+3) Main - Model  • UseCase4
+MI  • UseCase7
+8] UseCaseDiagram1 - Modeli  Course Registration System
+• UseCase8
+Browse course catalogue  • UseCase12
+• UseCase14
+Check prerequisites
+Student  UseCase4  System Administrator  % Student
+UseCasel  * Lecturers
+Submit registration request
+} Academic Staff
+UseCase7  UseCases  * System Administrator
+Join waitlist  } Notification system
+• Constrainti
+Track registration status  • Operation1
+UseCase12  % Notification system
+Lecturers
+TOOLBOX  View enrolled roster  EDITORS
+Notification system  • Styles
+Use Cases  Record grades  Font  Arial  13
+# Package  Color  • Inherit
+Release grades
+• Use Case Subject  UseCase14  Line Style
+Academic Staff  =i l
+• Use Case  Format
+2 Actor  Label
+(11]  ET]
+Frame
+Association
+Alignment  al-
+1 Directed Association
+İ Generalization  • Properties
+Dependency  Lecturers
+= Include  stereotype
+ET Modell  Lecturers [UMLActor)  80%
+E  C  ENG  Ф)  5:42 PM
+US  4/18/2026
+
+### 45:48
+ởi cốc cốc  Luyện tập Q2 - Google Doc ×  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  CD
+• Tất cả dấu trang
+Luyện tập Q2 *  +
+E  Share
+File Edit View Insert Format Tools Extensions Help
+100%  Normal text -  Arial  -  +  B  I  A  EE":
+3
+6  View enrolled roster  Lecturer  View the list
+student enrolled the
+course
+7  Record grades  Lecturer  Input the midterm
+and final grades
+8  Release grades  Lecturer  Publish grades
+...
+9  Manage timetable  Academic Staff  Create, update
+timetable
+10  Manage registration  Academic Staff  Control open and
+window  close registration
+window
+11  Approve exceptions  Academic Staff  Manually approve
+special case
+.-.
+12  Generate reports  Academic Staff  Export registration
+and grade
+distribution
+13  Manage user accounts  System  manages user
+Administrator  account
+14  Send automated  Notification system  Send email confirm
+notifications
+E  ENG  5:42 PM
+US  4/18/2026
+
+### 45:49
+• StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+3 Main - Model  • Browse course catalogue
+MI  • UseCase4
+E] UseCaseDiagram1 — Modelt  Course Registration System
+• UseCase
+• UseCase&
+• UseCase12
+Student  UseCase4  System Administrator  % Student
+UseCasel  & Lecturers
+% Academic Staff
+UseCase7  UseCases  System Administrator
+} Notification system
+• Constraintl
+• Operation1
+UseCase12  % Notification system
+Lecturers
+TOOLBOX  EDITORS
+Notification system  • Styles
+Use Cases  Font  Arial  13
+i Package  Color  • Inherit
+• Use Case Subject  Line Style
+Academic Staff  =i l
+• Use Case  Format
+2 Actor  Label
+(H]  (0)  [T]
+• Frame
+Association
+Alignment  al-
+Directed Association
+İ Generalization  • Properties
+i Dependency  name  Manage timetable
+i Include  stereotype
+ET Modell  Manage timetable [UMLUseCase]
+E  ENG  Ф)  5:42 PM
+US  4/18/2026
+
+### 45:50
+cốc cốc  Luyện tập Q2 - Google Doc X  +  La  ..
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  CD
+88  • Tất cả dấu trang
+Luyện tập Q2 *  +
+E  Share
+File Edit View Insert Format Tools Extensions Help
+100% -  Normal text -  Arial  -  +  I  A  "E•E- :
+2
+View enrolled roster  Lecturer  View the list
+student enrolled the
+I  course
+7  Record grades  Lecturer  Input the midterm
+and final grades
+8  Release grades  Lecturer  Publish grades
+9  Manage timetable  Academic Staff  Create, update
+timetable
+10  Manage registration  Academic Staff  Control open and
+window  close registration
+window
+11  Approve exceptions  Academic Staff  Manually approve
+special case
+12  Generate reports  Academic Staff  Export registration
+and grade
+distribution
+13  Manage user accounts  System  manages user
+Administrator  account
+14  Send automated  Notification system  Send email confirm
+notifications
+ENG  5:42 PM
+US  4/18/2026
+
+### 45:51
+• StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+2) Main - Modet  • Browse course catalogue
+• UseCase4
+18] UseCaseDiapram1 — Modeli  Course Registration System
+• UseCaset
+Browse course catalogue  • UseCases
+• UseCase12
+Check prerequisites  % Student
+Student  UseCase4  System Administrator
+UseCase6  * Lecturers
+Submit registration request  ₺ Academic Staff
+UseCase7  UseCase8  System Administrator
+Join waitlist  * Notification system
+1) Constraintl
+Track registration status  • Operation1
+UseCase12  % Notification system
+Lecturers
+TOOLBOX  View enrolled roster  EDITORS
+Notification system  • Styles
+Use Cases  Font  Arial  13
+• Package  Color  • Inherit
+• Use Case Subject  Line Style
+Academic Staff  =i l
+• Use Case  Format
+? Actor  Label
+(H)  [O]  [T]
+• Frame
+Association
+Alignment  al-
+1 Directed Association
+T Generalization  • Properties
+Dependency  Manage timetable
+= Include  stereotype
+i Modell  Manage timetable [UMLUseCase]
+ENG  Ф)  5:42 PM
+US  4/18/2026
+
+### 46:02
+cốc cốc  Luyện tập Q2 - Google Doc x  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  CD
+88  • Tất cả dấu trang
+Luyện tập Q2 #  +
+E  •I -  Share
+File Edit View Insert Format Tools Extensions Help
+5  100% -  Normal text -  Arial  -  +  A  E #SE-E-:
+N
+View enrolled roster  Lecturer  View the list
+student enrolled the
+course
+7  Record grades  Lecturer  Input the midterm
+and final grades
+8  Release grades  Lecturer  Publish grades
+9  Manage timetable  Academic Staff  Create, update
+timetable
+10  Manage registration  Academic Staff  Control open and
+window  close registration
+window
+11  Approve exceptions  Academic Staff  Manually approve
+special case
+12  Generate reports  Academic Staff  Export registration
+and grade
+distribution
+13  Manage user accounts  System  manages user
+Administrator  account
+14  Send automated  Notification system  Send email confirm
+notifications
+• •  ENG  5:43 PM
+US  4/18/2026
+
+### 46:04
+• StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+Main - Model  • Browse course catalogue
+© UseCase4
+9] UseCaseDiagram1 - Modeli  Course Registration System
+• UseCase7
+Browse course catalogue  • UseCase8
+• UseCase12
+Check prerequisites  Academic Staff  9 Student
+Student  UseCase4
+UseCase6  * Lecturers
+Submit registration request  % Academic Staff
+UseCase7  UseCase8  * System Administrator
+Join waitlist  Notification system
+• Constrainti
+Track registration status  System Administrator  • Operation1
+UseCase12  & Notification system
+Lecturers
+TOOLBOX  View enrolled roster  EDITORS
+Use Cases  Record grades
+i Package  Notification system
+Release grades
+• Use Case Subject
+• Use Case  Manage timetable
+? Actor
+Frame
+Association
+1 Directed Association
+i Generalization
+Dependency
+= Include
+C  ENG  Ф)  5:43 PM
+US  4/18/2026
+
+### 46:25
+Ở cốc cốc  Luyện tập Q2 - Google Doc ×  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  CD
+88  • Tất cả dấu trang
+Luyện tập Q2 *  +
+E  Share
+File Edit View Insert Format Tools Extensions Help
+Q  100% -  Normal text -  Arial  -  +  B  I  A  E - tE  E-E- :
+2  3
+6  View enrolled roster  Lecturer D  View the list
+student enrolled the
+course
+7  Record grades  Lecturer  Input the midterm
+and final grades
+8  Release grades  Lecturer  Publish grades
+9  Manage timetable  Academic Staff  reate, updati
+metable
+10  Manage registration  Academic Staff  Control open and
+window  close registration
+window
+11  Approve exceptions  Academic Staff  Manually approve
+special case
+12  Generate reports  Academic Staff  Export registration
+and grade
+distribution
+13  Manage user accounts  System  manages user
+Administrator  account
+14  Send automated  Notification system  Send email confirm
+notifications
+ENG  5:43 PM
+US  4/18/2026
+
+### 46:27
+* • StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER  Q
+2 Main - Modet  • Browse course catalogue
+MI  • UseCase4
+18] UseCaseDiagram1 — Modeli  Course Registration System
+• UseCaset
+Browse course catalogue  • UseCase&
+Manage timetable  • UseCase12
+Check prerequisites  Academic Staff  P Student
+Student  UseCase4
+seCasee  * Lecturers
+Submit registration request  & Academic Staff
+UseCase  UseCase8  System Administrator
+Join waitlist  * Notification system
+• Constraintl
+System Administrator  • Operation1
+Track registration status  UseCase12  & Notification system
+Lecturers
+TOOLBOX  EDITORS
+View enrolled roster  • Styles
+Use Cases  Font  Arial  13
+i Package  Notification system  Color  • Inherit
+Record grades
+• Use Case Subject  Line Style
+• Use Case  Release grades  Format
+7 Actor  Label
+(:]  [O]  [T]
+Frame
+Association
+Alignment  ol-
+I Directed Association
+Generalization  • Properties
+1 Dependency  name  UseCase6
+Include  stereotype
+E] Modell  • Course Registration System  2 UseLase [UMLUseCase)  80%
+E  C  ENG  Ф)  5:43 PM
+US  4/18/2026
+
+### 46:29
+cốc cốc  Luyện tập Q2 - Google Doc X  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  CD
+88  • Tất cả dấu trang
+Luyện tập Q2 *  +
+E  -  Share
+File Edit View Insert Format Tools Extensions Help
+5  100% -  Normal text -  Arial  -  +  "E•E- :
+View enrolled roster  Lecturer  View the list
+student enrolled the
+course
+7  Record grades  Liecturer  Input the midterm
+and final grades
+8  Release grades  Lecturer  Publish grades
+9  Manage timetable  Academic Staff  Create, update
+timetable
+10  Manage registration  Academic Staff  Control open and
+window  close registration
+window
+...
+11  Approve exceptions  Academic Staff  Manually approve
+special case
+12  Generate reports  Academic Staff  Export registration
+and grade
+distribution
+13  Manage user accounts  System  manages user
+Administrator  account
+14  Send automated  Notification system  Send email confirm
+notifications
+E  ENG  5:43 PM
+US  4/18/2026
+
+### 46:32
+* • StarUML (TRIAL MODE)
+File  Edit Format Model  Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+3 Main - Model  • Browse course catalogue
+MI  • UseCase4
+2] UseCaseDiagram1 - Modelt  Course Registration System
+• UseCase7
+Browse course catalogue  • UseCase8
+Manage timetable  • UseCase12
+Check prerequisites  Academic Staff  % Student
+Student  UseCase4
+Manage registration window  * Lecturers
+Submit registration request
+₺ Academic Staff
+UseCase7  UseCase8  System Administrator
+Join waitlist  * Notification system
+• Constrainti
+System Administrator  • Operation1
+UseCase12  & Notification system
+Lecturers  Track registration status
+TOOLBOX  EDITORS
+View enrolled roster  • Styles
+Use Cases  Font  Arial  13
+i Package  Notification system  Color  • Inherit
+Record grades
+• Use Case Subject  Line Style
+• Use Case  Release grades  Format
+2 Actor  Label
+(:)  ET]
+Frame
+Association
+Alignment  ol-
+Directed Association
+i Generalization  • Properties
+/ Dependency  Course Registration Sy:
+: Include  stereotype
+i Modell  Course Registration System [UMLUseCaseSubject!  80%
+C  ENG  Ф)  5:43 PM
+US  4/18/2026
+
+### 46:37
+Ở cc cốc  Luyện tập Q2 - Google Doc ×  +  La  ..
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  CD
+• Tất cả dấu trang
+Luyện tập Q2 #  +
+] -  Share
+File Edit View Insert Format Tools Extensions Help
+100% -  Normal text -  Arial  -  +  A  E #SE-E-:
+View enrolled roster  Lecturer  View the list
+student enrolled the
+course
+7  Record grades  Lecturer  Input the midterm
+and final grades
+8  Release grades  Lecturer  Publish grades
+9  Manage timetable  Academic Staff  Create, update
+timetable
+10  Manage registration  Academic Staff  Control open and
+window  close registration
+window
+11  Approve exceptions  Academic Staff  Manually approve
+special case
+.-]
+12  Generate reports  Academic Staff  Export registration
+and grade
+distribution
+13  Manage user accounts  System  manages user
+Administrator  account
+14  Send automated  Notification system  Send email confirm
+notifications
+I R  E  ENG  5:43 PM
+US  4/18/2026
+
+### 46:39
+* • StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+2) Main - Model  • UseCase4
+• Browse course catalogue
+2] UseCaseDiagram1 — Modell  Course Registration System
+• Approve exceptions
+Browse course catalogue  • UseCase8
+Manage timetable  • UseCase12
+Check prerequisites  Academic Staff  % Student
+Student
+Manage registration window  * Lecturers
+Submit registration request
+} Academic Staff
+Approve exceptions  UseCases  System Administrator
+Join waitlist  * Notification system
+• Constrainti
+System Administrator  • Operation1
+UseCasey
+UseCase12  & Notification system
+Lecturers  Track registration status
+TOOLBOX  EDITORS
+View enrolled roster  • Styles
+Use Cases  Font  Arial  13
+i Package  Notification system  Color  • Inherit
+Record grades
+• Use Case Subject  Line Style
+• Use Case  Release grades  Format  =i l
+2 Actor  Label
+(:)  (1)]  ET]
+Frame
+Association
+Alignment  al-
+I Directed Association  dile
+İ Generalization  • Properties
+1 Dependency  UseCase4
+: Include  stereotype
+ET Modell  UseLase+ [UMLUseCasel  80%
+E  ENG  5:43 PM
+US  4/18/2026
+
+### 46:43
+cốc cốc  Luyện tập Q2 - Google Doc X  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  CD
+88  • Tất cả dấu trang
+Luyện tập Q2 *  +
+E  C -  Share
+File Edit View Insert Format Tools Extensions Help
+100% -  Normal text -  Arial  -  +  I  A  E #SE-E-:
+2
+View enrolled roster  Lecturer  View the list
+student enrolled the
+course
+7  Record grades  Lecturer  Input the midterm
+and final grades
+8  Release grades  Lecturer  Publish grades
+9  Manage timetable  Academic Staff  Create, update
+timetable
+10  Manage registration  Academic Staff  Control open and
+window  close registration
+window
+11  Approve exceptions  Academic Staff  Manually approve
+special case
+12  Generate reports  Academic Staff  Export registration
+and grade
+distribution
+13  Manage user accounts  System  manages user
+Administrator  account
+14  Send automated  Notification system  Send email confirm
+notifications
+^  ENG  5:43 PM
+US  4/18/2026
+
+### 46:45
+* • StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER  Q
+5 Main - Model  • Generate reports
+MI  • UseCase&
+2] UseCaseDiagram1 — Modeli  Course Registration System
+• Browse course catalogue
+Browse course catalogue  • Approve exceptions
+Manage timetable  • UseCase12
+Check prerequisites  Academic Staff  % Student
+Student
+Manage registration window  & Lecturers
+Submit registration request  & Academic Staff
+Approve exceptions  System Administrator
+Join waitlist  } Notification system
+• Constrainti
+System Administrator  • Operation1
+Generate reports
+UseCase12  & Notification system
+Lecturers  Track registration status
+TOOLBOX  EDITORS
+View enrolled roster  UseCases  • Styles
+Use Cases  Arial  13
+• Package  Notification system  Color  • Inherit
+Record grades
+• Use Case Subject  Line Style
+• Use Case  Release grades  Format
+% Actor  Label
+(0)  ET]
+• Frame
+Association
+Alignment  al-
+I Directed Association
+i Generalization  • Properties
+Dependency  UseCase8
+i Include  stereotype
+E Modell  UseCased [UMLUseCase)  80%
+E  ENG  5:43 PM
+US  4/18/2026
+
+### 46:53
+côc cốc  Luyện tập Q2 - Google Doc x  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  CD
+88  • Tất cả dấu trang
+Luyện tập Q2 *  +
+E  •I -  Share
+File Edit View Insert Format Tools Extensions Help
+5  100% -  Normal text -  Arial  -  +  A  E #SE-E-:
+View enrolled roster  Lecturer  View the list
+student enrolled the
+course
+7  Record grades  Lecturer  Input the midterm
+and final grades
+8  Release grades  Lecturer  Publish grades
+9  Manage timetable  Academic Staff  Create, update
+timetable
+10  Manage registration  Academic Staff  Control open and
+window  close registratior
+window
+11  Approve exceptions  Academic Staff  Manually approve
+special case
+.-]
+12  Generate reports  Academic Staff  Export registration
+and grade
+distribution
+13  Manage user accounts  System  manages user
+Administrator  account
+14  Send automated  Notification system  Send email confirm
+notifications
+^ G  ENG  - 4)  5:44 PM
+US  4/18/2026
+
+### 46:55
+* • StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+3) Main - Model  • Generate reports
+MI  • Manage user accounts
+91 UseCaseDiagram1 — Modeli  Course Registration System
+• UseCase12
+Browse course catalogue  • Browse course catalogue
+Manage timetable
+• Approve exceptions
+Check prerequisites  Academic Staff  ₽ Student
+Student
+Manage registration window  * Lecturers
+Submit registration request  } Academic Staff
+Approve exceptions  System Administrator
+Join waitlist  * Notification system
+•* Constrainti
+System Administrator  • Operation1
+Generate reports
+& Notification system
+Lecturers  Track registration status
+TOOLBOX  EDITORS
+View enrolled roster  Manage user accounts  • Styles
+Use Cases  Font  Arial  13
+• Package  Notification system  Color  • Inherit
+Record grades
+• Use Case Subject  UseCase12  Line Style
+• Use Case  Release grades  Format
+? Actor  Label
+ETI
+Frame
+| Association
+Alignment  ol-
+T Directed Association
+i Generalization  • Properties
+Dependency  Course Registration Sy:
+i Include  stereotype
+ta Modell  Course Registration System [UMLUseCaseSubject]  80%
+ENG  Ф)  5:44 PM
+US  4/18/2026
+
+### 47:34
+cốc cốc  Luyện tập Q2 - Google Doc X  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  CD
+88  • Tất cả dấu trang
+Luyện tập Q2 *  +
+-  Share
+File Edit View Insert Format Tools Extensions Help
+100% -  Normal text -  Arial  -  +  A  SE-E- :
+2
+View enrolled, roster  Lecturer  View the list
+student enrolled the
+course
+7  Record grades  Lecturer  Input the midterm
+and final grades
+8  Release grades  Lecturer  Publish grades
+9  Manage timetable  Academic Staff  reate, updati
+imetable
+10  Manage registration  Academic Staff  Control open and
+window  close registration
+window
+11  Approve exceptions  Academic Staff  Manually approve
+special case
+12  Generate reports  Academic Staff  Export registration
+and grade
+distribution
+13  Manage user accounts  System  manages user
+Administrator  account
+14  Send automated  Notification system  Send email confirm
+notifications
+^ G E  ENG  5:44 PM
+US  4/18/2026
+
+### 47:38
+cốc cốc  Luyện tập Q2 - Google Doc X  +
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  ICO
+• Tất cả dấu trang
++
+Luyện tập Q2 *  E  0 -  Share
+File Edit View Insert Format Tools Extensions Help
+Q  100% -  Normal text -  Arial  +  I  E #E SEE•
+3
+betore registration
+Luyện tập Q2 - Google Docs - C..  • StarUML (TRIAL MODE)  Phân tích Actor và Use Case - G...  OBS 31.1.2 - Cấu hình: Không tê...  Sticky Notes
+specific course
+Join waitlist  Student  Register when the
+course is full
+5  Track registration status  Student  View status
+View enrolled roster  Lecturer  View the list
+student enrolled the
+course
+7  Record grades  Lecturer  Input the midterm
+and final grades
+8  Release grades  Lecturer  Publish grades
+ENG  5:44 PM
+US  4/18/2026
+
+### 47:38
+• StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER  Q.
+Invalid connection (UMLAssociation)
+2 Main - Model  EB  * Student
+• _ (Student-Browse course catalogue
+9] UseCaseDiagram 1 - Modell  Course Registration System  • (Student-Check prerequisites)
+Browse course catalogue  J (Student-Submit registration reque
+Manage timetable  (Student-Join waitlist)
+Check prerequisites  Academic Staff  (Student-Track registration status)
+Student
+Manage registration window  collecturers
+Submit registration request  % Academic Staff
+Approve exceptions  % System Administrator
+Join waitlist  } Notification system
+• Constraint1
+• Operation1
+Generate reports  System Administrator
+7 Notification system
+Lecturers  Track registration status
+TOOLBOX  EDITORS
+View enrolled roster  Manage user accounts  • Properties
+Use Cases  name
+# Package  Notification system  stereotype  Q.
+Record grades
+• Use Case Subject  Send automated notifications  visibility  public
+• Use Case  Release grades  isDerived
+2 Actor
+endl.name
+Frame
+endl.reference  Student
+• Association
+endl.stereotype
+Directed Association
+endl.visibility  public
+İ Generalization
+endl.navigable  unspecified
+I Dependency
+endl.aggregation  none
+if Include  endl.multiplicity
+i Modell  Student  I [UMLAssociation]  80%
+Accase graves
+ENG  Ф)  5:44 PM
+US  4/18/2026
+
+### 48:33
+Ở cốc cốc  Luyện tập Q2 - Google Doc X  +  La
+→  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  ICO
+88  • Tất cả dấu trang
+Luyện tập Q2 *  +
+G  E  O -  Share
+File Edit View Insert Format Tools Extensions Help
+s c a  100%  Normal text -  Arial  11  I  +  E #SEE •
+4
+betore reistration
+Il
+3  Submit registration request  Student  Register for a
+specific course
+4  Join waitlist  Student  Register when the
+course is full
+5  Track registration status  Student  View status
+6  View enrolled roster  Lecturer  View the list
+student enrolled the
+course
+Record grades  Lecturer  Input the midterm
+and final grades
+8  Release grades  Lecturer  Publish grades
+I R  G  ENG  5:45 PM
+US  4/18/2026
+
+### 48:35
+* • StarUML (TRIAL MODE)  X
+File  Edit Format  Model  Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+2 Main - Model  6B  • (Lecturers-Record grades)
+MI  (Lecturers-Release grades)
+2) UseCaseDiagram - Modett  Course Registration System  & Academic Staff
+Browse course catalogue  (Academic Staff-Manage timetable
+Manage timetable  (Academic Staff-Manage registratic
+Check prerequisites  Academic Staff  _ (Academic Staff-Approve exceptior
+Student
+Manage registration window  (Academic Staff-Course Registratio
+Submit registration request  | (Academic Staff-Generate reports)
+Approve exceptions  System Administrator
+Join waitlist  } Notification system
+• Constraint1
+• Operation1
+Track registration status  Generate reports  System Administrator
+% Notification system
+Lecturers
+TOOLBOX  EDITORS
+View enrolled roster
+Manage user accounts  • Properties
+Use Cases  name
+• Package  Record grades  Notification system
+stereotype  Q
+• Use Case Subject  Sond automated notifications  visibility  public
+Release grades
+• Use Case  isDerived
+2 Actor
+end1.name
+Frame
+end .reference  9 Academic Staff
+Association
+endl stereotype
+1 Directed Association
+endl.visibility  public
+i Generalization
+endl.navigable  unspecified
+Dependency
+endl.aggregation  none
+: Include  endl.multiplicity
+E Modell  % Academic Staff  - [UMLAssociation)  80%
+C  ENG  Ф)  5:45 PM
+US  4/18/2026
+
+### 48:41
+Ởi côc cốc  Luyện tập Q2 - Google Doc  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  CD
+• Tất cả dầu trang
+Luyện tập Q2 *  +
+E  C -  Share
+File Edit View Insert Format Tools Extensions Help
+5  100% -  Normal text -  Arial  -  +  ฿  I  A
+3  4
+8  Release grades  Lecturer  Publish grades
+9  Manage timetable  Academic Staff  Create, update
+timetable
+10  Manage registration  Academic Staff  Control open and
+window  close registration
+window
+11  Approve exceptions  Academic Staff  Manually approve
+special case
+12  Generate reports  Academic Staff  Export registration
+and grade
+distribution
+13  Manage user accounts  System  manages user
+Administrator  account
+14  Send automated  Notification system  Send email confirm
+notifications
+7
+• •  *  ^ G E  ENG  5:45 PM
+US  4/18/2026
+
+### 48:41
+• StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  Invalid connection (UMLAssociation)  *  MODEL EXPLORER
+5 Main - Model  * Academic Start
+I (Academic Staff-Manage timetable
+2] UseCaseDiagram1 - Modelt  MI
+Course Registration System  I (Academic Staff-Manage registratic
+Browse course catalogue  (Academic Staff-Approve exceptior
+Manage timetable  (Academic Staff-Course Registratio
+Check prerequisites  Academic Staff  (Academic Staff-Generate reports)
+Student
+Manage registration window  & System Administrator
+Submit registration request  _ (System Administrator-Manage usE
+Approve exceptions  & Notification system
+Join waitlist  • Constraint1
+• Operation1
+% Notification system
+Track registration status  Generate reports  System Administrator
+(Notification system-Send automa
+Lecturers
+TOOLBOX  EDITORS
+View enrolled roster
+Manage user accounts  • Properties
+Use Cases  name
+• Package  Record grades  Notification system
+stereotype  Q
+• Use Case Subject  Send automated notification-  visibility  public
+Release grades
+• Use Case  isDerived
+2 Actor
+end1.name
+• Frame
+endl reference  Notification system
+| Association •
+endl stereotype
+Directed Association
+endl.visibility  public
+İ Generalization
+endl navigable  unspecified
+i Dependency
+endl.aggregation  none
+= Include  endl.multiplicity
+E Modell  & Notification system  → [UMLAssociation]  80%
+C  ENG  Ф)  5:45 PM
+US  4/18/2026
+
+### 51:38
+Ởi côc cốc  Luyện tập Q2 - Google Doc  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  CD
+• Tất cả dấu trang
+Luyện tập Q2 *  +
+E  Share
+File Edit View Insert Format Tools Extensions Help
+Q  5  100% -  Normal text -  Arial  -  +  B  I  A
+3  4
+8  Release grades  Lecturer  Publish grades
+9  Manage timetable  Academic Staff  Create, update
+timetable
+10  Manage registration  Academic Staff  Control open and
+window  close registration
+window
+11  Approve exceptions  Academic Staff  Manually approve
+special case
+12  Generate reports  Academic Staff  Export registration
+and grade
+distribution
+13  Manage user accounts  System  manages user
+Administrator  account
+14  Send automated  Notification system  Send email confirm
+notifications
+7
+• •  ^ GE  ENG  5:50 PM
+US  4/18/2026
+
+### 51:54
+• StarUML (TRIAL MODE)
+File  Edit  Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+3) Main - Model  LT (Submit registration request→Chi
+2) UseCaseDiagram1 - Modelt  MI  • Join waitlist
+Course Registration System
+• Manage registration window
+Browse course catalogue  • View enrolled roster
+Check prerequisites  Manage timetable
+• Track registration status
+Student  Academic Staff  • Record grades
+«include»  Manage registration window  • Release grades
+• Manage timetable
+Approve exceptions  • Generate reports
+Join waitlist  Submit registration request  • Manage user accounts
+• Send automated notifications
+Track registration status  System Administrator  • Browse course catalogue
+Generate reports
+Lecturers  • Approve exceptions
+TOOLBOX  EDITORS
+View enrolled roster
+Manage user accounts  • Styles
+Use Cases  Arial  13
+• Package  Record grades  Notification system  • Inherit
+Color
+• Use Case Subject  Send automated notifications  Line Style
+Release grades
+• Use Case  Format
+2 Actor  Label
+(0]  [T]
+Frame
+Association
+Alignment  ol-
+Directed Association  dile
+İ Generalization  • Properties
+Dependency  name  Course Registration Sy:
+i Include  stereotype
+ta Modell  • Course Registration System [UMLUseCaseSubject)
+ENG  Ф)  5:50 PM
+US  4/18/2026
+
+### 53:43
+Ç *  ^ GEO  ENG - Q) E 4/18/2026  5:52 PM
+
+### 54:15
+• StarUML (TRIAL MODE)  X
+File  Edit  Format  Model  Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+3 Main - Modet  Er (Join waitlist→ Submit registration
+9] UseCaseDiagram1 - Modelt  MI  • Manage registration window
+Course Registration System  • View enrolled roster
+Browse course catalogue  • Track registration status
+Check prerequisites  Manage timetable
+• Record grades
+Student  Academic Staff  • Release grades
+Manage registration window  • Manage timetable
+• Generate reports
+Join waitlist  Approve exceptions  • Manage user accounts
+Submit registration request  • Send automated notifications
+• Browse course catalogue
+Track registration status  System Administrator  • Approve exceptions
+Generate reports
+* Student
+Lecturers
+TOOLBOX  EDITORS
+View enrolled roster
+Manage user accounts  • Styles
+Font  Arial  13
+• Use Case Subject
+Record grades  Notification system  • Inherit
+• Use Case  Color
+Line Style
+% Actor  Send automated notifications
+Release grades
+Format
+2] Frame
+Label
+Association  [O]  [T]
+(a]
+1 Directed Association
+* Generalization  Alignment  al-
+Dependency
+If Include  • Properties
+ET Extend  Send automated notificat
+Annotations  stereotype
+E Modell  • Course Registration System  Send automated notifications [UMLUseCase]
+E  ENG  ф)  5:52 PM
+US  4/18/2026
+
+### 55:19
+6 *  ASE 418/2026  5:58 PM
+
+### 55:36
+• StarUML (TRIAL MODE)
+File  Edit  Format  Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+23) Main - Model  ef (Send automated notifications→.
+2] UseCaseDiagram1 - Modell  MI  • Browse course catalogue
+Course Registration System  • Approve exceptions
+Browse course catalogue  } Student
+Check prerequisites  Manage timetable
+_ (Student-Browse course catalogue
+Student  Academic Staff  (Student-Check prerequisites)
+Manage registration window  _ (Student-Submit registration reque
+«extend»  (Student-Join waitlist)
+Join waitlist  Approve exceptions  1 (Student-Track registration status)
+Submit registration request  * Lecturers
+(Lecturers-View enrolled roster)
+Track registration status  Generate reports  System Administrator  (Lecturers-Record grades)
+Lecturers  (Lecturers-Release grades)
+TOOLBOX  EDITORS
+View enrolled roster
+«extend»
+Manage user accounts
+• Use Case Subject
+Record grades  Notification system
+• Use Case
+7 Actor  Send automated notifications
+Release grades
+#l Frame
+Association
+1 Directed Association
+¡ Generalization
+- Dependency
+If Include
+ET Extend
+Annotations
+ENG  5:59 PM
+US  4/18/2026
+
+### 60:20
+côc côc  Luyện tập Q2 - Google Doc  +  La  ...
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  Q  • I CD
+88  • Tất cả dấu trang
+Luyện tập Q2 *  +
+E  Share
+File Edit View Insert Format Tools Extensions Help
+Q  100% -  Normal text -  Arial  +  I
+faculty office, and clerks manually enter the data into spreadsheets. This process is error-prone,
+slow, and creates long queues during the registration window. The university's administration
+N-  has therefore decided to commission a web-based Course Registration System (CRS) to
+automate and streamline the entire workflow.
+f
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibility based on completed prerequisites, submit
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitlist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades, and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration periods
+with a page-response time under 3 seconds. Because student records and grade data are
+sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must be
+governed by a role-based access control (RBAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration window.
+The interface must be accessible on both desktop and mobile browsers and must conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+E  ENG  6:20 PM
+US  4/18/2026
+

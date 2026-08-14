@@ -1,0 +1,1804 @@
+1
+00:00:00,000 --> 00:00:06,880
+Ok, thế rồi anh em nhé, trong video này mình sẽ xử lý nốt phần B, cái phần dịch bản B của cái đề trial của anh em nhé.
+
+2
+00:00:07,760 --> 00:00:22,100
+Ok, phần B như thế này nhé, và anh em nhìn qua yêu cầu này, vẫn tương tự thôi, thứ nhất là mình sẽ viết prompt này, review này, tìm ra bug này, và viết prompt để fix.
+
+3
+00:00:22,220 --> 00:00:25,280
+Cái này anh em viết y như form của mình, tới nhau.
+
+4
+00:00:25,280 --> 00:00:27,360
+thì bước đầu tiên này
+
+5
+00:00:27,360 --> 00:00:29,700
+mình đã nói với anh em rất nhiều rồi
+
+6
+00:00:29,700 --> 00:00:30,380
+đúng không
+
+7
+00:00:30,380 --> 00:00:31,960
+bước đầu tiên khi anh em làm
+
+8
+00:00:31,960 --> 00:00:34,880
+thì đó là anh em cứ viết theo đúng format của mình
+
+9
+00:00:34,880 --> 00:00:37,180
+I am working cái gì đấy
+
+10
+00:00:37,180 --> 00:00:37,660
+đúng không
+
+11
+00:00:37,660 --> 00:00:42,760
+I am working on
+
+12
+00:00:42,760 --> 00:00:44,120
+đúng không
+
+13
+00:00:44,120 --> 00:00:46,760
+thì bây giờ nhé
+
+14
+00:00:48,380 --> 00:00:49,140
+bước vào đây
+
+15
+00:00:49,140 --> 00:00:51,600
+nào xử lý này
+
+16
+00:00:51,600 --> 00:00:53,700
+đầu tiên này
+
+17
+00:00:53,700 --> 00:00:57,700
+là mình sẽ có này không phần 1 mình sẽ review code nhé
+
+18
+00:00:57,700 --> 00:01:09,700
+ok review code này
+
+19
+00:01:09,700 --> 00:01:12,700
+ok bước đầu tiên này
+
+20
+00:01:12,700 --> 00:01:14,340
+I am working cái gì đấy
+
+21
+00:01:14,340 --> 00:01:14,920
+đúng không
+
+22
+00:01:14,920 --> 00:01:17,960
+vậy nhé
+
+23
+00:01:17,960 --> 00:01:19,440
+tôi sẽ viết luôn cho nhau xem
+
+24
+00:01:19,440 --> 00:01:22,460
+I am working
+
+25
+00:01:22,460 --> 00:01:28,620
+cái này anh em phải thuộc luôn nhé
+
+26
+00:01:28,620 --> 00:01:29,880
+I am cooking on
+
+27
+00:01:29,880 --> 00:01:31,220
+cost
+
+28
+00:01:31,220 --> 00:01:34,980
+được chưa
+
+29
+00:01:34,980 --> 00:01:37,620
+where is
+
+30
+00:01:37,620 --> 00:01:39,220
+change
+
+31
+00:01:39,220 --> 00:01:42,460
+system
+
+32
+00:01:42,460 --> 00:01:46,620
+nào bây giờ mình sẽ xem tiếp nhé
+
+33
+00:01:46,620 --> 00:01:49,100
+phần B này nó yêu cầu cái gì
+
+34
+00:01:49,100 --> 00:01:51,120
+phần B này
+
+35
+00:01:51,120 --> 00:01:52,540
+đây nó vẫn là method thứ 2 thôi
+
+36
+00:01:52,540 --> 00:01:54,240
+thì vẫn là using
+
+37
+00:01:54,240 --> 00:01:55,980
+đâu nè
+
+38
+00:01:55,980 --> 00:01:57,340
+nó sử dụng cái gì đây
+
+39
+00:01:57,340 --> 00:02:01,980
+ok
+
+40
+00:02:01,980 --> 00:02:04,680
+vẫn là sử dụng Java thôi
+
+41
+00:02:04,680 --> 00:02:07,060
+thì vẫn là như cũ anh em nhé
+
+42
+00:02:07,060 --> 00:02:08,160
+using
+
+43
+00:02:08,160 --> 00:02:10,200
+đó
+
+44
+00:02:10,200 --> 00:02:12,620
+I'm working on
+
+45
+00:02:12,620 --> 00:02:13,760
+post
+
+46
+00:02:13,760 --> 00:02:16,360
+registration system using Java
+
+47
+00:02:16,360 --> 00:02:16,800
+đó
+
+48
+00:02:16,800 --> 00:02:20,260
+and spring boot
+
+49
+00:02:20,260 --> 00:02:36,220
+đó biết này không nhớ nhạc sau đó đi please review the following method cái này thì mình dẫn anh em
+
+50
+00:02:36,220 --> 00:02:41,260
+rồi đúng không following method nói chung là 12 video đầu này thì mình cũng không biết rõ
+
+51
+00:02:41,260 --> 00:02:51,580
+nhớ nhận cho em nhớ in the in the cái gì class có in the cái gì đấy class anh em nào nước lên
+
+52
+00:02:51,580 --> 00:03:04,180
+xem cái gì nhá Đây anh nhìn thấy con này đúng không à in the great vai này bây giờ mình chỉ
+
+53
+00:03:04,180 --> 00:03:14,080
+đây là người sợ bài đó Ok chưa Đấy sao bước đầu tiên tiếp theo này giờ mới thớt có xuất
+
+54
+00:03:14,080 --> 00:03:27,220
+bây giờ suốt cái gì ngành đầu dòng nhất đây bước nào này nó sẽ có cái gì anh em nhỉ Đây đầu tiên
+
+55
+00:03:27,220 --> 00:03:30,460
+anh em nhìn đúng ở đây
+
+56
+00:03:30,460 --> 00:03:34,120
+xử lý từng cái
+
+57
+00:03:34,120 --> 00:03:35,220
+đầu tiên là gì?
+
+58
+00:03:35,220 --> 00:03:39,220
+là mình sẽ
+
+59
+00:03:39,220 --> 00:03:46,220
+lấy code này từ dữ liệu
+
+60
+00:03:46,220 --> 00:03:56,620
+từ database này
+
+61
+00:03:57,220 --> 00:04:07,180
+tất cả học sinh này
+
+62
+00:04:07,180 --> 00:04:22,840
+ok ok là hình ảnh làm như mình thôi anh em cứ lấy cho mình như mình nói làm đúng yêu cầu
+
+63
+00:04:22,840 --> 00:04:29,320
+làm đúng như mình dẫn nhé không phải nghĩ nhiều chú thích gì thì em lấy cái đấy
+
+64
+00:04:29,320 --> 00:04:48,700
+ok chưa
+
+65
+00:04:48,700 --> 00:04:57,040
+xong đấy thì xin nha tiếp theo này tiếp theo gì do tác
+
+66
+00:04:59,320 --> 00:05:10,360
+nó ta thì mình sẽ cho nó cái gì thứ nhất nó là mình sẽ yêu cầu nó là em nhìn đề nhé em
+
+67
+00:05:10,360 --> 00:05:17,200
+để chỗ do nát này em nhìn đề nhé Nhìn kĩ này xem nó yêu cầu anh em cái gì nhé ta ta
+
+68
+00:05:17,200 --> 00:05:26,500
+ba này trong đó thì có hai lỗi này hai lỗi này mới là cái điều kiện này là sai này và
+
+69
+00:05:26,500 --> 00:05:38,500
+ở trên nha bây giờ có phải là mình sẽ có là viết đúng theo bản sách địa bàn nhé security này và
+
+70
+00:05:38,500 --> 00:05:47,800
+thì là mình sẽ bám sát này nhá Ở đây mình sẽ có là gì mình sẽ có là file nô dịch cổ
+
+71
+00:05:47,800 --> 00:05:54,700
+nô dịch cổ ero
+
+72
+00:05:54,700 --> 00:06:00,040
+in the condition
+
+73
+00:06:00,040 --> 00:06:07,920
+anh em thứ hai là gì là mình sẽ cần xác định identify còn mình phải tiếp được
+
+74
+00:06:07,920 --> 00:06:16,240
+phải cho nhưng mà thật ra identify identify identify any security đúng không
+
+75
+00:06:16,240 --> 00:06:24,040
+security đúng không anh em nhìn ký đề nhé đám sát vào đây vào đây này
+
+76
+00:06:24,040 --> 00:06:35,540
+security này đấy anh em bám sát nào thế mà bám sát vào đi mà dã rồi anh em nhé
+
+77
+00:06:35,540 --> 00:06:44,540
+sau đó thì sao chắc chắn rồi lại bám sát đúng như cái form đầu này của mình này nhé nhìn
+
+78
+00:06:44,540 --> 00:06:55,780
+này tìm file check này thêm cái này vào nữa ok ok
+
+79
+00:06:55,780 --> 00:07:08,800
+anh em nó và từ nhớ đọc một chút này bán sát đề và anh em nhớ bởi vì tùy đề đấy à
+
+80
+00:07:08,800 --> 00:07:21,660
+mô tả cách này Ok vậy thì cái này ý của nó là mình sẽ còn phải một cái nữa
+
+81
+00:07:21,660 --> 00:07:31,020
+đó là gì đó là xác định cái mức độ rủi ro anh em nhé Cái này nhắc đến bảo vật anh em nhé Cái này
+
+82
+00:07:31,020 --> 00:07:36,540
+ý cho nó là mình phải xác định cả cái mức độ rủi ro anh em nhé đó thì chỗ này mình sẽ nói rõ
+
+83
+00:07:36,540 --> 00:07:51,420
+cho mình ra một chút nữa này này nhá thì mình sẽ có là sai có không ở ở mức độ rủi ro anh em level
+
+84
+00:07:51,660 --> 00:07:57,040
+nó thì là lao hay là medium
+
+85
+00:07:57,040 --> 00:08:01,100
+hay là hai
+
+86
+00:08:01,100 --> 00:08:10,740
+hay là đi cổ nhé nhé đó anh em nhớ cho mình cái dạng này thì chưa nói cho mình sẽ chưa rất nhiều
+
+87
+00:08:10,740 --> 00:08:15,900
+dạng để em nhớ mà mới cùng anh em thể để cho nó là sắp test được chưa Nói chung là cái này thì
+
+88
+00:08:15,900 --> 00:08:21,420
+anh em tùy em nhé cứ đúng form là được chưa đúng form là được báo sát đề và đúng form là
+
+89
+00:08:21,420 --> 00:08:34,660
+các vấn đề này chưa biết nhau gì như dờ ốp có copy bằng
+
+90
+00:08:34,660 --> 00:08:50,640
+ok sau tiếp theo là gì có xong rồi thì phút format đúng form mà làm anh em nhé đúng form
+
+91
+00:08:50,640 --> 00:08:58,140
+Ok à bút format phát bút format gì copy luôn nhìn được trên ngang copy luôn ghi đằng trên này cho
+
+92
+00:08:58,140 --> 00:09:13,200
+mình nhá đỡ phải nghĩ nhiều 5 list này x lên này và đấy anh em đó bài này thì nó còn thêm cái nữa
+
+93
+00:09:13,200 --> 00:09:27,420
+lên này chỗ này nhé thêm cho mình cái nữa là cái thêm một cái nữa là cái mức độ rủi ro bởi vì cái
+
+94
+00:09:27,420 --> 00:09:33,300
+này này mày có cái bảo mật được chưa nhé thì anh em sẽ nêu ra cho mình là thêm cái nữa là
+
+95
+00:09:33,300 --> 00:09:42,820
+bức độ rủi ro nhé Ok đấy mình cái bài mà liên quan đến bảo mật anh nhé đấy có cái
+
+96
+00:09:42,820 --> 00:09:51,400
+tính bảo mật Ok đó Ok đấy là xong anh em nhé bán sát vào đi mà đấy là anh em đã được không
+
+97
+00:09:51,400 --> 00:10:00,760
+phải hai rồi chưa khá đơn giản thôi nhé Ok phần 2 thích bất ừ
+
+98
+00:10:03,300 --> 00:10:17,440
+Facebook này mình sẽ có cái gì ở đây nhá Nhìn ký để này nhé Nhìn ký cái này đầu tiên này thì
+
+99
+00:10:17,440 --> 00:10:23,640
+là anh em nhìn cái security này đúng không thì đầu tiên thì mình sẽ có là security bấm anh em
+
+100
+00:10:23,640 --> 00:10:34,380
+anh em thường thôi anh em thì đi làm bất ngờ anh như này cũng được cho anh em security bất hiểu vậy
+
+101
+00:10:34,380 --> 00:10:44,020
+Ok ở đây nhá Ở đây mình sẽ có cái gì ở đây thì mình sẽ để là
+
+102
+00:10:44,020 --> 00:10:47,540
+3 phần đúng không
+
+103
+00:10:47,540 --> 00:10:48,480
+4
+
+104
+00:10:48,480 --> 00:10:51,440
+2
+
+105
+00:10:51,440 --> 00:10:53,600
+quên quên quên
+
+106
+00:10:53,600 --> 00:11:00,080
+2
+
+107
+00:11:00,080 --> 00:11:02,780
+và
+
+108
+00:11:02,780 --> 00:11:03,620
+quay
+
+109
+00:11:03,620 --> 00:11:08,540
+ok được chưa anh em
+
+110
+00:11:08,540 --> 00:11:09,080
+3 phần
+
+111
+00:11:09,080 --> 00:11:10,540
+tương tự
+
+112
+00:11:14,020 --> 00:11:29,080
+bậc 2 Ok đấy đầu tiên nhé phần 1 anh em nhìn luôn là cốt này phần này thì sao anh em nhỉ phần này
+
+113
+00:11:29,080 --> 00:11:36,160
+thì anh em nhìn nhé cái chỗ này là cái chỗ lấy kiểu như anh em truy vấn dữ liệu ra thôi thì chỗ
+
+114
+00:11:36,160 --> 00:11:42,400
+này cái loại của nó anh em cứ nhớ cho mình em nhớ luôn cho mình đó là gì đó là anh em để cho
+
+115
+00:11:42,400 --> 00:11:47,920
+bài này anh em cái bài này anh em để ý này đọc đi đây này cái bài này có một cái rất quan trọng mình
+
+116
+00:11:47,920 --> 00:11:55,480
+quên cho nhắc anh em em phải nhìn kỹ này đây nhá phần b này xác định này thì chưa anh em nhìn đặc
+
+117
+00:11:55,480 --> 00:12:03,520
+biệt cho mình cái này này em security này thì nó phải bao gồm gì hai này mô tả cái mức độ rủi ro
+
+118
+00:12:03,520 --> 00:12:11,620
+này nói được cho anh em đó cho nên là anh em nhìn nhớ cái bấm một bấm một là security bây giờ mình
+
+119
+00:12:11,620 --> 00:12:14,060
+mình sẽ phải có cốt này, có thai này
+
+120
+00:12:14,060 --> 00:12:15,060
+đúng không? và
+
+121
+00:12:15,060 --> 00:12:17,360
+có thêm một cái nữa là bức độ rủi ro
+
+122
+00:12:17,360 --> 00:12:21,720
+anh em tự đánh giá bức độ rủi ro nó nhé
+
+123
+00:12:21,720 --> 00:12:23,540
+ok, thì ví dụ nhé
+
+124
+00:12:23,540 --> 00:12:25,400
+anh em cứ nhớ luôn cho mình này, ví dụ
+
+125
+00:12:25,400 --> 00:12:26,380
+ở trong bài này
+
+126
+00:12:26,380 --> 00:12:29,080
+anh em nhớ ngay cho mình
+
+127
+00:12:29,080 --> 00:12:30,900
+khi mà anh em thấy cái dòng này
+
+128
+00:12:30,900 --> 00:12:33,280
+select sound dùng đây này
+
+129
+00:12:33,280 --> 00:12:35,280
+anh em dán vào nhé
+
+130
+00:12:35,280 --> 00:12:37,520
+dán vào đã, đây là cái cốt đã
+
+131
+00:12:37,520 --> 00:12:39,200
+cốt này, cốt là nó như này
+
+132
+00:12:39,200 --> 00:12:41,380
+cốt như này thì lỗi của nó là gì?
+
+133
+00:12:41,620 --> 00:12:45,160
+anh em nhớ cho mình đó là FQL Injection
+
+134
+00:12:45,160 --> 00:12:46,160
+để cho mình nhé
+
+135
+00:12:46,160 --> 00:12:48,160
+mẹo đây anh em ạ
+
+136
+00:12:48,160 --> 00:12:49,160
+ok
+
+137
+00:12:49,160 --> 00:12:51,160
+đó FQL Injection
+
+138
+00:12:51,160 --> 00:12:54,160
+tiếp theo là mức độ rủi ro
+
+139
+00:12:54,160 --> 00:12:56,160
+anh em cứ ghi cho mình là critical
+
+140
+00:12:56,160 --> 00:12:58,160
+được chưa
+
+141
+00:12:58,160 --> 00:12:59,160
+đó critical
+
+142
+00:12:59,160 --> 00:13:01,160
+và bây giờ anh em sẽ giải thích cái lỗi này
+
+143
+00:13:01,160 --> 00:13:03,160
+được chưa anh em
+
+144
+00:13:03,160 --> 00:13:05,160
+thì ở đây bây giờ ví dụ nhé
+
+145
+00:13:05,160 --> 00:13:07,160
+cái
+
+146
+00:13:07,160 --> 00:13:09,160
+cái việc là anh em
+
+147
+00:13:09,160 --> 00:13:11,160
+nhìn vào cái lỗi này đi
+
+148
+00:13:11,160 --> 00:13:23,940
+anh em nhìn này sẽ lấy sao rồi con có đúng không Xong lại có cái gì đấy quay ID đúng để điều kiện
+
+149
+00:13:23,940 --> 00:13:31,440
+không tự nhiên là lấy tất cả từ tí có này mới điều kiện là ID bằng post ID này chưa Đấy là
+
+150
+00:13:31,440 --> 00:13:40,860
+khi nó biết làm viết như này đúng không thì như nào ví dụ từ nhau để mình sao lấy ví dụ gì nó dễ
+
+151
+00:13:40,860 --> 00:13:54,240
+cái này nó kiểu như là dữ liệu của người dùng mà nhập cái cốt ai đi này bảo ấy khi mà dữ liệu người
+
+152
+00:13:54,240 --> 00:14:00,840
+dùng nhập khóa này đi vào thì nó sẽ được thêm trực tiếp và truy vấn sql được cho anh em thì ví dụ như
+
+153
+00:14:00,840 --> 00:14:06,360
+có một cái thằng hacker đúng không Nó sẽ có thể chèn cái mã sql vào được cho anh em đó ví dụ nhé
+
+154
+00:14:06,360 --> 00:14:14,860
+cho ví dụ nhé Ví dụ này ví dụ nhé chỗ này đi xuống này ví dụ này nha ví dụ mình có một cái ví dụ là
+
+155
+00:14:14,860 --> 00:14:23,400
+mình tấn công cả lại sẽ nói về các bạn bạn nhé ví dụ này có ai đi nhé ví dụ cho này đâu Mình cho
+
+156
+00:14:23,400 --> 00:14:36,020
+là 1.0001 ở đây nhé thì hoặc làm mình sẽ cho là o này hoặc là mình sẽ cho là một bằng một như này
+
+157
+00:14:36,020 --> 00:14:42,340
+thì lúc này chỉ vẫn nó sẽ thành cái gì lúc này nhá nhưng mà chỉ vẫn nó sẽ thành cái gì thì vẫn
+
+158
+00:14:42,340 --> 00:14:50,160
+của nó lúc này nó sẽ thành cái gì nó phải là xe đất sao con có quay ID 1 hoặc 1 bằng 1 không nghĩa
+
+159
+00:14:50,160 --> 00:14:59,160
+cái này lúc này nó sẽ có lại ID bằng này một hoặc là nó sẽ cho là một bằng một như này thì
+
+160
+00:14:59,160 --> 00:15:05,760
+này tức là sao nó sẽ trả về cái gì nó sẽ trả về là tất cả có nhưng mà cái lúc này thì dữ liệu
+
+161
+00:15:05,760 --> 00:15:12,120
+của nó đã bị nick ra ngoài rồi mà xinh em đó nghĩa là tất cả dữ liệu nếu mà đến này thì tất cả dữ
+
+162
+00:15:12,120 --> 00:15:18,360
+liệu sẽ bị nick ra ngoài đấy nhỉ đó thì bây giờ mình sẽ thích bằng cách nào đó là mình sẽ phải
+
+163
+00:15:18,360 --> 00:15:25,500
+cái truy vấn và mình sẽ nói chung là bây giờ nha mình cứ viết từ từ nhá tí nữa mình xử lý sau
+
+164
+00:15:25,500 --> 00:15:32,220
+nói chung là mình có biết từng bước giải thích ở nha Như lấy mình nói là gì cái lỗi critical
+
+165
+00:15:32,220 --> 00:15:49,540
+được sao bởi vì là đây user user input có ai đi nha trực tiếp vào được có khi direct direct
+
+166
+00:15:49,540 --> 00:16:07,480
+thì sao thì nó sẽ là s được ép vào cái cái sql khi vấn được truyền nhập đó thì lúc này nào
+
+167
+00:16:07,480 --> 00:16:12,160
+sau tất cả
+
+168
+00:16:12,160 --> 00:16:16,000
+em in sách
+
+169
+00:16:16,000 --> 00:16:33,680
+SQL Ok đấy em chỉ biết này thôi được chưa đó Ừ ok thì đấy là cái bắt đầu tiên nhá thì để mình
+
+170
+00:16:33,680 --> 00:16:40,060
+giải thích rõ hơn cho anh em có này có này thì chi tiết hơn thì mình sẽ nói thêm một chút đây
+
+171
+00:16:40,060 --> 00:16:50,560
+thì chỗ này thì nếu mà đấy nhá anh em để ý cho mình này khi mình nói dây dấu này thôi khi mà
+
+172
+00:16:50,560 --> 00:16:57,400
+em để cốt như này thì xinh em thì nó sẽ nào Tại sao cho em lỗi bảo mật mày vì sao nghĩa là nếu
+
+173
+00:16:57,400 --> 00:17:02,500
+mà đến như này thì nghĩa là bạn lấy cái dữ liệu của người dùng nhập vào cái con anh như này ở
+
+174
+00:17:02,500 --> 00:17:08,740
+trên em nghĩa là nó sẽ lấy cái dữ liệu mà người dùng nhập vào đúng không đó thì rồi nó sao rồi nó
+
+175
+00:17:08,740 --> 00:17:14,860
+nó sẽ nối thẳng vào cái câu lệch kéo này nó xin đối thẳng với câu kéo này nó biết tại sao nó lại
+
+176
+00:17:14,860 --> 00:17:21,400
+nguy hiểm vì là người dùng có thể là sẽ không phải nhập là cái ID nữa người dùng có thể là không phải
+
+177
+00:17:21,400 --> 00:17:29,320
+nhập ID nữa đó mà nó sẽ là nhập một cái câu kéo giả mạo vào thì sao có nghĩa là sao nghĩa là bây
+
+178
+00:17:29,320 --> 00:17:37,540
+giờ ví dụ nhé ví dụ như cái ví dụ lúc nãy của mình nếu mà mình để là con ID là bằng một nó ví dụ nhé
+
+179
+00:17:37,540 --> 00:17:45,020
+cho ví dụ nhá mình để có ai đi cái này nhá là bằng một Ok thì cái này an toàn đúng không nhập
+
+180
+00:17:45,020 --> 00:17:49,000
+hay nhiều một vào thì cái này mình bình thường cái này an toàn đúng không Nhưng mà thay vì đó
+
+181
+00:17:49,000 --> 00:17:57,340
+hay vì đó nó hay vì đó thì người dùng không nhập ai điều một nữa mà người dùng sẽ nhập là ai đi bằng
+
+182
+00:17:57,340 --> 00:18:04,280
+bằng một cái kia kiểu mới khác em bằng này một này
+
+183
+00:18:04,280 --> 00:18:20,660
+như này chưa như là nối vào đấy o1 xong lại bằng này
+
+184
+00:18:20,660 --> 00:18:30,780
+một cái nhạc một bằng một thì sao anh em thì nó luôn đúng không phải là nhân gì này ý đây
+
+185
+00:18:30,780 --> 00:18:35,280
+cái này nếu mà đưa vào query đưa vào cái truy vấn thì nó sẽ thành cái gì lúc này nó sẽ thành
+
+186
+00:18:35,280 --> 00:18:41,520
+cách xe lịch sao nguy ai đi này đây em nhỉ Nó sẽ lúc này nó thành này này thay vì là nó cộng cái
+
+187
+00:18:41,520 --> 00:18:51,360
+này nhá thì lúc này nó sẽ thành là như này nhá nó sẽ là quay ID này bằng này để xóa bỏ cho mình ai
+
+188
+00:18:51,360 --> 00:18:53,140
+lúc này nó sẽ bằng 1 như này
+
+189
+00:18:53,140 --> 00:18:54,580
+được chưa, 1 này
+
+190
+00:18:54,580 --> 00:18:55,700
+và
+
+191
+00:18:55,700 --> 00:18:59,420
+O, nó có cái toán từ O này luôn ấy
+
+192
+00:18:59,420 --> 00:19:00,340
+1 này
+
+193
+00:19:00,340 --> 00:19:02,580
+bằng này
+
+194
+00:19:02,580 --> 00:19:05,360
+1 này, như này anh em nhé
+
+195
+00:19:05,360 --> 00:19:07,500
+đó, nó sẽ thành
+
+196
+00:19:07,500 --> 00:19:09,440
+lúc đấy, truy vấn lúc này nó sẽ thành cái này
+
+197
+00:19:09,440 --> 00:19:11,360
+được chưa, nó thành cái này như thế nào
+
+198
+00:19:11,360 --> 00:19:13,420
+điều gì sẽ xảy ra, nghĩa là sao
+
+199
+00:19:13,420 --> 00:19:14,840
+1 bằng 1 này anh em nhé
+
+200
+00:19:14,840 --> 00:19:17,240
+thì cái 1 bằng 1 ấy, nó luôn đúng
+
+201
+00:19:17,240 --> 00:19:19,480
+được chưa, nếu mà 1 bằng 1
+
+202
+00:19:19,480 --> 00:19:20,980
+nó luôn luôn đúng, thì nó sẽ như thế nào
+
+203
+00:19:20,980 --> 00:19:23,240
+cái câu SEL nó sẽ lấy tất cả
+
+204
+00:19:23,240 --> 00:19:24,600
+dữ liệu trong cái bảng COS này luôn
+
+205
+00:19:24,600 --> 00:19:26,900
+chứ nó không lấy theo cái điều kiện là ID nữa
+
+206
+00:19:26,900 --> 00:19:29,320
+được chưa anh em? 1 bằng 1 nó luôn đúng mà
+
+207
+00:19:29,320 --> 00:19:31,080
+thì lúc này nó sẽ lấy theo
+
+208
+00:19:31,080 --> 00:19:33,220
+tất cả cái ID, lấy theo tất cả ID
+
+209
+00:19:33,220 --> 00:19:34,980
+thì sao? nếu mà trong một cái hệ thống đúng không?
+
+210
+00:19:35,540 --> 00:19:37,500
+mà nó lấy tất cả thông tin trong cái COS
+
+211
+00:19:37,500 --> 00:19:39,180
+ra thì nó là thành cái gì?
+
+212
+00:19:39,500 --> 00:19:41,180
+là thành cái lộ dữ liệu đúng không?
+
+213
+00:19:41,660 --> 00:19:43,260
+đó, làm dò dỉ dữ liệu ấy
+
+214
+00:19:43,260 --> 00:19:44,740
+thì chính vì vậy nó
+
+215
+00:19:44,740 --> 00:19:46,520
+mình mới viết ở đây này
+
+216
+00:19:46,520 --> 00:19:49,440
+user input
+
+217
+00:19:49,440 --> 00:19:57,780
+bấm cái này vào trực tiếp vào thêm thì nó sẽ thêm truy vấn vào cái này thì cái thằng tấn công vậy nó
+
+218
+00:19:57,780 --> 00:20:05,820
+có thể là nhìn rất ít rất kỹ thu nhau này thì xinh em đó thì nó là vì bản chất của cái này anh em nhé
+
+219
+00:20:05,820 --> 00:20:14,680
+Ok anh em chờ mình một chút nữa mình sẽ quay lại ngay thôi mình phải giúp đi nhắn của bạn cái Ok
+
+220
+00:20:14,680 --> 00:20:21,680
+bước thứ hai là cái này anh em nhé
+
+221
+00:20:21,680 --> 00:20:23,680
+bây giờ anh em cứ làm từng bước
+
+222
+00:20:23,680 --> 00:20:25,680
+có cái cục này vào
+
+223
+00:20:25,680 --> 00:20:27,680
+có không? code này
+
+224
+00:20:27,680 --> 00:20:29,680
+để xem anh em
+
+225
+00:20:29,680 --> 00:20:31,680
+code này thì sao
+
+226
+00:20:31,680 --> 00:20:33,680
+thì chỗ này
+
+227
+00:20:33,680 --> 00:20:35,680
+cái loại code của nó là gì? chắc chắn rồi
+
+228
+00:20:35,680 --> 00:20:37,680
+nó có sẵn rồi anh em
+
+229
+00:20:37,680 --> 00:20:39,680
+từ từ anh em
+
+230
+00:20:39,680 --> 00:20:41,680
+thì
+
+231
+00:20:41,680 --> 00:20:43,680
+cái code này
+
+232
+00:20:43,680 --> 00:20:52,740
+cái này là thế nào đây cái cô này nhá thì nó loại của nó là gì là em lỗi nó là lỗi logic nhưng mà
+
+233
+00:20:52,740 --> 00:21:01,920
+mình sẽ phải nói là cho mình phân tích lỗi trước đã nhá để biết nó là cái loại gì được cho nhá đó
+
+234
+00:21:01,920 --> 00:21:09,060
+thì bây giờ nhé anh em thì nhìn này đây nếu mà không có dấu khác này không Nếu mà chưa chưa
+
+235
+00:21:09,060 --> 00:21:09,900
+đóng cái chấm điểm đúng không?
+
+236
+00:21:10,380 --> 00:21:11,960
+đóng cái chấm điểm lại, đúng không?
+
+237
+00:21:12,620 --> 00:21:14,320
+thì return cái
+
+238
+00:21:14,320 --> 00:21:15,560
+nghĩa là công khai điểm
+
+239
+00:21:15,560 --> 00:21:18,140
+điểm đã công khai
+
+240
+00:21:18,140 --> 00:21:20,620
+thì nhìn phát anh em biết sai luôn, đúng không?
+
+241
+00:21:21,160 --> 00:21:22,080
+chưa đóng chấm điểm
+
+242
+00:21:22,080 --> 00:21:24,420
+mà đã công khai, đúng không?
+
+243
+00:21:25,060 --> 00:21:26,220
+thì đây là lỗi, đúng không?
+
+244
+00:21:26,480 --> 00:21:28,080
+vậy thì sai ở chỗ nào? sai ở chỗ này
+
+245
+00:21:28,080 --> 00:21:29,680
+bỏ cái dấu chấm 2 này đi là sao?
+
+246
+00:21:30,200 --> 00:21:31,380
+vậy sai là sai cái gì?
+
+247
+00:21:32,180 --> 00:21:34,100
+đúng không? vậy thì wrong
+
+248
+00:21:34,100 --> 00:21:38,480
+mình có thể ghi là wrong condition
+
+249
+00:21:38,480 --> 00:21:48,260
+là cái từ trên nhau đó mình đi là nếu mà có nếu mà cái này có thì nó bị tên mình kia nghĩa là sai rồi
+
+250
+00:21:48,260 --> 00:22:02,200
+xanh đấm than đúng không Bây giờ mình sẽ viết như thế nào thì mình sẽ chỉ cần nói là nếu nếu mà g
+
+251
+00:22:02,200 --> 00:22:14,200
+Reading is not closed
+
+252
+00:22:14,200 --> 00:22:18,820
+đó
+
+253
+00:22:18,820 --> 00:22:25,780
+Zen system
+
+254
+00:22:25,780 --> 00:22:31,900
+xuất hiện xuất nó
+
+255
+00:22:31,900 --> 00:22:41,320
+phát lịch great nói anh em nó nếu mà chưa đóng cái kia thì không được
+
+256
+00:22:41,320 --> 00:22:50,660
+sau cái điểm ra đúng không bắt cốt return
+
+257
+00:22:50,660 --> 00:22:56,000
+vì tôi cái gì vì tôi là công khai điểm
+
+258
+00:22:56,000 --> 00:23:09,500
+của anh em đó đơn giản thôi nhé Ok sau đó ý hay rất đơn giản Ok tiếp theo nào đây
+
+259
+00:23:09,500 --> 00:23:19,460
+thứ ba này em nhìn cái bài này khá đơn giản thôi nó nó khác một tí ở chỗ này không Nhưng anh em xem này
+
+260
+00:23:20,360 --> 00:23:26,820
+Ừ nếu đây anh em nhìn nhá lỗi thứ ba này này nó cổ bắp 2 này thì nó sẽ là cái gì thì nó đang có là
+
+261
+00:23:26,820 --> 00:23:34,780
+nếu mà có chấm à Ok thì đây cho em nhìn nhá Cái này là cái gì cái này số lượng điểm số lượng đầu
+
+262
+00:23:34,780 --> 00:23:36,660
+đúng không? em nhớ cho mình
+
+263
+00:23:36,660 --> 00:23:37,760
+đây là số lượng đầu điểm
+
+264
+00:23:37,760 --> 00:23:40,880
+có này là gì? như cái bài phần 2
+
+265
+00:23:40,880 --> 00:23:42,080
+mình đã nói với anh em rồi
+
+266
+00:23:42,080 --> 00:23:44,520
+đó, cái này
+
+267
+00:23:44,520 --> 00:23:45,500
+thì nó là cái gì?
+
+268
+00:23:46,200 --> 00:23:47,260
+thì nó chính là cái danh sách
+
+269
+00:23:47,260 --> 00:23:48,580
+đây là danh sách này
+
+270
+00:23:48,580 --> 00:23:50,820
+danh sách lại còn chấm sai
+
+271
+00:23:50,820 --> 00:23:53,040
+trong danh sách này có bao nhiêu
+
+272
+00:23:53,040 --> 00:23:55,900
+thì nghĩa là sao?
+
+273
+00:23:56,080 --> 00:23:57,500
+nghĩa là đây là số lượng điểm
+
+274
+00:23:57,500 --> 00:23:59,800
+mà bằng số lượng sinh viên
+
+275
+00:23:59,800 --> 00:24:01,140
+trong cái danh sách
+
+276
+00:24:01,140 --> 00:24:04,420
+số lượng điểm mà bằng số lượng sinh viên trong danh sách
+
+277
+00:24:04,420 --> 00:24:06,280
+Thì lại trả về là không
+
+278
+00:24:06,280 --> 00:24:07,260
+Chưa nhập
+
+279
+00:24:07,260 --> 00:24:09,540
+Đúng không? Thì lại trả về là
+
+280
+00:24:09,540 --> 00:24:11,840
+Tất cả đều chưa được nhập điểm
+
+281
+00:24:11,840 --> 00:24:13,680
+Được chưa? Đó
+
+282
+00:24:13,680 --> 00:24:16,280
+Quá vô lý rồi đúng không? Quá dễ rồi
+
+283
+00:24:16,280 --> 00:24:17,660
+Đúng không? Câu này quá dễ rồi
+
+284
+00:24:17,660 --> 00:24:18,840
+Được chưa? Nhìn phát ra luôn
+
+285
+00:24:18,840 --> 00:24:20,580
+Thì cái này là gì?
+
+286
+00:24:21,620 --> 00:24:23,460
+Code này, đầu tiên code này
+
+287
+00:24:23,460 --> 00:24:25,080
+Có cái này đã
+
+288
+00:24:25,080 --> 00:24:27,480
+Được chưa? Đó
+
+289
+00:24:27,480 --> 00:24:29,380
+Type của nó là gì?
+
+290
+00:24:29,940 --> 00:24:30,640
+Của nó là gì đây?
+
+291
+00:24:31,680 --> 00:24:33,600
+Là vẫn là wrong condition
+
+292
+00:24:33,600 --> 00:24:42,420
+con lịch sử đó vẫn là con lịch sử sang điều kiện chưa Tại sao có nếu đây anh em nếu này
+
+293
+00:24:42,420 --> 00:24:52,800
+nếu này người đó như mình có nói số lượng điện mà rồi mà bằng mà bằng số lượng tiêu đơn chưa
+
+294
+00:24:52,800 --> 00:25:01,980
+Ừ thì sao thì thế nào nhớ là sao minh nhạc minh ongret
+
+295
+00:25:01,980 --> 00:25:11,420
+ongret ongret enter có đáng nhập rồi chưa bất
+
+296
+00:25:11,420 --> 00:25:17,720
+cốt thế nào nó cốt này mình tên
+
+297
+00:25:17,720 --> 00:25:25,820
+cái gì có gì bảo anh em nhé Đấy đơn giản thì thôi thế là xong
+
+298
+00:25:25,820 --> 00:25:36,560
+Ok cho anh em nó khá đơn giản luôn chẳng có gì Ok nó vậy là mình đã xử lý xong cái này
+
+299
+00:25:36,560 --> 00:25:39,060
+bài này thì khá là đơn giản thôi
+
+300
+00:25:39,060 --> 00:25:39,800
+không có gì cả
+
+301
+00:25:39,800 --> 00:25:42,840
+nói chung là phần B này thì lại dễ hơn
+
+302
+00:25:42,840 --> 00:25:43,760
+để cho anh em
+
+303
+00:25:43,760 --> 00:25:46,980
+phần B này lại dễ hơn
+
+304
+00:25:46,980 --> 00:25:48,640
+phần A một chút
+
+305
+00:25:48,640 --> 00:25:51,800
+ok đó
+
+306
+00:25:51,800 --> 00:25:53,860
+vậy thì bây giờ bước cuối cùng
+
+307
+00:25:53,860 --> 00:25:55,260
+bước cuối cùng là gì đây
+
+308
+00:25:55,260 --> 00:25:57,060
+bước cuối cùng là mình sẽ
+
+309
+00:25:57,060 --> 00:25:59,180
+là fix
+
+310
+00:25:59,180 --> 00:26:00,520
+đo mình xem nào
+
+311
+00:26:00,520 --> 00:26:01,580
+anh em nhìn nhé
+
+312
+00:26:01,580 --> 00:26:04,320
+viết prompt để fix cái vấn đề này
+
+313
+00:26:04,320 --> 00:26:10,440
+này đúng không Vậy thì sao quá đơn giản rồi đúng không Bây giờ mình có thể là làm theo rất là nhiều
+
+314
+00:26:10,440 --> 00:26:16,020
+cách đối anh em thì bây giờ mình có thể làm có trước mắt mình có mày nhìn thấy thích gần như
+
+315
+00:26:16,020 --> 00:26:20,360
+là giống nhau nhưng mà anh em phải nhìn nhé thích này nhìn xem có gì mới không có cái này
+
+316
+00:26:20,360 --> 00:26:30,860
+đó trên nhau đó có cái này có này mới chưa Nhạc bây giờ nhá em có phải đây này có đây đó nhá sau đó
+
+317
+00:26:30,860 --> 00:26:46,340
+mình sẽ có cái đây bây con này chưa mà thôi mình bảo rồi cái chỗ này mình sẽ cố gắng là làm sao
+
+318
+00:26:46,340 --> 00:26:57,140
+để biết rõ ràng là nhau mình sẽ không có phí biết để nhắn thể luyện tập chỗ này mình sẽ để là ở con
+
+319
+00:26:57,140 --> 00:27:02,980
+Ok, phần này được gốc 0.1 điểm thôi
+
+320
+00:27:02,980 --> 00:27:09,640
+Ok, thì ở đây nhé, mình sẽ viết buôn này
+
+321
+00:27:09,640 --> 00:27:20,520
+Ok, phần này nhé, mình sẽ viết là gì?
+
+322
+00:27:20,520 --> 00:27:21,160
+Base
+
+323
+00:27:21,160 --> 00:27:24,160
+On
+
+324
+00:27:24,160 --> 00:27:33,920
+on the the issue
+
+325
+00:27:33,920 --> 00:27:41,480
+vào dựa trên cái vấn đề mà đã tìm được nó lì quỳ lại
+
+326
+00:27:41,480 --> 00:27:46,120
+quỳ lại đơn
+
+327
+00:27:46,120 --> 00:28:00,580
+biết lại cái gì em xem cô này đây anh chưa đó cứ công thức mà làm rồi nhá lát à à mấy
+
+328
+00:28:00,580 --> 00:28:01,620
+đó
+
+329
+00:28:01,620 --> 00:28:02,960
+method
+
+330
+00:28:02,960 --> 00:28:04,320
+correct đi
+
+331
+00:28:04,320 --> 00:28:07,940
+xe nhạc
+
+332
+00:28:07,940 --> 00:28:08,300
+đó
+
+333
+00:28:08,300 --> 00:28:09,860
+sau đó đi sao
+
+334
+00:28:09,860 --> 00:28:10,680
+requirement
+
+335
+00:28:10,680 --> 00:28:14,260
+được chưa
+
+336
+00:28:14,260 --> 00:28:15,840
+requirement này
+
+337
+00:28:15,840 --> 00:28:16,140
+đó
+
+338
+00:28:16,140 --> 00:28:19,160
+ở đây thì mình sẽ có là gì
+
+339
+00:28:19,160 --> 00:28:20,580
+mình sẽ có là
+
+340
+00:28:20,580 --> 00:28:20,940
+thứ nhất
+
+341
+00:28:20,940 --> 00:28:22,340
+không bị thiếu rồi
+
+342
+00:28:22,340 --> 00:28:22,700
+fix
+
+343
+00:28:22,700 --> 00:28:23,400
+all
+
+344
+00:28:23,400 --> 00:28:28,880
+logical
+
+345
+00:28:28,880 --> 00:28:40,640
+nhé cô eo trên em đó tiếp nha anh em nhìn cho mình cái lưu ý place nó đâu rồi
+
+346
+00:28:40,640 --> 00:28:47,720
+bài nhắn nhắn con luôn đi có luôn đi anh em
+
+347
+00:28:47,720 --> 00:28:56,460
+nói mình mình em cứ chủ động nhá cái chỗ này em không cần đúng pháp hay gì đâu
+
+348
+00:28:56,460 --> 00:28:58,460
+anh em cứ viết cho ra ý là được
+
+349
+00:28:58,460 --> 00:29:00,460
+mềm quên
+
+350
+00:29:00,460 --> 00:29:02,460
+Ok
+
+351
+00:29:02,460 --> 00:29:04,460
+Đấy viết này thôi
+
+352
+00:29:04,460 --> 00:29:06,460
+Tiếp theo là gì
+
+353
+00:29:06,460 --> 00:29:08,460
+Đó là gì
+
+354
+00:29:08,460 --> 00:29:10,460
+Có gì thì mình viết đấy
+
+355
+00:29:10,460 --> 00:29:12,460
+trên ảnh nhé
+
+356
+00:29:12,460 --> 00:29:14,460
+nhìn đề này
+
+357
+00:29:14,460 --> 00:29:16,460
+Đấy
+
+358
+00:29:16,460 --> 00:29:18,460
+Present
+
+359
+00:29:18,460 --> 00:29:20,460
+Ok, cái này là còn comment các thú đúng không
+
+360
+00:29:20,460 --> 00:29:22,460
+Tiếp theo nhá
+
+361
+00:29:22,460 --> 00:29:24,460
+Mình vừa nói rồi, chắc chắn rồi
+
+362
+00:29:24,460 --> 00:29:30,040
+cái gì mình thích này xong thì mà có gì thì mình thêm cái đấy chưa Nếu mà hết rồi thì mình sẽ có lâu
+
+363
+00:29:30,040 --> 00:29:45,080
+qua lâu không ổn cốt cốt đình best practice có nhạc đấy như kia thôi mà cuối cùng em có
+
+364
+00:29:45,080 --> 00:29:47,720
+nhìn like comment
+
+365
+00:29:47,720 --> 00:29:49,460
+x
+
+366
+00:29:49,460 --> 00:29:51,220
+comment
+
+367
+00:29:51,220 --> 00:29:51,900
+x
+
+368
+00:29:51,900 --> 00:29:54,700
+x
+
+369
+00:29:54,700 --> 00:29:56,100
+x
+
+370
+00:29:56,100 --> 00:29:56,600
+x
+
+371
+00:29:56,600 --> 00:29:56,700
+x
+
+372
+00:29:56,700 --> 00:29:56,740
+x
+
+373
+00:29:56,740 --> 00:29:56,760
+x
+
+374
+00:29:56,760 --> 00:29:56,780
+x
+
+375
+00:29:56,780 --> 00:29:56,800
+x
+
+376
+00:29:56,800 --> 00:29:56,820
+x
+
+377
+00:29:56,820 --> 00:29:56,840
+x
+
+378
+00:29:56,840 --> 00:29:56,860
+x
+
+379
+00:29:56,860 --> 00:29:56,880
+x
+
+380
+00:29:56,880 --> 00:29:56,900
+x
+
+381
+00:29:56,900 --> 00:29:56,920
+x
+
+382
+00:29:56,920 --> 00:29:56,940
+x
+
+383
+00:29:56,940 --> 00:29:56,940
+
+
+384
+00:29:56,940 --> 00:29:56,960
+x
+
+385
+00:29:56,960 --> 00:29:56,980
+x
+
+386
+00:29:56,980 --> 00:29:57,000
+x
+
+387
+00:29:57,000 --> 00:29:57,020
+x
+
+388
+00:29:57,020 --> 00:29:57,040
+x
+
+389
+00:29:57,040 --> 00:29:57,060
+x
+
+390
+00:29:57,060 --> 00:29:57,100
+x
+
+391
+00:29:57,100 --> 00:29:57,120
+x
+
+392
+00:29:57,120 --> 00:29:57,140
+x
+
+393
+00:29:57,140 --> 00:29:57,160
+x
+
+394
+00:29:57,160 --> 00:29:57,180
+x
+
+395
+00:29:57,180 --> 00:29:57,180
+
+
+396
+00:29:57,180 --> 00:29:57,200
+x
+
+397
+00:29:57,200 --> 00:29:57,220
+x
+
+398
+00:29:57,220 --> 00:29:57,240
+x
+
+399
+00:29:57,240 --> 00:29:57,260
+x
+
+400
+00:29:57,260 --> 00:29:57,280
+x
+
+401
+00:29:57,280 --> 00:29:57,300
+x
+
+402
+00:29:57,300 --> 00:29:57,320
+x
+
+403
+00:29:57,320 --> 00:29:57,340
+x
+
+404
+00:29:57,340 --> 00:29:57,360
+x
+
+405
+00:29:57,360 --> 00:29:57,380
+x
+
+406
+00:29:57,380 --> 00:29:57,420
+x
+
+407
+00:29:57,420 --> 00:29:57,440
+x
+
+408
+00:29:57,440 --> 00:29:57,460
+x
+
+409
+00:29:57,460 --> 00:29:57,480
+x
+
+410
+00:29:57,480 --> 00:29:57,500
+x
+
+411
+00:29:57,500 --> 00:29:57,500
+
+
+412
+00:29:57,500 --> 00:29:57,520
+x
+
+413
+00:29:57,520 --> 00:29:57,540
+x
+
+414
+00:29:57,540 --> 00:29:57,580
+x
+
+415
+00:29:57,580 --> 00:29:57,640
+x
+
+416
+00:29:57,640 --> 00:29:57,660
+x
+
+417
+00:29:57,660 --> 00:29:57,740
+x
+
+418
+00:29:57,740 --> 00:29:57,760
+x
+
+419
+00:29:57,760 --> 00:29:57,780
+x
+
+420
+00:29:57,780 --> 00:29:57,800
+x
+
+421
+00:29:57,800 --> 00:29:57,820
+x
+
+422
+00:29:57,820 --> 00:29:57,840
+x
+
+423
+00:29:57,840 --> 00:29:57,860
+x
+
+424
+00:29:57,860 --> 00:29:57,900
+x
+
+425
+00:29:57,900 --> 00:29:57,900
+
+
+426
+00:29:57,900 --> 00:29:57,920
+x
+
+427
+00:29:57,920 --> 00:29:57,940
+x
+
+428
+00:29:57,940 --> 00:29:57,960
+x
+
+429
+00:29:57,960 --> 00:29:57,980
+x
+
+430
+00:29:57,980 --> 00:29:58,000
+x
+
+431
+00:29:58,000 --> 00:29:58,020
+x
+
+432
+00:29:58,020 --> 00:29:58,040
+x
+
+433
+00:29:58,040 --> 00:29:58,060
+x
+
+434
+00:29:58,060 --> 00:29:58,060
+
+
+435
+00:29:58,060 --> 00:29:58,080
+x
+
+436
+00:29:58,080 --> 00:29:58,100
+x
+
+437
+00:29:58,100 --> 00:30:02,100
+xong cái câu đầu tiên này
+
+438
+00:30:02,100 --> 00:30:06,100
+bây giờ
+
+439
+00:30:06,100 --> 00:30:10,100
+bước tiếp theo là tự chấm điểm mình nhé
+
+440
+00:30:10,100 --> 00:30:14,100
+ai chắc chắn chấm sẽ nặng tay hơn các thầy luôn
+
+441
+00:30:14,100 --> 00:30:18,100
+chấm điểm
+
+442
+00:30:18,100 --> 00:30:22,100
+ok, chờ thôi, xem nó bao nhiêu điểm
+
+443
+00:30:22,100 --> 00:30:26,100
+...
+
+444
+00:30:28,100 --> 00:30:33,080
+chết quên mất thiếu
+
+445
+00:30:33,080 --> 00:30:57,920
+không phải chứ một Ok Nói chung là cũng ngon đấy nhé đó như này là ok rồi được chơi nhắm đó nói
+
+446
+00:30:57,920 --> 00:31:03,080
+thì bị trừ mấy cái bớt bạn thôi anh em cứ biết đại khái như mình là như vậy thì chưa anh em cứ
+
+447
+00:31:03,080 --> 00:31:07,160
+đúng phòng anh em ăn được một điểm thôi các thầy sẽ cho anh em điểm thì chưa chỉ cần anh em biết
+
+448
+00:31:07,160 --> 00:31:12,980
+là đúng phòng thôi Ok vậy thì video này mình sẽ dừng lại ở đây và các video tiếp nhé Đây chỉ là
+
+449
+00:31:12,980 --> 00:31:18,020
+để thi thử thôi và còn một đống đề của mình nữa mình sẽ up vào để nghe có thể luyện tập thêm nhiều
+
+450
+00:31:18,020 --> 00:31:20,780
+Ok, vậy thì 3 anh em nhé
+
+451
+00:31:20,780 --> 00:31:21,780
+Đi dòng này mình xếp từng ở đây
+

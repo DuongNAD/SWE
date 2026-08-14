@@ -1,0 +1,10 @@
+Tôi đã hoàn thành yêu cầu và tạo thành công tài liệu hướng dẫn ôn tập câu hỏi Q5 - Design Pattern. File đã được ghi ra đúng đường dẫn tuyệt đối mà bạn yêu cầu.
+
+Bạn có thể xem trực tiếp file tại đây: [Q5_design_pattern.md](file:///Users/duongnad/Documents/project/SWE/ON_TAP/Q5_design_pattern.md)
+
+Nội dung tài liệu đã được biên soạn tuân thủ toàn bộ các quy tắc:
+- Sử dụng tiếng Việt đơn giản, giải thích bản chất bằng ví dụ đời thường (quán ăn, đi xe, mua hàng) giúp người yếu tiếng Anh dễ hiểu.
+- Có đánh dấu `[NGOÀI-KHOÁ]` vì kiến thức Design Pattern không nằm trong video ôn tập (mà video chỉ đề cập vẽ Class Diagram).
+- Có mẫu câu tiếng Anh để học thuộc lòng kèm hướng dẫn điền từ khoá (nhất là 2 pattern quan trọng dễ làm là Singleton và Observer).
+- Có bảng cảnh báo bẫy mất điểm (đặc biệt là bẫy đi vẽ Class Diagram thay vì giải thích bằng chữ).
+- Đủ 8 phần theo đúng cấu trúc bắt buộc bạn đưa ra.

@@ -1,0 +1,564 @@
+1
+00:00:00,000 --> 00:00:08,000
+Chúng ta đang sống trong một thế giới được vận hành bởi phần mềm, từ những ứng dụng nhỏ trên điện thoại cho đến các hệ thống khổng lồ điều khiển mọi thứ.
+
+2
+00:00:08,000 --> 00:00:15,000
+Nhưng có bao giờ chúng ta dừng lại và tự hỏi, làm thế nào mà những công trình kỹ thuật số phức tạp đến vậy lại được tạo ra không?
+
+3
+00:00:15,000 --> 00:00:22,000
+Thử tưởng tượng xem, làm thế nào một thứ được tạo nên từ hàng triệu dòng mã lệnh lại không biến thành một mớ hỗn độn?
+
+4
+00:00:22,000 --> 00:00:29,000
+Nó cũng giống như xây một tòa nhà chọc trời vậy, sẽ không có ai bắt đầu bằng việc cứ thế đặt bừa gạch lên nhau.
+
+5
+00:00:29,000 --> 00:00:30,280
+Phần mềm cũng vậy
+
+6
+00:00:30,280 --> 00:00:33,780
+Phải có một kế hoạch, một bản thiết kế cực kỳ chi tiết
+
+7
+00:00:33,780 --> 00:00:34,840
+Đúng vậy
+
+8
+00:00:34,840 --> 00:00:37,260
+Tất cả đều phải bắt đầu từ một kế hoạch
+
+9
+00:00:37,260 --> 00:00:38,840
+Giống hình như một tòa nhà
+
+10
+00:00:38,840 --> 00:00:41,080
+Phần mềm cần một bản thiết kế vững chắc
+
+11
+00:00:41,080 --> 00:00:43,140
+Trước cả khi dòng mã đầu tiên được viết ra
+
+12
+00:00:43,140 --> 00:00:45,500
+Và đó về cơ bản chính là linh hồn
+
+13
+00:00:45,500 --> 00:00:46,620
+Của ngành kỹ nghệ phần mềm
+
+14
+00:00:46,620 --> 00:00:47,980
+Trong buổi phân hít hôm nay
+
+15
+00:00:47,980 --> 00:00:51,260
+Chúng ta sẽ cùng nhau đi qua một hành trình gồm 5 giai đoạn chính
+
+16
+00:00:51,260 --> 00:00:52,500
+Để xây dựng lên một phần mềm
+
+17
+00:00:52,500 --> 00:00:54,020
+Bắt đầu từ việc lập kế hoạch
+
+18
+00:00:54,020 --> 00:00:55,520
+Rồi đến thiết kế kiến trúc
+
+19
+00:00:55,520 --> 00:00:57,100
+sau đó là xây dựng và kiểm thử.
+
+20
+00:00:57,600 --> 00:01:02,020
+Tiếp theo, chúng ta sẽ xem xét xem AI, trí tuệ nhân tạo đang thay đổi cuộc chơi như thế nào
+
+21
+00:01:02,020 --> 00:01:06,360
+và cuối cùng là nhìn vào bức tranh lớn hơn về chuyển đổi số và các vấn đề đạo đức liên quan.
+
+22
+00:01:07,040 --> 00:01:10,400
+Rồi, chúng ta hãy cùng nhau đào sâu vào giai đoạn đầu tiên này.
+
+23
+00:01:10,960 --> 00:01:14,900
+Đây chính là bước đặt nềm móng, nơi chúng ta phải xác định thật rõ ràng xem
+
+24
+00:01:14,900 --> 00:01:18,100
+chúng ta sẽ xây cái gì và xây nó như thế nào.
+
+25
+00:01:18,660 --> 00:01:22,580
+Vâng, bước đầu tiên của mọi dự án chính là xác định phạm vi của nó.
+
+26
+00:01:22,900 --> 00:01:25,360
+Sau đó là đặt ra các cột mốc quan trọng.
+
+27
+00:01:25,520 --> 00:01:26,420
+để quản lý tín độ.
+
+28
+00:01:27,100 --> 00:01:29,140
+Việc chọn một quy trình phát triển có cấu trúc
+
+29
+00:01:29,140 --> 00:01:32,360
+là cực kỳ cần thiết để có thể dĩ dàng phân chia công việc.
+
+30
+00:01:33,160 --> 00:01:35,260
+À, và có một sự thật khá thú vị đây.
+
+31
+00:01:35,740 --> 00:01:38,740
+Biểu đồ Gant, một công cụ quản lý dự án siêu phổ biến,
+
+32
+00:01:39,220 --> 00:01:42,980
+thực ra lại không thể hiện được sự phụ thuộc logic giữa các công việc đâu.
+
+33
+00:01:43,520 --> 00:01:46,040
+Để thực hiện kế hoạch, thường có hai cách tiếp cận chính.
+
+34
+00:01:46,620 --> 00:01:48,580
+Quy trình tăng trưởng, hay incremental,
+
+35
+00:01:49,180 --> 00:01:51,840
+nó giống như là chúng ta xây hoàn chính từng tầng của tòa nhà,
+
+36
+00:01:52,200 --> 00:01:53,220
+rồi đưa vào sử dụng ngay.
+
+37
+00:01:53,220 --> 00:02:00,080
+Còn quy trình lặp lại hay iterative thì là giống như xây một phiên bản khung sườn cơ bản của toàn bộ tòa nhà trước
+
+38
+00:02:00,080 --> 00:02:05,420
+Sau đó dần dần hoàn thiện nó qua từng vòng lặp, từ lắp kính, đi dây điện cho đến sân tường
+
+39
+00:02:05,420 --> 00:02:07,460
+Mỗi cách đều có cái hay riêng
+
+40
+00:02:07,460 --> 00:02:12,480
+Được rồi, kế hoạch đã có, bây giờ là lúc các kiến trúc sư phần mềm vào việc
+
+41
+00:02:12,480 --> 00:02:15,420
+Họ sẽ bắt đầu vẽ nên những bản thiết kế chi tiết
+
+42
+00:02:15,680 --> 00:02:20,940
+Dĩ nhiên là không phải bằng bút và giấy, mà bằng một ngôn ngữ đặc biệt để mô hình hóa toàn bộ hệ thống
+
+43
+00:02:20,940 --> 00:02:26,380
+Công cụ đầu tiên trong bộ đồ nghề của họ là Use Case hay còn gọi là K sử dụng
+
+44
+00:02:26,380 --> 00:02:30,360
+Hãy cứ coi đây là việc viết ra những kịch bản sử dụng phần mềm
+
+45
+00:02:30,360 --> 00:02:33,600
+Thay vì nói chung chung, một kịch bản sẽ mô tả rất cụ thể
+
+46
+00:02:33,600 --> 00:02:39,280
+Ví dụ, người dùng đăng nhập, tìm kiếm sản phẩm A, thêm vào giỏ hàng và tiến hành thanh toán
+
+47
+00:02:39,280 --> 00:02:42,900
+Mỗi kịch bản như vậy chính là một chức năng cốt lõi của hệ thống
+
+48
+00:02:42,900 --> 00:02:46,480
+Và mỗi kịch bản này lại có cấu trúc rất rõ ràng nhé
+
+49
+00:02:46,480 --> 00:02:49,800
+Actor chính là nhân vật chính, ở đây là người dùng
+
+50
+00:02:49,800 --> 00:02:53,220
+Flow of Events là chuỗi các hành động mà họ thực hiện
+
+51
+00:02:53,220 --> 00:02:55,880
+Preconditions là điều kiện tiên quyết
+
+52
+00:02:55,880 --> 00:02:58,880
+Ví dụ như người dùng phải đăng nhập rồi mới được thanh toán
+
+53
+00:02:58,880 --> 00:03:02,660
+Và một thứ cực kỳ quan trọng nữa là các yêu cầu phi chức năng
+
+54
+00:03:02,660 --> 00:03:07,300
+Ví dụ như hệ thống phải đăng ký xong cho một sinh viên trong vòng chưa đầy một giây
+
+55
+00:03:07,300 --> 00:03:10,920
+Nếu Use Case là các động từ, tức là các hành động
+
+56
+00:03:10,920 --> 00:03:15,360
+Thì Class chính là các danh từ, tức là các đối tượng trong hệ thống
+
+57
+00:03:15,360 --> 00:03:19,000
+Một Class giống như một bản thiết kế cho một loại đối tượng
+
+58
+00:03:19,000 --> 00:03:25,940
+Ví dụ, Class Khách Hàng sẽ định nghĩa rằng mọi khách hàng đều phải có tên, email và lịch sử mua hàng
+
+59
+00:03:25,940 --> 00:03:29,840
+Từ cái khung này, hệ thống có thể tạo ra hàng triệu đối tượng khách hàng cụ thể
+
+60
+00:03:29,840 --> 00:03:35,020
+Ok, bạn thiết kế đã được duyệt, đội ngũ kỹ sư bắt đầu vào việc xây dựng
+
+61
+00:03:35,020 --> 00:03:40,360
+Nhưng song song với đó là một quá trình không bao giờ ngừng nghỉ và phải nói là cực kỳ quan trọng
+
+62
+00:03:40,640 --> 00:03:42,400
+Kiểm tra và giám sát chất lượng
+
+63
+00:03:42,400 --> 00:03:46,420
+Vậy thì, mục tiêu chính của việc kiểm thử phần mềm là gì nhỉ?
+
+64
+00:03:46,420 --> 00:03:48,160
+Nghe thì có vẻ đơn giản
+
+65
+00:03:48,160 --> 00:03:50,960
+Nhưng câu trả lời lại có thể khiến chúng ta phải suy nghĩ lại đấy
+
+66
+00:03:50,960 --> 00:03:54,040
+Nó không hẳn là những gì mà chúng ta thường mặc định đâu
+
+67
+00:03:54,040 --> 00:03:56,440
+Và đây chính là câu trả lời
+
+68
+00:03:56,440 --> 00:04:00,620
+Mục tiêu của kiểm thử là để chứng minh rằng phần mềm có lỗi
+
+69
+00:04:00,620 --> 00:04:01,540
+Đúng vậy đấy
+
+70
+00:04:01,540 --> 00:04:03,440
+Công việc của một người kiểm thử viên
+
+71
+00:04:03,440 --> 00:04:05,780
+Thực chất là một người đi săn lùng sai sót
+
+72
+00:04:05,780 --> 00:04:09,400
+Chứ không phải là để chứng minh rằng phần mềm này hoàn hảo không tì vết
+
+73
+00:04:09,400 --> 00:04:12,300
+Và cuộc đi săn này có hai mục tiêu chính
+
+74
+00:04:12,300 --> 00:04:15,300
+Thứ nhất là Sabmin Verification
+
+75
+00:04:15,300 --> 00:04:16,820
+Nó trả lời câu hỏi
+
+76
+00:04:16,820 --> 00:04:20,040
+Chúng ta có đang xây tòa nhà đúng theo bản thiết kế không?
+
+77
+00:04:20,540 --> 00:04:22,700
+Các chức năng có hoạt động đúng như mô tả không?
+
+78
+00:04:23,280 --> 00:04:24,680
+Thứ hai là thẩm định
+
+79
+00:04:24,680 --> 00:04:25,720
+Validation
+
+80
+00:04:25,720 --> 00:04:27,300
+Nó lại hỏi một câu khác
+
+81
+00:04:27,300 --> 00:04:28,260
+Sâu hơn nhiều
+
+82
+00:04:28,260 --> 00:04:31,340
+Chúng ta có đang xây đúng tòa nhà mà khách hàng muốn không?
+
+83
+00:04:31,820 --> 00:04:34,800
+Liệu sản phẩm này có thực sự giải quyết được vấn đề của họ hay không?
+
+84
+00:04:35,380 --> 00:04:35,860
+Và giờ
+
+85
+00:04:35,860 --> 00:04:37,920
+Chúng ta sẽ nói về một nhân tố mới
+
+86
+00:04:37,920 --> 00:04:39,860
+Một công cụ mang tính cách mạng
+
+87
+00:04:39,860 --> 00:04:41,580
+Đang thay đổi hoàn toàn cuộc chơi
+
+88
+00:04:41,580 --> 00:04:43,560
+Trong mọi giai đoạn xây dựng phần mềm
+
+89
+00:04:43,560 --> 00:04:46,780
+Đó chính là trí tựa nhân tạo hay AI
+
+90
+00:04:46,780 --> 00:04:49,220
+Để hiểu sâu qua cách AI hoạt động
+
+91
+00:04:49,220 --> 00:04:53,560
+Hãy tưởng tượng một mạng neuron giống như một dây chuyền lắp ráp siêu thông minh
+
+92
+00:04:53,560 --> 00:04:56,840
+Dữ liệu thô, ví dụ như một tấm ảnh đi vào lớp đầu vào
+
+93
+00:04:56,840 --> 00:05:00,640
+Các lớp ẩn ở giữa sẽ bóc tách các đặc điểm của tấm ảnh đó
+
+94
+00:05:00,640 --> 00:05:03,740
+Lớp thì nhận diện hình dáng, lớp thì nhận diện màu sắc
+
+95
+00:05:03,740 --> 00:05:06,680
+Cuối cùng, lớp đầu ra sẽ tổng hợp lại tất cả
+
+96
+00:05:06,680 --> 00:05:08,860
+Và đưa ra một phán đoán dựa trên sắc xuất
+
+97
+00:05:08,860 --> 00:05:11,680
+Ví dụ như 98% đây là một con mèo
+
+98
+00:05:11,680 --> 00:05:14,980
+Vậy AI giúp các nhà phát triển như thế nào ư?
+
+99
+00:05:15,420 --> 00:05:16,140
+Rớt nhiều
+
+100
+00:05:16,140 --> 00:05:19,620
+Nó có thể tự động viết những đoạn mã lập đi lập lại
+
+101
+00:05:19,620 --> 00:05:22,800
+Nó có thể dọn nhẹp những đoạn mã phức tạp
+
+102
+00:05:22,800 --> 00:05:25,400
+để chúng trở nên đơn giản, dễ hiểu hơn
+
+103
+00:05:25,400 --> 00:05:28,740
+Nó thậm chí có thể giải thích những logic khó nhằn
+
+104
+00:05:28,740 --> 00:05:29,940
+bằng ngôn ngữ bình thường
+
+105
+00:05:29,940 --> 00:05:33,680
+và tự động ra xét mã để tìm lỗi và lỗ hổng bảo mật
+
+106
+00:05:33,680 --> 00:05:36,560
+Nhưng, và đây là một chữ nhân rất lớn
+
+107
+00:05:36,560 --> 00:05:37,840
+phải luôn nhớ rằng
+
+108
+00:05:37,840 --> 00:05:39,440
+mã do AI tạo ra
+
+109
+00:05:39,440 --> 00:05:42,200
+không bao giờ đảm bảo 100% là không có lỗi
+
+110
+00:05:42,200 --> 00:05:44,600
+nó luôn, luôn cần sự xem xét
+
+111
+00:05:44,600 --> 00:05:45,820
+và kiểm tra lại của con người
+
+112
+00:05:45,820 --> 00:05:48,540
+AI là một người trợ lý siêu đắc lực
+
+113
+00:05:48,540 --> 00:05:50,580
+chứ không phải là một sự thay thế hoàn hảo
+
+114
+00:05:50,580 --> 00:05:51,460
+cho kỹ sư phần mềm
+
+115
+00:05:51,460 --> 00:05:53,840
+Cuối cùng, hãy cùng lùi lại một bước
+
+116
+00:05:53,840 --> 00:05:55,520
+nhìn vào bức tranh toàn cảnh
+
+117
+00:05:55,520 --> 00:05:57,660
+để xem cái tòa nhà chọc trời phần mềm
+
+118
+00:05:57,660 --> 00:05:58,900
+mà chúng ta vừa xây xong
+
+119
+00:05:58,900 --> 00:06:01,180
+tác động đến doanh nghiệp và xã hội như thế nào
+
+120
+00:06:01,180 --> 00:06:03,880
+Chuyển đổi số không đơn giản là mua sắm công nghệ mới
+
+121
+00:06:03,880 --> 00:06:05,540
+Nó là quá trình tích hợp công nghệ
+
+122
+00:06:05,540 --> 00:06:06,940
+vào mọi ngốc ngách của một doanh nghiệp
+
+123
+00:06:06,940 --> 00:06:09,280
+Quá trình này được xây dựng trên 4 trụ cột chính
+
+124
+00:06:09,280 --> 00:06:11,900
+đó là công nghệ, dữ liệu, quy trình vận hành
+
+125
+00:06:11,900 --> 00:06:13,700
+và quản lý sự thay đổi trong tổ chức
+
+126
+00:06:13,700 --> 00:06:16,180
+Tất cả đều nhằm mục đích tạo ra những giá trị mới
+
+127
+00:06:16,180 --> 00:06:18,380
+Và tất nhiên, sức mạnh lớn
+
+128
+00:06:18,380 --> 00:06:20,020
+đi tìm với trách nhiệm lớn
+
+129
+00:06:20,020 --> 00:06:22,580
+Việc chuyển hai các hệ thống AI mạnh mẽ như vậy
+
+130
+00:06:22,580 --> 00:06:24,340
+cũng đặt ra vô số thách thức
+
+131
+00:06:24,340 --> 00:06:25,000
+về mặt đạo đức
+
+132
+00:06:25,000 --> 00:06:27,180
+Đó là nguy cơ về nội dung sai lệch
+
+133
+00:06:27,180 --> 00:06:29,680
+hoặc có thành kiến, sự lan truyền của tin giả
+
+134
+00:06:29,680 --> 00:06:31,520
+và defect, các vấn đề nhất nhối
+
+135
+00:06:31,520 --> 00:06:32,860
+về quyền riêng tư dữ liệu
+
+136
+00:06:32,860 --> 00:06:37,160
+và cả những tranh cãi chưa có hồi kết về bản quyền của các sản phẩm do AI tạo ra.
+
+137
+00:06:37,700 --> 00:06:43,940
+Vậy, câu hỏi cuối cùng đặt ra là, khi AI ngày càng trở thành một người phụ tá không thể thiếu trong việc xây dựng phần mềm,
+
+138
+00:06:44,300 --> 00:06:48,960
+thì những người thợ xây, những kiến trúc sư của thế hệ tiếp theo sẽ cần những kỹ năng mới nào?
+
+139
+00:06:49,420 --> 00:06:57,160
+Có lẽ lúc đó, khả năng đặt câu hỏi đúng, khả năng giám sát và dẫn dắt những người cộng sự AI này sẽ trở nên quan trọng không kém gì khả năng viết mã.
+
+140
+00:06:57,740 --> 00:07:01,540
+Tương lai của việc xây dựng thế giới số, quả thật là một câu hỏi mở đầy thú vị.
+
+141
+00:07:02,860 --> 00:07:32,840
+Cảm ơn các bạn đã theo dõi và hẹn gặp lại.
+

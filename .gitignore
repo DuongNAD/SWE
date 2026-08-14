@@ -1,0 +1,11 @@
+# Video files — quá lớn cho GitHub
+*.mp4
+
+# Temp/test media
+tmp_wtest/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/

@@ -1,0 +1,225 @@
+{
+  "id": "b2",
+  "tieu_de_tu_suy_ra": "Hướng dẫn cách làm Question 1: Software Development Model (Agile vs Waterfall)",
+  "cau_hoi_lien_quan": [
+    "Q1"
+  ],
+  "do_dai_phut": 18.6,
+  "dan_bai": [
+    {
+      "ts": "00:00",
+      "muc": "Giới thiệu tổng quan về Câu 1 (2.0 điểm), cấu trúc bài thi và trình chiếu Case Study (Green University - Course Registration System)"
+    },
+    {
+      "ts": "00:30",
+      "muc": "Giải thích lý thuyết mô hình Waterfall (thác nước, phát triển tuần tự từ trên xuống, không quay lại được)"
+    },
+    {
+      "ts": "02:00",
+      "muc": "Giải thích lý thuyết mô hình Agile (linh hoạt, phát triển lặp lại theo vòng tròn qua các sprint, nhận phản hồi liên tục)"
+    },
+    {
+      "ts": "03:00",
+      "muc": "Phân tích yêu cầu đề bài Question 1 (Q1.1 chọn & giải thích SDLC model phù hợp, Q1.2 so sánh với 1 mô hình thay thế)"
+    },
+    {
+      "ts": "05:30",
+      "muc": "Hướng dẫn cách làm chi tiết Q1.1 (Template Agile) và kỹ năng scan đề để trích xuất các từ khóa (keywords) lắp vào template"
+    },
+    {
+      "ts": "14:30",
+      "muc": "Hướng dẫn cách làm chi tiết Q1.2 (Template so sánh Agile vs Waterfall với 2 ưu điểm và 2 nhược điểm cho mỗi mô hình)"
+    },
+    {
+      "ts": "15:00",
+      "muc": "Giới thiệu nền tảng TQMaster / web q6swe202 và hướng dẫn cách nhập bài làm để AI (Groq API) chấm điểm tự động"
+    },
+    {
+      "ts": "18:00",
+      "muc": "Tóm tắt và kết thúc video hướng dẫn Câu 1"
+    }
+  ],
+  "quy_trinh_lam_bai": [
+    {
+      "buoc": 1,
+      "ten_buoc": "Scan case study để trích xuất từ khóa (Keywords Extraction)",
+      "lam_gi_cu_the": "Đọc nhanh văn bản case study trong đề thi để xác định 5 loại dữ kiện: (1) Tên hệ thống (ví dụ: Course Registration System - CRS); (2) Quy trình thủ công/cũ đang dùng (ví dụ: paper-based manual process, enter data into spreadsheets); (3) Danh sách các nhóm người dùng (ví dụ: Students, Lecturers, Academic Staff, System Administrator); (4) Các ràng buộc/rủi ro kỹ thuật (ví dụ: handle 1,000 concurrent users with response time < 3s, TLS 1.2+ encryption, RBAC model); (5) Quy mô và tên tổ chức (ví dụ: 8,000 students, Green University).",
+      "dau_vao": "Đoạn văn bản Case Study trong đề thi.",
+      "dau_ra": "Danh sách các từ khóa (keywords) chính xác để điền vào template.",
+      "cau_noi_goc": "Scan qua cái đề nhanh vào... anh em nhìn lướt qua thôi anh em nhìn cho mình xem cái tên của cái bồ dếch này là gì... scan nhanh qua xem là nó sẽ đây này ví dụ đây nhé still and submit này paper này...",
+      "ts": "05:30"
+    },
+    {
+      "buoc": 2,
+      "ten_buoc": "Viết lời giải Question 1.1 (Lựa chọn và biện chứng mô hình Agile)",
+      "lam_gi_cu_the": "Áp dụng khung trả lời mẫu (template) cho Question 1.1. Đưa ra đề xuất chọn Agile (Scrum). Lần lượt trình bày lập luận theo 4 tiêu chí bắt buộc của đề: (1) Requirements stability at the outset (đối chiếu quy trình cũ với yêu cầu UI/UX mới); (2) Iterative delivery and stakeholder feedback (liệt kê các nhóm user và chu kỳ sprint 2-4 tuần); (3) Technical risk factors (liệt kê rủi ro chịu tải và bảo mật, giải thích cách Agile dùng MVP thử nghiệm sớm); (4) Team size, duration and change-control process (nêu quy mô sinh viên/tổ chức và cơ chế Sprint Review/Planning). Thay các từ khóa đã scan từ Bước 1 vào các vị trí placeholder <...>.",
+      "dau_vao": "Các từ khóa đã scan + Khung template Question 1.1.",
+      "dau_ra": "Đoạn văn hoàn chỉnh trả lời Question 1.1 (1.0 điểm).",
+      "cau_noi_goc": "Thường nhà mình sẽ chọn Agile... anh em lấy nguyên cho mình cái này... sau đó mình sẽ thay đổi những chỗ... điền tên hệ thống... điền quy trình cũ... liệt kê 3-4 nhóm user... liệt kê rủi ro...",
+      "ts": "04:00"
+    },
+    {
+      "buoc": 3,
+      "ten_buoc": "Viết lời giải Question 1.2 (So sánh mô hình thay thế Waterfall)",
+      "lam_gi_cu_the": "Chọn Waterfall Model làm mô hình thay thế. Lập bảng/danh sách so sánh đối chiếu giữa Agile (Scrum) và Waterfall. Trình bày chính xác 2 ưu điểm (Advantages) và 2 nhược điểm (Disadvantages) cho Agile, và 2 ưu điểm, 2 nhược điểm cho Waterfall. Trong từng ý so sánh, lồng ghép trực tiếp tên hệ thống, nhóm user, tên tổ chức và chỉ số rủi ro chịu tải từ case study vào các vị trí placeholder <...>.",
+      "dau_vao": "Khung template Question 1.2 + Các từ khóa từ case study.",
+      "dau_ra": "Đoạn văn so sánh hoàn chỉnh trả lời Question 1.2 (1.0 điểm).",
+      "cau_noi_goc": "Thường nhà mình sẽ chọn Waterfall luôn và so sánh hai cái này thì nó sẽ yêu cầu anh em là làm và ít nhất là hai cái ưu điểm và hai nhược điểm của mỗi cái...",
+      "ts": "05:00"
+    },
+    {
+      "buoc": 4,
+      "ten_buoc": "Chấm điểm tự động và đối chiếu bằng AI",
+      "lam_gi_cu_the": "Sao chép bài làm đã hoàn thiện, truy cập vào công cụ chấm điểm AI (TQMaster / web q6swe202), dán Groq API key và bài làm vào ô luyện tập để AI chấm điểm chi tiết và hiển thị đáp án mẫu đối chiếu.",
+      "dau_vao": "Bài làm hoàn chỉnh + Groq API Key.",
+      "dau_ra": "Kết quả chấm điểm chi tiết và đáp án mẫu chuẩn.",
+      "cau_noi_goc": "Anh em điền vào anh em làm bài như thi thật luôn Sau đó anh em chấm điểm vào AI này... nhập cho mình cái này vào đây... bấm vào xem hướng dẫn... nó sẽ hiện đáp án mẫu...",
+      "ts": "17:30"
+    }
+  ],
+  "vi_du_giang_vien_lam": [
+    {
+      "de_bai_goc": "I. CASE STUDY\nGreen University is a mid-sized institution with approximately 8,000 students and 400 academic staff. Each semester, the university must manage course enrollment for all undergraduate and postgraduate programmes. Currently, students submit paper-based registration forms to their faculty office, and clerks manually enter the data into spreadsheets. This process is error-prone, slow, and creates long queues during the registration window. The university's administration has therefore decided to commission a web-based Course Registration System (CRS) to automate and streamline the entire workflow.\nThe CRS is expected to serve four main groups of users. Students need to browse the catalogue of available courses, check their eligibility based on completed prerequisites, submit registration requests, and track the status of each request in real time. If a course is fully booked, a student may join an electronic waitlist; should a registered student later drop the course, the system automatically notifies and enrolls the first eligible student on the waitlist. Lecturers need to review the roster of students enrolled in their courses, record midterm and final grades, and release grades to students once the grading period closes. Academic Staff (administrators) are responsible for defining the semester timetable, setting and publishing course quotas, opening and closing the registration window, approving exceptional cases, and generating enrolment and grade-distribution reports. Finally, a System Administrator manages user accounts, configures system parameters, and oversees scheduled data backups.\nFrom a technical standpoint, the university imposes several constraints. The system must remain responsive-handling at least 1,000 simultaneous users during peak registration periods with a page-response time under 3 seconds. Because student records and grade data are sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must be governed by a role-based access control (RBAC) model so that each user sees only the functions and data relevant to their role. The platform must be available 99.5% of the time during the semester, with any planned maintenance scheduled outside the registration window. The interface must be accessible on both desktop and mobile browsers and conform to WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal scaling so that additional server capacity can be added smoothly as student numbers grow in future years.\n\nQuestion 1: Software Development Model (2.0 points)\n1. Identify and justify the most appropriate software development model (SDLC) for the CRS project. In your justification, address each of the following points: (1.0 points)\n• Whether requirements are fully known and stable at the outset\n• The need for iterative delivery and regular stakeholder feedback\n• Risk factors specific to the CRS (e.g., concurrent-user load, data security)\n• Team size, project duration, and the university's change-control process\n2. Select ONE alternative SDLC model and compare it with your chosen model in the context of the CRS. Your comparison must include at least two advantages and two disadvantages for each model. (1.0 points)",
+      "bai_lam_hoan_chinh": "CÁCH LÀM\n\nQuestion 1.1: Identify and justify the SDLC model (1.0 points)\n\nI strongly recommend using the Agile (Scrum) methodology as the most appropriate SDLC for the <Điền tên hệ thống trong đề - VD: Course Registration System (CRS)> project.\n\nMy justification is based on the following specific constraints of the case study:\n\n1. Requirements stability at the outset\nAlthough the core business logic is known because the organization is currently using a <Điền quy trình cũ đang dùng - VD: paper-based manual process>, the specific requirements for UI/UX and automated workflows are not fully stable. Since this is a new system, requirements will inevitably evolve once users interact with the actual software. Agile embraces these changes effectively.\n\n2. Iterative delivery and stakeholder feedback\nThe system serves multiple distinct user groups, including:\n• <Liệt kê 3-4 nhóm user trong đề - VD: Students>\n• <Lecturers>\n• <Academic Staff>\n• <System Admin>\nAgile allows the development team to deliver functional modules iteratively (e.g., in 2-4 week Sprints). This ensures regular feedback from all stakeholders, guaranteeing the final product meets actual operational needs before full deployment.\n\n3. Risk factors specific to the project\nThe project faces critical technical risks, specifically the requirement to:\n• <Liệt kê rủi ro 1 từ đề - VD: handle 1,000 concurrent users with < 3s response time>\n• <Liệt kê rủi ro 2 từ đề - VD: secure sensitive data using TLS 1.2+ and RBAC>\nAgile mitigates these risks perfectly by allowing the team to build early MVPs (Minimum Viable Products) -> to conduct performance and security testing in early sprints, instead of discovering architecture failures at the end of the project.\n\n4. Team size, duration, and change-control process\nGiven the project scale to serve <Quy mô từ đề - VD: 8,000 students>, an iterative approach allows a medium-sized development team to manage the workload efficiently over the project duration. Even if the <Tên tổ chức trong đề - VD: University> has a strict change-control process, Agile's Sprint Review and Sprint Planning ceremonies provide:\n• formal checkpoints\n• transparency\n• structured change tracking\n\nQuestion 1.2: Alternative model and comparison (1.0 points)\n\nI select the Waterfall Model as the alternative SDLC.\nBelow is the comparison between Agile (Scrum) and Waterfall in the context of the <Điền tên hệ thống> project:\n\nA. Agile (Scrum) - Chosen Model\nAdvantage 1: Mitigates high-impact technical risks (such as <Nhắc lại 1 rủi ro kỹ thuật - VD: server overload during peak registration>) early through continuous testing in each sprint.\nAdvantage 2: Accommodates changing requirements and UI/UX feedback from <Nhắc lại 1 nhóm user - VD: Students> continuously during development.\nDisadvantage 1: Requires high, continuous time commitment from the Product Owner (representing the <Tên tổ chức - VD: University administration>) to review working software every sprint.\nDisadvantage 2: The final, total budget and exact delivery date for all features can be difficult to fix upfront due to the flexible nature of requirements.\n\nB. Waterfall - Alternative Model\nAdvantage 1: Highly documented from the beginning, which aligns well with the formal and administrative nature of a <Tên tổ chức - VD: University>.\nAdvantage 2: Provides a clear, fixed upfront timeline and budget for the entire <Điền tên hệ thống> before any coding begins.\nDisadvantage 1: High \"Big Bang\" integration risk at the end. If the system fails the load test of <Nhắc lại rủi ro chịu tải - VD: 1,000 concurrent users>, it is too late and too costly to rebuild the architecture.\nDisadvantage 2: No early working software is available for <Nhắc lại 1 nhóm user - VD: Lecturers> to test -> leading to a high risk of poor usability upon final release.",
+      "giang_giai": "Giảng viên cung cấp một template mẫu duy nhất cho toàn bộ Question 1. Người học chỉ cần chép nguyên văn template này và thay thế các phần nằm trong ngoặc nhọn `<...>` bằng các thông tin từ khóa lấy từ case study của đề thi.",
+      "ts": "05:30"
+    }
+  ],
+  "khai_niem": [
+    {
+      "thuat_ngu": "Waterfall Model",
+      "dinh_nghia_theo_giang_vien": "Mô hình phát triển phần mềm tuần tự như một thác nước chảy từ trên đỉnh xuống dưới, nước chỉ có thể chảy một chiều và không thể quay ngược trở lại lên trên. Các giai đoạn (Requirement -> Design -> Code -> Test -> Deploy) làm xong bước nào mới chuyển sang bước tiếp theo, không được quay lại chỉnh sửa yêu cầu ban đầu.",
+      "vi_du": "Khi làm xong Requirement và chuyển sang Design thì không thể quay trở lại sửa Requirement được nữa.",
+      "ts": "00:30"
+    },
+    {
+      "thuat_ngu": "Agile Model (Scrum)",
+      "dinh_nghia_theo_giang_vien": "Mô hình phát triển phần mềm linh hoạt (flexible), vận hành theo vòng tròn lặp lại (iterative). Quy trình đi từ Requirement -> Design -> Code -> Test -> Deploy, sau đó nhận phản hồi từ khách hàng/người dùng để tiếp tục lặp lại, cập nhật và bổ sung tính năng ở các chu kỳ (Sprint) tiếp theo.",
+      "vi_du": "Phát triển và bàn giao phần mềm theo các Sprint từ 2 đến 4 tuần để nhận phản hồi liên tục.",
+      "ts": "02:00"
+    },
+    {
+      "thuat_ngu": "Minimum Viable Product (MVP)",
+      "dinh_nghia_theo_giang_vien": "Sản phẩm khả thi tối thiểu được phát triển sớm trong các Sprint ban đầu của Agile để tiến hành thử nghiệm tải/hiệu năng và bảo mật ngay từ đầu dự án.",
+      "vi_du": "Xây dựng bản MVP để test khả năng chịu tải 1,000 người dùng đồng thời thay vì đợi đến cuối dự án.",
+      "ts": "03:20"
+    }
+  ],
+  "cau_chu_mau": [
+    {
+      "dung_khi": "Mở đầu lựa chọn mô hình SDLC cho Question 1.1",
+      "mau": "I strongly recommend using the Agile (Scrum) methodology as the most appropriate SDLC for the <System Name> project.",
+      "ts": "05:30"
+    },
+    {
+      "dung_khi": "Dẫn dắt các lý do lập luận trong Question 1.1",
+      "mau": "My justification is based on the following specific constraints of the case study:",
+      "ts": "05:30"
+    },
+    {
+      "dung_khi": "Mở đầu phần chọn mô hình thay thế cho Question 1.2",
+      "mau": "I select the Waterfall Model as the alternative SDLC.",
+      "ts": "13:30"
+    },
+    {
+      "dung_khi": "Lập luận về tính ổn định của yêu cầu (Requirements stability)",
+      "mau": "Although the core business logic is known because the organization is currently using a <Old Process>, the specific requirements for UI/UX and automated workflows are not fully stable.",
+      "ts": "06:30"
+    }
+  ],
+  "luu_y_cham_diem": [
+    {
+      "noi_dung": "Câu 1 chiếm 2.0 điểm và rất dễ lấy điểm tuyệt đối nếu áp dụng đúng template chuẩn.",
+      "muc_do": "chac_chan",
+      "ts": "00:00"
+    },
+    {
+      "noi_dung": "Thi trên hệ thống EOS/PA (PE) thường cho phép copy-paste, do đó học viên có thể dùng template chuẩn bị sẵn để tiết kiệm thời gian.",
+      "muc_do": "co_the",
+      "ts": "00:00"
+    },
+    {
+      "noi_dung": "Phần 1.1 (1.0 điểm) bắt buộc phải trả lời đầy đủ và đúng 4 ý theo tiêu chí đề bài: (1) Requirements stability, (2) Iterative delivery & feedback, (3) Risk factors (hiệu suất & bảo mật), (4) Team size, duration & change-control process.",
+      "muc_do": "chac_chan",
+      "ts": "04:30"
+    },
+    {
+      "noi_dung": "Phần 1.2 (1.0 điểm) bắt buộc phải đưa ra đủ ít nhất 2 ưu điểm (Advantages) và 2 nhược điểm (Disadvantages) cho mỗi mô hình (2 ưu/2 nhược cho Agile và 2 ưu/2 nhược cho Waterfall).",
+      "muc_do": "chac_chan",
+      "ts": "05:00"
+    },
+    {
+      "noi_dung": "Bắt buộc phải thay thế tất cả các placeholder dạng `<...>` trong template bằng thông tin thực tế trích xuất từ case study của đề thi, không được để nguyên text mẫu.",
+      "muc_do": "chac_chan",
+      "ts": "05:30"
+    }
+  ],
+  "meo_lam_bai": [
+    {
+      "meo": "Kỹ thuật scan đề nhanh: Tìm ngay Tên hệ thống (Course Registration System), Quy trình cũ (paper-based / spreadsheets), Nhóm người dùng (Students, Lecturers, Academic Staff, System Admin), Thông số kĩ thuật/Rủi ro (1,000 concurrent users < 3s, TLS 1.2+, RBAC), và Quy mô/Tên trường (8,000 students, Green University).",
+      "ts": "05:30"
+    },
+    {
+      "meo": "Học thuộc hoặc chuẩn bị sẵn khung template chuẩn cho Question 1. Vào phòng thi chỉ cần copy template và điền/thay thế keyword từ đề bài vào các vị trí `<...>`.",
+      "ts": "06:30"
+    },
+    {
+      "meo": "Sử dụng công cụ chấm điểm AI trên website q6swe202 kết hợp Groq API key để dán bài làm và chấm điểm thử trước khi thi.",
+      "ts": "17:30"
+    }
+  ],
+  "loi_sai_thuong_gap": [
+    {
+      "loi": "Chọn mô hình Waterfall cho dự án mới có nhiều yêu cầu UI/UX chưa cố định hoặc hệ thống có rủi ro kỹ thuật cao (tải lớn, bảo mật), dẫn đến nguy cơ thất bại ở giai đoạn tích hợp cuối cùng ('Big Bang' integration risk).",
+      "cach_tranh": "Luôn chọn Agile (Scrum) cho các hệ thống phần mềm mới và ghi nhận Waterfall làm mô hình so sánh thay thế.",
+      "ts": "12:00"
+    },
+    {
+      "loi": "Bỏ sót các ý lập luận trong Question 1.1 (chỉ phân tích 2-3 ý thay vì đủ 4 ý theo yêu cầu đề bài).",
+      "cach_tranh": "Bám sát template mẫu chứa đủ 4 mục đánh số từ 1 đến 4.",
+      "ts": "04:30"
+    },
+    {
+      "loi": "Chỉ chép lý thuyết suông về Agile và Waterfall mà không lồng ghép dữ liệu thực tế từ case study.",
+      "cach_tranh": "Thay thế đầy đủ các từ khóa trong ngoặc nhọn `<...>` bằng dữ liệu cụ thể từ đề bài.",
+      "ts": "05:30"
+    },
+    {
+      "loi": "Nêu không đủ 2 ưu điểm và 2 nhược điểm cho mỗi mô hình trong Question 1.2.",
+      "cach_tranh": "Đếm đủ 2 Advantage và 2 Disadvantage cho cả mục A (Agile) và mục B (Waterfall).",
+      "ts": "05:00"
+    }
+  ],
+  "prompt_ai_giang_vien_dung": [
+    {
+      "muc_dich": "Chấm điểm bài làm Question 1 và hiển thị đáp án mẫu tự động trên ứng dụng web q6swe202",
+      "prompt_nguyen_van": "Tích hợp sẵn trong công cụ 'Question 6 - Luyện tập chấm điểm AI' / 'Template Q1' trên web q6swe202.lovable.app (yêu cầu người dùng nhập Groq API key dạng gsk_... để gửi bài làm và nhận phản hồi chấm điểm).",
+      "ts": "17:30"
+    }
+  ],
+  "so_do_va_bang": [
+    {
+      "ts": "01:00",
+      "loai": "khac",
+      "noi_dung_chep_lai": "Sơ đồ vẽ tay mô hình Waterfall (Thác nước):\n- Dạng bậc thang từ trên xuống: Requirement -> Design -> Code -> Test -> Deploy\n- Tính chất: Dòng nước chảy một chiều từ trên đỉnh thác xuống, không quay ngược lại được."
+    },
+    {
+      "ts": "02:30",
+      "loai": "khac",
+      "noi_dung_chep_lai": "Sơ đồ vẽ tay mô hình Agile:\n- Dạng vòng tròn lặp lại (Iterative loop):\n  Requirement -> Design -> Code -> Test -> Deploy -> (Phản hồi từ khách hàng) -> Requirement -> ...\n- Tính chất: Linh hoạt, cập nhật và bổ sung yêu cầu liên tục qua từng chu kỳ."
+    },
+    {
+      "ts": "05:30",
+      "loai": "khac",
+      "noi_dung_chep_lai": "Khung Mẫu Đáp Án (Template Q1):\n\nQuestion 1.1: Identify and justify the SDLC model (1.0 points)\nI strongly recommend using the Agile (Scrum) methodology as the most appropriate SDLC for the <Điền tên hệ thống trong đề - VD: Course Registration System (CRS)> project.\nMy justification is based on the following specific constraints of the case study:\n1. Requirements stability at the outset\nAlthough the core business logic is known because the organization is currently using a <Điền quy trình cũ đang dùng - VD: paper-based manual process>, the specific requirements for UI/UX and automated workflows are not fully stable. Since this is a new system, requirements will inevitably evolve once users interact with the actual software. Agile embraces these changes effectively.\n2. Iterative delivery and stakeholder feedback\nThe system serves multiple distinct user groups, including:\n• <Liệt kê 3-4 nhóm user trong đề - VD: Students>\n• <Lecturers>\n• <Academic Staff>\n• <System Admin>\nAgile allows the development team to deliver functional modules iteratively (e.g., in 2-4 week Sprints). This ensures regular feedback from all stakeholders, guaranteeing the final product meets actual operational needs before full deployment.\n3. Risk factors specific to the project\nThe project faces critical technical risks, specifically the requirement to:\n• <Liệt kê rủi ro 1 từ đề - VD: handle 1,000 concurrent users with < 3s response time>\n• <Liệt kê rủi ro 2 từ đề - VD: secure sensitive data using TLS 1.2+ and RBAC>\nAgile mitigates these risks perfectly by allowing the team to build early MVPs (Minimum Viable Products) -> to conduct performance and security testing in early sprints, instead of discovering architecture failures at the end of the project.\n4. Team size, duration, and change-control process\nGiven the project scale to serve <Quy mô từ đề - VD: 8,000 students>, an iterative approach allows a medium-sized development team to manage the workload efficiently over the project duration. Even if the <Tên tổ chức trong đề - VD: University> has a strict change-control process, Agile's Sprint Review and Sprint Planning ceremonies provide:\n• formal checkpoints\n• transparency\n• structured change tracking\n\nQuestion 1.2: Alternative model and comparison (1.0 points)\nI select the Waterfall Model as the alternative SDLC.\nBelow is the comparison between Agile (Scrum) and Waterfall in the context of the <Điền tên hệ thống> project:\n\nA. Agile (Scrum) - Chosen Model\nAdvantage 1: Mitigates high-impact technical risks (such as <Nhắc lại 1 rủi ro kỹ thuật - VD: server overload during peak registration>) early through continuous testing in each sprint.\nAdvantage 2: Accommodates changing requirements and UI/UX feedback from <Nhắc lại 1 nhóm user - VD: Students> continuously during development.\nDisadvantage 1: Requires high, continuous time commitment from the Product Owner (representing the <Tên tổ chức - VD: University administration>) to review working software every sprint.\nDisadvantage 2: The final, total budget and exact delivery date for all features can be difficult to fix upfront due to the flexible nature of requirements.\n\nB. Waterfall - Alternative Model\nAdvantage 1: Highly documented from the beginning, which aligns well with the formal and administrative nature of a <Tên tổ chức - VD: University>.\nAdvantage 2: Provides a clear, fixed upfront timeline and budget for the entire <Điền tên hệ thống> before any coding begins.\nDisadvantage 1: High \"Big Bang\" integration risk at the end. If the system fails the load test of <Nhắc lại rủi ro chịu tải - VD: 1,000 concurrent users>, it is too late and too costly to rebuild the architecture.\nDisadvantage 2: No early working software is available for <Nhắc lại 1 nhóm user - VD: Lecturers> to test -> leading to a high risk of poor usability upon final release."
+    }
+  ],
+  "cho_khong_ro": [
+    {
+      "ts": "16:00",
+      "ly_do": "Transcript giọng nói (Nói:) của Whisper bị lặp từ rác 'à à à...' kéo dài do giảng viên tạm dừng nói để thao tác điều khiển ứng dụng trên máy tính."
+    }
+  ],
+  "ghi_chu_ngoai_khoa": [],
+  "do_bao_phu": "đã đọc hết dossier: có"
+}

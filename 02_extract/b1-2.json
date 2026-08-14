@@ -1,0 +1,268 @@
+{
+  "id": "b1-2",
+  "tieu_de_tu_suy_ra": "Luyện tập viết Prompt AI giải đề Trial - Scenario B: GradeService (Code Review, Find Security/Logic Bugs & Prompt Fix Bug)",
+  "cau_hoi_lien_quan": [
+    "Q6"
+  ],
+  "do_dai_phut": 31.4,
+  "dan_bai": [
+    {
+      "ts": "00:00",
+      "muc": "Giới thiệu kịch bản B (Scenario B) của bài luyện tập Prompt AI cho đề Trial (GradeService.java)"
+    },
+    {
+      "ts": "00:30",
+      "muc": "Bắt đầu viết Task 1 - Review Code cho Scenario B: thiết lập bối cảnh hệ thống (Context) trong Spring Boot/Java"
+    },
+    {
+      "ts": "01:30",
+      "muc": "Phân tích đoạn code Java GradeService.java và mô tả yêu cầu phương thức publishGrades(String courseId)"
+    },
+    {
+      "ts": "03:00",
+      "muc": "Đọc 3 nhiệm vụ của Scenario B từ đề bài: Prompt Review Code (0.2), Identify All Issues (0.2), Prompt Fix Bug (0.1)"
+    },
+    {
+      "ts": "04:30",
+      "muc": "Viết chi tiết các yêu cầu nhiệm vụ cho AI (Your task) trong Prompt 1"
+    },
+    {
+      "ts": "08:30",
+      "muc": "Hoàn thiện phần định dạng đầu ra (Output format) và dán đoạn code GradeService vào Prompt 1"
+    },
+    {
+      "ts": "10:00",
+      "muc": "Chuyển sang Task 2 — Identify All Issues: Tìm và phân tích 3 bug trong GradeService"
+    },
+    {
+      "ts": "11:00",
+      "muc": "Phân tích chi tiết Bug 1 (Security Bug): Nối chuỗi trong native SQL query dẫn tới lỗ hổng SQL Injection (Risk level: Critical)"
+    },
+    {
+      "ts": "13:30",
+      "muc": "Giải thích cơ chế tấn công SQL Injection và ví dụ chèn mã độc 1' OR '1'='1'"
+    },
+    {
+      "ts": "20:30",
+      "muc": "Phân tích chi tiết Bug 2 (Logical Bug 1): Lỗi điều kiện sai (!course.isGradingPeriodClosed()) trả về \"Grades published\""
+    },
+    {
+      "ts": "23:00",
+      "muc": "Phân tích chi tiết Bug 3 (Logical Bug 2): Lỗi mâu thuẫn điều kiện (course.getGrades().size() == course.getRoster().size()) trả về \"Not all grades entered\""
+    },
+    {
+      "ts": "25:30",
+      "muc": "Chuyển sang Task 3 — Write an AI Prompt to Fix the Issues"
+    },
+    {
+      "ts": "27:00",
+      "muc": "Viết Prompt 3 (Fix Bug): Yêu cầu AI sửa lỗi logic, thay native query bằng JPA named query có tham số, thêm inline comments"
+    },
+    {
+      "ts": "30:00",
+      "muc": "Đánh giá kết quả chấm tự động từ ChatGPT (0.9/1.0 toàn bài) và hướng dẫn chỉnh sửa để đạt 1.0 tối đa"
+    },
+    {
+      "ts": "31:00",
+      "muc": "Tổng kết video b1-2 và dặn dò sinh viên"
+    }
+  ],
+  "quy_trinh_lam_bai": [
+    {
+      "buoc": 1,
+      "ten_buoc": "Viết Prompt Review Code (Task 1 - 0.2 điểm)",
+      "lam_gi_cu_the": "Xây dựng Prompt AI chuẩn gồm 4 khối: (1) Context: Khai báo \"I am working on a Course Registration System using Java and Spring boot. Please review the following method in the GradeService class\"; (2) Goal/Task: Nêu các hành vi mong muốn của phương thức publishGrades, yêu cầu AI tìm lỗi logic điều kiện, lỗ hổng bảo mật, gán risk level (Low/Medium/High/Critical), kiểm tra best practice và gợi ý fix; (3) Output format: Yêu cầu trả về dạng danh sách có số thứ tự, giải thích từng lỗi, mức độ rủi ro, hướng sửa; (4) Code: Dán nguyên văn đoạn code Java GradeService.",
+      "dau_vao": "Đề bài Scenario B - GradeService.java và yêu cầu Task 1",
+      "dau_ra": "Đoạn Prompt 1 hoàn chỉnh dán vào AI tool",
+      "cau_noi_goc": "bước đầu tiên khi anh em làm thì đó là anh em cứ viết theo đúng format của mình I am working... phần 1 mình sẽ review code nhé",
+      "ts": "00:30"
+    },
+    {
+      "buoc": 2,
+      "ten_buoc": "Phân tích và trình bày danh sách Bug (Task 2 - 0.2 điểm)",
+      "lam_gi_cu_the": "Trình bày câu trả lời chi tiết cho 3 bug theo đúng cấu trúc: Nhãn bug (Security bug / Logical bug), Code (trích dòng code sai từ đề bài), Type (loại lỗi: SQL injection, Wrong condition), Risk level (cho lỗi bảo mật: Critical), và Why (giải thích chi tiết lý do sai và kịch bản tấn công/hậu quả logic).",
+      "dau_vao": "Đoạn code GradeService.java và yêu cầu Task 2",
+      "dau_ra": "Danh sách 3 bug phân tích đầy đủ theo mẫu",
+      "cau_noi_goc": "báo sát đề và đúng form là được... Bug 1: Security bug, Code: ..., Type: SQL injection, Risk level: Critical, Why: ...",
+      "ts": "10:00"
+    },
+    {
+      "buoc": 3,
+      "ten_buoc": "Viết Prompt Fix Bug (Task 3 - 0.1 điểm)",
+      "lam_gi_cu_the": "Soạn Prompt follow-up yêu cầu AI viết lại phương thức: \"Based on the issue found, please rewrite the publishGrades method correctly.\" kèm các Requirements bắt buộc: (1) Fix all logical errors, (2) Replace the native query with a JPA named query (parameterised), (3) Follow coding best practices, (4) Add inline comments to explain each fix.",
+      "dau_vao": "Đề bài yêu cầu Task 3 và danh sách các lỗi đã tìm thấy ở Task 2",
+      "dau_ra": "Đoạn Prompt fix bug hoàn chỉnh",
+      "cau_noi_goc": "viết prompt để fix cái vấn đề này... Base on the issue found, please rewrite the publishGrades method correctly... Requirements: Fix all logical errors, Replace the native query with a JPA named query, Follow coding best practices, Add inline comments to explain each fix.",
+      "ts": "26:00"
+    },
+    {
+      "buoc": 4,
+      "ten_buoc": "Tự kiểm tra và chấm điểm (Self-Review)",
+      "lam_gi_cu_the": "Đối chiếu bài làm với thang điểm của giảng viên/ChatGPT. Đảm bảo gán đúng nhãn loại bug (Logical bug vs Security bug) và giải thích đầy đủ mục Why để không bị trừ điểm đáng tiếc.",
+      "dau_vao": "Bài làm hoàn chỉnh của Scenario A và Scenario B",
+      "dau_ra": "Đánh giá mức điểm (đạt 0.9 - 1.0/1.0)",
+      "cau_noi_goc": "bước tiếp theo là tự chấm điểm mình nhé... xem nó bao nhiêu điểm... Rất tốt - bài này đi thi hoàn toàn ăn điểm cao",
+      "ts": "30:00"
+    }
+  ],
+  "vi_du_giang_vien_lam": [
+    {
+      "de_bai_goc": "Scenario B - GradeService.java (0.5 points)\nThe following Java method belongs to the GradeService class. It should publish final grades only when (1) the grading period is officially closed and (2) every enrolled student has a grade on record. The code contains TWO logical bugs and ONE critical security vulnerability.\n\nJava\npublic class GradeService {\n    private EntityManager em;\n    public String publishGrades(String courseId) {\n        // Fetch course from database\n        Course course = (Course) em.createNativeQuery(\n            \"SELECT * FROM courses WHERE id = '\" + courseId + \"'\" // Security bug\n        ).getSingleResult();\n        // Guard: grading period must be closed first\n        if (!course.isGradingPeriodClosed()) { // Logical bug 1\n            return \"Grades published\";\n        }\n        // Guard: all students must have a grade\n        if (course.getGrades().size() == course.getRoster().size()) { // Logical bug 2\n            return \"Not all grades entered\";\n        }\n        course.setGradesPublished(true);\n        return \"Grades published\";\n    }\n}\n\nYour tasks for Scenario B:\n• Write an AI Prompt for Security and Logic Review. Write a prompt asking an AI assistant to review publishGrades() for both logical correctness and security vulnerabilities. Specify the language and framework (Java / JPA), describe the method's intended behaviour, and request that each issue be explained with a risk level (Low / Medium / High / Critical). (0.2 points)\n• Identify All Issues. Based on the AI review, explain all three issues: the two logical bugs (which condition is wrong and what the correct logic should be) and the security vulnerability (name the vulnerability type, describe how an attacker could exploit it in the CRS, and assign a risk level). (0.2 points)\n• Write an AI Prompt to Fix the Issues. Write a follow-up prompt instructing the AI to provide the fully corrected Java method, replacing the native query with a JPA named query (parameterised). Present the corrected code with inline comments for each fix. (0.1 point)",
+      "bai_lam_hoan_chinh": "2. Kịch bản B\n\n1. Review code (0.2)\nI am working on a Course Registration System using Java and Spring boot.\nPlease review the following method in the GradeService class\nThe method should:\n- Fetch course from database\n- Guard: grading period must be closed first\n- Guard: all students must have a grade\n\nYour task:\n- Find logical errors in the condition\n- Identify any security vulnerabilities\n- Check coding best practices\n- Assign a risk level (Low / Medium / High / Critical)\n- Suggest a fix for each issue\n\nOutput format:\n- Numbered list of issues\n- Explain for each issue\n- Risk level\n- Suggest fix each issue\n\nHere is the Code:\npublic class GradeService {\n    private EntityManager em;\n    public String publishGrades(String courseId) {\n        // Fetch course from database\n        Course course = (Course) em.createNativeQuery(\n            \"SELECT * FROM courses WHERE id = '\" + courseId + \"'\"\n        ).getSingleResult();\n        // Guard: grading period must be closed first\n        if (!course.isGradingPeriodClosed()) {\n            return \"Grades published\";\n        }\n        // Guard: all students must have a grade\n        if (course.getGrades().size() == course.getRoster().size()) {\n            return \"Not all grades entered\";\n        }\n        course.setGradesPublished(true);\n        return \"Grades published\";\n    }\n}\n\n2. Find bug (0.2)\nBug 1: Security bug\n- Code: SELECT * FROM courses WHERE id = '\" + courseId + \"'\"\n- Type: SQL injection\n- Risk level: Critical\n- Why: User input (courseId) is directly added into Sql query, so attacker can inject SQL (e.g. courseId = \"1' OR '1'='1\")\n\nBug 2: Security bug\n- Code: if (!course.isGradingPeriodClosed())\n- Type: Wrong condition\n- Why: If grading is not closed then system should not publish grades, but code return \"Grades published\"\n\nBug 3: Security bug\n- Code: if (course.getGrades().size() == course.getRoster().size())\n- Type: Wrong condition\n- Why: If grades = students -> means all grades are entered, but code return Not all grades entered\n\n3. Prompt fix code (0.1)\nBased on the issue found, please rewrite the publishGrades method correctly\nRequirements:\n- Fix all logical errors\n- Replace the native query with a JPA named query\n- Follow coding best practices\n- Add inline comments to explain each fix",
+      "giang_giai": "Giảng viên giải thích quy trình giải Scenario B: (1) Với Task 1 (Prompt Review), thiết lập đủ 4 thành phần Context, Goal, Code, Output format và bám sát các yêu cầu trong đề (Java/JPA, intended behavior, risk level Low/Medium/High/Critical). (2) Với Task 2 (Identify Issues), liệt kê rõ 3 lỗi gồm 1 lỗi bảo mật SQL Injection (nguy hiểm ở mức Critical vì user input nối trực tiếp vào native SQL query cho phép attacker chèn mã độc 1' OR '1'='1' gây lộ toàn bộ dữ liệu) và 2 lỗi logic điều kiện (Wrong condition do dùng thừa dấu phủ định ! hoặc mâu thuẫn giữa điều kiện kiểm tra và giá trị return). (3) Với Task 3 (Prompt Fix Bug), viết prompt follow-up yêu cầu AI sửa lỗi logic, thay native query bằng JPA named query có truyền tham số (parameterized query) để chống SQL Injection, tuân thủ best practices và thêm inline comments.",
+      "ts": "00:30"
+    }
+  ],
+  "khai_niem": [
+    {
+      "thuat_ngu": "SQL Injection",
+      "dinh_nghia_theo_giang_vien": "Lỗ hổng bảo mật nghiêm trọng xảy ra khi dữ liệu người dùng nhập (user input) được nối trực tiếp vào câu lệnh SQL native query mà không qua tham số hóa, cho phép kẻ tấn công chèn các đoạn mã SQL tùy ý (như 1' OR '1'='1') để phá vỡ logic truy vấn và khai thác/trích xuất trái phép dữ liệu.",
+      "vi_du": "SELECT * FROM courses WHERE id = '\" + courseId + \"' khi courseId nhận giá trị \"1' OR '1'='1\"",
+      "ts": "12:30"
+    },
+    {
+      "thuat_ngu": "JPA Named Query / Parameterized Query",
+      "dinh_nghia_theo_giang_vien": "Giải pháp khắc phục SQL Injection trong JPA/Hibernate bằng cách sử dụng tham số truyền vào (parameter binding) thay vì nối chuỗi SQL trực tiếp.",
+      "vi_du": "Thay native query nối chuỗi bằng Query sử dụng setParameter(\"courseId\", courseId)",
+      "ts": "28:30"
+    },
+    {
+      "thuat_ngu": "Wrong Condition",
+      "dinh_nghia_theo_giang_vien": "Lỗi logic trong lập trình khi biểu thức kiểm tra điều kiện if bị viết ngược (ví dụ thừa dấu phủ định !) hoặc mâu thuẫn với kết quả trả về (return value).",
+      "vi_du": "if (!course.isGradingPeriodClosed()) trả về 'Grades published' khi kỳ chấm điểm CHƯA đóng",
+      "ts": "21:00"
+    },
+    {
+      "thuat_ngu": "Risk Level",
+      "dinh_nghia_theo_giang_vien": "Phân loại mức độ nguy hiểm của lỗi/lỗ hổng bảo mật (Low / Medium / High / Critical). Lỗi SQL Injection có khả năng làm rò rỉ toàn bộ CSDL được xếp vào mức Critical.",
+      "vi_du": "Risk level: Critical cho lỗi SQL Injection trong GradeService.java",
+      "ts": "07:30"
+    }
+  ],
+  "cau_chu_mau": [
+    {
+      "dung_khi": "Viết bối cảnh (Context) mở đầu cho Prompt review code Java/Spring Boot",
+      "mau": "I am working on a Course Registration System using Java and Spring boot. Please review the following method in the GradeService class.",
+      "ts": "01:30"
+    },
+    {
+      "dung_khi": "Yêu cầu AI thực hiện review code tìm lỗi logic và bảo mật (Goal/Task)",
+      "mau": "The method should: [mô tả các yêu cầu nghiệp vụ]. Your task: Find logical errors in the condition, Identify any security vulnerabilities, Check coding best practices, Assign a risk level (Low / Medium / High / Critical), Suggest a fix for each issue.",
+      "ts": "04:30"
+    },
+    {
+      "dung_khi": "Yêu cầu AI định dạng kết quả trả về (Output format)",
+      "mau": "Output format: Numbered list of issues, Explain for each issue, Risk level, Suggest fix each issue.",
+      "ts": "08:30"
+    },
+    {
+      "dung_khi": "Viết Prompt nhờ AI sửa bug (Prompt fix bug - Task 3)",
+      "mau": "Based on the issue found, please rewrite the publishGrades method correctly. Requirements: Fix all logical errors, Replace the native query with a JPA named query, Follow coding best practices, Add inline comments to explain each fix.",
+      "ts": "27:00"
+    }
+  ],
+  "luu_y_cham_diem": [
+    {
+      "noi_dung": "Khi làm Task 1 (Prompt review code), bắt buộc phải chuẩn bị đủ 4 thành phần Context, Goal, Code, Output format và đọc kỹ đề bài để đưa đủ các yêu cầu (Java/JPA, intended behavior, risk level Low/Medium/High/Critical).",
+      "muc_do": "chac_chan",
+      "ts": "04:00"
+    },
+    {
+      "noi_dung": "Khi làm Task 2 (Identify Issues), với lỗi bảo mật SQL Injection bắt buộc phải ghi Risk level: Critical và giải thích chi tiết kịch bản tấn công (How an attacker could exploit it) trong phần Why.",
+      "muc_do": "chac_chan",
+      "ts": "07:30"
+    },
+    {
+      "noi_dung": "Khi làm Task 3 (Prompt fix bug), bắt buộc phải có yêu cầu thay thế native query bằng JPA named query (parameterized) và yêu cầu thêm inline comments giải thích từng fix.",
+      "muc_do": "chac_chan",
+      "ts": "28:30"
+    },
+    {
+      "noi_dung": "Chú ý gán đúng nhãn Logical bug cho các lỗi logic điều kiện thay vì dán nhầm nhãn Security bug để tránh bị chấm trừ điểm trình bày.",
+      "muc_do": "co_the",
+      "ts": "30:30"
+    }
+  ],
+  "meo_lam_bai": [
+    {
+      "meo": "Nhìn thấy dòng code SQL dạng \"SELECT * FROM courses WHERE id = '\" + courseId + \"'\" nối chuỗi trực tiếp -> Khẳng định ngay là lỗi SQL Injection, Risk level là Critical.",
+      "ts": "12:30"
+    },
+    {
+      "meo": "Nhìn thấy lệnh if (!course.isGradingPeriodClosed()) mà bên trong return \"Grades published\" -> Khẳng định ngay đây là lỗi Wrong condition do bị thừa dấu phủ định (!).",
+      "ts": "21:00"
+    },
+    {
+      "meo": "Nhìn thấy lệnh if (course.getGrades().size() == course.getRoster().size()) (đã nhập đủ điểm) mà bên trong return \"Not all grades entered\" -> Khẳng định ngay đây là lỗi Wrong condition do mâu thuẫn giữa điều kiện kiểm tra và chuỗi thông báo trả về.",
+      "ts": "24:00"
+    },
+    {
+      "meo": "Prompt AI không cần viết tiếng Anh quá hoa mỹ, chỉ cần đúng cấu trúc bộ khung (Context, Goal, Code, Output format) và nêu đủ các yêu cầu đề bài đưa ra là sẽ đạt điểm tuyệt đối.",
+      "ts": "28:30"
+    }
+  ],
+  "loi_sai_thuong_gap": [
+    {
+      "loi": "Viết Prompt review code (Task 1) thiếu phần quy định Output format hoặc quên yêu cầu đánh giá Risk level.",
+      "cach_tranh": "Luôn rà soát đủ 4 khối trong Prompt: Context, Goal, Code, Output format và đối chiếu sát từng ý trong đề bài.",
+      "ts": "08:30"
+    },
+    {
+      "loi": "Phân tích bug ở Task 2 quá sơ sài, chỉ ghi tên lỗi mà không có phần Why giải thích lý do sai hoặc kịch bản khai thác.",
+      "cach_tranh": "Trình bày đủ 4-5 ý cho mỗi bug: Code, Type, Risk level (nếu có) và Why (giải thích 1-2 câu ngắn gọn nhưng rõ bản chất).",
+      "ts": "13:30"
+    },
+    {
+      "loi": "Viết prompt fix code ở Task 3 quên không yêu cầu dùng JPA named query (parameterized query).",
+      "cach_tranh": "Đọc kỹ phần Requirements của Task 3 trong đề bài và đưa trực tiếp câu 'Replace the native query with a JPA named query' vào prompt.",
+      "ts": "31:00"
+    }
+  ],
+  "prompt_ai_giang_vien_dung": [
+    {
+      "muc_dich": "Prompt Review Code cho Scenario B (GradeService.java)",
+      "prompt_nguyen_van": "I am working on a Course Registration System using Java and Spring boot.\nPlease review the following method in the GradeService class\nThe method should:\n- Fetch course from database\n- Guard: grading period must be closed first\n- Guard: all students must have a grade\n\nYour task:\n- Find logical errors in the condition\n- Identify any security vulnerabilities\n- Check coding best practices\n- Assign a risk level (Low / Medium / High / Critical)\n- Suggest a fix for each issue\n\nOutput format:\n- Numbered list of issues\n- Explain for each issue\n- Risk level\n- Suggest fix each issue\n\nHere is the Code:\npublic class GradeService {\nprivate EntityManager em;\npublic String publishGrades(String courseId) {\n// Fetch course from database\nCourse course = (Course) em.createNativeQuery(\n\"SELECT * FROM courses WHERE id = '\" + courseId + \"'\" // Security bug\n).getSingleResult();\n// Guard: grading period must be closed first\nif (!course.isGradingPeriodClosed()) { // Logical bug 1\nreturn \"Grades published\";\n}\n// Guard: all students must have a grade\nif (course.getGrades().size() == course.getRoster().size()) { // Logical bug 2\nreturn \"Not all grades entered\";\n}\ncourse.setGradesPublished(true);\nreturn \"Grades published\";\n}\n}",
+      "ts": "01:30"
+    },
+    {
+      "muc_dich": "Prompt Fix Bug cho Scenario B (GradeService.java)",
+      "prompt_nguyen_van": "Based on the issue found, please rewrite the publishGrades method correctly\nRequirements:\n- Fix all logical errors\n- Replace the native query with a JPA named query\n- Follow coding best practices\n- Add inline comments to explain each fix",
+      "ts": "27:00"
+    }
+  ],
+  "so_do_va_bang": [
+    {
+      "ts": "00:00",
+      "loai": "code",
+      "noi_dung_chep_lai": "// Scenario A - RegistrationService.java (xem lại từ b1-1)\npublic class RegistrationService {\n    public boolean registerStudent(Student student, Course course) {\n        // Check prerequisite\n        if (course.getPrerequisite() != null &&\n            !student.getCompletedCourses().contains(course.getPrerequisite())) {\n            return true; // Bug 1\n        }\n        // Check available seats\n        if (course.getEnrolled() >= course.getMaxSeats()) { // Bug 2\n            return false;\n        }\n        // Enroll student and persist\n        course.getRoster().add(student);\n        registrationRepo.save(new Registration(student, course)); // Bug 3\n        return true;\n    }\n}"
+    },
+    {
+      "ts": "01:30",
+      "loai": "code",
+      "noi_dung_chep_lai": "// Scenario B - GradeService.java (0.5 points)\n// The following Java method belongs to the GradeService class. It should publish final grades\n// only when (1) the grading period is officially closed and (2) every enrolled student has a grade\n// on record. The code contains TWO logical bugs and ONE critical security vulnerability.\n\npublic class GradeService {\n    private EntityManager em;\n    public String publishGrades(String courseId) {\n        // Fetch course from database\n        Course course = (Course) em.createNativeQuery(\n            \"SELECT * FROM courses WHERE id = '\" + courseId + \"'\" // Security bug\n        ).getSingleResult();\n        // Guard: grading period must be closed first\n        if (!course.isGradingPeriodClosed()) { // Logical bug 1\n            return \"Grades published\";\n        }\n        // Guard: all students must have a grade\n        if (course.getGrades().size() == course.getRoster().size()) { // Logical bug 2\n            return \"Not all grades entered\";\n        }\n        course.setGradesPublished(true);\n        return \"Grades published\";\n    }\n}"
+    },
+    {
+      "ts": "03:00",
+      "loai": "khac",
+      "noi_dung_chep_lai": "Your tasks for Scenario B:\n• Write an AI Prompt for Security and Logic Review. Write a prompt asking an AI assistant to review publishGrades() for both logical correctness and security vulnerabilities. Specify the language and framework (Java / JPA), describe the method's intended behaviour, and request that each issue be explained with a risk level (Low / Medium / High / Critical). (0.2 points)\n• Identify All Issues. Based on the AI review, explain all three issues: the two logical bugs (which condition is wrong and what the correct logic should be) and the security vulnerability (name the vulnerability type, describe how an attacker could exploit it in the CRS, and assign a risk level). (0.2 points)\n• Write an AI Prompt to Fix the Issues. Write a follow-up prompt instructing the AI to provide the fully corrected Java method, replacing the native query with a JPA named query (parameterised). Present the corrected code with inline comments for each fix. (0.1 point)"
+    },
+    {
+      "ts": "10:00",
+      "loai": "khac",
+      "noi_dung_chep_lai": "2. Find bug (0.2)\nBug 1: Security bug\n- Code: SELECT * FROM courses WHERE id = '\" + courseId + \"'\"\n- Type: SQL injection\n- Risk level: Critical\n- Why: User input (courseId) is directly added into Sql query, so attacker can inject SQL\n\nBug 2: Security bug\n- Code: if (!course.isGradingPeriodClosed())\n- Type: Wrong condition\n- Why: If grading is not closed then system should not publish grades, but code return \"Grades published\"\n\nBug 3: Security bug\n- Code: if (course.getGrades().size() == course.getRoster().size())\n- Type: Wrong condition\n- Why: If grades = students -> means all grades are entered, but code return \"Not all grades entered\""
+    },
+    {
+      "ts": "30:30",
+      "loai": "khac",
+      "noi_dung_chep_lai": "ChatGPT Grading Result:\nTổng điểm: 0.9 / 1.0\nRất tốt - bài này đi thi hoàn toàn ăn điểm cao\n\nChỗ cần sửa để full 1.0:\nChỉ cần sửa 2 ý:\n- Scenario A bug 2: Viết rõ hơn: Bug type: missing state update. Why: enrolled is checked but never incremented after adding a student.\n- Scenario B labels: gán đúng nhãn Logical bug thay vì để trùng nhãn Security bug."
+    }
+  ],
+  "cho_khong_ro": [
+    {
+      "ts": "10:00",
+      "ly_do": "Trong file Google Doc đáp án của giảng viên (trên màn hình ở mốc 10:00 - 25:00), tiêu đề Bug 2 và Bug 3 được gõ nhầm nhãn thành 'Security bug' thay vì 'Logical bug', tuy nhiên phần Type giảng viên vẫn ghi đúng 'Wrong condition'."
+    }
+  ],
+  "ghi_chu_ngoai_khoa": [],
+  "do_bao_phu": "đã đọc hết dossier: có"
+}

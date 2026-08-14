@@ -1,0 +1,1416 @@
+### 00:05
+Ở cốc cốc  & Home - Google Drive  5 Luyện tập Q4 - Google Doc x  & TQMaster - Nên tảng luyện thì | +  La
+< > G @ docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907b/g85t94CaS_HJg0/edit?tab=t.0  CD
+88  • Tất cả dấu trang
+Luyện tập Q4 # •  +
+Share
+File Edit View Insert Format Tools Extensions Help
+95 e8 A S100%- Normal text =  Arial  | - 11  15  *•E-E•E  E X  Editing
+1...  7... 1..
+1. From the case study, identify and classify at least FOUR non-functional requirements (NFRs)  2 of 17
+into appropriate quality categories (e.g., Performance, Security, Availability, Usability, Scalability,
+Maintainability). For each NFR, write one measurable acceptance criterion. Present your
+answer as a table with the columns: Category | NFR Description | Acceptance Criterion. (0.9
+points)
+2. Identify TWO NFRs from your table that may conflict with each other in the CRS context.
+Clearly explain why the conflict arises and propose a concrete trade-off strategy that the
+development team could apply. (0.1 points)
+Cách làm
+Template NFR
+203
+^ V Q  ENG  9:16 PM
+US  - 4 4/22/2026
+
+### 00:07
+Ở cốc cốc  Home - Google Drive  5 Luện tập Q4 - Google Doc X  • TQMaster - Nên tảng luyện thi| +  La
+< >  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  *  I CO
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+8A S100%Normal Normal text  Arial  | - 11] +  BI A  Editing
+1 of 17
+I. CASE STUDY
+Green University is a mid-sized institution with approximately 8,000 students and 400 academic
+staff. Each semester, the university must manage course enrollment for all undergraduate and
+postgraduate programmes. Currently, students submit paper-based registration forms to their
+faculty office, and clerks manually enter the data into spreadsheets. This process is error-prone,
+slow, and creates long queues during the registration window. The university's administration
+has therefore decided to commission a web-based Course Registration System (CRS) to
+automate and streamline the entire workflow. I
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibility based on completed prerequisites, submit
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitlist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades, and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must
+be governed by a role-based access control (RBAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+^  ENG  9:17 PM
+US  4/22/2026
+
+### 00:07
+Ở côc cốc  Home - Google Drive  Luện tập Q4 - Google Doc  • TQMaster - Nên tảng luyện thi| +  La
+< >  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  I CO
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+8A S100%Normal Normal text  Arial  | - 11 +  BI UADO  Editing
+4
+I. CASE STUDY
+Green University is a mid-sized institution with approximately 8,000 students and 400 academic
+staff. Each semester, the university must manage course enrollment for all undergraduate and
+postgraduate programmes. Currently, students submit paper-based registration forms to their
+faculty office, and clerks manually enter the data into spreadsheets. This process is error-prone,
+slow, and creates long queues during the registration window. The university's administration
+has therefore decided to commission a web-based Course Registration System (CRS) to
+automate and streamline the entire workflow.
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibitty based on completed prerequisites, submit
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitlist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades, and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must
+be governed by a role-based access control (RAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and moblle browsers and conform to
+^  ENG  9:17 PM
+US  4/22/2026
+
+### 00:31
+Ở cốc cốc  • Home - Google Drive  Luện tập Q4 - Google Doc ×  & TQMaster - Nen tảng luyện thi | +  La
+< >  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  CD
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert Format Tools  Extensions Help
+a saaAS 100% Normal text *  Arial  - 11 + BI UA  • 15  Editing
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibility based on completed prerequisites, submit  1 of 17
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitiist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first ellgible student on the waltlist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades, and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TS 1.2 or higher, and access must
+be governed by a role-based access control (RAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements (NFRs)
+^  ENG  9:17 PM
+US  4/22/2026
+
+### 00:32
+Ở cốc cốc  Home - Google Drive  Luện tập Q4 - Google Doc  & TQMaster - Nẽn tảng luyện thi | +  La
+< >  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  ICO
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert Format Tools  Extensions Help
+Normal text  Arial  • 15  *•E-E-  Editing
+slow, and creates long queues during the registration window. The university's administration
+has therefore decided to commission a web-based Course Registration System (CRS) to
+automate and streamline the entire workfiow.
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibility based on completed prerequisites, submit
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitlist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades, and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TS 1.2 or higher, and access must
+be governed by a role-based access control (RAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+^  ENG  9:17 PM
+US  4/22/2026
+
+### 00:32
+Ở cốc cốc  Home - Google Drive  Luện tập Q4 - Google Doc  & QMaster - Nen tảng luyện thi | +  La
+< >  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  I CO
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Normal text  Arial  | - 11] +  BI UA OI  Editing
+z...!.
+I. CASE STUDY
+Green University is a mid-sized institution with approximately 8,000 students and 400 academic
+staff. Each semester, the university must manage course enrollment for all undergraduate and
+postgraduate programmes. Currently, students submit paper-based registration forms to their
+faculty office, and cierks manually enter the data into spreadsheets. This process is error-prone.
+slow, and creates long queues during the registration window. The university's administration
+has therefore decided to commission a web-based Course Registration System (CRS) to
+automate and streamline the entire workflow.
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibility based on completed prerequisites, submit
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitlist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first etigible student on the waitiist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades, and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must
+be governed by a role-based access control (RAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+V  ENG  9:17 PM
+US  4/22/2026
+
+### 00:33
+Ở cốc cốc  Home - Google Drive  Luện tập Q4 - Google Doc  & QMaster - Nen tảng luyện thi | +  La
+< >  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  I CO
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Normal text  Arial  | - 11] +  BIA•  Editing
+I. CASE STUDY
+Green University is a mid-sized institution with approximately 8,000 students and 400 academic
+staff. Each semester, the university must manage course enrollment for all undergraduate and
+postgraduate programmes. Currently, students submit paper-based registration forms to their
+faculty office, and clerks manually enter the data into spreadsheets. This process is error-prone,
+slow, and creates long queues during the registration window. The university's administration
+has therefore decided to commission a web-based Course Registration System (CRS) to
+automate and streamline the entire workfiow.
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibility based on completed prerequisites, submit
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitlist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades, and release grades to studehts once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must
+be governed by a role-based access control (RAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+V  ENG  9:17 PM
+US  4/22/2026
+
+### 00:33
+Ở cốc cốc  • Home - Google Drive  Luện tập Q4 - Google Doc ×  & TQMaster - Nen tảng luyện thi | +  La
+< >  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  I CO
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert Format Tools  Extensions Help
+95a 100% Normal text  Arial  - 11 + BI UA  • 15  Editing
+..?.
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibility based on completed prerequisites, submit
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitlist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades, and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university Imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TS 1.2 or higher, and access must
+be governed by a role-based access control (RBAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements (FRs)
+ENG  9:17 PM
+US  4/22/2026
+
+### 02:06
+Ở cốc cốc  Home - Google Drive  Luyện tập Q4 - Google Doc  & TQMaster - Nen tảng luyện thi | +  La
+< >  docs.google.com/document/d/1tqipjS0QevjmOlb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0
+88  • Tất cả dấu trang
+Luyện tập Q4 #  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Normal text  Arial  1 - 12  +  BIU A O  "EE-  Editing
+Te boke, a Student may jom an erecum walist, snoud a reystered stuent ater urup uie  7...1.
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.  1 of 17
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades, and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TS 1.2 or higher, and access must
+be governed by a role-based access control (RAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements (NFRs)
+into appropriate quality categories (e.g., Performance, Security, Availability, Usability, Scalability,
+Maintainability). For each NFR, write one measurable acceptance criterion. Present your
+ENG  9:19 PM
+US  4/22/2026
+
+### 02:07
+Ở côc cốc  • Home - Google Drive  Luện tập Q4 - Google Doc ×  & TQMaster - Nen tảng luyện thi | +  La
+< >  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  ICO
+88  C• Tất cả dấu trang
+Luyện tập Q4 # =  +
+Share
+File Edit View Insert Format Tools Extensions Help
+95c8 AS 100% ~  Normal text  Arial  - 12) +  BI U  Editing
+staff. Each semester, the university must manage course enrollment for all undergraduate and  1 of 17
+postgraduate programmes. Currently, students submit paper-based registration forms to their
+faculty office, and clerks manually enter the data into spreadsheets. This process is error-prone,
+slow, and creates long queues during the registration window. The university's administration
+has therefore decided to commission a web-based Course Registration System (CRS) to
+automate and streamline the entire workflow.
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibility based on completed prerequisites, submit
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitlist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.
+Lecturers need to review the roster of student enrolled in their courses, record midterm and
+final grades, and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must
+be governed by a role-based access control (RAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers. grow in
+future years.
+ENG  9:19 PM
+US  4/22/2026
+
+### 02:07
+Ở cốc cốc  • Home - Google Drive  5 Luyện tập Q4 - Google Doc X  & TQMaster - Nẽn tảng luyện thi| +  La
+< > G  @ docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907blg85t94CaS_HJg0/edit?tab=t.0  ICO
+C• Tất cả dấu trang
+Luyện tập Q4 # =  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Normal text  Arial  1 - 12  B I  7= -  E  Editing
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must
+be governed by a role-based access control (RBAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements (NFRs)
+into appropriate quality categories (e.g., Performance, Security, Availability, Usability, Scalability,
+Maintainability). For each NFR, write one measurable acceptance criterion. Present your
+^ V O  ENG  9:19 PM
+US  4/22/2026
+
+### 03:19
+Ở cốc cốc  • Home - Google Drive  Luện tập Q4 - Google Doc  & TQMaster - Nen tảng luyện thi | +  La  ...
+< >  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0
+88  • Tất cả dấu trang
+Luyện tập Q4 # • 65 Saving...  +
+Share
+File Edit View Insert Format Tools  Extensions Help
+a5 e  8AS100%  Normal text  Arial  | - 11] +
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and  1 of 17
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TS 1.2 or higher, and access must
+be governed by a role-based access control (RBAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements (NFRs)
+into appropriate quality categories (e.g., Performance, Security, Availability, Usability, Scalability,
+Maintainability). For each NFR, write one measurable acceptance criterion. Present your
+ENG  9:20 PM
+US  4/22/2026
+
+### 03:19
+Ở cốc cốc  • Home - Google Drive  Luyện tập Q4 - Google Doc X  & TQMaster - Nến tảng luyện thi| +  La  ...
+< > G  @ docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  I CO
+• Tất cả dấu trang
+Luyện tập Q4 # GO Saved to Drive  +
+Share
+File Edit View Insert Format Tools Extensions Help
+95ca1%  Normal text -  Arial  1 - 11  +  "EE-
+.u.....  periods with a page-response time under 3 seconds. Because student records and grade datal., 1..
+are sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must  1 of 17
+be governed by a role-based access control (RAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements (NFRs)
+nto appropriate quality categories (e.g., Performance, Security, Availability, Usability, Scalability
+Maintainability). For each NFR, write one measurable acceptance criterion. Present your
+203
+^ V Q  ENG  9:20 PM
+US  4/22/2026
+
+### 05:28
+Ở cốc cốc  & Home - Google Drive  = Luyện tập Q4 - Google Doc X  & TQMaster - Nẽn tảng luyện thi | +  La
++ → C@ docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  ICO
+• Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+9510%  Normal text  Arial  - 11  BIUA•
+1. user accounts,  6
+conngures system parameters, and oversees sealed aara backups.
+From a technical standpoint, the university imposes several constraints. The system must  1 of 17
+remain responsive—handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must
+be governed by a role-based access control (RAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements (NFRs)
+into appropriate quality categories (e.g., Performance, Security, Availability, Usability, Scalability,
+Maintainability). For each NFR, write one measurable acceptance criterion. Present your
+E  ENG  9:22 PM
+US  4/22/2026
+
+### 05:29
+Ở cốc cốc  • Home - Google Drive  Luện tập Q4 - Google Doc  & TQMaster - Nen tảng luyện thi | +  La
+< >  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  I CO
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Q 5 e  A § 100% -  Normal text  Arial  | - 11] +  BI UA•  E
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and  1 of 17
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TS 1.2 or higher, and access must
+be governed by a role-based access control (RBAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least OUR non-functional requirements (FRs)
+into appropriate quality categories (e.g., Performance, Security, Availability, Usability, Scalability,
+Maintainability). For each NFR, write one measurable acceptance criterion. Present your
+^  ENG  9:22 PM
+US  4/22/2026
+
+### 05:45
+Ở cốc cốc  & Home - Google Drive  Luện tập Q4 - Google Doc  • TQMaster - Nẽn tảng luyện thi | +  La  ...
++ > C  @ docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  ICO
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Q s  A § 100% -  Normal text *  Arial  1 - 11  +  Editing
+user accounts, congres system parameters, ana oversees soneduled aara packups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsivehandling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must
+be governed by a role-based access control (RAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements (NFRs)
+into appropriate quality categories (e.g., Performance, Security, Availability, Usability, Scalability,
+Maintainability). For each NFR, write one measurable acceptance criterion. Present your
+ENG  9:22 PM
+US  4/22/2026
+
+### 05:57
+Ở cốc cốc  & Home - Google Drive  5 Luyện tập Q4 - Google Doc X  & QMaster - Nên tảng luyện thi | +  La
+< → C® docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  I CO
+• Tất cả dấu trang
+Luyện tập Q4 # G  +
+•  Share
+File Edit View Insert Format Tools Extensions Help  3.
+Normal text  Arial  - 11
+aldoser accouns, conngures sysiem parameters, ano oversees sneed oata pacups.  6
+=  From a technical standpoint, the university imposes several constraints. The system must  1 of 17
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must
+be governed by a role-based access control (RAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements (NFRs)
+into appropriate quality categories (e.g., Performance, Security, Availability, Usability, Scalability,
+Maintainability). For each NFR, write one measurable acceptance criterion. Present your
+^  E  ENG  9:22 PM
+US  4/22/2026
+
+### 05:59
+i cốc cốc  Home - Google Drive  Luện tập Q4 - Google Doc  & TQMaster - Nên tảng luyện thi | +  La
+< >  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  *  LCD
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert Format Tools  Extensions Help
+as 100%  Normal text  Arial  | - 11] +
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibility based on completed prerequisites, submit  1 of 17
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitlist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades, and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must
+be governed by a role-based access control (RAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements (FRs)
+E  ENG  9:22 PM
+US  4/22/2026
+
+### 06:34
+Ở cốc cốc  & Home - Google Drive  Luện tập Q4- - Google Doc  • QMaster - Nen tảng luyện thi | +  La
++ > G  @ docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  I CO
+88  • Tất cả dấu trang
+Luyện tập Q4 #  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Normal text  Arial  | - 11] +  I U  Editing
+4
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements (NFRs)
+into appropriate quality categories (e.g., Performance, Security, Availability, Usability, Scalability.
+Maintainability). For each NFR, write one measurable acceptance criterion. Present your
+answer as a table with the columns: Category | NFR Description | Acceptance Criterion. (0.9
+points)
+2 Identify TO NER from your table that may conflict with each other in the CRS contexti
+^ E  ENG  9:23 PM
+US  4/22/2026
+
+### 06:44
+Ở cốc cốc  Home - Google Drive  Luện tập Q4 - Google Doc X  & TQMaster - Nen tảng luyện thi | +  La
+< >  3:  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  I CO
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  @ Saved to Drive  +
+Share
+File Edit View Insert Format Tools Extensions Help
+5010%  Normal text  Arial  | - 11  +
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades,  and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TS 1.2 or higher, and access must
+be governed by a role-based access control (RAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements (FRs)
+into appropriate quality categories (e.g., Performance, Security, Availability, Usability, Scalability,
+Maintainability). For each NFR, write one measurable acceptance criterion. Present your
+^  ENG  9:23 PM
+US  4/22/2026
+
+### 07:00
+Ở cốc cốc  & Home - Google Drive  Luyện tập Q4 - Google Doc x  • TQMaster - Nẽn tảng luyện thi| +  La
+< →  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  I CD
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Q5 e  Normal text  Arial  1 - 11  Editing
+periods with a page-response time under 3 seconds. Because student records and grade data .., Lee
+are sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must
+be governed by a role-based access control (RBAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements (FRs)
+into appropriate quality categories (e.g., Performance, Security, Availability, Usability, Scalability.
+Maintainability). For each NFR, write one measurable acceptance criterion. Present your
+ENG  9:23 PM
+US  4/22/2026
+
+### 07:17
+Ở cốc cồc  & Home - Google Drive  Luện tập Q4 - Google Doc  • TQMaster - Nen tảng luyện thi | +  La  ...
+@ docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert Format Tools Extensions  Help
+8A100%  Normal text  Arial  |- 11] +  "EE-  Editing
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothiy as student humbers grow in
+future years.
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements (NFRs)
+into appropriate quality categories (e.g., Performance, Security, Availability, Usability, Scalability,
+Maintainability). For each NFR, write one measurable acceptance criterion. Present your
+answer as a table with the columns: Category | NFR Description | Acceptance Criterion. (0.9
+points)
+dentify TWO NePe from vour tahle that may conflict with dach other in the CPd conteyt
+E  ENG  9:24 PM
+US  4/22/2026
+
+### 07:36
+Ở cốc cốc  & Home - Google Drive  Luyện tập Q4 - Google Doc  • TQMaster - Nẽn tảng luyện thi| +  La  ...  -
+< →  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  ICO
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Q s  A § 100% -  Normal text  Arial  I - 11  +  BI UA•  Editing
+periods with a page-response ume under 3 seconds. Because student record and grade data"... I...
+are sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must
+be governed by a role-based access control (RAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.  A
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements (FRs)
+into appropriate quality categories (e.g., Performance, Security, Availability, Usability, Scalability.
+Maintainability). For each NFR, write one measurable acceptance criterion. Present your
+E 0  ENG  9:24 PM
+US  4/22/2026
+
+### 11:59
+Ở cốc cốc  • Home - Google Drive  Luyện tập Q4 - Google Doc X  & QMaster - Nên tảng luyện thi | +  La  ...
+< >  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  CD
+88  • Tất cả dấu trang
+Luyện tập Q4 #  +
+Share
+File Edit View Insert Format Tools  Extensions Help
+Normal text -  Arial  | - 11  +  I U
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibility based on completed prerequisites, submit  1 of 17
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitlist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades, and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds.  Because student records and grade data
+are sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must
+be governed by a role-based access control (RBAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements (FRs)
+ENG  9:39 PM
+US  4/22/2026
+
+### 12:00
+Ở cốc cốc  • Home - Google Drive  5 Luện tập Q4 - Google Doc X  & QMaster - Nên tảng luyện thi | +  La  ...
+docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  I CO
+88  • Tất cả dấu trang
+Luyện tập Q4 #  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Normal text -  Arial  - L  +  I LAOG
+2 E
+1 of 17
+Đề trial
+I. CASE STUDY
+Green University is a mid-sized institution with approximately 8,000 students and 400 academic
+staff. Each semester, the university must manage course enrollment for all undergraduate and
+postgraduate programmes. Currently, students submit paper-based registration forms to their
+faculty office, and clerks manually enter the data into spreadsheets. This process is error-prone,
+slow, and creates long queues during the registration window. The university's administration
+has therefore decided to commission a web-based Course Registration System (CRS) to
+automate and streamline the entire workflow.
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibility based on completed prerequisites, submit
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitlist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades, and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds.  Because student records and grade data
+are sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must
+ENG  9:39 PM
+US  4/22/2026
+
+### 12:02
+Ở cốc cốc  Home - Google Drive  Luyện tập Q4 - Google Doc X  • TQMaster - Nen tảng luyện thi | +  La
+< >  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0
+88  • Tất cả dấu trang
+Luyện tập Q4 # =  +
+Share
+File Edit View Insert Format Tools  Extensions Help
+5c A 810% =  Normal text  Arial  - 11 + BIU A  Editing
+.?..
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibility based on completed prerequisites, submit
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitlist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades, and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must
+be governed by a role-based access control (RBAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements (FRs)
+ENG  9:39 PM
+US  4/22/2026
+
+### 12:14
+Ở cốc cốc  • Home - Google Drive  Luyện tập Q4 - Google Doc  • TQMaster - Nen tảng luyện thi | +  La  ...
++ > G  @ docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  I CO
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Q s  A, § 100% -  Normal text  Arial  | - 11  Editing
+4
+user accounts, contigures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TS 1.2 or higher, and access must
+be governed by a role-based access control (RBAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements (FRs)
+into appropriate quality categories (e.g., Performance, Security, Availability, Usability, Scalability,
+Maintainability). For each NFR, write one measurable acceptance criterion. Present your
+E  ENG  9:39 PM
+US  4/22/2026
+
+### 12:21
+Ở cốc cốc  Home - Google Drive  Luện tập Q4 - Google Doc  & TQMaster - Nen tảng luyện thi | +  Ca
+< >  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0
+88  • Tất cả dấu trang
+Luyện tập Q4 # =  +
+Share
+File Edit View Insert Format Tools  Extensions Help
+Normal text -  Arial  I - 11  +  I U
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibility based on completed prerequisites, submit  1 of 17
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitlist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades, and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must
+be governed by a role-based access control (RBAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements (FRs)
+ENG  9:39 PM
+US  4/22/2026
+
+### 12:22
+Ở cốc cốc  Home - Google Drive  Luyện tập Q4 - Google Doc X  & TQMaster - Nễn tảng luyện thi | +  Ca
+< >  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  CD
+88  • Tất cả dấu trang
+Luyện tập Q4 #  +
+Share
+File Edit View Insert Format Tools  Extensions Help
+5 A 100% •  Normal text -  Arial  - 11 + BIU A  Editing
+slow, and creates long queues during the registration window. The university's administration
+has therefore decided to commission a web-based Course Registration System (CRS) to
+automate and streamline the entire workflow.
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibility based on completed prerequisites, submit
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitlist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades, and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+generating enrolment and grade-distibution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TS 1.2 or higher, and access must
+be governed by a role-based access control (RBAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+ENG  9:39 PM
+US  4/22/2026
+
+### 12:23
+cốc cốc  Home - Google Drive  Luyện tập Q4 - Google Doc X  & TQMaster - Nen tảng luyện thi | +  Ca
+< >  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  I CO
+88  • Tất cả dấu trang
+Luyện tập Q4 # =  +
+Share
+File Edit View Insert Format Tools  Extensions Help
+scA 100% •  Normal text -  Arial  - 11) + B I U  Editing
+staff. Each semester, the university must manage course enrollment for all undergraduate and
+postgraduate programmes. Currently, students submit paper-based registration forms to their
+faculty office, and clerks manually enter the data into spreadsheets. This process is error-prone,
+slow, and creates long queues during the registration window. The university's administration
+N  has therefore decided to commission a web-based Course Registration System (CRS) to
+automate and streamline the entire workflow.
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibility based on completed prerequisites, submit
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitlist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades,  and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TS 1.2 or higher, and access must
+be governed by a role-based access control (RBAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+^  ENG  "Ф в  9:39 PM
+US  4/22/2026
+
+### 12:23
+i cốc cốc  Home - Google Drive  Luyện tập Q4 - Google Doc  & TQMaster - Nễn tảng luyện thi | +  Ca
+< >  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  CD
+88  • Tất cả dấu trang
+Luyện tập Q4 # •  +
+Share
+File Edit View Insert Format Tools  Extensions Help
+Normal text -  Arial  - 11+ BI UA•  Editing
+slow, and creates long queues during the registration window. The university's administration
+has therefore decided to commission a web-based Course Registration System (CRS) to
+automate and streamline the entire workflow.
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibility based on completed prerequisites, submit
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitlist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades, and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must
+be governed by a role-based access control (RAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+ENG  9:39 PM
+US  4/22/2026
+
+### 12:30
+Ở cốc cốc  Home - Google Drive  Luyện tập Q4 - Google Doc x  • TQMaster - Nẽn tảng luyện thi | +  La
+< →  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  I CO
+88  • Tất cả dấu trang
+Luyện tập Q4 # =  +
+Share
+File Edit View Insert Format Tools Extensions Help
+5caA A 8100%  Normal text  Arial  - 11 + BIU A  7= -  Editing
+.?..
+The CRS is expected to serve four main groups of users. Students need to browse the
+catalogue of available courses, check their eligibility based on completed prerequisites, submit
+registration requests, and track the status of each request in real time. If a course is fully
+booked, a student may join an electronic waitlist; should a registered student later drop the
+course, the system automatically notifies and enrolls the first eligible student on the waitlist.
+Lecturers need to review the roster of students enrolled in their courses, record midterm and
+final grades, and release grades to students once the grading period closes. Academic Staff
+(administrators) are responsible for defining the semester timetable, setting and publishing
+course quotas, opening and closing the registration window, approving exceptional cases, and
+generating enrolment and grade-distribution reports. Finally, a System Administrator manages
+user accounts, configures system parameters, and oversees scheduled data backups.
+From a technical standpoint, the university imposes several constraints. The system must
+remain responsive-handling at least 1,000 simultaneous users during peak registration
+periods with a page-response time under 3 seconds. Because student records and grade data
+are sensitive, all communication must be encrypted using TLS 1.2 or higher, and access must
+be governed by a role-based access control (RAC) model so that each user sees only the
+functions and data relevant to their role. The platform must be available 99.5% of the time
+during the semester, with any planned maintenance scheduled outside the registration
+window. The interface must be accessible on both desktop and mobile browsers and conform to
+WCAG 2.1 Level AA accessibility standards. The architecture should also support horizontal
+scaling so that additional server capacity can be added smoothly as student numbers grow in
+future years.
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements (NFRs)
+^  ENG  9:39 PM
+US  4/22/2026
+
+### 16:28
+Ở cốc cốc  & Home - Google Drive  Luyện tập Q4 - Google Doc ×  +  La
+< >  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  I CO
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert Format Tools  Extensions Help
+Normal text  Arial  | - 11] +  / Editing
+4  ....!.
+PRACTICE EXAM 4: ECO-STAY HOTEL RESERVATION
+SYSTEM (EHRS)
+I. CASE STUDY
+"Eco-Stay" is a boutique hotel chain focused on sustainability. To reduce paper waste and
+improve guest experience, they are implementing the Eco-Stay Hotel Reservation System
+(EHRS).
+Guests will use the system to book rooms, select "green" amenities, and perform self-check-in
+via QR codes. Housekeeping staff use a mobile tablet interface to mark rooms as "cleaned" or
+"maintenance required." Hotel Managers set seasonal room rates, manage inventory across
+multiple booking sites (Expedia, Booking.com), and analyze occupancy trends. Technical
+Support staff manage the API connections with external payment gateways.
+The system must be highly responsive, with a checkout process that takes no more than 4
+clicks. Given the global nature of their guests, the interface must support English, French, and
+Vietnamese. The system should be hosted on "green" servers (carbon-neutral data centers).
+For security, guest credit card info must never be stored on local servers. Finally, the system
+must be able to integrate with future "Smart Room" loT devices (AC and lighting control) via a
+standard APi layer.
+Question 4: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements
+(NFRs) into appropriate quality categories. For each NFR, write one measurable
+E  ENG  10:02 PM
+US  4/22/2026
+
+### 16:31
+Ở cốc cốc  • Home - Google Drive  Luyện tập Q4 - Google Doc ×  +  La
+< >  docs.google.com/document/d/1tqipjS0QevjmOlb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  CD
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Normal text  Arial  +  Editing
+"bank statements), it must undergo monthly penetration testing and strictly follow the Principle of
+Least Privilege. The system must achieve 99.99% availability because downtime directly results
+in lost revenue. The architecture must be modular (microservices) to allow the dev team to
+update the credit-scoring algorithm without taking the whole system offline.
+Question 3: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements
+(NFRs) into appropriate quality categories. For each NFR, write one measurable
+acceptance criterion. Present your answer as a table with the columns: Category | NFR
+Description | Acceptance Criterion. (0.9 points)
+2. Identify TWO NERs from your table that may conflict with each other. Explain the conflict
+and propose a trade-off strategy. (0.1 points)  7 of 17
+PRACTICE EXAM 4: ECO-STAY HOTEL, RESERVATION
+SYSTEM (EHRS)
+I. CASE STUDY
+"Eco-Stay" is a boutique hotel chain focused on sustainability. To reduce paper waste and
+improve guest experience, they are implementing the Eco-Stay Hotel Reservation System
+(EHRS).
+Guests will use the system to book rooms, select "green" amenities, and perform self-check-in
+via QR codes. Housekeeping staff use a mobile tablet interface to mark rooms as "cleaned" or
+"maintenance required." Hotel Managers set seasonal room rates, manage inventory across
+multiple booking sites (Expedia, Booking.com), and analyze occupancy trends. Technical
+Support staff manage the API connections with external payment gateways.
+The system must be highly responsive, with a checkout process that takes no more than 4
+^  ENG  10:02 PM
+US  4/22/2026
+
+### 16:32
+Ở cốc cốc  & Home - Google Drive  5] Luyện tập Q4 - Google Doc X  +  La
+< → C® docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  CD
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Normal text  Arial  | - 11] +  / Editing
+assessment process, which currently takes up to 7 working days.
+The FLAE serves several stakeholders. Applicants fill out digital loan forms, upload income
+proof, and receive instant preliminary decisions. Credit Officers review flagged applications that
+7 of 17
+the Al cannot decide on. Compliance Officers ensure all approved loans meet national financial
+regulations. System Admins monitor the APi integrations with national credit bureaus.
+The system's core value is speed; the automated credit check must return a result within 10
+seconds. Since the engine handles highly sensitive financial data (Social Security numbers,
+bank statements), it must undergo monthly penetration testing and strictly follow the Principle of
+Least Privilege. The system must achieve 99.99% availability because downtime directly results
+in lost revenue. The architecture must be modular (microservices) to allow the dev team to
+update the credit-scoring algorithm without taking the whole system offline.
+Question 3: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements
+(NFRs) into appropriate quality categories. For each NFR, write one measurable
+acceptance criterion. Present your answer as a table with the columns: Category | NFR
+E  ENG  10:02 PM
+US  4/22/2026
+
+### 16:32
+Ở cốc côc  • Home - Google Drive  Luyện tập Q4 - Google Doc X  +  La
+< >  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  CD
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+95c8 AS 100% ~  Normal text  Arial  - 11  I U  / Editing
+1. CASE STUDY
+"Nexus Logistics" is a rapidly growing delivery firm that connects local retailers with independent
+couriers. The company is struggling with its current manual dispatching system, which results in
+inefficient routes and late deliveries. They are commissioning the Nexus E-commerce
+The NELP will support four user roles. Retailers upload bulk orders and track delivery progress.
+Couriers use a mobile app to accept delivery tasks, use GPS for navigation, and upload "proof
+of delivery" photos. Customers track their packages in real-time and rate their delivery
+experience. Operations Managers monitor the entire fleet, generate performance reports, and  6 of 17
+manage courier payouts.
+Technically, the mobile app must work rellaby even in areas with low 4G connectivity
+(offline-first capability). The system must handle up to 5,000 order updates per minute during
+holiday sales peaks. All financial transactions must be audit-ready and comply with PCI-DSS
+security standards. The platform needs to be compatible with both Android and iOS devices. To
+ensure business continuity, the database must be backed up every 15 minutes to a secondary
+cloud region.
+Question 2: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements
+(NFRs) into appropriate quality categories. For each NFR, write one measurable
+acceptance criterion. Present your answer as a table with the columns: Category | NFR
+Description | Acceptance Criterion. (0.9 points)
+2. Identify TWO NFRs from your table that may conflict with each other. Explain the conflict
+and propose a trade-off strategy. (0.1 points)
+PRACTICE EXAM 3: FINTECH LOAN APPROVAL ENGINE
+ENG  10:02 PM
+US  4/22/2026
+
+### 16:33
+Ở cốc cốc  Home - Google Drive  Luện tập Q4 - Google Doc X  +  La
+< >  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  CD
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert  Format Tools  Extensions Help
+5c8A1  Normal text -  Arial  | - 11  +  I U A  #SEE E  EX  / Editing
+PRACTICE EXAM 1: SMART HEALTHCARE
+MANAGEMENT SYSTEM (SHMS)
+I. CASE STUDY
+"HealthyLife Clinic" is a busy medical center transitioning from legacy record-keeping to a
+modern Smart Healthcare Management System (SHMS). The clinic manages 15,000 active
+patients and 50 healthcare professionals. Currently, appointment scheduling is handled via  5 of 17
+phone calls, and medical histories are stored in physical folders, leading to frequent
+misplacement of files and scheduling overlaps.
+The SHMS must allow Patients to book appointments, view their lab results, and message their
+doctors. Doctors need to access patient EHRs (Electronic Health Records), write digital
+prescriptions, and view their daily consultation schedules. Nurses handle patient intake data,
+such as vitals and allergies. Receptionists manage the billing process and verify insurance
+coverage.
+Technical constraints are strict: the system must process 500 concurrent clinic visits daily
+without lag. Patient data privacy is paramount, requiring multi-factor authentication (MFA) and
+high-level encryption. The system must be operational 24/7 for emergency access to records,
+and the Ul must be intuitive enough for elderly patients to navigate easily. As the clinic plans to
+open three new branches next year, the system must be able to handle a 300% increase in data
+volume without a total rewrite.
+Question 1: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements
+(NFRs) into appropriate quality categories. For each NFR, write one measurable
+acceptance criterion. Present your answer as a table with the columns: Category | NFR
+Description | Acceptance Criterion. (0.9 points)
+the conflict
+ENG  10:02 PM
+US  4/22/2026
+
+### 23:55
+Ở cốc cốc  • Home - Google Drive  Luyện tập Q4 - Google Doc ×  +  La  ...
+< >  docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  I CO
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+95ca A S 100% = Normal text =  Arial  | 11  +
+3
+prescriptions, and view their daily consultation schedules. Nurses handle patient intake data,
+such as vitals and allergies. Receptionists manage the billing process and verify insurance
+coverage.
+Technical constraints are strict: the system must process 500 concurrent clinic visits daily
+without lag. Patient data privacy is paramount, requiring multi-factor authentication (MA) and
+high-level encryption. The system must be operational 24/7 for emergency access to records,
+and the Ul must be intuitive enough for elderly patients to navigate easily. As the clinic plans to
+open three new branches next year, the system must be able to handle a 300% increase in data
+volume without a total rewrite.
+6 of 18
+Question 1: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements
+(NFRs) into appropriate quality categories. For each NFR, write one measurable
+acceptance criterion. Present your answer as a table with the columns: Category | NFR
+Description | Acceptance Criterion. (0.9 points)
+2. Identify TWO NFRs from your table that may conflict with each ottler. Explain the conflict
+and propose a trade-off strategy. (0.1 points)
+PRACTICE EXAM 2: NEXUS E-COMMERCE LOGISTICS
+PLATFORM (NELP)
+E  ENG  10:09 PM
+US  4/22/2026
+
+### 23:56
+Ở cốc cốc  Home - Google Drive  Luyện tập Q4 - Google Doc  +  La  ...
+< >  docs.google.com/document/d/1tqipjS0QevjmLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  I CO
+88  • Tất cả dấu trang
+Luyện tập Q4 # G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Normal text -  Arial  - | 11  +
+6
+PRACTICE EXAM 1: SMART HEALTHCARE
+MANAGEMENT SYSTEM (SHMS)
+I. CASE STUDY
+"HealthyLife Clinic" is a busy medical center transitioning from legacy record-keeping to a
+modern Smart Healthcare Management System (SHMS). The clinic manages 15,000 active
+patients and 50 healthcare professionals. Currently, appointment scheduling is handled via
+phone calls, and medical histories are stored in physical folders, leading to frequent  6 of 18
+misplacement of files and scheduling overlaps.
+The SHMS must allow Patients to book appointments, view their lab results, and message their
+doctors. Doctors need to access patient EHRs (Electronic Health Records), write digital
+prescriptions, and view their daily consultation schedules. Nurses handle patient intake data,
+such as vitals and allergies. Receptionists manage the billing process and verify insurance
+coverage.
+Technical constraints are strict: the system must process 500 concurrent clinic visits daily
+without lag. Patient data privacy is paramount, requiring multi-factor authentication (MFA) and
+high-level encryption. The system must be operational 24/7 for emergency access to records,
+and the Ul must be intuitive enough for elderly patients to navigate easily. As the clinic plans to
+open three new branches next year, the system must be able to handle a 300% increase in data
+volume without a total rewrite.
+Question 1: Non-Functional Requirements (1.0 points)
+1. From the case study, identify and classify at least FOUR non-functional requirements
+(NFRs) into appropriate quality categories. For each NFR, write one measurable
+acceptance criterion. Present your answer as a table with the columns: Category | NFR
+Description | Acceptance Criterion. (0.9 points)
+ENG  10:09 PM
+US  4/22/2026
+
+### 24:06
+G ci côc  & Home - Google Drive  E Luyện tập Q4 - Google Docs  C Thẻ mới  +  La ..  • x
++ → c el  Q) 2 I c  L 1Ф =
+88  C Tất cả dấu trang
++
+• Tìm kiếm với Cốc Cốc L
+ENG  ф)  10:09 PM
+US  4/22/2026
+
+### 24:06
+Ở cốc cốc  & Home - Google Drive  E Luyện tập Q4 - Google Docs  C Thẻ mới  +  La ..
+< > C (°  Q
+88  • Tất cả dấu trang
++
+Tìm kiếm với Cốc Cốc
+ENG  Ф)  10:09 PM
+US  4/22/2026
+
+### 24:06
+Ở cốc cốc  & Home - Google Drive  E Luyện tập Q4 - Google Docs  Thẻ mới  +  La
+88  • Tất cả dấu trang
++
+- Thành phố Vĩnh Yên  ExPro :  ExPro
+f  C  50
+Tincm mct  Xin vào lớp  Facebook  labox (351)  Giao Dich Forex  Nhin S50
+Tìm kiếm với Cốc Cốc
+• Tin nóng  Công an thông báo tới tất cả  Man City giữ chân Pep bằng
+những ai nhận được tin nhắn có  bom tấn đát kỳ lục
+nội dung sau
+Công nghệ  Thể thao
+KENH14 - 1 ngày trước  ZNEWS - 1 ngày trước  ..
+Pháp luật
+"Nữ 'thăv bói" nõ có người phù hô. lừa aăn 100 tỉ đồng")
+ENG  Ф)  10:09 PM
+US  4/22/2026
+
+### 24:09
+Ở cốc cốc  & Home - Google Drive  Luyện tập Q4 - Google Docs  C Thẻ mới  +  Lal
+< >  uanvaquanfptu-1.onrender.com
+88  Học cùng Tuấn và Quân - Nến tảng học tập FPT University - tuanvaquanfptu-1.onrender.com  • Tất cả dấu trang
++
+- Thành phố Vĩnh Yêa  TQMaster - Nền tảng luyện thi trực tuyến - tuanvaquantop1.onrender.com
+V Học cùng Tuấn và Quân - Nên tăng học tập FPT University - tuanvaquanfpt.onrender.com
+TikTok Tik Tok - Phần mềm
+Q trò chơi - Tìm kiếm trên Cốc Cốc
+Q  tv360
+TQMaster - Nên tảng luyện thi trực tuyến - tuanvaquantop1.onrender.com/admin/dashboard
+• Tin nóng  Công an thông báo tới tất cả  Man City giữ chân Pep bằng
+những ai nhận được tin nhắn có  bom tấn đát kỳ lục
+nội dung sau
+Công nghệ  Thể thao
+KENH14 - 1 ngày trước  Z ZNEWS - 1 ngày trước
+Pháp luật
+"Nữ thăv bói" nổ có người phù hô. lừa aăn 100 ti đòng"
+ENG  10:09 PM
+US  4/22/2026
+
+### 24:10
+Ở cốc cốc  & Home - Google Drive  =l l  Luyện tập Q4 - Google Docs  Thẻ mới  +  La
+→
+88  • Tất cả dấu trang
+t - Tìm kiếm trên Cốc Cóc
++
+• Thành phố Vĩnh Yên  Học cùng Tuấn và Quân - Nên táng học tập FPT University  ExPm 2  FxPro
+A  f  C  50
+TQMaster - Nên tảng luyện thi trực tuyến - tuanvaquanto  onrendentom
+Xin vào lớp  inhox G51  Gino Dich Forez
+Học cùng Tuăn và Quân - Nèn táng học tập FPT University - tuanvaquanfpt.onrender.com
+Tìm kiếm với Cốc Cốc
+taá in Tuổi Trẻ (báo) - Báo chí
+Q từ điển anh việt - Tìm kiếm trên Cốc Cốc
+Q  tử chiến trên không
+TQMaster - Nên tảng luyện thi trực tuyến - tuanvaquantojr1.onrender.com/admin/dashboard
+Tin nóng  Công an thông báo tới tất cả  Man City giữ chân Pep bảng
+những ai nhận được tin nhắn có  bom tấn đát kỳ lục
+nội dung sau
+Công nghệ  Thể thao
+14)  KENH14 - 1 ngày trước  Z ZNEWS - 1 ngày trước
+Giảo dục
+Nhiều sinh viên mới ra trường đạt mức lương 20 triệu đồng/tháng trở  203
+lên
+ENG  10:09 PM
+US  4/22/2026
+
+### 24:12
+Ở cốc cốc  & Home - Google Drive  5 Luyện tập Q4 - Google Doc X  +  La ..
+< >  @ docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  " ®  LI4 =
+• Tất cả dấu trang
+Luyện tập Q4 # •  +
+Share
+File  Edit View Insert Format Tools  Extensions Help
+Q 5  Arial  -  11  +  U  A 0  V•E•E-EEX
+1  neyworas no  6  r..!u
+Category
+nhanh
+Performance  speed, response
+time
+Security  login, encryption
+Availability  uptime
+Usability  easy to use
+Scalability  nhiều user
+Maintainabili  dễ sửa code
+ty
+203
+^ E Q  ENG  10:09 PM
+US  4/22/2026
+
+### 24:14
+& CopCut  Menu ~  Auto saved: 21:56:13  0422  • Pro  E Share  Export
+TI  Player-Timeline 01  Project  Details
+Media  Text  Transitions Captions  Filters  Adjustment  Temple
+Import  Import  i Record
+Yours  All  Smart suggestions (se left this.m
+Added  Find out how your video can be improved
+Al media
+Spaces  * Analyze
+Library  Question 4: Non-Functional Requirements (1.0 points)
+2026-04-216-54.mp4
+Dreamina
+Global edits
+*8.  Make colors better
+Make colors consistent
+Make volume consistent
+00:16:27:28  00:16:27:28  Ratio
+Make unice clearer
++  ฿ v  JC  JE  8-3  ch -
+00:00  110:00  | 20:00  | 30:00  140:00  150:00  [01:10:00
+2026-04-22_21-16-54.mp4 00:16:27:28
+Cover  & CapCut
+Keyboard shortcut conflicts with an
+existing one
+Record screen: [Ctri-Alt+P]
+Don't remind me again
+ENG  10:09 PM
+US  4/22/2026
+
+### 24:14
+Ở cốc cốc  Home - Google Drive  Luyện tập Q4 - Google Doc X  +  La ..
+< >  @ docs.google.com/document/d/1tqipjS0QevjmOLb6L-HMhp23907bJg85t94CaS_HJg0/edit?tab=t.0  410 =
+• Tất cả dấu trang
+Luyện tập Q4 # G  +
+• • • a-  • Share
+File  Edit View Insert Format Tools  Extensions Help
+Q 5  c a A S 100% = | Normal text =  Arial  - 11 +  E-#*•E•E•EEX:  / -
+1  neyworas no  3  4  5  6  M..!.
+Category
+nhanh
+Performance  speed, response
+time
+Security  login, encryption
+Availability  uptime
+Usability  easy to use
+Scalability  nhiều user
+Maintainabili  dễ sửa code
+ty
+^ E Q  10:09 PM
+4/22/2026
+

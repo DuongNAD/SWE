@@ -1,0 +1,4 @@
+id=b7
+file=YTSave_YouTube_Buoi-7-Luyen-tap-Q7-Cach-viet-test-case_Media_8QTtCmm6Fq0_002_720p.mp4
+duration_sec=2462
+frame_interval=5

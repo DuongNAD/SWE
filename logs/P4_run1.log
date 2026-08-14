@@ -1,0 +1,13 @@
+Bài làm của bạn đã được tôi hoàn thành và ghi ra file theo đúng quy trình 4 bước của `P4_lam_bai_khi_thi.md` và tuân thủ chặt chẽ template cùng rubric. 
+
+Bạn có thể xem kết quả chi tiết ở file: [run1.md](file:///Users/duongnad/Documents/project/SWE/page/out/run1.md). 
+
+Tóm tắt các phần đã giải quyết:
+- **Câu 1:** Đánh giá việc sử dụng mô hình Kanban cho dự án, đã trích dẫn dữ kiện từ đề (đội ngũ chéo 4-5 dev/BA, yêu cầu liên tục thay đổi, release tính năng liên tục).
+- **Câu 2:** Lên danh sách 4 giai đoạn kiểm thử từ thấp đến cao (Unit -> Integration -> System -> Acceptance) và vai trò cụ thể.
+- **Câu 3:** Trích xuất đúng 5 Functional Requirements, 3 Security Requirements và 2 Scalability Requirements có bao gồm các chỉ số (VD: MFA, TLS 1.3, AES-256, 200 POS sessions).
+- **Câu 4:** Viết 5 User Story dựa trên 5 chức năng đã xác định với đủ các thành phần `As a... I want to... so that...`.
+- **Câu 5:** Mô tả và ứng dụng cụ thể Observer Pattern (phát Alert sai lệch thanh toán) và Singleton Pattern (Quản lý luồng log hệ thống duy nhất) vào hệ thống QVM.
+- **Câu 6:** Xây dựng Story Map phần "Manage Product Sales" tuân thủ cấu trúc text-based của hệ thống thi EOS.
+
+Nếu cần điều chỉnh nội dung nào hoặc làm đề khác, hãy cho tôi biết nhé!

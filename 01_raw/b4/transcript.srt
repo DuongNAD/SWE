@@ -1,0 +1,1184 @@
+1
+00:00:00,000 --> 00:00:06,000
+Hello anh em nhé! Trong video này mình sẽ làm 1 video trước câu 4 anh em nhé.
+
+2
+00:00:06,000 --> 00:00:10,000
+Mình sẽ dẫn anh em làm câu 4 và mình đã làm ra cái template cho anh em rồi.
+
+3
+00:00:10,000 --> 00:00:17,000
+Bởi vì là mình mới nhận được thông tin chính thức là tất cả các campus thì đều thi bằng PEI anh em nhé.
+
+4
+00:00:17,000 --> 00:00:23,000
+Cho nên là anh em có thể copy paste và anh em nhớ tải cho mình toàn bộ các cái tài liệu mình gửi anh em nhé.
+
+5
+00:00:23,000 --> 00:00:31,060
+Ừ ok thì đầu tiên này đó là các kiến thức các kiến thức liên quan thì trong câu 4 này em nhìn qua
+
+6
+00:00:31,060 --> 00:00:37,880
+đây này thì có muốn này lúc nào nó sẽ cho em cây ta đi này đó trong đó nó sẽ bạn nhầm liệt kê ra
+
+7
+00:00:37,880 --> 00:00:43,460
+ít nhất là bốn cái non functional requirement thì cái này là gì thì cứ nhớ cho mình nếu mà
+
+8
+00:00:43,460 --> 00:00:50,240
+phân xử nộp requirement thì nó là hệ thống làm cái gì Còn nếu mà non phân xử nộp requirement
+
+9
+00:00:50,240 --> 00:00:51,860
+thì nó sẽ là hệ thống hoạt động như thế nào
+
+10
+00:00:51,860 --> 00:00:52,880
+để cho anh em
+
+11
+00:00:52,880 --> 00:00:54,800
+anh em hãy nhìn nhé
+
+12
+00:00:54,800 --> 00:00:56,980
+non functional requirement
+
+13
+00:00:56,980 --> 00:00:58,820
+nó chính là chất lượng của hệ thống
+
+14
+00:00:58,820 --> 00:01:01,520
+và phải đo lường bằng các con số cụ thể
+
+15
+00:01:01,520 --> 00:01:02,500
+để cho anh em
+
+16
+00:01:02,500 --> 00:01:06,260
+ví dụ như là hệ thống này cần phải hoạt động nhanh
+
+17
+00:01:06,260 --> 00:01:08,260
+với hiệu suất nhanh
+
+18
+00:01:08,260 --> 00:01:09,080
+anh em không được nói như vậy
+
+19
+00:01:09,080 --> 00:01:10,420
+anh em phải nói rõ ra
+
+20
+00:01:10,420 --> 00:01:12,920
+ví dụ như là 1.000 người dùng
+
+21
+00:01:12,920 --> 00:01:15,400
+gửi request
+
+22
+00:01:15,400 --> 00:01:17,340
+thì nó sẽ phản hồi
+
+23
+00:01:17,340 --> 00:01:18,700
+trong 3 giây
+
+24
+00:01:18,700 --> 00:01:20,600
+dưới 3 giây, ví dụ như vậy
+
+25
+00:01:20,600 --> 00:01:22,900
+đấy, đấy là về hiệu suất
+
+26
+00:01:22,900 --> 00:01:24,740
+hay là vân vân, nhiều thứ
+
+27
+00:01:24,740 --> 00:01:25,760
+anh em nhé, đó
+
+28
+00:01:25,760 --> 00:01:28,060
+hay là các cái loại, đây này
+
+29
+00:01:28,060 --> 00:01:30,180
+các cái phổ biến này, như là hiệu suất
+
+30
+00:01:30,180 --> 00:01:32,340
+bảo mật, hay là mấy cái này nói chung là
+
+31
+00:01:32,340 --> 00:01:34,580
+nó lại ít nhất 4 cái mà, thì mình sẽ
+
+32
+00:01:34,580 --> 00:01:36,480
+liệt kê khoảng 5 cái để ăn được điểm tối đa
+
+33
+00:01:36,480 --> 00:01:37,960
+để chơi nhé, đó
+
+34
+00:01:37,960 --> 00:01:39,440
+và tiếp theo là các
+
+35
+00:01:39,440 --> 00:01:42,380
+nó sẽ hỏi anh em là, các cái xung đột với nhau
+
+36
+00:01:42,380 --> 00:01:43,800
+chọn ra 2 cái mà xung đột với nhau
+
+37
+00:01:43,800 --> 00:01:45,760
+thì thông thường, phổ biến nhé anh em nhé
+
+38
+00:01:45,760 --> 00:01:48,260
+thì là cứ 2 cái này xung đột với nhau
+
+39
+00:01:48,260 --> 00:01:51,540
+Nói chung là đây là một vài cái hay có cái xung đột với nhau
+
+40
+00:01:51,540 --> 00:01:52,760
+Để chơi nhé
+
+41
+00:01:52,760 --> 00:01:56,280
+Thì bây giờ mình sẽ hướng dẫn anh em
+
+42
+00:01:56,280 --> 00:01:59,520
+Cách để làm để chơi nhau
+
+43
+00:01:59,520 --> 00:02:00,720
+Thì trên này có một số mẹo rồi
+
+44
+00:02:00,720 --> 00:02:03,260
+Đến đâu thì mình sẽ mẹo đến đấy anh em nhé
+
+45
+00:02:03,260 --> 00:02:03,940
+Ok
+
+46
+00:02:03,940 --> 00:02:06,920
+Thì đầu tiên anh em nhìn nhé
+
+47
+00:02:06,920 --> 00:02:09,260
+Để nói cho có anh em gì phải làm đúng 3 cuộc này
+
+48
+00:02:09,260 --> 00:02:12,560
+Thì bây giờ mình sẽ làm đúng 3 cuộc nhé
+
+49
+00:02:12,560 --> 00:02:13,320
+Mình cứ vẽ ra này
+
+50
+00:02:17,320 --> 00:02:17,960
+Chết rồi
+
+51
+00:02:17,960 --> 00:02:41,720
+Ok thì đây nhau mình sẽ mấy bạn đây nhanh nhé Nhìn xuất thay bồ này mình sẽ vẽ 1234 Ok thế này nhá
+
+52
+00:02:41,720 --> 00:02:51,380
+mình sẽ chỉnh vài nơi bởi vì mình sẽ biết 5 cái thì xinh đồng tiền là cái con này tiếp theo thì mình
+
+53
+00:02:51,380 --> 00:03:03,320
+sẽ có là mô tả được sinh em em mô tả nhé mình sẽ làm đúng nhau thì nhá trong đêm lúc em đi thì nó
+
+54
+00:03:03,320 --> 00:03:17,960
+là các anh em phải đo lường này phải có các số cụ thể mình xóa ra mình có đã có có phép tình nhân
+
+55
+00:03:17,960 --> 00:03:25,520
+Ok đây nhá
+
+56
+00:03:25,520 --> 00:03:41,960
+Ok đó thì đây nhá đầu tiên này chắc chắn rồi mình sẽ làm đầu tiên là performance hiệu suất anh em nhé
+
+57
+00:03:41,960 --> 00:03:49,460
+tiếp theo là mình sẽ có là security này
+
+58
+00:03:49,460 --> 00:03:58,040
+bảo mật này tiếp theo là mình sẽ có là khả dụng nó
+
+59
+00:03:58,040 --> 00:04:08,900
+Ok thì tiếp theo nữa là mình sẽ có là đây
+
+60
+00:04:08,900 --> 00:04:23,900
+tiếp theo nữa là
+
+61
+00:04:23,900 --> 00:04:30,140
+khả dụng này này dễ sử dụng này và
+
+62
+00:04:30,140 --> 00:04:44,760
+Ok nó là mở rộng tiếp theo này thì bây giờ mình sẽ đến cái mô tả này nó chơi nhé
+
+63
+00:04:44,760 --> 00:04:51,020
+thì bây giờ anh nhìn vào cái tên bếp mình nhá Đây này đó cái này là cái mô tả trên nhau
+
+64
+00:04:51,020 --> 00:05:02,420
+biết rõ rồi nhé Đây là cái mô tả thì em sẽ chỉ cần lá system sốt và thêm cái action hoặc là
+
+65
+00:05:02,420 --> 00:05:09,980
+cái quay ti vào để cho nhau thì bây giờ mình sẽ làm nào bây giờ ví dụ nhé mình sẽ do system sốt
+
+66
+00:05:09,980 --> 00:05:19,780
+này mình cứ vứt vào đây đó anh em đó thì ví dụ nhé hiệu suất đúng không thì anh em hiệu suất
+
+67
+00:05:19,780 --> 00:05:24,280
+anh em có thể mô tả nhá à không Bây giờ mình sẽ dẫn anh em làm cái này trước để cho anh em cái này
+
+68
+00:05:24,280 --> 00:05:28,960
+thì anh em chỉ cần việc copy vết thôi được chưa Ví dụ như hiệu suất này nhìn vào đây nhá anh em
+
+69
+00:05:28,960 --> 00:05:33,760
+chỉ quan tâm đoạn cuối mình nhá nhớ nhau này chỉ quan tâm bạn của anh thì đây anh em nhìn anh em
+
+70
+00:05:33,760 --> 00:05:42,740
+có biết luôn mình từ chỗ này không ạ Ừ ok chưa system này em copy luôn mình nhá chỉ cần copy
+
+71
+00:05:42,740 --> 00:05:45,020
+Đừng nghĩ nhiều để cho anh em copy luôn
+
+72
+00:05:45,020 --> 00:05:45,800
+Đó
+
+73
+00:05:45,800 --> 00:05:47,740
+Vứt vào đây cho mình
+
+74
+00:05:47,740 --> 00:05:49,260
+Nhớ cho mình nhé
+
+75
+00:05:49,260 --> 00:05:50,280
+Anh em chỉ cần copy
+
+76
+00:05:50,280 --> 00:05:53,120
+Đó được chưa
+
+77
+00:05:53,120 --> 00:05:54,640
+Chỉ cần copy thôi
+
+78
+00:05:54,640 --> 00:05:57,180
+Tiếp theo này
+
+79
+00:05:57,180 --> 00:05:58,860
+Thì mình sẽ nhìn cái gì đây
+
+80
+00:05:58,860 --> 00:06:01,960
+Đây anh em nhìn nhé
+
+81
+00:06:01,960 --> 00:06:03,240
+Because này
+
+82
+00:06:03,240 --> 00:06:05,500
+Anh em chỉ copy cho mình thôi nhé
+
+83
+00:06:05,500 --> 00:06:07,240
+Thì nó là copy cái câu này này
+
+84
+00:06:07,240 --> 00:06:09,160
+Chứ đừng copy nhiều quá anh em nhé
+
+85
+00:06:09,160 --> 00:06:10,460
+Đó ok chưa
+
+86
+00:06:10,460 --> 00:06:18,140
+cho mình đến hết cái này
+
+87
+00:06:18,140 --> 00:06:26,000
+đó ok chưa đến hết chỗ này
+
+88
+00:06:26,000 --> 00:06:34,880
+ok được rồi nhá nó có hết cho này cho mình dán vào
+
+89
+00:06:34,880 --> 00:06:52,500
+đó sợ biết hoàng Ok tiếp theo này xong đây rồi nhá Ok xong bây giờ nhớ tiếp theo này em lại có
+
+90
+00:06:52,500 --> 00:07:02,160
+mình nó lại có tiếp giờ platform này cái chưa có luôn cho mình đến đây mình chơi nha nó có vào mất
+
+91
+00:07:02,160 --> 00:07:19,460
+vào tiếp theo này mình sẽ có gì đây à ở đây chắc có tiếp như thế này ở trên nha Đừng nghĩ nhiều anh
+
+92
+00:07:19,460 --> 00:07:30,340
+đó được chưa đó tiếp theo này em chỉ quan tâm bạn của nó mình thôi đây
+
+93
+00:07:30,340 --> 00:07:36,680
+mình sẽ nghe có đến đây nhá không cần đi sâu rác đâu được chưa nó
+
+94
+00:07:36,680 --> 00:07:43,700
+xong vậy là anh em đã hoàn thành xong cái đầu tiên đấy nhỉ Nó đi thi như này là anh
+
+95
+00:07:43,700 --> 00:07:48,780
+em đã hoàn thành xong cái đầu tiên cho anh em đó sau đó thì mình bắt đầu viết cái mô tả này
+
+96
+00:07:48,780 --> 00:07:52,740
+cho anh em và bây giờ trước khi biết mô tả anh em chờ mình xuống nha mình sẽ uống cốc nước đây
+
+97
+00:07:52,740 --> 00:08:06,840
+Ok mình sẽ tiếp tục nha Ok thì ở đây nãy mình vừa ăn hành xong à Nhưng mà khoan chỗ này anh em nhìn
+
+98
+00:08:06,840 --> 00:08:10,800
+nha Nếu mà anh em nhìn này thì nó lại không có tính chất đo lượng anh em nhá Thì thôi tốt nhất
+
+99
+00:08:10,800 --> 00:08:19,980
+mình làm được 4 đủ 4 cái Ok thì bây giờ nhớ ở đây nhá thì bây giờ mình sẽ có cái gì ở đây ví dụ
+
+100
+00:08:19,980 --> 00:08:30,600
+bây giờ mình bắt đầu nhá anh em bám sát vào cái tên lên đây đó bây giờ mình sẽ cần là the system
+
+101
+00:08:30,600 --> 00:08:42,120
+xin họ là quality bây giờ nhớ cho mình này ví dụ bên này nó nói cái gì nó lại hệ thống phải thế
+
+102
+00:08:42,120 --> 00:08:49,620
+nào xử lý ít nhất 1.000 người dùng đúng không 1.000 người dùng này thế nào sẽ đăng ký kiểu
+
+103
+00:08:49,620 --> 00:08:55,320
+là đăng ký đồng thời và cái việc là cái trang này với cái việc là trang web này sẽ phản hồi là dưới
+
+104
+00:08:55,320 --> 00:09:03,200
+được cho nhau thì nghĩa là môi mình này có tải nào hệ thống thế nào hệ thống phải thế nào anh
+
+105
+00:09:03,200 --> 00:09:11,820
+em nhỉ hệ thống phải xử lý đúng không em đồ many user đúng không Bên này mình sẽ nói chung chung
+
+106
+00:09:11,820 --> 00:09:21,280
+anh em em đồng minh user ở menu giờ bắt được xem tham nghĩa là trong một thời điểm thêm xem tham
+
+107
+00:09:21,280 --> 00:09:35,200
+and rest on and rest on quickly trên ngang có gì nhé Đây này
+
+108
+00:09:35,200 --> 00:09:43,180
+được trên ngang đó mình sẽ nói về hai cái thứ nhất là speed thứ hai là phản hồi nhanh
+
+109
+00:09:43,180 --> 00:09:53,060
+tiếp theo này cái thứ hai này nó tất cả giao tiếp phải được mã hóa thì trên em cái này là tất cả dữ
+
+110
+00:09:53,060 --> 00:10:04,000
+liệu phải được mã hóa nó kiểu là lúc này thì mình nên để là tất cả data thì hợp lý hơn nhưng mà thôi
+
+111
+00:10:04,000 --> 00:10:09,940
+kệ không sao anh em nhé Nói chung là nó vẫn vậy thôi Nói chung là tất cả các dữ liệu này cần
+
+112
+00:10:09,940 --> 00:10:21,100
+được máy máy được chưa bằng cái tên lời s 1.2 này hoặc là cao hơn đó và truy cập phải thế nào đấy à
+
+113
+00:10:21,100 --> 00:10:27,400
+đúng rồi và truy cư nghĩa là cái này truy cập phải phân quyền bây giờ phân quyền theo rpac đây này
+
+114
+00:10:27,400 --> 00:10:34,300
+theo các cái vai trò này được chưa Nó nói chung là cái này thì sẽ làm gì đây em phải nhìn vào đây
+
+115
+00:10:34,300 --> 00:10:41,380
+anh vào đấy thì mình sẽ đi cái gì xử lý login và mã hóa được trên em thì bây giờ nghĩa là sao ở
+
+116
+00:10:41,380 --> 00:10:48,880
+chỗ này mình thế nào rồi system anh em thì dùng suốt hoặc là mất điều được anh em nhé đó bị hệ
+
+117
+00:10:48,880 --> 00:10:58,060
+thống phải làm gì đấy hệ thống phải thế nào được chưa Cô này thì nó sẽ là phải là anh em cứ nhớ
+
+118
+00:10:58,060 --> 00:11:02,560
+cho mình luôn được đi kia em không biết thì em cứ biết luôn cho mình là phải bảo vệ dữ liệu
+
+119
+00:11:02,560 --> 00:11:06,560
+sensitive data
+
+120
+00:11:06,560 --> 00:11:10,560
+tự nhiên nha, cứ nhớ cho mình như vậy
+
+121
+00:11:10,560 --> 00:11:14,560
+and ctrl access
+
+122
+00:11:18,560 --> 00:11:22,560
+tự nhiên nha, đó, thế thôi, chỉ cần viết này thôi
+
+123
+00:11:22,560 --> 00:11:26,560
+là được, thì anh em cứ giả mình như này thôi, nếu mà anh em gặp cái dạng này
+
+124
+00:11:26,560 --> 00:11:30,560
+anh em copy luôn này cho mình, được chưa, ok, tiếp theo này
+
+125
+00:11:30,560 --> 00:11:40,280
+cái này đó thì là cái này là gì đây thì cái này nó kiểu là hệ thống này nó sẽ phải hoạt động ít nhất
+
+126
+00:11:40,280 --> 00:11:51,800
+là 99,5 phần trăm thời gian trong cả cái trong cả cái như là hệ thống này phải hoạt động ít nhất là
+
+127
+00:11:51,800 --> 00:11:59,000
+95 99,5 phần trăm và nó sẽ kiểu là không bảo trì trong thời gian đăng ký được cho anh em đây này
+
+128
+00:11:59,000 --> 00:12:10,100
+cái này nó ghi mà đây hệ thống này sẽ phải hoạt động suốt này đó mà trong mà cái này này thì chưa
+
+129
+00:12:10,100 --> 00:12:16,100
+không được bảo trì trong cái thời gian mà đăng ký trong suốt thời gian và đăng ký ở trên nhé thì đây
+
+130
+00:12:16,100 --> 00:12:24,200
+thì nói chung là mình đang biết thiếu anh em nhé quên mất rồi nhớ ra thì bây giờ anh em sẽ phải copy
+
+131
+00:12:24,200 --> 00:12:25,200
+cho mình nhé
+
+132
+00:12:25,200 --> 00:12:30,720
+Đấy em có hết cái chỗ này cho mình nhé
+
+133
+00:12:30,720 --> 00:12:31,460
+Quên mất
+
+134
+00:12:31,460 --> 00:12:37,260
+Đấy chứ anh em
+
+135
+00:12:37,260 --> 00:12:38,040
+Đó
+
+136
+00:12:38,040 --> 00:12:42,420
+Nói anh em có cả câu đi cũng được
+
+137
+00:12:42,420 --> 00:12:44,560
+Đấy chứ anh em nói chung là cái này thực ra
+
+138
+00:12:44,560 --> 00:12:45,460
+Là
+
+139
+00:12:45,460 --> 00:12:47,740
+Làm này là để anh em
+
+140
+00:12:47,740 --> 00:12:50,100
+Cách tốt nhất để anh em đỡ phải nghĩ nhiều thôi
+
+141
+00:12:50,100 --> 00:12:51,980
+Còn nếu mà đúng ra nếu mà anh em viết ra ấy
+
+142
+00:12:51,980 --> 00:12:53,140
+Thì anh em sẽ phải viết ngắn gọn lại
+
+143
+00:12:53,140 --> 00:12:54,440
+viết cái chính thôi
+
+144
+00:12:54,440 --> 00:12:55,400
+được chứ anh em
+
+145
+00:12:55,400 --> 00:12:58,080
+nhưng mà thôi, không sao anh em nhé
+
+146
+00:12:58,080 --> 00:12:59,460
+anh em mê nguyên bảo tượng
+
+147
+00:12:59,460 --> 00:13:02,400
+thì bên này thì mình sẽ có cái gì
+
+148
+00:13:02,400 --> 00:13:05,180
+ví dụ bên này nhé
+
+149
+00:13:05,180 --> 00:13:05,960
+bên này thì là
+
+150
+00:13:05,960 --> 00:13:08,760
+tiếp theo sau cái bảo mật này, cái tính thả dụng đúng không anh em
+
+151
+00:13:08,760 --> 00:13:10,600
+cái tính thả dụng này mình sẽ có cái gì
+
+152
+00:13:10,600 --> 00:13:12,580
+thì là hệ thống này nên như thế nào
+
+153
+00:13:12,580 --> 00:13:14,520
+hệ thống này phải nên như thế nào
+
+154
+00:13:14,520 --> 00:13:15,860
+nên là
+
+155
+00:13:15,860 --> 00:13:18,320
+phải luôn hoạt động
+
+156
+00:13:18,320 --> 00:13:19,380
+nói chung là luôn hoạt động
+
+157
+00:13:19,380 --> 00:13:21,740
+thì nó sẽ là
+
+158
+00:13:21,740 --> 00:13:51,720
+là xuất đi à à à A
+
+159
+00:13:51,720 --> 00:13:58,720
+nó sẽ phải là truy cập trên desktop hoặc là mobile trình duyệt app đúng không?
+
+160
+00:13:58,720 --> 00:14:10,720
+và nó sẽ kiểu là hoạt động nó sẽ đạt chuẩn theo cái này
+
+161
+00:14:10,720 --> 00:14:13,720
+nó sẽ đạt chuẩn theo cái này
+
+162
+00:14:13,720 --> 00:14:24,100
+này nhé đó và đặt chuẩn theo cái này thì bây giờ mình sẽ ở đây mình sẽ biết là hệ thống nên nói
+
+163
+00:14:24,100 --> 00:14:31,160
+chung là nó sẽ cho là hệ thống phản dễ sử dụng trên nhiều thiết bị để cho anh em đó anh em
+
+164
+00:14:31,160 --> 00:14:54,260
+như thế nhá thì em thấy là bí ưu easy easy to use on a different different different device
+
+165
+00:14:54,260 --> 00:15:01,140
+Ừ rồi được chưa anh em đó em bị biết như này nhá Ok chưa đó
+
+166
+00:15:01,140 --> 00:15:12,680
+Ok đó thì anh em đi thì em cứ biết mình muốn đi chính này thôi em nhá nó được rồi thì ở đây
+
+167
+00:15:12,680 --> 00:15:17,900
+là mình đã xử lý xong cái đầu tiên được chưa Điếm kiếm đây là phần 1 nha anh em nhá đến phần
+
+168
+00:15:17,900 --> 00:15:29,480
+phần thứ hai này phần hai này mình sẽ xử lý gì mình sẽ đi làm bác hay Ok trong bác hai này thì
+
+169
+00:15:29,480 --> 00:15:34,900
+mình sẽ xử lý gì ví dụ anh em nhìn nhé trong phát hai này mình sẽ xử lý cái có click à à
+
+170
+00:15:36,360 --> 00:15:42,780
+anh sẽ xử lý phụ xung đột thì anh em cứ nhớ cho mình này mình sẽ hay dùng là anh em có
+
+171
+00:15:42,780 --> 00:15:55,620
+cho mình cái security em em performance cái này thì rất là quen thuộc anh em cứ làm cho mình cái này
+
+172
+00:15:55,620 --> 00:16:08,100
+đó được rồi đó mình sẽ xử lý cái này mà bật vài hiệu suất để sinh em đó thì ở đây nhá Nếu mà em
+
+173
+00:16:08,100 --> 00:16:12,920
+thì làm nó sẽ bảo em chọn ra 2 cái này
+
+174
+00:16:12,920 --> 00:16:15,540
+và giải thích rõ ràng này
+
+175
+00:16:15,540 --> 00:16:15,820
+đó
+
+176
+00:16:15,820 --> 00:16:18,580
+thì bây giờ mình sẽ giải thích nào
+
+177
+00:16:18,580 --> 00:16:20,260
+nói chung là cái phần này chỉ có 1 điểm thôi anh em
+
+178
+00:16:20,260 --> 00:16:21,660
+à chứ nhầm
+
+179
+00:16:21,660 --> 00:16:24,000
+phần này chỉ có không phải 1 điểm thôi anh em nhé
+
+180
+00:16:24,000 --> 00:16:25,960
+cho nên anh em cân nhắc nhé
+
+181
+00:16:25,960 --> 00:16:27,900
+thì bây giờ anh em nhìn này cái tem lết này
+
+182
+00:16:27,900 --> 00:16:30,900
+ok anh em, thế anh em nhìn đây cho mình nhé
+
+183
+00:16:30,900 --> 00:16:33,240
+nãy mình bận đi ra ngoài kia
+
+184
+00:16:33,240 --> 00:16:34,260
+đi công việc anh em nhé
+
+185
+00:16:34,260 --> 00:16:34,960
+ok
+
+186
+00:16:34,960 --> 00:16:42,820
+cho anh em đi trong bài này nãy mình đang xử lý đây rồi Ok thì bây giờ chỗ này em xử lý nào tiếp
+
+187
+00:16:42,820 --> 00:16:48,820
+thì em nhớ cho mình nhá Mình nói luôn anh em này khi mình dùng cái tên bếp như này thì nó rất là
+
+188
+00:16:48,820 --> 00:16:55,780
+sơ sài em ạ cho nên là tùy anh em nhé Thôi tốt nhất là mình bỏ đi đó thì bây giờ anh em cứ làm
+
+189
+00:16:55,780 --> 00:17:01,280
+theo mình đi đó anh em cứ làm theo mình đi đó anh em cố gắng hiểu nhé Nếu anh em cứ nhớ cho
+
+190
+00:17:01,280 --> 00:17:03,260
+Thì mình cứ chọn cho mình 2 cái này
+
+191
+00:17:03,260 --> 00:17:05,000
+Là 2 cái dễ nhất được chứ anh em
+
+192
+00:17:05,000 --> 00:17:07,740
+Đó anh em cứ chọn cho mình 2 cái dễ nhất
+
+193
+00:17:07,740 --> 00:17:09,580
+Đó thì cái này mình sẽ xử lý nào
+
+194
+00:17:09,580 --> 00:17:11,520
+Thì anh em cứ nhớ cho mình là
+
+195
+00:17:11,520 --> 00:17:12,720
+Cái nào mà càng nhiều bảo vật
+
+196
+00:17:12,720 --> 00:17:14,980
+Thì nó sẽ làm cho dẫn đến là
+
+197
+00:17:14,980 --> 00:17:16,380
+Phải xử lý nhiều hơn
+
+198
+00:17:16,380 --> 00:17:18,640
+Xử lý nhiều hơn thì thế nào
+
+199
+00:17:18,640 --> 00:17:20,140
+Thì làm cho hệ thống chậm đi
+
+200
+00:17:20,140 --> 00:17:22,820
+Đấy là lý do tại sao mà xung đột giữa 2 cái này nó là
+
+201
+00:17:22,820 --> 00:17:24,460
+Phổ biến nhất được chứ anh em
+
+202
+00:17:24,460 --> 00:17:26,080
+Thì bây giờ nếu mà anh em viết ra
+
+203
+00:17:26,080 --> 00:17:28,580
+Nếu mà anh em nào mà kiểu là bí quá
+
+204
+00:17:28,580 --> 00:17:30,920
+Không biết viết gì thì anh em chỉ cần viết là
+
+205
+00:17:30,920 --> 00:17:39,380
+là nhiều bảo vận thì dẫn đến là nhiều xử lý nhiều xử lý dẫn đến là chậm hệ thống đấy là anh em đã
+
+206
+00:17:39,380 --> 00:17:47,040
+được điểm rồi rồi chưa Tuy nhiên thì để mà gọi là chi tiết mà được nhiều điểm như em thích đó ví
+
+207
+00:17:47,040 --> 00:18:03,300
+ở đây nhìn trong bài này thì nó sẽ có là tên tiền security thì sử dụng nó sử dụng cái không
+
+208
+00:18:03,300 --> 00:18:15,420
+xe kia security này thì nó sẽ làm nó sẽ giúp là gì bảo vệ protect dữ liệu bài việc ma hóa đúng
+
+209
+00:18:15,420 --> 00:18:34,260
+nè nè access control kiểm soát truy cập đó nó sẽ kiểm soát này tuy nhiên thì sao nó sẽ cần cần cái
+
+210
+00:18:34,260 --> 00:18:45,300
+sẽ cần more processing như là việc sẽ cần phải xử lý nhiều hơn thì chưa sâu nó sẽ thế nào system
+
+211
+00:18:45,300 --> 00:18:53,640
+system can slow down can
+
+212
+00:18:53,640 --> 00:18:57,040
+đúng không à
+
+213
+00:18:57,040 --> 00:18:57,820
+can slower
+
+214
+00:18:57,820 --> 00:19:01,340
+được chưa
+
+215
+00:19:01,340 --> 00:19:02,020
+đó
+
+216
+00:19:02,020 --> 00:19:03,580
+xong cái nào nữa
+
+217
+00:19:03,580 --> 00:19:06,300
+chậm hơn
+
+218
+00:19:06,300 --> 00:19:07,580
+when
+
+219
+00:19:07,580 --> 00:19:11,360
+when
+
+220
+00:19:11,360 --> 00:19:13,600
+many user
+
+221
+00:19:13,600 --> 00:19:17,220
+use
+
+222
+00:19:17,220 --> 00:19:19,100
+it
+
+223
+00:19:19,100 --> 00:19:20,140
+in
+
+224
+00:19:20,140 --> 00:19:22,300
+it at the same time
+
+225
+00:19:22,300 --> 00:19:32,620
+anh em em viết này thì nó sẽ chi tiết hơn phải chưa Đây là cái bước đầu tiên là giải thích
+
+226
+00:19:32,620 --> 00:19:44,980
+về lý do em nhé anh em biết rõ cho mình thấy chưa cái này lý do chưa tiếp theo này thì đây là
+
+227
+00:19:44,980 --> 00:19:47,920
+anh làm cho mình cái chưa
+
+228
+00:19:50,020 --> 00:19:59,500
+Ừ thì anh em đó thì ở đây cái này thì mình sẽ xử lý như nào
+
+229
+00:19:59,500 --> 00:20:08,980
+thì đây mình sẽ làm cái gì ở đây anh em cứ làm cho mình đó là đưa ra cho mình các cái
+
+230
+00:20:08,980 --> 00:20:18,520
+giải pháp chẳng hạn thì ví dụ như là mình có thể là dùng bảo nhập nhanh này cách thêm server thứ
+
+231
+00:20:18,520 --> 00:20:28,960
+đấy chưa thì nó sẽ ngon thì bây giờ mình có thể biết là như này nhá yêu xin bò mình sẽ sử dụng
+
+232
+00:20:28,960 --> 00:20:51,100
+simple and fast and quick and quick user blog to review review processing
+
+233
+00:20:51,100 --> 00:20:56,100
+ngoài ra thì sao nữa
+
+234
+00:20:56,100 --> 00:21:03,100
+sử dụng nhiều hơn
+
+235
+00:21:03,100 --> 00:21:07,100
+dùng thêm các cái server
+
+236
+00:21:07,100 --> 00:21:09,100
+sử dụng thêm các server
+
+237
+00:21:09,100 --> 00:21:12,100
+mở rộng hệ thống ra
+
+238
+00:21:12,100 --> 00:21:16,100
+mở rộng hệ thống ra
+
+239
+00:21:16,100 --> 00:21:20,100
+để làm gì? để giữ
+
+240
+00:21:21,100 --> 00:21:31,180
+cho để mình có thể là giữ cho hệ thống nhanh hơn mà vẫn an toàn đúng không thì mình sẽ là để giữ cho
+
+241
+00:21:31,180 --> 00:21:32,300
+the system
+
+242
+00:21:32,300 --> 00:21:35,040
+fast
+
+243
+00:21:35,040 --> 00:21:42,520
+while
+
+244
+00:21:42,520 --> 00:21:44,240
+trong khi still
+
+245
+00:21:44,240 --> 00:21:48,720
+used
+
+246
+00:21:48,720 --> 00:21:50,700
+secure
+
+247
+00:21:50,700 --> 00:21:53,360
+Đấy chứ anh em, đó anh em để biết như vậy thôi
+
+248
+00:21:53,360 --> 00:21:54,980
+là được, được chưa
+
+249
+00:21:54,980 --> 00:21:56,940
+Đó, ok
+
+250
+00:21:56,940 --> 00:21:59,360
+Thì đấy là mình đang dẫn anh em làm xong câu 4 nhé
+
+251
+00:21:59,360 --> 00:22:00,780
+Câu 4 nó chỉ đơn giản này thôi
+
+252
+00:22:00,780 --> 00:22:01,800
+Và anh em được 1 điểm
+
+253
+00:22:01,800 --> 00:22:04,160
+Nói chung là cái này nó chỉ được không phải 1 điểm thôi
+
+254
+00:22:04,160 --> 00:22:05,680
+Cho nên mình nghĩ là
+
+255
+00:22:05,680 --> 00:22:08,660
+Nếu anh em viết chỉ cần đủ ý thôi
+
+256
+00:22:08,660 --> 00:22:11,140
+Là anh em đã được điểm rồi
+
+257
+00:22:11,140 --> 00:22:13,040
+Để cho anh em không đến thầy cô nào
+
+258
+00:22:13,040 --> 00:22:14,940
+Chắc phải gặp ông thầy là khó tính lắm
+
+259
+00:22:14,940 --> 00:22:16,520
+Thì anh em mới mất điểm được cái chỗ này
+
+260
+00:22:16,520 --> 00:22:17,720
+Nếu anh em viết đấy thôi
+
+261
+00:22:17,720 --> 00:22:20,440
+Cho nên là anh em cứ viết làm sao ngắn gọn dĩ hiểu là được
+
+262
+00:22:20,440 --> 00:22:21,260
+Để cho anh em
+
+263
+00:22:21,260 --> 00:22:22,740
+Thì đây nhá
+
+264
+00:22:22,740 --> 00:22:26,460
+Thì đây là cách làm câu 4 anh em nhá
+
+265
+00:22:26,460 --> 00:22:28,140
+Thì ngoài ra này, ví dụ như những cái chỗ này
+
+266
+00:22:28,140 --> 00:22:28,980
+Để tối ưu nhất ấy
+
+267
+00:22:28,980 --> 00:22:30,320
+Đây nhá anh em nhá
+
+268
+00:22:30,780 --> 00:22:38,920
+những cái bài như này để mà tối ưu nhất đây là anh em copy luôn nhanh thì đây là cách tốt nhất
+
+269
+00:22:38,920 --> 00:22:45,720
+gặp thầy cô nào mà dễ tính hết thì em vẫn phun điểm thôi nhưng mà mình nghĩ là nếu mà gặp thầy
+
+270
+00:22:45,720 --> 00:22:50,220
+cô nào mà khó tính thì có lẽ là điểm sẽ không được tối đa nhưng mà mình nghĩ là như này vẫn
+
+271
+00:22:50,220 --> 00:22:56,100
+ổn thôi chỉ là nó hơi dài quá rồi chơi nhé thì nếu anh em nào mà biến được thành các câu văn
+
+272
+00:22:56,100 --> 00:22:57,940
+thì anh em sẽ được ăn điểm tốt hơn
+
+273
+00:22:57,940 --> 00:23:00,500
+còn anh em mà copy paste
+
+274
+00:23:00,500 --> 00:23:02,720
+thì vẫn được điểm thôi, mình nghĩ là gặp thầy cô
+
+275
+00:23:02,720 --> 00:23:04,000
+dễ thì vẫn được phun điểm bình thường
+
+276
+00:23:04,000 --> 00:23:05,620
+còn nếu mà thầy cô nào mà gắt
+
+277
+00:23:05,620 --> 00:23:08,480
+thấy cóp đề bài vào thì mấy ông thầy
+
+278
+00:23:08,480 --> 00:23:10,760
+lại căng căng lại không cho điểm nhiều
+
+279
+00:23:10,760 --> 00:23:12,240
+được chứ anh em, nói chung là cái này
+
+280
+00:23:12,240 --> 00:23:14,360
+tự anh em xử lý nhé, nó chỉ là
+
+281
+00:23:14,360 --> 00:23:16,260
+đưa ra các con số thôi, được chứ nhỉ
+
+282
+00:23:16,260 --> 00:23:17,600
+đó, ok
+
+283
+00:23:17,600 --> 00:23:19,780
+ví dụ như là trong cái này đúng không
+
+284
+00:23:19,780 --> 00:23:22,180
+thì thay vì mình viết cả đống như này thì mình chỉ có thể
+
+285
+00:23:22,180 --> 00:23:23,200
+đứng ở đây viết lại
+
+286
+00:23:23,200 --> 00:23:34,480
+là The System handle 1000 user during trong khoảng thời gian đấy nghĩa là nói không là mình
+
+287
+00:23:34,480 --> 00:23:43,240
+sẽ biết là hệ thống này sẽ giúp cho 1.000 người dùng sử dụng trong cùng một thời gian đó mà phản
+
+288
+00:23:43,240 --> 00:23:48,100
+hồi dưới 3 giây nghĩa là mình sẽ giúp ngắn gọn lại anh em nhé Còn cái này thì là mình đang copy
+
+289
+00:23:48,100 --> 00:23:54,640
+đấy kiểu đấy thì trên nhá Nói chung là đây là cách làm câu muốn nhá thì em nào mà chưa hiểu đâu thì
+
+290
+00:23:54,640 --> 00:23:58,840
+em cứ hỏi mình nhá Nói chung là dưới này mình để sẵn hết đáp án rồi anh em thể luyện tập trên web
+
+291
+00:23:58,840 --> 00:24:03,700
+nhá đó em nhớ cho mình là cứ luyện tập trên web trên web mình để đi và cái chỗ để cho anh em
+
+292
+00:24:03,700 --> 00:24:12,820
+điền rồi rất là ngon nhanh rồi thì xin nhá ví dụ như là mà thôi mình không muốn mở ra nữa mình
+
+293
+00:24:12,820 --> 00:24:14,480
+anh em mở rồi cho nên anh em có thể tự mở nhé
+
+294
+00:24:14,480 --> 00:24:17,280
+ok, thì có gì thì anh em cứ
+
+295
+00:24:17,280 --> 00:24:18,660
+nhắn tin hỏi mình nhé
+
+296
+00:24:18,660 --> 00:24:20,640
+ok, vậy thì video này mình xin dừng lại đây
+

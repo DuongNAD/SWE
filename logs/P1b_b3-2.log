@@ -1,0 +1,9 @@
+Tôi đã hoàn tất việc xem qua toàn bộ 31 ảnh sơ đồ trong thư mục `01_raw/b3-2/attach/` và ghi kết quả trích xuất vào tệp [`02_extract/b3-2_sodo.json`](file:///Users/duongnad/Documents/project/SWE/02_extract/b3-2_sodo.json) đúng theo định dạng yêu cầu từ `P1b_doc_so_do.md`. 
+
+**Tóm tắt nội dung trích xuất được:**
+1. **Sơ đồ Use Case Diagram:** Có xuất hiện trên giao diện ứng dụng StarUML tuy nhiên chưa được vẽ hoàn chỉnh. Sinh viên mới chỉ kéo thả các Actor và Use Case (nhiều Use Case chưa đổi tên) vào màn hình, chưa hề có mũi tên quan hệ (`association`) hay cấu trúc hoàn thiện nào. PlantUML vì thế được để trống kèm mô tả hiện trạng trong `ghi_chu`.
+2. **Bảng phân tích:** Bắt được 2 bảng được lập trong Google Docs:
+   - Bảng `"Identify All actors"` với 7 Actors được định nghĩa (ts: `25:52`).
+   - Bảng danh sách `"List of Use Cases"` chi tiết gồm 16 Use Cases có ánh xạ tới Actors (được đối chiếu và tổng hợp đầy đủ từ ts `28:29` cho đến cuối).
+3. **Các ảnh bỏ qua:** Lọc ra 4 tệp ảnh chỉ bao gồm giao diện tìm kiếm hoặc cửa sổ chuyển đổi task (Task Switcher) theo đúng quy tắc.
+Tôi đã hoàn tất nhiệm vụ. Vui lòng cho tôi biết nếu bạn cần làm thêm bất kỳ điều gì khác nhé.

@@ -1,0 +1,10 @@
+Tôi đã đọc toàn bộ các file trong Knowledge Base (`03_kb`), hệ thống Templates (`04_templates`), đếm số liệu JSON (18 file, hơn 4200 dòng) và tổng hợp nội dung ngắn gọn, thẳng thắn theo đúng yêu cầu của bạn. 
+
+File bàn giao đã được tạo thành công tại: [BAN_GIAO.md](file:///Users/duongnad/Documents/project/SWE/BAN_GIAO.md)
+
+**Những điểm quan trọng nhất mà bạn cần chốt lại khi đi vắng về:**
+1. **Sự mâu thuẫn giữa KB và Đề:** File `cau_truc_de_thi.md` và `INDEX.md` đang "đá" nhau về cấu trúc thi (đặc biệt là câu Q6 và Q7, cũng như thang điểm Q5). Bạn cần kiểm tra lại chính xác nội dung này.
+2. **Dữ liệu rác:** Đa số 18 file json trong `02_extract` là vô dụng (phục vụ vẽ sơ đồ UML) vì đề thi thật hoàn toàn không yêu cầu vẽ vời nữa. Nếu để đó AI sẽ bị nhiễu.
+3. **Q2 Lạc đề:** Template Q2 báo độ tin cậy "trung bình" do video dạy 1 đằng (viết Test Case) nhưng đề lại hỏi 1 nẻo (Lý thuyết Testing). 
+
+Bạn có thể bấm vào link file trên để xem toàn bộ nội dung bàn giao chi tiết. Nếu cần chỉnh sửa thêm phần nào, hãy báo lại cho tôi nhé!

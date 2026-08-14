@@ -1,0 +1,142 @@
+{
+  "id": "b7",
+  "so_do": [],
+  "bang": [
+    {
+      "ts": "26:36",
+      "tieu_de": "Test cases for the 'Register for Course' use case",
+      "cot": [
+        "TCID",
+        "Test Case Name",
+        "Precondition",
+        "Test steps",
+        "Expected result",
+        "Test type"
+      ],
+      "dong": [
+        [
+          "TC1",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "TC2",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "ts": "26:36",
+      "tieu_de": "III. SCORING RUBRIC",
+      "cot": [
+        "Q#",
+        "Topic",
+        "Max Score",
+        "Weight",
+        "Grader's Score"
+      ],
+      "dong": [
+        [
+          "1",
+          "Software Development Model Selection",
+          "2.0",
+          "20%",
+          ""
+        ],
+        [
+          "2",
+          "UC Modeling",
+          "1.5",
+          "15%",
+          ""
+        ],
+        [
+          "3",
+          "UC Specification",
+          "1.5",
+          "15%",
+          ""
+        ],
+        [
+          "4",
+          "Non-Functional Requirements",
+          "1.0",
+          "10%",
+          ""
+        ],
+        [
+          "5",
+          "Class Diagram",
+          "2.5",
+          "25%",
+          ""
+        ],
+        [
+          "6",
+          "Testing Stage and Type",
+          "1.5",
+          "15%",
+          ""
+        ]
+      ]
+    },
+    {
+      "ts": "28:23",
+      "tieu_de": "Part 2:",
+      "cot": [
+        "TCID",
+        "Test Case Name",
+        "Precondition",
+        "Test steps",
+        "Expected result",
+        "Test type"
+      ],
+      "dong": [
+        [
+          "TC1",
+          "Happy-path",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "TC2",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "TC3",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  ],
+  "anh_bo_qua": [
+    "01m55s.jpg - Màn hình trống, không có sơ đồ hay bảng",
+    "07m56s.jpg - Trình duyệt mở tab mới, không có nội dung liên quan",
+    "08m06s.jpg - Google Docs chỉ có chữ 'Cách làm', không có bảng hay sơ đồ",
+    "08m09s.jpg - Giao diện dashboard website, không có sơ đồ",
+    "27m19s.jpg - Đang tạo bảng trên Google Docs (đã lấy bản đầy đủ hơn ở 28:23)",
+    "27m48s.jpg - Trùng bảng trong PDF đã lấy ở 26:36",
+    "27m54s.jpg - Trùng bảng trong PDF đã lấy ở 26:36",
+    "27m56s.jpg - Đang tạo bảng trên Google Docs (đã lấy bản đầy đủ hơn ở 28:23)",
+    "28m16s.jpg - Trùng bảng trong PDF đã lấy ở 26:36",
+    "28m20s.jpg - Đang sao chép text trên Google Docs (đã lấy bảng ở 28:23)",
+    "28m25s.jpg - Trùng bảng trong PDF đã lấy ở 26:36"
+  ]
+}

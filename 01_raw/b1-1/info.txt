@@ -1,0 +1,4 @@
+id=b1-1
+file=YTSave_YouTube_Buoi-1-1-Luyen-tap-viet-Prompt-AI-de-tri_Media_wZxVP4c4QXo_002_720p.mp4
+duration_sec=1725
+frame_interval=5

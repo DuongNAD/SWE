@@ -1,0 +1,1074 @@
+### 00:03
+E Luyên tập q1 - Google Tài liệu x  E Promt Al - Google Tài liệu
+A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0  *
+88  * Bookmarks  Facebook  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad... ® ChatGPT  • FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 * G  & Chia Sẻ
+Tệp Chỉnh sửa  Xem Chên  Định dạng Công cụ Tiện ích Trợ giúp
+ascaa d  100% -  Văn bản t... -  Arial  - 10.5 +  BIUAOGEO  :
+1 2 1.1.7  3  5
+C
+Question 6: Al in coding (1.0 points)
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets  9
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+identify.
+Important: A good Al prompt must include: (1) clear context about the system, (2) the  +
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A — RegistrationService.java (0.5 points)
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent (Student student. Course course) (
+^ E O  ENG  4:33 PM
+US  4/15/2026
+
+### 00:03
+Luyên tập q1 - Google Tài liệu  E Promt Al - Google Tài liệu  +
+A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0  *
+88  * Bookmarks  Facebook  • youtube  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1  Ô Chia Se
+Xem Chen  Định dạng  Công cụ  Tiện ích Trợ giúp
+100% -  Văn bản t...  Arial  - 10.5  +  :
+L2.11.F  t. 27,18
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+identify.
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+9
+Scenario A — RegistrationService.java (0.5 points)
+co  The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.  +
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent(Student student, Course course) {
+// Check prerequisite
+if (course.getPrerequisite() != null &&
+Istudent.getCompletedCourses().contains(course.getPrerequisite())) {
+return true; // Bug 1
+ENG  4:33 PM
+US  4/15/2026
+
+### 00:04
+Luyên tập q1 - Google Tài liệu  E Promt Al - Google Tài liệu  +
+A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0  *
+88  * Bookmarks  Facebook  → youtube  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...  • ChatGPT  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 * G  Chia Se
+Xem Chen  Định dạng Công cụ  Tiện ích Trợ giúp
+100% -  Văn bản t... -  Arial  - 10.5 +  BIAGORO  :
+12. 11.17  3  4 5 6 7  11 12 13 14  15  16 1718,
+Question 6: Al in coding (1.0 points)
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+9
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+co  specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A - RegistrationService.java (0.5 points)  +
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent(Student student, Course course) {
+// Check prerequisite
+if (course.getPrerequisite() != null &&
+Istudent.getCompletedCourses). contains(course.getPrerequisite())) {
+ENG  4:33 PM
+US  4/15/2026
+
+### 00:04
+E Luyên tập q1 - Google Tai liệu X  E Promt Al - Google Tài liệu
+A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0  *
+88  * Bookmarks  - Facebook  M Hộp thư đến (812) -....  & Drive của tôi - Goo...  5 FPT University Acad...  • ChatGPT  & FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 * G  & Chia Se
+Tệp Chỉnh sa  Xem Chên  Định dạng Công cụ Tiện ích Trợ giúp
+100% -  Văn bản t... -  Arial  - 10.5 +  :
+2. 1.17  4 5 6 7 8 9
+C
+Question 6: Al in coding (1.0 points)
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets  9
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+identify.
+Important: A good Al prompt must include: (1) clear context about the system, (2) the  +
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A - RegistrationService.java (0.5 points)
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent Student student, Course course
+ENG  4:33 PM
+US  4/15/2026
+
+### 00:14
+Luên tập qi - Google Tai liệu x  E Promt Al - Google Tai liệu  +
+→  A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0  *
+88  * Bookmarks  (f Facebook  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...  • ChatGPT  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cà dấu trang
+Luyện tập q1 * G  Chia Se
+Định dạng Công cụ Tiện ích Trợ giúp
+100% -  Văn bàn t... -  Arial  - 10.5 +  B I  G H  :
+12. 11.7  5
+Question 6: Al in coding (1.0 points)  9
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would  +
+identify.
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A — RegistrationService.java (0.5 points)
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+^E O  ENG  4:33 PM
+US  4/15/2026
+
+### 00:14
+Luên tập q1 - Google Tai liệu x  E Promt Al - Google Tai liệu  +
+→  A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0  *
+88  * Bookmarks  Facebook  → youtube  M Hộp thư đến (812) - ...  & Drive của tôi - Goo...  5 FPT University Acad... ® ChatGPT  & FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cà dấu trang
+Luyện tập q1 * G  Chia Se
+Định dạng Công cụ Tiện ích Trợ giúp
+100% -  Văn bàn t... -  Arial  - 10.5 +  BIUADOE  :
+12. 17.7  3  + 17,18,1
+--
+Question 6: Al in coding (1.0 points)
+-
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets  9
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+identify.
+Important: A good Al prompt must include: (1) clear context about the system, (2) the  +
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A — RegistrationService.java (0.5 points)
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent Student student. Course course i
+^E O  ENG  4:33 PM
+US  4/15/2026
+
+### 00:14
+Luên tập q1 - Google Tai liệu x  E Promt Al - Google Tai liệu  +
+→  A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0  *
+88  * Bookmarks  Facebook  → youluue  M Hộp thư đến (812) - ...  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 * G  Chia Se
+Tệp Chỉnh sửa Xem Chèn  Định dạng Công cụ Tiện ch  Trợ giup
+100%  Văn bàn t... -  Arial  - - 105 + BIU A G#D  :
+12. 17.7  1 2  3  11 12 13 14cl  15
+Question 6: Al in coding (1.0 points)
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-uptasks based on what the Al would
+identify.  9
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A - RegistrationService.java (0.5 points)
++
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent(Student student, Course course) {
+// Check prerequisite
+if (course.getPrerequisite() != null &&
+Istudent.getCompletedCourses).contains(course.getPrerequisite())) {
+^E O  ENG  4:33 PM
+US  4/15/2026
+
+### 00:16
+Luyên tập q1 - Google Tài liệu  E Promt Al - Google Tài liệu  x +
+A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.O#heading=h.b9mxkcanvth0
+88  * Bookmarks  Facebook  → youtube  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT (  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 * G  A Chia Sẻ
+Thy Chính sởa  Xem Chén  Định dạng  Công cụ Tiện ích Trợ giúp
+ascaAd  100%  Tiêu đề 1  Arial  7 -  23  +  I  A O  :
+Z LA.F  1. ,3.  3  4  ..S 6  - 10  _ 12 13 14 15 #,17,118,
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+identify.
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A - RegistrationService.java (0.5 points)
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is  9
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
++
+public class Registration Service {|
+public boolean registerStudent(Student student, Course course) {
+// Check prerequisite
+if (course.getPrerequisite() != null &&
+Istudent.getCompletedCourses().contains(course.getPrerequisite()) {
+return true; // Bug 1
+I/ Check available seats
+if (course.getEnroiled() >= course getMaxSeats()) { // Bug 2
+return false;
+4:33 PM
+
+### 00:18
+Luyên tập q1 - Google Tài liệu  E Promt Al - Google Tài liệu  x +
+A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M/do/edit?tab=t.O#heading=h.b9mxkcanvth0
+88  * Bookmarks  Facebook  → youtuue  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT (  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 *  Chia Se
+Thy Chính sởa  Xem Chên  Định dạng Công cụ Tiện ích  Trợ giúp
+a se aA8  100% - Tiêu đế 1  Arial  -  23  +  B  I  UA D OE  :
+, 2.11.7  3  10 11  12 13 14 a  15  +6. 17 18,1
+Question 6: Al in coding (1.0 points)  1/3
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+identify.  9
+7
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+co  specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A - RegistrationService.java (0.5 points)
++
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent(Student student, Course course) {
+// Check prerequisite
+if (course.getPrerequisite() != null &&
+student.getCompletedCourses().contains(course.getPrerequisite())) /
+ENG  4:33 PM
+US  4/15/2026
+
+### 00:18
+Luyên tập q1 - Google Tài liệu  E Promt Al - Google Tài liệu  x +
+→  A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.O#heading=h.b9mxkcanvth0
+88  * Bookmarks  (f Facebook  •l youtube  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 * G  A Chia Sẻ
+Tệp Chỉnh sửa  Xem Chèn  Định dạng Công cụ Tiện ích Trợ giúp
+a scaA8  100% -  Tiêu đề 1  Arial  -  23  +  B  I  G H  :
+2 t.F 1 2  3 4 5 6 7  16 17,18.
+1/3
+Question 6: Al in coding (1.0 points)  9
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would  +
+identify.
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A — RegistrationService.java (0.5 points)
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+^ E  ENG  4:33 PM
+US  4/15/2026
+
+### 00:22
+Luyên tập q1 - Google Tài liệu  E Promt Al - Google Tài liệu  X
+→  A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.O#heading=h.69mxkcanvth0  *
+88  * Bookmarks  Facebook  • youtube  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT  FPT University Learn...  RD FuOverflow Commu...  MirCLOCIC  Tất cả dấu trang
+Luyện tập q1 *  & Chia Sẻ
+Thy Chính s a  Xem Chên  Định dạng  Công cụ Tiện ích Trợ giúp
+SaA S  100% -  Tiêu đề 1  Arial  23  +  I  UA O O E  :
+L2 1.7  жửcЗиủn ủ.Åín ć0ůmỷ9.ửpỦmỉo¡
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft  C
+-  an effective Al prompt and then answer the follow-up tasks based on what the Al would
+identify.
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+9
+Scenario A — RegistrationService.java (0.5 points)
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.  +
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent(Student student, Course course) (
+// Check prerequisite
+if (course.getPrerequisite() != null &&
+Istudent.getCompletedCourses(). contains(course.getPrerequisite())) /
+return true; // Bug 1
+^ E 0  ENG  4:33 PM
+US
+
+### 00:35
+Luyên tập q1 - Google Tài liệu  E Promt Al - Google Tài liệu  x +
+A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.O#heading=h.b9mxkcanvth0
+88  * Bookmarks  (f Facebook  L youtube  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT|  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 * G  A Chia Sẻ
+Tệp Chỉnh sửa  Xem Chèn  Định dạng Công cụ  Tiện ich  Trợ giúp
+100% - Tiêu để 1  Arial  -  23  +  B  I  „ A O  :
+.2. 1,7  3  11  12 13 14 15
+Question 6: Al in coding (1.0 points)
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+9
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A — RegistrationService.java (0.5 points)
++
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent (Student student, Course course) {
+// Check prerequisite
+if (course.getPrerequisite() != null &&
+Istudent.getCompletedCourses(). contains(course.getPrerequisite())) {
+^ E Q  ENG  4:33 PM
+US  4/15/2026
+
+### 00:43
+Luyên tập q1 - Google Tài liệu  E Promt Al - Google Tài liệu  x +  X
+→  A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.O#heading=h.69mxkcanvth0  *
+88  * Bookmarks  Facebook  • youtube  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT  FPT University Learn...  RD FuOverflow Commu...  MirCLOCIC  Tất cả dấu trang
+Luyện tập q1 * G  & Chia Sẻ
+Tệp Chỉnh sửa  Xem Chên  Định dạng Công cụ Tiện ích Trợ giúp
+a se aA8  100%  Tiêu đề 1  Arial  -  23  +  B  I  UA O GED  :
+2 1.17  3  10  12 13 14  15  +6. 17. 18,1
+Question 6: Al in coding (1.0 points)
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+9
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A - RegistrationService.java (0.5 points)
++
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains TREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent(Student student, Course course) {
+// Check prerequisite
+if (course.getPrerequisite() != null &&
+Istudent.getCompletedCourses().contains(course.getPrerequisite())) {
+^ E Q  ENG  4:34 PM
+US  4/15/2026
+
+### 00:44
+E Luyên tập q1 - Google Tài liệu x  E Promt Al - Google Tài liệu  x +  X
+→  A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.O#heading=h.69mxkcanvth0  G
+88  * Bookmarks  Facebook  → youtube  M Hộp thư đến (812) -... & Drive của tôi - Goo...  5 FPT University Acad....  • ChatGPT  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 * G  & Chia Sẻ
+Tệp Chỉnh sửa  Xem Chén  Định dạng Công cụ Tiện ích Trợ giúp
+ascaAd  100% -  Tiêu để 1  Arial  -  23  +  B  I  UAO GED  :
+1 2 t7  3  4 5 6 7
+--
+Question 6: Al in coding (1.0 points)
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets  9
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasksibased on what the Al would
+identify.
+Important: A good Al prompt must include: (1) clear context about the system, (2) the  +
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A — RegistrationService.java (0.5 points)
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent (Student student, Course course)/
+^ E  ENG  4:34 PM
+US  4/15/2026
+
+### 00:47
+E Luyên tập q1 - Google Tài liệu X  E Promt Al - Google Tài liệu  x +
+→  A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.O#heading=h.b9mxkcanvth0  *
+88  * Bookmarks  f Facebook  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT|  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 * G  & Chia Sẻ
+Tệp Chính sửa Xem Chèn  Định dạng Công cụ Tiện ích Trợ giúp
+100%  Tiêu đề 1  Arial  -  23  +  B  I  G H  :
+L2 L1F 1 2 3 4567
+-
+Question 6: Al in coding (1.0 points)  9
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would  +
+identify.
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A — RegistrationService.java (0.5 points)
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+^ E Q  ENG  4:34 PM
+US  4/15/2026
+
+### 00:48
+Luyên tập q1 - Google Tài liệu X  E Promt Al - Google Tài liệu  x +
+→  A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.O#heading=h.b9mxkcanvth0  *
+88  * Bookmarks  (f Facebook  L youtuue  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...  • ChatGPT  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 * G  & Chia Sẻ
+Tệp Chính sửa Xem Chèn  Định dạng Công cụ Tiện ích Trợ giúp
+100%  Tiêu đề 1  Arial  -  23  +  B  I  UA0 GED  :
+1 2 t.F 1 2 3  8 9
+C
+Question 6: Al in coding (1.0 points)
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets  9
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+Important: A good Al prompt must include: (1) clear context about the system, (2) the  +
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A - RegistrationService.java (0.5 points)
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent (Student student. Course course)1
+^ E Q  ENG  4:34 PM
+US  4/15/2026
+
+### 00:51
+Luyên tập qi - Google Tài liệu  E Promt Al - Google Tai liệu  × +  X
+A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0
+88  * Bookmarks  (f Facebook  - youtube  M Hộp thư đến (812) - ...  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 * G  Chia Se
+Xem Chen  Định dạng Công cụ Tiện ích Trợ giúp
+100% -  Tiêu đề 1 :  Arial  23  +  B  I  UAD GED  :
+ZL1.F  3  12 13 14  15  *. 17,1,18,
+Question 6: Al in coding (1.0 points)
+C
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+identify.  9
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A - RegistrationService.java (0.5 points)
++
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent(Student student, Course course) {
+// Check prerequisite
+if (course.getPrerequisite() != null &&
+Istudent.getCompletedCourses). contains(course.getPrerequisite())) {
+^ E 0  ENG  4:34 PM
+US  4/15/2026
+
+### 00:52
+| Luyên tập q1 - Google Tai liệu X  E Promt Al - Google Tai liệu  × +
+A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0
+88  * Bookmarks  Facebook  M Hộp thư đến (812) -... & Drive của tôi - Goo...  5 FPT University Acad... ® ChatGPT  & FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 *  8 Chia Sẻ
+Xem  Chen  Định dạng Công cụ Tiện ích Trợ giúp
+100%  Tiêu đề 1  Arial  = - 23 +  I  :
+12L11  3  5  15 6 17 18,
+Your tasks for Scenario A:
+• Write an Al Prompt for Code Review. Write a clear and complete prompt you would
+submit to an Al assistant to review the registerStudent) method. Your prompt must
+specify: the system context (CRS, Java, Spring Boot), what you want the Al to do
+(review for correctness, logic errors, and coding best practices), and the expected
+9
++
+output format (e.g., a numbered list of issues with explanations and suggested fixes).
+(0.2 points)
+• Identify the Bugs. Based on the Al review, identify all THREE bugs. For each bug
+state: the line or code fragment, the bug type (e.g., wrong return value, off-by-one,
+missing state update), and why it causes incorrect behaviour. (0.2 points)
+• Write an Al Prompt to Fix the Bugs. Write a follow-up prompt asking the Al to
+provide the corrected Java method. Present the corrected code with an inline
+comment on each fix. (0.1 point)
+^ E  ENG  4:34 PM
+US  4/15/2026
+
+### 00:52
+E Luyên tập q1 - Google Tai liệu x  E Promt Al - Google Tai liệu  × +  X
+A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0
+88  * Bookmarks  (f Facebook  • youtube M Hộp thư đến (812) -... & Drive của tôi - Goo...  © FPT University Acad...• ChatGPT  & FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 * G  A Chia Sẻ
+Xem Chèn Định dạng Công cụ Tiện ích Trợ giúp
+100% ×  Tiêu đề 1  Arial  • - 23 +  I  VA DO E  :
+1211F  4 5 6 7.  10
+C
+output format (e.g., a numbered list of issues with explanations and suggested fixes).
+(0.2 points)  9
+• Identify the Bugs. Based on the Al review, identify all THREE bugs. For each bug
+state: the line or code fragment, the bug type (e.g., wrong return value, off-by-one,  2/3
+missing state update), and why it causes incorrect behaviour. (0.2 points)
+• Write an Al Prompt to Fix the Bugs. Write a follow-up prompt asking the Al to
+provide the corrected Java method. Present the corrected code with an inline  +
+comment on each fix. (0.1 point)
+Scenario B - GradeService.java (0.5 points)
+The following Java method belongs to the GradeService class. It should publish final grades
+only when (1) the grading period is officially closed and (2) every enrolled student has a
+grade on record. The code contains TWO logical bugs and ONE critical security vulnerability.
+Java
+ENG  4:34 PM
+US  4/15/2026
+
+### 00:53
+E Luyên tập q1 - Google Tai liệu  E Promt Al - Google Tai liệu  × +  X
+A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0
+88  * Bookmarks  (f Facebook  M Hộp thưđến 812) -... Drive của tôi - Goo....  5 FPT University Acad... ® ChatGPT  & FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 * G  & Chia Sẻ
+Thy Ching sa  Xem Chen  Định dạng Công cụ  Tiện ích Trợ giúp
+100% -  Tiêu đề 1  Arial  = - 23 +  B  I  :
+12L115  3  4  5  10  11  12  13  14  15  + 17,18,
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+dentify.
+Important: A good Al prompt must include: (1) clear context about the system, (2) the  1/3
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A - RegistrationService.java (0.5 points)
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is  9
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
++
+public class RegistrationService {
+public boolean register Student(Student student, Course course) (
+// Check prerequisite
+if (course.getPrerequisite() |= null &&
+Istudent.getCompletedCourses).contains(course.getPrerequisite()))
+return true; // Bug 1
+// Check available seats
+if (course.getEnrolled() >= course.getMaxSeats()){ {// Bug 2
+return false;
+4:34 PM
+US  4/15/2026
+
+### 00:58
+E Luyên tập q1 - Google Tai liệu  E Promt Al - Google Tai liệu  × +  X
+A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0  *
+88  * Bookmarks  Facebook  → youtube  M Hộp thư đến (812) - ....  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT  FPT University Learn...  RD FuOverflow Commu...  Tất cả dấu trang
+Luyện tập q1 *  & Chia Sẻ
+Tệp Chỉnh sửa  Xem Chên  Định dạng Công cụ Tiện ích  Trợ giúp
+100%  Văn bàn t... -  Arial  7-  + BI UAGED
+12. 1.17  2  3  2 10 11 12 13  14  15  4617118,
+Question 6: Al in coding (1.0 points)
+C
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+identify.  9
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A — RegistrationService.java (0.5 points)
++
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent(Student student, Course course) {
+// Check prerequisite
+if (course.getPrerequisite) != null &&
+Istudent.getCompletedCourses().contains(course.getPrerequisite()))
+^ E  ENG  4:34 PM
+US  4/15/2026
+
+### 00:59
+Luên tập q1 - Google Tài liệu  E Promt Al - Google Tai liệu  × +  X
+A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0
+* Bookmarks  Facebook  → youtuue  M Hộp thư đến (812) - ...  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 *  & Chia Sẻ
+Xem Chên  Định dạng Công cụ Tiện ch  Trợ giúp
+a scand  100%  Văn bàn t... -  Arial  11  + BI AGE  :
+2 3  4 5 6 7  10  12 13 14  15  46. 17,18
+Question 6: Al in coding (1.0 points)
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+identify.  9
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A - RegistrationService.java (0.5 points)
++
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent(Student student, Course course) {
+// Check prerequisite
+if (course.getPrerequisite() != null &&
+Istudent.getCompletedCourses). contains(course.getPrerequisite())) {
+^ E  ENG  4:34 PM
+US  4/15/2026
+
+### 01:41
+Luên tập qi - Google Tài liệu  E Promt Al - Google Tai liệu  × +
+A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0  *
+88  * Bookmarks  Facebook  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...  • ChatGPT  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cà dấu trang
+Luyện tập q1 * G  8 Chia Sẻ
+Định dạng Công cụ Tiện ích Trợ giúp
+100%  Văn bàn t... -  Arial  - - 11  :
+121tF  1 23 46 78 9 10 11 12 13 14 15 461.171,18,1
+C
+Question 6: Al in coding (1.0 points)
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets  9
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+identify.
+Important: A good Al prompt must incude: (1) clear context about the system, (2) the  +
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A - RegistrationService.java (0.5 points)
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent (Student student, Course course)
+^ E  ENG  4:34 PM
+US  4/15/2026
+
+### 01:41
+Luyên tập q1 - Google Tài liệu  x  E Promt Al - Google Tài liệu  x +
+A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0  *
+88  * Bookmarks  Facebook  → youtuue  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cà dấu trang
+Luyện tập q1 * G  8 Chia Sẻ
+Tệp Chỉnh sửa  Xem Chên  Định dạng Công cụ  Tiện ich  Trợ giúp
+ascds  100% -  Văn bàn t... -  Arial  • - 11  + BIUA GRO
+, 211.7  3  10  11 12 13 14 l  15  +. 17,18,1
+Question 6: Al in coding (1.0 points)
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+9
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A — RegistrationService.javą (0.5 points)  +
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent(Student student, Course course) {
+I/ Check prerequisite
+if (course.getPrerequisite() != null &&
+Istudent.getCompletedCourses().contains(course.getPrerequisite())) {
+^ E  ENG  4:34 PM
+US  4/15/2026
+
+### 02:26
+E Luyên tập q1 - Google Tai liệu  E Promt Al - Google Tài liệu  +  X
+A  docs.google.com/document/d/1iTw8ApsJ5ZX4v_IfpnHlquzKy02z1tNll5-sl19UhwU/edit?tab=t.0  *  G
+88  * Bookmarks  f  Facebook  • youtube M Hộp thư đến (812) -...  & Drive của tôi - Goo...  S FPT University Acad...® ChatGPT  & FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+PromtAl * m  @ Đã lưu vào Drive  C -  8  Chia Sẻ
+hp Chinh sa Xem Cén Định dạng  Công cụ  Tiện ích Trợ giúp
+asaas  100% -  Văn bàn t... -  Arial  - - 11 + B I UA0GĐD
+1.2. Lt.  -1-  2 3 4 5_ 6 789  _ 10 11 12 13 14 15 #6,471,18
+--  Các thẻ trong tài liệu  +
+E Thẻ 1  :  1. Kịch bản A
+Các tiêu đề mà bạn thêm vào tải liệu
+sẽ xuất hiện ở đây.  1. Context
+2. goal
+3.  output|
++
+EENG 4/15/2026  4:35 PM
+
+### 02:39
+Luên tập q1 - Google Tai liệu  E Promt Al - Google Tài liệu  X
+A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0  *
+88  * Bookmarks  Facebook  • youtube  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 *  & Chia Sẻ
+Xem Chén  Định dạng  Công cụ Tiện ích Trợ giúp
+100% -  Van bàn t...  Arial  • -  + B I  U A  :
+14 15
+=  This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft  C
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+identify.
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+9
+Scenario A - RegistrationService.java (0.5 points)
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.  +
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent(Student student, Course course) {
+// Check prerequisite
+if (course.getPrerequisite() != null &&
+Istudent.getCompletedCourses().contains(course.getPrerequisite()))(
+return true: // Bug 1
+^E O  ENG  4:35 PM
+US  4/15/2026
+
+### 03:33
+Luyên tập qi - Google Tài liệu  E Promt Al - Google Tai liệu  X
+→  A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0  *
+88  * Bookmarks  Facebook  • youtube  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...  • ChatGPT  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 * G  8  Chia Se
+Tệp Chỉnh sửa  Xem Chén  Định dạng Công cụ  Tiện ích  Trợ giúp
+100% -  Văn bản t... -  Arial  - - 11  + BIUA GEO  :
+,2.Lt.17  3  4 5 6 7  9 10  11 12 13 14 15  +6. 17,18
+N.  Question 6: Al in coding (1.0 points)
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+identify.  9
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix, (3) the code itself, and (4) the expected output format.
+Scenario A - RegistrationService.java (0.5 points)
++
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent(Student student, Course course) {
+// Check prerequisite
+if (course.getPrerequisite() != null &&
+Istudent.getCompletedCourses). contains(course.getPrerequisite())) /
+ENG  4:36 PM
+US  4/15/2026
+
+### 03:34
+Ш  Luên tập q1 - Google Tài liệu  E Promt Al - Google Tai liệu  X
+→  A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0  *
+88  * Bookmarks  Facebook  → youtube  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...  • ChatGPT  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 *  8  Chia Se
+Tệp Chỉnh sa  Xem Chên  Định dạng Công cụ  Tiện ích  Trợ giúp
+100% -  Văn bản t... -  Arial  11  + BIUAGED  :
+,2.11.17  3  4 5 6 7  10  11 12 13 14  15  +6. 17,18
+Question 6: Al in coding (1.0 points)
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+9
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A - RegistrationService.java (0.5 points)
++
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent(Student student, Course course) {
+// Check prerequisite
+if (course.getPrerequisite() != null &&
+Istudent.getCompletedCourses). contains(course.getPrerequisite()))
+ENG  4:36 PM
+US  4/15/2026
+
+### 04:25
+E Luyên tập q1 - Google Tài liệu  E Promt Al - Google Tài liệu  +
+A  docs.google.com/document/d/1iTw8ApsJ5ZX4v_IfpnHlquzKy02z1tNll5-sl19UhwU/edit?tab=t.0  *  G
+* Bookmarks  f  Facebook  D youtube M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...® ChatGPT  & FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Promt Al * @  & Đã lưu vào Drive  • -  Chia Se
+Tệp Chỉnh sửa  Xem  Chèn Định dạng Công cụ  Tiện ich  Trợ giúp
+asaas  100% -  Văn bàn t... -  Arial  - - 11] +  I  U A O  "-E-E :
+.2115  meman 4 s 6 ?  8 9  10  16,17.,18.
+N-  1. Context
+Các thẻ trong tài liệu  +  2. goal
+3. code
+4. output format
+Thẻ 1  :
+Các tiêu đề mà bạn thêm vào tải liệu  1. Review code
+sẽ xuất hiện ở đây.
+1 am working on a Course Registration System using Java and Spring boot.
+Please review the following method in the |
++
+^ E O  ENG Q) E 4/15/2026  4:37 PM
+
+### 05:14
+Ent Google Thiliệu  E Promt Al - Google Tai liệu  × +  X
+A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.O#heading=h.n3itsyp0kkuq  *
+88  * Bookmarks  (Facebook  • youtube  M Hộp thư đến (812) - ...  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT  FPT University Learn...  RO  | FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 * G  & Chia Sẻ
+Xem Chén  Địng dang Công cụ Tiện ch  Trợ giúp
+100%  Tiêu đề 2  Arial  + -  +  I  VANCED  :
+3  4 51  46 17.18
+Question 6: Al in coding (1.0 points)
+C
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+9
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A - RegistrationService.java (0.5 points)
++
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent(Student student, Course course) {
+// Check prerequisite
+if (course.getPrerequisite() != null &&
+Istudent.getCompletedCourses).contains(course.getPrerequisite())) (
+^ E Q  ENG  4:38 PM
+US  4/15/2026
+
+### 05:14
+Luên tập qi - Google Tài liệu  E Promt Al - Google Tai liệu  × +  X
+→  A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.O#heading=h.n3itsyp0kkuq  *
+88  * Bookmarks  Facebook  → youtube  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT  FPT University Learn...  | FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 * G  & Chia Sẻ
+Xem Chén  Định dạng Công cụ Tiện ích  Trợ giúp
+ascaAg  100%  Tiêu đề 2  Arial  - -  +  I  U A O  :
+1., 3.3,  4  11  .. 12 13. 14  15  to 171
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+identify.
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A — RegistrationService.java (0.5 points)
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is  9
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
++
+public class RegistrationService {
+public booleän registerStudent(Student student, Course course) {
+// Check prerequisite
+if (course getPrerequisite() != null &&
+Istudent.getCompletedCourses().contains(course.getPrerequisite())) {
+return true; // Bug 1
+I/ Check available seats
+if (course.getEnrolled() >= course.getMaxSeats)) {// Bug 2
+return false;
+^ EQ  ENG  4:38 PM
+US  4/15/2026
+
+### 08:10
+E Luyên tập q1 - Google Tai liệu  E Promt Al - Google Tài liệu  +  X
+A  docs.google.com/document/d/1iTw8ApsJ5ZX4v_IfpnHlquzKy02z1tNll5-sl19UhwU/edit?tab=t.0  *  G
+88  * Bookmarks  f  Facebook  P youtube  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...® ChatGPT  & FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Promt Al *  C -  8  Chia Sẻ
+Thy Chỉnh sửa  Xem  Chên Định dạng Công cụ  Tiện ích  Trợ giúp
+asaas  100% -  Văn bàn t... -  Arial  - 11  +  B I
+.2. L.1.  .2.. 3.L  8 9  .10  11  12  16.17,1,18
+2. goal
+3.  code
+4. output format
+Các thẻ trong tài liệu  +
+1. Review code
+Thẻ 1  :  1 am working on a Course Registration System using Java and Spring boot.
+Các tiêu đề mà bạn thêm vào tài liệu
+sẽ xuất hiện ở đây.  Please review the following method in the RegistrationService class
+The method should:  9
+- Check prerequisite
+• Check available seats
+- Enroll student and persist
++
+Your task:
+Find logical or semantic errors
+Check coding best practices
+ME ENG 4 4/15/2026  4:41 PM
+
+### 08:30
+Luên tập q1 - Google Tài liệu  E Promt Al - Google Tai liệu  × +
+A  docs.google.com/document/d/1SclEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0  *
+88  * Bookmarks  Facebook  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 * G  & Chia Sẻ
+Xem Chèn  Định dạng Công cụ  Tiện ích  Trợ giúp
+100% -  Văn bản t... -  Arial  - - 11  + BIUA GEO  :
+2. 1. -17  3 4 5 6 7.1  9  10  11 12 13 14 15  16 17 18,
+Question 6: Al in coding (1.0 points)
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+9
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A - RegistrationService.java (0.5 points)
++
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent(Student student, Course course) {
+// Check prerequisite
+if (course.getPrerequisite() != null &&
+Istudent.getCompletedCourses().contains(course.getPrerequisite())) {
+^ E  ENG  4:41 PM
+US  4/15/2026
+
+### 08:30
+Luyên tập qi - Google Tài liệu  E Promt Al - Google Tai liệu  × +
+A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0  *
+88  * Bookmarks  Facebook  M Hộp thư đến (812) - ....  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 *  & Chia Sè
+Tệp Chỉnh sửa  Xem Chèn  Định dạng Công cụ Tiện ích Trợ giúp
+100%  Văn bàn t... -  Arial  :
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+identify.
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+9
+Scenario A - RegistrationService.java (0.5 points)
+"The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.  +
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent(Student student, Course course) {
+// Check prerequisite
+if (course.getPrerequisite() != null &&
+Istudent.getCompletedCourses().contains(course.getPrerequisite())) {
+return true; // Bug 1
+^ E Q  ENG  4:41 PM
+US  4/15/2026
+
+### 27:31
+Luyên tập q1 - Google Tài liệu  E Promt Al - Google Tai liệu  X
+A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0
+88  * Bookmarks  Facebook  • youtube  M Hộp thư đến (812) - ....  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 * G  Chia Se
+Xem Chen  Định dạng Công cụ  Tiện ích  Trợ giúp
+100%  Văn bản t... -  Arial  - 10.5 + B I
+1211.7  3  11 12 13  14 15  16.17,181
+Question 6: Al in coding (1.0 points)
+C
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+identify.  9
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A - RegistrationService.java (0.5 points)  +
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
++
+public class RegistrationService {
+public boolean registerStudent(Student student, Course course) {
+// Check prerequisite
+if (course.getPrerequisite() != null &&
+Istudent.getCompletedCourses). contains(course.getPrerequisite())) ‹
+^ E  ENG  5:30 PM
+US  4/15/2026
+
+### 27:32
+Luyên tập q1 - Google Tai liệu  E Promt Al - Google Tai liệu  X
+A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0  *
+88  * Bookmarks  Facebook  • youtube  M Hộp thư đến (812) - ...  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cà dấu trang
+Luyện tập q1  Chia Se
+Xem Chèn  Định dạng  Công cụ  Tiện ích Trợ giúp
+100%  Văn bàn t...  Arial  10.5  + B I  0 G 0  :
++ 17,18
+This question assesses your ability to use Al coding assistants (e.g., GitHub Copilot,
+ChatGPT, Claude) as a practical aid during software development. Two Java code snippets
+from the Course Registration System are provided below. For each scenario, you must craft
+an effective Al prompt and then answer the follow-up tasks based on what the Al would
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+9
+Scenario A - RegistrationService.java (0.5 points)
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.  +
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
+public class RegistrationService {
+public boolean registerStudent(Student student, Course course) {
+// Check prerequisite
+if (course.getPrerequisite() != null &&
+Istudent.getCompletedCourses().contains(course.getPrerequisite())) ‹
+return true; // Bug 1
+^ E  ENG  5:30 PM
+US  4/15/2026
+
+### 27:37
+Luyn tập q1 - Google Tai liêu  E Promt Al - Google Tai liệu  × +
+A  docs.google.com/document/d/1ScTEecMR2gN0AZ7khik8ehDunhw2VdWGRCq9mY6M7do/edit?tab=t.0
+88  * Bookmarks  Facebook  M Hộp thư đến (812) -...  & Drive của tôi - Goo...  5 FPT University Acad...  ChatGPT  FPT University Learn...  RD FuOverflow Commu...  HireLogic  Tất cả dấu trang
+Luyện tập q1 *  Chia Se
+Xem Chên  Định dạng  Công cụ Tiện ích Trợ giúp
+100% -  Văn bàn t... -  Arial  - 10.5  +  B I  G H  :
+2. 3  4  5. 6  10  11  12. 13. 14  _ 15 to 17, 1,18,
+....
+from the Course Registration System are provided below. For each scenario, you must craft
+=  an effective Al prompt and then answer the follow-up tasks based on what the Al would
+identify.
+Important: A good Al prompt must include: (1) clear context about the system, (2) the
+specific goal (review / find bug / fix), (3) the code itself, and (4) the expected output format.
+Scenario A - RegistrationService.java (0.5 points)
+The following Java method is part of the RegistrationService class in a Spring Boot
+application. It is intended to enroll a student in a course by (1) verifying the prerequisite is  9
+satisfied, (2) confirming a seat is available, and (3) persisting the new registration record.
+The code compiles without errors but contains THREE logical or semantic bugs.
+Java
++
+public class RegistrationService {
+public boolean registerStudent(Student student, Course course) {
+// Check prerequisite
+if (course.getPrerequisite() != null &&
+Istudent.getCompletedCourses().contains(course.getPrerequisite()) /
+return true; // Bug 1
+// Check available seats
+if (course.getEnrolled() >= course.getMaxSeats()){ {// Bug 2
+return false;
+5:30 PM
+4/15/2026
+

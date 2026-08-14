@@ -1,0 +1,293 @@
+{
+  "id": "capcuu",
+  "tieu_de_tu_suy_ra": "Hướng dẫn làm câu 2 (Use Case Diagram) đề SWE202c - Case Study StyleHub Clothes Shopping Online System (CSOS)",
+  "cau_hoi_lien_quan": [
+    "Q2"
+  ],
+  "do_dai_phut": 32.8,
+  "dan_bai": [
+    {
+      "ts": "00:00",
+      "muc": "Giới thiệu video hướng dẫn câu 2 (Use Case Diagram) đề SWE202c và đánh giá đây là câu dễ ăn điểm nhất"
+    },
+    {
+      "ts": "00:30",
+      "muc": "Giới thiệu website TQMaster chứa template và đường link luyện đề các câu (Q1, Q4, Q6...)"
+    },
+    {
+      "ts": "01:00",
+      "muc": "Demo giao diện công cụ SDLC Practice (Lovable app) và đề thi PE SWE202c SP26"
+    },
+    {
+      "ts": "02:00",
+      "muc": "Khuyên ôn tập 2 đề thi, thông tin khóa học 200k và mở case study StyleHub (CSOS)"
+    },
+    {
+      "ts": "02:30",
+      "muc": "Mở phần mềm Visual Paradigm Modeler và bắt đầu quy trình vẽ Use Case Diagram"
+    },
+    {
+      "ts": "04:30",
+      "muc": "Bước 1: Kéo System Boundary ra canvas và điền tên hệ thống 'Clothes Shopping Online System'"
+    },
+    {
+      "ts": "05:00",
+      "muc": "Mẹo chụp màn hình bằng Greenshot / Windows+Shift+S và cách copy nhanh đề bài"
+    },
+    {
+      "ts": "05:30",
+      "muc": "Bước 2: Phân tích và xác định Primary Actors (con người) và Secondary Actors (bên thứ 3)"
+    },
+    {
+      "ts": "07:00",
+      "muc": "Mẹo đọc đề câu 2 (Use Case): Bỏ phần ngữ cảnh doanh nghiệp đầu đề, đọc thẳng từ tên hệ thống và User Groups"
+    },
+    {
+      "ts": "07:30",
+      "muc": "Xác định 5 Primary Actors (Customer, Vendor, Customer Support Agent, Marketing Staff, System Administrator) và 1 Secondary Actor (Payment Gateway)"
+    },
+    {
+      "ts": "09:30",
+      "muc": "Đưa 5 Actor lên canvas Visual Paradigm và đổi tên về dạng danh từ số ít (bỏ chữ 's')"
+    },
+    {
+      "ts": "10:30",
+      "muc": "Bước 3: Trích xuất và đưa các Use Case dạng hình elip vào trong khối System Boundary"
+    },
+    {
+      "ts": "11:00",
+      "muc": "Trích xuất Use Case cho Customer: Browse and Search Product, View Detail Product"
+    },
+    {
+      "ts": "11:30",
+      "muc": "Quy tắc bắt buộc: Tên Use Case phải là ĐỘNG TỪ (Verb + Noun), viết hoa chữ cái đầu mỗi từ"
+    },
+    {
+      "ts": "12:30",
+      "muc": "Trích xuất tiếp Use Case cho Customer: Add To Cart, Pay Online (gắn với Payment Gateway), Track Product Status"
+    },
+    {
+      "ts": "15:30",
+      "muc": "Trích xuất Use Case cho Vendor: Manage Product, Manage Inventory, Manage Flash-sale Prices, Manage Report"
+    },
+    {
+      "ts": "18:30",
+      "muc": "Trích xuất Use Case cho Customer Support Agent: Search Order, Process Returns and Refunds, Answer Product Inquiries"
+    },
+    {
+      "ts": "19:30",
+      "muc": "Trích xuất Use Case cho Marketing Staff: Manage Voucher, Manage Advertisement, Manage Notification, Manage Loyalty-Point Rules"
+    },
+    {
+      "ts": "22:00",
+      "muc": "Trích xuất Use Case cho Admin: Manage User, Config Payment Gateway, Track System"
+    },
+    {
+      "ts": "23:30",
+      "muc": "Bước 4: Nối mối quan hệ Association giữa các Actor và Use Case"
+    },
+    {
+      "ts": "25:00",
+      "muc": "Bước 5: Phân tích và xác định các mối quan hệ Include (bắt buộc) và Extend (mở rộng tùy chọn)"
+    },
+    {
+      "ts": "26:00",
+      "muc": "Vẽ Include: Add To Cart -> include -> View Detail Product; View Detail Product -> include -> Browse and Search Product"
+    },
+    {
+      "ts": "27:30",
+      "muc": "Bổ sung Use Case Complete Order (Place Order) cho Customer"
+    },
+    {
+      "ts": "30:30",
+      "muc": "Vẽ Extend: Track Product Status -> extend -> Complete Order (mũi tên trỏ về Use Case gốc Complete Order)"
+    },
+    {
+      "ts": "31:30",
+      "muc": "Vẽ Include: Process Returns and Refunds -> include -> Search Order"
+    },
+    {
+      "ts": "32:00",
+      "muc": "Tổng kết sơ đồ hoàn chỉnh (3 include, 1 extend), chụp ảnh dán vào bài làm và hoàn thiện phần liệt kê"
+    }
+  ],
+  "quy_trinh_lam_bai": [
+    {
+      "buoc": 1,
+      "ten_buoc": "Tạo System Boundary và điền tên hệ thống",
+      "lam_gi_cu_the": "Kéo khối System Boundary ra canvas trong phần mềm vẽ (Visual Paradigm, StarUML...), điền chính xác tên hệ thống từ đề bài vào phần tiêu đề của khối Boundary.",
+      "dau_vao": "Tên hệ thống trong đề bài (Clothes Shopping Online System - CSOS).",
+      "dau_ra": "Khối System Boundary với tiêu đề tên hệ thống.",
+      "cau_noi_goc": "bước đầu tiên anh em phải điền tên vào đây... anh em chỉ cần lấy cái tên của hệ thống dán vào",
+      "ts": "04:30"
+    },
+    {
+      "buoc": 2,
+      "ten_buoc": "Xác định và tạo các Actor (Tác nhân)",
+      "lam_gi_cu_the": "Đọc đoạn Đối tượng người dùng (User Groups) để tìm Primary Actors (người dùng trực tiếp) và Secondary Actors (bên thứ ba). Tạo các biểu tượng Actor đặt ngoài System Boundary, lưu ý bỏ chữ 's' số nhiều ở cuối tên.",
+      "dau_vao": "Đoạn văn mô tả User Groups trong case study.",
+      "dau_ra": "Các Actor đặt phía ngoài khối System Boundary (Primary bên trái, Secondary bên phải).",
+      "cau_noi_goc": "bước thứ 2 là mình sẽ xác định actor đúng không... có 2 loại actor: primary và secondary... anh em bỏ chữ s đi cho mình",
+      "ts": "05:30"
+    },
+    {
+      "buoc": 3,
+      "ten_buoc": "Trích xuất và tạo các Use Case (Chức năng)",
+      "lam_gi_cu_the": "Đọc từng câu mô tả yêu cầu chức năng của từng nhóm người dùng. Đặt tên Use Case theo cấu trúc ĐỘNG TỪ + DANH TỪ (viết hoa chữ cái đầu mỗi từ). Kéo các hình elip Use Case đặt gọn bên trong khối System Boundary.",
+      "dau_vao": "Các câu mô tả chức năng của người dùng trong case study.",
+      "dau_ra": "Các elip Use Case nằm bên trong System Boundary.",
+      "cau_noi_goc": "yêu cây nó phải là một cái động từ nhé anh em không được là danh từ... nhớ là viết hoa mỗi chữ đầu anh em nhé",
+      "ts": "10:30"
+    },
+    {
+      "buoc": 4,
+      "ten_buoc": "Nối quan hệ Association giữa Actor và Use Case",
+      "lam_gi_cu_the": "Sử dụng đường nối Association (đường thẳng không mũi tên) nối từng Actor với các Use Case mà tác nhân đó trực tiếp thực hiện.",
+      "dau_vao": "Mối liên hệ giữa Actor và chức năng tương ứng.",
+      "dau_ra": "Các đường nối Association hoàn chỉnh giữa Actor và Use Case.",
+      "cau_noi_goc": "Bấm 2 lần vào association này... Nối liên tục cho mình... Nối vào đúng cái actor VUK nhé",
+      "ts": "23:30"
+    },
+    {
+      "buoc": 5,
+      "ten_buoc": "Xác định và vẽ mối quan hệ Include và Extend",
+      "lam_gi_cu_the": "Tìm các chức năng bắt buộc đi kèm (Include: A kéo theo B) và các chức năng mở rộng tùy chọn (Extend: B mở rộng từ A khi có điều kiện). Vẽ đường nét đứt <<include>> (mũi tên trỏ tới Use Case phụ thuộc) và <<extend>> (mũi tên trỏ VỀ Use Case gốc).",
+      "dau_vao": "Logic phụ thuộc giữa các Use Case (bắt buộc vs tùy chọn mở rộng).",
+      "dau_ra": "Các đường nét đứt <<include>> và <<extend>> với đúng chiều mũi tên.",
+      "cau_noi_goc": "bắt đầu xác định quan hệ... ít nhất là phải có 1 include và ít nhất phải có 1 extend... Include là khi nó là cái điều kiện kéo theo... Extend là điều kiện mở rộng, mũi tên trỏ vào cái chính",
+      "ts": "25:00"
+    },
+    {
+      "buoc": 6,
+      "ten_buoc": "Hoàn thiện sơ đồ, chụp ảnh và lập bảng mô tả",
+      "lam_gi_cu_the": "Sắp xếp lại bố cục sơ đồ cho cân đối, đẹp mắt. Chụp ảnh màn hình sơ đồ dán vào bài làm. Viết danh sách/bảng liệt kê chi tiết các Actor, Use Case và quan hệ theo yêu cầu đề thi.",
+      "dau_vao": "Sơ đồ Use Case Diagram đã vẽ xong trên phần mềm.",
+      "dau_ra": "Hình ảnh sơ đồ và bảng liệt kê mô tả trong bài làm.",
+      "cau_noi_goc": "Sau khi anh em làm xong thì anh em chụp ảnh và dán vào... vẽ xong rồi anh em bắt đầu ngồi anh em liệt kê ở trong cái bài",
+      "ts": "32:00"
+    }
+  ],
+  "vi_du_giang_vien_lam": [
+    {
+      "de_bai_goc": "StyleHub - Clothes Shopping Online System (CSOS)\nStyleHub is a Vietnamese e-commerce start-up in the fashion retail sector that is expanding rapidly. Established in 2022 and based in Ho Chi Minh City, the company currently operates through a mobile app and a provisional website built on a third-party platform. With approximately 350,000 registered customers, 120 active vendors, and more than 45,000 SKUs spanning clothing, footwear, and accessories, StyleHub has outgrown its existing infrastructure. At the Tết 2024 flash-sale event, the website went down for 47 minutes, causing an estimated 2.3 billion VND in lost sales and a wave of negative reviews. In response, the board has commissioned a purpose-built Clothes Shopping Online System (CSOS) to replace the current setup before the next major sales season.\n\nĐối tượng người dùng (User Groups)\nThe CSOS has to serve five distinct user groups.\nCustomers should be able to browse and search a large product catalogue — filterable by category, brand, size, colour, price range, and customer rating — open detailed product pages containing multiple images and size-guide charts, save items to a persistent wishlist or shopping cart, complete a secure checkout offering several payment options (credit/debit card, e-wallet, bank transfer, and cash-on-delivery), and track their orders from dispatch to delivery.\nVendors must be able to publish and manage their own products, adjust inventory levels, set up time-limited promotions or flash-sale prices, and consult sales analytics dashboards reporting revenue, conversion rates, and return frequencies.\nCustomer Support Agents need tools to look up any order, process returns and refunds, answer product inquiries, and escalate complex cases.\nMarketing Staff require a campaign management module for configuring site-wide vouchers, banner advertisements, push-notification schedules, and loyalty-point rules.\nFinally, the System Administrator is responsible for user and role management, payment-gateway configuration, platform-level monitoring, and automated data backups.\n\nRàng buộc kỹ thuật (Technical Constraints)\n...\nYêu cầu: Vẽ Use Case Diagram đáp ứng đủ các nhóm người dùng và chứa ít nhất 1 <<include>> và 1 <<extend>>.",
+      "bai_lam_hoan_chinh": "System Boundary: Clothes Shopping Online System\n\nPrimary Actors (bên trái canvas):\n- Customer\n- Vendor\n- Customer Support Agent\n- Marketing Staff\n- Admin\n\nSecondary Actor (bên phải canvas):\n- Payment Gateway\n\nUse Cases bên trong System Boundary:\n[Customer]\n- Browse and Search Product\n- View Detail Product\n- Add To Cart\n- Pay Online\n- Complete Order (Place Order)\n- Track Product Status\n\n[Vendor]\n- Manage Product\n- Manage Inventory\n- Manage Flash-sale Prices\n- Manage Report\n\n[Customer Support Agent]\n- Search Order\n- Process Returns and Refunds\n- Answer Product Inquiries\n\n[Marketing Staff]\n- Manage Voucher\n- Manage Advertisement\n- Manage Notification\n- Manage Loyalty-Point Rules\n\n[Admin]\n- Manage User\n- Config Payment Gateway\n- Track System\n\nCác mối quan hệ (Relationships):\n- Association (Nối thẳng không mũi tên):\n  Customer --- Browse and Search Product, View Detail Product, Add To Cart, Pay Online, Complete Order, Track Product Status\n  Vendor --- Manage Product, Manage Inventory, Manage Flash-sale Prices, Manage Report\n  Customer Support Agent --- Search Order, Process Returns and Refunds, Answer Product Inquiries\n  Marketing Staff --- Manage Voucher, Manage Advertisement, Manage Notification, Manage Loyalty-Point Rules\n  Admin --- Manage User, Config Payment Gateway, Track System\n  Payment Gateway --- Pay Online\n\n- Mối quan hệ <<include>> (Đường nét đứt, mũi tên trỏ tới Use Case bắt buộc):\n  Add To Cart --<<include>>--> View Detail Product\n  View Detail Product --<<include>>--> Browse and Search Product\n  Process Returns and Refunds --<<include>>--> Search Order\n\n- Mối quan hệ <<extend>> (Đường nét đứt, mũi tên trỏ VỀ Use Case gốc):\n  Track Product Status --<<extend>>--> Complete Order",
+      "giang_giai": "Giảng viên đọc đề bài case study CSOS, bỏ qua đoạn mô tả ngữ cảnh startup, tìm thấy 5 nhóm người dùng chính tương ứng 5 Primary Actors và 1 tác nhân thanh toán bên thứ ba (Payment Gateway) làm Secondary Actor. Đặt các Use Case dạng ĐỘNG TỪ trong khung Clothes Shopping Online System. Đảm bảo yêu cầu đề thi bằng cách thiết lập 3 mối quan hệ <<include>> (Add To Cart bắt buộc View Detail, View Detail bắt buộc Browse & Search, Process Returns bắt buộc Search Order) và 1 mối quan hệ <<extend>> (Track Product Status mở rộng tùy chọn sau khi Complete Order).",
+      "ts": "04:30"
+    }
+  ],
+  "khai_niem": [
+    {
+      "thuat_ngu": "Primary Actor (Tác nhân chính)",
+      "dinh_nghia_theo_giang_vien": "Là những đối tượng con người trực tiếp thao tác và tương tác với hệ thống (ví dụ: khách hàng, nhân viên, quản trị viên).",
+      "vi_du": "Customer, Vendor, Customer Support Agent, Marketing Staff, Admin",
+      "ts": "05:30"
+    },
+    {
+      "thuat_ngu": "Secondary Actor (Tác nhân phụ)",
+      "dinh_nghia_theo_giang_vien": "Là các hệ thống, dịch vụ bên thứ ba tương tác với hệ thống đang được phát triển.",
+      "vi_du": "Payment Gateway (cổng thanh toán ngân hàng/ví điện tử), Email System / Email API",
+      "ts": "06:00"
+    },
+    {
+      "thuat_ngu": "Include (Quan hệ bao hàm / kéo theo)",
+      "dinh_nghia_theo_giang_vien": "Là mối quan hệ kéo theo bắt buộc. Khi thực hiện Use Case này thì luôn luôn phải kéo theo việc thực hiện Use Case kia. Mũi tên chỉ từ Use Case chính sang Use Case bắt buộc.",
+      "vi_du": "Muốn Add To Cart thì bắt buộc phải View Detail Product; muốn Process Returns and Refunds thì bắt buộc phải Search Order.",
+      "ts": "26:00"
+    },
+    {
+      "thuat_ngu": "Extend (Quan hệ mở rộng / tùy chọn)",
+      "dinh_nghia_theo_giang_vien": "Là mối quan hệ mở rộng tùy chọn. Khi thực hiện xong Use Case gốc, nếu người dùng muốn thì có thể thực hiện thêm Use Case mở rộng chứ không bắt buộc. Mũi tên trỏ ngược từ Use Case mở rộng VỀ Use Case gốc.",
+      "vi_du": "Sau khi Complete Order (đặt hàng thành công), người dùng có thể mở rộng theo dõi đơn hàng (Track Product Status) nếu thích, không bắt buộc.",
+      "ts": "30:30"
+    }
+  ],
+  "cau_chu_mau": [
+    {
+      "dung_khi": "Đặt tên Use Case trong Use Case Diagram",
+      "mau": "Verb + Noun (Động từ + Danh từ, viết hoa chữ cái đầu mỗi từ; ví dụ: Browse and Search Product, View Detail Product, Manage User)",
+      "ts": "11:30"
+    },
+    {
+      "dung_khi": "Đặt tên Actor",
+      "mau": "Danh từ số ít, loại bỏ hậu tố số nhiều 's' (ví dụ: Customer thay vì Customers, Vendor thay vì Vendors)",
+      "ts": "09:30"
+    }
+  ],
+  "luu_y_cham_diem": [
+    {
+      "noi_dung": "Tên Use Case bắt buộc phải là ĐỘNG TỪ, tuyệt đối không đặt tên bằng danh từ (ví dụ: phải ghi 'Browse and Search' chứ không được ghi 'Product List').",
+      "muc_do": "chac_chan",
+      "ts": "11:30"
+    },
+    {
+      "noi_dung": "Đề thi yêu cầu sơ đồ phải chứa ít nhất 1 mối quan hệ <<include>> và ít nhất 1 mối quan hệ <<extend>>. Thiếu một trong hai sẽ bị trừ điểm.",
+      "muc_do": "chac_chan",
+      "ts": "25:00"
+    },
+    {
+      "noi_dung": "Chiều mũi tên của mối quan hệ Extend phải trỏ VỀ Use Case gốc (Use Case chính), không được vẽ trỏ sang Use Case mở rộng.",
+      "muc_do": "chac_chan",
+      "ts": "28:00"
+    },
+    {
+      "noi_dung": "Sau khi vẽ sơ đồ trên phần mềm, phải chụp ảnh màn hình dán vào bài làm và lập bảng liệt kê chi tiết các Actor, Use Case.",
+      "muc_do": "chac_chan",
+      "ts": "32:00"
+    }
+  ],
+  "meo_lam_bai": [
+    {
+      "meo": "Đọc đề câu 2 (Use Case Diagram): Bỏ qua toàn bộ đoạn văn ngữ cảnh doanh nghiệp ở đầu (lịch sử thành lập, doanh thu...), gạch chân và đọc thẳng từ đoạn tên hệ thống và mục 'Đối tượng người dùng' (User Groups) để tiết kiệm thời gian.",
+      "ts": "07:00"
+    },
+    {
+      "meo": "Mẹo tìm nhanh Actor: Đọc lướt đầu các câu trong phần User Groups, các tác nhân thường đứng ngay đầu mỗi câu (Customers, Vendors, Customer Support Agents...).",
+      "ts": "08:00"
+    },
+    {
+      "meo": "Mẹo tìm Secondary Actor: Hễ đề thi nhắc đến thanh toán (thẻ tín dụng, ví điện tử, chuyển khoản) hoặc gửi email/thông báo thì chắc chắn vẽ thêm Secondary Actor là Payment Gateway / Email System ở bên ngoài phía bên phải khối System Boundary.",
+      "ts": "06:30"
+    },
+    {
+      "meo": "Không nên mất thời gian ngồi viết danh sách liệt kê lý thuyết trên nháp trước khi vẽ. Hãy xác định nhanh Actor, Use Case rồi vẽ trực tiếp lên phần mềm, vừa vẽ vừa chỉnh sửa sẽ nhanh hơn rất nhiều.",
+      "ts": "09:00"
+    },
+    {
+      "meo": "Sử dụng công cụ Greenshot hoặc phím tắt Windows + Shift + S để chụp vùng sơ đồ trên phần mềm và dán (Ctrl+V) trực tiếp vào bài làm nhanh chóng.",
+      "ts": "05:00"
+    }
+  ],
+  "loi_sai_thuong_gap": [
+    {
+      "loi": "Đặt tên Use Case bằng danh từ thay vì động từ (ví dụ: 'Product Catalog' thay vì 'Browse Product').",
+      "cach_tranh": "Luôn bắt đầu tên Use Case bằng một động từ chỉ hành động (Browse, View, Manage, Pay, Track, Search...).",
+      "ts": "11:30"
+    },
+    {
+      "loi": "Giữ nguyên dạng số nhiều có đuôi 's' của Actor từ đề bài (ví dụ đặt tên Actor là 'Customers', 'Vendors').",
+      "cach_tranh": "Bỏ chữ 's' ở cuối, đặt tên Actor ở dạng danh từ số ít (Customer, Vendor, Admin).",
+      "ts": "09:30"
+    },
+    {
+      "loi": "Vẽ ngược chiều mũi tên của mối quan hệ Extend (trỏ từ Use Case gốc ra Use Case mở rộng).",
+      "cach_tranh": "Ghi nhớ quy tắc: Include có mũi tên trỏ TỚI Use Case kéo theo (gốc -> bắt buộc). Extend có mũi tên trỏ VỀ Use Case gốc (gốc <- mở rộng).",
+      "ts": "28:00"
+    },
+    {
+      "loi": "Dành quá nhiều thời gian viết đoạn văn liệt kê lý thuyết dẫn đến không đủ thời gian vẽ sơ đồ Use Case Diagram.",
+      "cach_tranh": "Tập trung vẽ sơ đồ trên công cụ trước, chụp ảnh dán vào bài làm rồi mới bổ sung phần liệt kê mô tả.",
+      "ts": "09:00"
+    }
+  ],
+  "prompt_ai_giang_vien_dung": [],
+  "so_do_va_bang": [
+    {
+      "ts": "04:30",
+      "loai": "use_case",
+      "noi_dung_chep_lai": "System Boundary: Clothes Shopping Online System\n\nPrimary Actors (bên trái):\n- Customer\n- Vendor\n- Customer Support Agent\n- Marketing Staff\n- Admin\n\nSecondary Actor (bên phải):\n- Payment Gateway\n\nUse Cases inside System Boundary:\n[Customer]\n- Browse and Search Product\n- View Detail Product\n- Add To Cart\n- Pay Online\n- Complete Order (Place Order)\n- Track Product Status\n\n[Vendor]\n- Manage Product\n- Manage Inventory\n- Manage Flash-sale Prices\n- Manage Report\n\n[Customer Support Agent]\n- Search Order\n- Process Returns and Refunds\n- Answer Product Inquiries\n\n[Marketing Staff]\n- Manage Voucher\n- Manage Advertisement\n- Manage Notification\n- Manage Loyalty-Point Rules\n\n[Admin]\n- Manage User\n- Config Payment Gateway\n- Track System\n\nRelationships:\n- Associations:\n  Customer --- Browse and Search Product, View Detail Product, Add To Cart, Pay Online, Complete Order, Track Product Status\n  Vendor --- Manage Product, Manage Inventory, Manage Flash-sale Prices, Manage Report\n  Customer Support Agent --- Search Order, Process Returns and Refunds, Answer Product Inquiries\n  Marketing Staff --- Manage Voucher, Manage Advertisement, Manage Notification, Manage Loyalty-Point Rules\n  Admin --- Manage User, Config Payment Gateway, Track System\n  Payment Gateway --- Pay Online\n\n- Includes (<<include>>):\n  Add To Cart --<<include>>--> View Detail Product\n  View Detail Product --<<include>>--> Browse and Search Product\n  Process Returns and Refunds --<<include>>--> Search Order\n\n- Extends (<<extend>>):\n  Track Product Status --<<extend>>--> Complete Order"
+    }
+  ],
+  "cho_khong_ro": [],
+  "ghi_chu_ngoai_khoa": [],
+  "do_bao_phu": "đã đọc hết dossier: có"
+}

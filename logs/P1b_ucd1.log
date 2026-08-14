@@ -1,0 +1,10 @@
+Tôi đã đọc file hướng dẫn `P1b_doc_so_do.md`, xem tất cả 33 ảnh trong thư mục đính kèm của video `ucd1`, và trích xuất thành công:
+
+1. **Bảng "Actor list"** (phiên bản đầy đủ nhất ở phút 43:31) bao gồm các Actor, Type và Goal.
+2. **Bảng "Use case list"** (phiên bản đầy đủ nhất ở phút 47:34) liệt kê chi tiết 14 Use Cases.
+3. **Use Case Diagram (Sơ đồ Use Case)** (lấy bản đầy đủ nhất ở phút 54:15):
+   - Trích xuất toàn bộ các Actors, Use Cases và quan hệ (associations, `<<include>>`, `<<extend>>`) một cách chi tiết (ví dụ: quan hệ extend từ `Join waitlist` trỏ đến `Submit registration request`).
+   - Sơ đồ đã được tôi dựng lại mã **PlantUML** hoàn chỉnh.
+4. **Ảnh bỏ qua (`anh_bo_qua`)**: Các ảnh chứa bảng vẽ dở (hoặc một phần), slide lý thuyết, và giao diện ứng dụng không liên quan đều được lọc ra để bỏ qua theo yêu cầu.
+
+Tất cả đã được xuất đúng định dạng JSON và lưu vào file [`02_extract/ucd1_sodo.json`](file:///Users/duongnad/Documents/project/SWE/02_extract/ucd1_sodo.json). Bạn có thể kiểm tra kết quả ngay trong file đó nhé.

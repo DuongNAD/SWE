@@ -1,0 +1,2562 @@
+### 01:15
+Ở cốc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc  +  La
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  I CD
+88  • Tất cả dấu trang
+Search for apps, settings, and documents  +
+Luyện tập Q2  Share
+File Edit View Insert Format Tools Extensions
+Q  A § 100% -  Normal text  Pinned  All  • E  Editing
+I. CA  Microsoft Edge  Word  Excel  PowerPoint  Settings  File Explorer
+"Citye
+Mana
+digita
+their  f
+MAE101_slides
+open  (2)
+medis
+hosp
+signs
+Offic
+healt
+cove!
+The H  Recommended  More
+logins
+perfo  Gemini_Generated_Image_aom9v9..  Gemini_Generated_Image_mnhbzq...
+of ev  40m ago  49m ago
+doctd
+494359474_1184652796310539_591...  Buối 3.2 Luyện tập Q2 đề số 1.mp4
+18h ago  Yesterday at 3:24 PM
+2026-04-21 14-19-26.mp4  2026-04-21_13-11-35.mp4
+Yesterday at 3:13 PM  Yesterday at 1:36 PM
+DELL
+ENG  4:11 PM
+US  4/22/2026
+
+### 01:16
+Ởi cốc cốc  Home - Google Drive  Luện tập Q2 - Google Doc ×  +  Ca  ...
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  I CO
+88  • Tất cả dấu trang
+* a  +
+Share
+File Edit View Insert Format Tools Extensions Help
+5c8 AS 100% - Normal text =  Arial  *-E -E-  0 Editing
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System* (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+ENG  4:11 PM
+US  4/22/2026
+
+### 01:17
+Ởi cốc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc x  +  Ca  ...
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+88  • Tất cả dấu trang
+Luện tập Q2  * a  +
+Share
+File Edit View Insert Format Tools Extensions Help
+5c8 AS 100% - Normal text =  Arial  | - 11] +  BI UA  0 Editing
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized far tablets, as
+doctors and nurses move frequently between wards.
+ENG  4:11 PM
+US  4/22/2026
+
+### 01:24
+* StarUML
+File  View Window Help
+^  ENG  4:11 PM
+US  4/22/2026
+
+### 01:25
+* index.html
+File  Edit Format Model Tools  View Window Debug Help
+WORKING DIAGRAMS  MODEL EXPLORE Q.
+1a) Main - Model  4 T2 Untitled
+• a Model
+TOOLBOX  EDITORS
+Classes (Basic)
+Classes (Advanced)
+Packages
+Composite Structure
+Instances
+Annotations
+Robustness
+100%
+^  ENG  - Ф  4:11 PM
+US  4/22/2026
+
+### 01:26
+* StarUML (TRIAL MODE)
+File Edit Format Model  Tools View Window Debug Help
+*  ^ V 0  4:11 PM
+00 0 4022/2026
+
+### 01:26
+* StarUML (TRIAL MODE)
+File  Edit Format Model  Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER  Q.
+2 Main - Model  EB  i Untitled
+MI  El Model
+License Activation
+You're using in trial mode.
+You have 25 days left in your trial period.
+Enter your license key  Activate
+Copy Device ID  License Manager
+Buy Now  Continue
+TOOLBOX  EDITORS
+Classes (Basic)
+= Class
+-O Interface
+_ Association
+1 Directed Association
+9 Aggregation
+* Composition
+Dependency
+İ Generalization
+* interface Realization
+Classes (Advanced)
+100%
+ENG  4:11 PM
+US  4/22/2026
+
+### 01:34
+ởi cốc cốc  Home - Google Drive  Luện tập Q2 - Google Doc ×  +  La  ...
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  I CO
+88  • Tất cả dấu trang
+Luyện tập Q2  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Normal text  Arial  | - 11] +  BI UA•  EX  Editing
+PRACTICE TEST 2: HEALTHCARE MANAGEMENT
+SYSTEM
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+a-
+^  ENG  4:11 PM
+US  4/22/2026
+
+### 01:44
+* StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER  Q.
+3 Main - Model  G7 Untitled
+MI  a Model
+TOOLBOX  EDITORS
+Classes (Basic)
+= Class
+-O Interface
+_ Association
+I Directed Association
+¡ Aggregation
+1 Composition
+Dependency
+i Generalization
+* Interface Realization
+Classes (Advanced)
+100%
+ENG  4:12 PM
+US  4/22/2026
+
+### 02:05
+Ở cốc côc  Home - Google Drive  Luện tập Q2 - Google Doc X  +  Ca  ...
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+88  • Tất cả dấu trang
+Luyện tập Q2  * G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Q 5a a A § 100% = | Normaltext ~  Arial  | - 11] +  BI VASOO  Editing
+PRACTICE TEST 2: HEALTHCARE MANAGEMENT
+SYSTEM
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to atterid, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+ENG  4:12 PM
+US  4/22/2026
+
+### 02:20
+* • StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+Main - Model  6B  • Untitled
+2] UseCaseDiagram1 - Modelt  MI  & Model
+Ea Modeli
+2] UseCaseDiagram1
+HEALTHCARE MANAGEMENT SYSTEM  • HEALTHCARE MANAGEMENT SYSTEM
+TOOLBOX  EDITORS
+• Styles
+Use Cases  Arial  13
+i Package  Color  • Inherit
+• Use Case Subject  Line Style
+• Use Case  Format
+7 Actor  Label
+[01  ET]
+Ed Frame
+Association
+Alignment
+I Directed Association  dilo
+İ Generalization  • Properties
+I Dependency  HEALTHCARE MANAGER
+i Include
+& Modell  • HEALTHCARE MANAGEMENT SYSTEM [UMLUseCasesubject]  100%
+V  ENG  4:12 PM
+US  4/22/2026
+
+### 02:22
+Ở côc cốc  Home - Google Drive  Luện tập Q2 - Google Doc X  +
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+88  • Tất cả dầu trang
+Luyện tập Q2  * G  +
+Share
+File Edit View Insert Format Tools  Extensions Help
+5c a A § 100% =| Normal text -  Arial  Editing
+7...?
+PRACTICE TEST 2: HEALTHCARE MANAGEMENT
+SYSTEM
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+^  ENG  4:12 PM
+US  4/22/2026
+
+### 02:48
+• StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER  Q
+Main - Model  i Untitled
+2] UseCaseDiagram 1 - Modelt  MI  Et Model
+E Modell
+2] UseCaseDiagram1
+Patient Portal & Clinic Management System  • Patient Portal & Clinic Management Sys
+TOOLBOX  EDITORS
+Use Cases
+i Package
+• Use Case Subject
+• Use Case
+% Actor
+Frame
+Association
+Directed Association
+İ Generalization
+Dependency
+if Include
+100%
+^  ENG  4:13 PM
+US  4/22/2026
+
+### 02:53
+cốc cốc  Home - Google Drive  Luện tập Q2 - Google Doc ×  +  La  ...
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  *  I CO
+88  • Tất cả dấu trang
+Luyện tập Q2  * G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+a 100%  Normal text -  Arial  Editing
+3  5
+PRACTICE TEST 2: HEALTHCARE MANAGEMENT
+SYSTEM
+I. CASE STUDY
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+^  V  ENG  4:13 PM
+US  4/22/2026
+
+### 03:09
+* • StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+Main - Model  EB  ( Untitled
+[2] UseCaseDiagram1 — Modelt  MI  E] Model
+E Modeli
+X] UseCaseDiagram1
+Patient Portal & Clinic Management System
+• Patient Portal & Clinic Management Sys
+% Actori
+Actorl
+0 D
+TOOLBOX  EDITORS
+• Properties
+Use Cases  Actorl
+• Package  stereotype  Q.
+• Use Case Subject  visibility  public
+• Use Case  isAbstract
+Actor a  isFinalSpecialization
+•l Frame  isLeaf
+Association  › Documentation
+Directed Association
+i Generalization
+Dependency
+Et Include
+& Modell  9 ActorI [UMLActor]  100%
+V  ENG  4:13 PM
+US  4/22/2026
+
+### 03:24
+cốc cốc  & Home - Google Drive  Luyện tập Q2 - Google Doc X  +  La  ...
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+88  • Tất cả dấu trang
+Luyện tập Q2  * a  +
+Share
+File Edit View Insert Format Tools Extensions Help
+95c a A § 100% = | Normaltext ~  Arial  - 11+1  EX  Editing
+3  4  5  7...!..
+PRACTICE TEST 2: HEALTHCARE MANAGEMENT
+SYSTEM
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequentiy between wards.
+ENG  4:13 PM
+US  4/22/2026
+
+### 03:26
+cốc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+88  • Tất cả dấu trang
+Luyện tập Q2  +
+Share
+File Edit View  Insert Format Tools  Extensions Help
+Q  A § 100% -  Normal text -  Arial  | - 11] +  BIU A O  EX  Editing
+Luyện tập Q2 - Google Docs - Cốc Cốc  • StarUML (TRIAL MODE)  Software Engineering: Modeling Softwa...  OBS 31.1.2 - Cấu hình: Không tên - Phân...
+coverage dr process ung crams dutumatcally aner a consuntation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequentiy between wards.
+ENG  4:13 PM
+US  4/22/2026
+
+### 03:26
+* • StarUML (TRIAL MODE)
+File  Edit Format Model Tools  View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+3 Main - Model  GD Untitled
+9] UseCaseDiagram1 - Modelt  MI  E Model
+la Modelt
+Patient Portal & Clinic Management System  X] UseCaseDiagram1
+• Patient Portal & Clinic Management Sys
+% Actori
+& Actor2
+Actor4
+Actor1  % Actora
+% Actor4
+* Actors
+% Actor6
+TOOLBOX  Actor2  EDITORS
+Actor5
+Use Cases
+i Package
+• Use Case Subject
+• Use Case
+Actor3  Actor6
+? Actor
+•l Frame
+Association
+Directed Association
+Generalization
+1 Dependency
+t Include
+100%
+ENG  4:13 PM
+US  4/22/2026
+
+### 03:30
+cốc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc X  +
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+88  • Tất cả dấu trang
+Luyện tập Q2  * G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+5d a A § 100% = Normal text -  Arial  -11+ BILA  Editing
+=  PRACTICE TEST 2: HEALTHCARE MANAGEMENT
+SYSTEM
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses ar, responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+^  ENG  4:13 PM
+US  4/22/2026
+
+### 03:32
+* • StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+E Main - Model  y) Untitled
+[2] UseCaseDiagram1 - Modelt  MI  El Model
+E Model1
+Patient Portal & Clinic Management System  2] UseCaseDiagram1
+El Patient Portal & Clinic Management Sys
+% Actori
+% Actor2
+Actor4
+Patient  * Actor3
+* Actor4
+* Actors
+% Actor6
+TOOLBOX  Actor2  EDITORS
+Actor5
+• Styles
+Use Cases  Font  Arial  13
+# Package  Color  • Inherit
+• Use Case Subject  Line Style
+• Use Case  Format
+Actor3  Actor6  Label
+% Actor
+(]  [a]  [O]  Er)
+•l Frame
+Association
+Alignment  ol-
+Directed Association  dile
+T Generalization  • Properties
+Dependency  Actor1
+: Include  stereotype
+^-
+& Modell  % Actor1 [UMLActor)  100%
+ENG  4:13 PM
+US  4/22/2026
+
+### 03:35
+côc cốc  & Home - Google Drive  Luện tập Q2 - Google Doc X  +  La  ...
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+88  • Tất cả dấu trang
+Luyện tập Q2 * G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+5c a A 100% - Normal text -  Arial  - 11+BIYA  Editing
+7... 1..
+=  PRACTICE TEST 2: HEALTHCARE MANAGEMENT
+SYSTEM
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+^  ENG  4:13 PM
+US  4/22/2026
+
+### 03:38
+cốc cốc  • Home - Google Drive  Luện tập Q2 - Google Doc  X  +  La ..
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  =
+88  • Tất cả dấu trang
+Luyện tập Q2  +
+E  • -  Share
+File Edit View  Insert  Format Tools  Extensions Help
+Q  A § 100% -  Normal text -  Arial  - 11 +  BI UA•  Editing
+Luyện tập Q2 - Google Docs - Cốc Cốc  • StarUML (TRIAL MODE)  Software Engineering: Modeling Softwa...  OBS 31.1.2 - Cấu hình: Không tên - Phân...
+coverage and process uning wams automatically arter a consurtation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequentiy between wards.
+ENG  4:13 PM
+US  4/22/2026
+
+### 03:38
+• StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER  Q.
+2 Main - Model  EB  Go Untitled
+19 UseCaseDiagram1 - Modeli  E Model
+E Modell
+Patient Portal & Clinic Management System  2) UseCaseDiagram1
+• Patient Portal & Clinic Management Sys
+% Patient
+% Doctor
+Actor4
+Patient  * Actor3
+* Actor4
+} Actors
+} Actors
+TOOLBOX  Doctor  EDITORS
+Actor5
+Use Cases
+i Package
+• Use Case Subject
+• Use Case  ^
+% Actor  Actor3  Actor6
+•l Frame
+Association
+T Directed Association
+i Generalization
+Dependency
+= Include
+A-
+100%
+ENG  4:13 PM
+^  US  4/22/2026
+
+### 03:42
+Ở cốc cốc  Home - Google Drive  Luện tập Q2 - Google Doc  +  La
+< →  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+88  • Tất cả dấu trang
+Luyện tập Q2  +
+• -  Share
+File Edit View Insert Format Tools  Extensions Help
+Normal text×  Arial  -  Editing
+4  5
+PRACTICE TEST 2: HEALTHCARE MANAGEMENT
+SYSTEM
+I. CASE STUDY
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+ENG  "Ф -  4:14 PM
+US  4/22/2026
+
+### 03:46
+* • StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+Main - Model  EB  5a Untitled
+121 UseCaseDiagram1 - Modeli  MI  El Model
+Er Modelt
+Patient Portal & Clinic Management System  X] UseCaseDiagram1
+• Patient Portal & Clinic Management Sys
+% Patient
+$ Doctor
+Actor4
+Patient  & Nurse
+* Actors
+÷ Actors
+% Actors
+9
+^
+TOOLBOX  Doctor  EDITORS
+Actor5
+Use Cases
+i Package
+• Use Case Subject
+• Use Case  ^
+Nurse  Actor6
+} Actor
+•l Frame
+Association
+I Directed Association
+i Generalization
+Dependency
+= Include
+100%
+ENG  4:14 PM
+US  4/22/2026
+
+### 03:52
+cốc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc X  +
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+88  • Tất cả dấu trang
+Luyện tập Q2  * a  +
+Share
+File Edit View Insert Format Tools Extensions Help
+5c a A § 100% = | Normal text -  Arial  | - 11] +  I U A  Editing
+7... 1..
+PRACTICE TEST 2: HEALTHCARE MANAGEMENT
+SYSTEM
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequentiy between wards.
+ENG  -Ф в  4:14 PM
+US  4/22/2026
+
+### 03:56
+cốc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc  +  La
+>  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+• Tất cả dấu trang
+Luyện tập Q2  +
+E  • -  Share
+File Edit View  Insert  Format Tools  Extensions Help
+Q  A S 100% -  Normal text -  Arial  -  | 11  I  U A  EX  Editing
+Luyện tập Q2 - Google Docs - Cốc Cốc  • StarUML (TRIAL MODE)  Software Engineering: Modeling Softwa...  OBS 31.1.2 - Cấu hình: Không tên - Phân...
+coverage an process uning cams dutumaticany aner a consentation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequentiy between wards.
+ENG  4:14 PM
+US  4/22/2026
+
+### 03:56
+* • StarUML (TRIAL MODE)
+File  Edit Format Model  Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+3) Main - Model  62 Untitled
+[2] UseCaseDiagram1 - Modelt  MI  El Model
+Ea Modell
+Patient Portal & Clinic Management System  9) UseCaseDiagram1
+Patient Portal & Clinic Management Sys
+Patient
+% Doctor
+Medical Record
+Patient  * Nurse
+% Medical Record
+÷ Actors
+2 Actor6
+TOOLBOX  Doctor  EDITORS
+Actor5
+• Styles
+Use Cases  Font  Arial  13
+i Package  Color  • Inherit
+• Use Case Subject  Line Style
+• Use Case  Format
+Nurse  Actor6  Label
+2 Actor
+•l Frame  (*)  Er)
+• Association
+Alignment  o|-
+1 Directed Association  dilo
+i Generalization  • Properties
+Dependency  Medical Record
+= Include  stereotype
+E Modell  % Medical Record [UMLActori  100%
+ENG  4:14 PM
+US  4/22/2026
+
+### 03:59
+cốc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc  +  La  ...
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  I CO
+88  • Tất cả dấu trang
+Luyện tập Q2  +
+Share
+File Edit View Insert Format Tools  Extensions Help
+5 A 100% •  Normal text  Arial  |- 11] +  Editing
+4
+=  PRACTICE TEST 2: HEALTHCARE MANAGEMENT
+SYSTEM
+I. CASE STUDY
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+a-
+ENG  4:14 PM
+US  4/22/2026
+
+### 04:03
+cốc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc  X  +  La ..
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  I CO
+• Tất cả dấu trang
+Luyện tập Q2  +
+• -  Share
+File Edit View  Insert  Format Tools  Extensions Help
+Q  A § 100% -  Normal text -  Arial  | - [11  I UAD  Editing
+Luyện tập Q2 - Google Docs - Cốc Cốc  • StarUML (TRIAL MODE)  Software Engineering: Modeling Softwa...  OBS 31.1.2 - Cấu hình: Không tên - Phân...
+coverage da process iling cams dutomatically arter a consumation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequentiy between wards.
+ENG  4:14 PM
+US  4/22/2026
+
+### 04:03
+* • StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER  Q.
+3 Main - Model  6 Untitled
+19] UseCaseDiagram1-Model1  MI  a Model
+E Modell
+Patient Portal & Clinic Management System  2] UseCaseDiagram1
+• Patient Portal & Clinic Management Sys
+} Patient
+& Doctor
+Medical Record
+Patient  * Nurse
+} Medical Record
+} Officer
+2 Actor6
+TOOLBOX  Doctor  EDITORS
+Officer
+Use Cases
+i Package
+• Use Case Subject
+• Use Case
+Nurse  Actor6
+? Actor
+•l Frame
+• Association
+Directed Association
+İ Generalization
+I Dependency
+Include
+100%
+ENG  4:14 PM
+US  4/22/2026
+
+### 04:58
+CÔC CÔC  Home - Google Drive  Luyện tập Q2 - Google Doc  X  La'
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  =
+88  • Tất cả dầu trang
+Luyện tập Q2  +
+Share
+File Edit View  Insert  Format Tools  Extensions Help
+Q  A § 100% -  Normal text -  Arial  I - 11  Editing
+• StarUML (TRIAL MODE)  Luyện tập Q2 - Google Docs - Cốc Cốc  Software Engineering: Modeling Softwa...  OBS 31.1.2 - Cấu hình: Không tên - Phân...
+ver dr process da cams dutomaticany aner a consuntation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequentiy between wards.
+203
+ENG  4:15 PM
+US  4/22/2026
+
+### 04:58
+cốc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc ×  +  ...
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+88  •• Tất cả dầu trang
+Luyện tập Q2  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Normal text -  Arial  | - 11 +  BIUA ORD  Editing
+5
+PRACTICE TEST 2: HEALTHCARE MANAGEMENT
+SYSTEM
+I. CASE STUDY
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequentiy between wards.
+a-
+ENG  -Ф -  4:15 PM
+US  4/22/2026
+
+### 05:08
+cốc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc  X  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  I CO
+• Tất cả dấu trang
+Luyện tập Q2  +
+Share
+File Edit View  Insert Format Tools  Extensions Help
+Q  A § 100% -  Normal text -  Arial  - | 11  U  Editing
+Luyện tập Q2 - Google Docs - Cốc Cốc  • StarUML (TRIAL MODE)  Software Engineering: Modeling Softwa...  OBS 31.1.2 - Cấu hình: Không tên - Phân...
+coverage and protess unny crams dutomaticany arter a consuntaton.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequentiy between wards.
+ENG  4:15 PM
+US  4/22/2026
+
+### 05:08
+* • StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER  Q.
+2 Main - Model  * Untitled
+9 UseCaseDiagram1 - Modeli  MI  & Model
+Ei Modeli
+Patient Portal & Clinic Management System  2] UseCaseDiagram1
+C  • Patient Portal & Clinic Management Sys
+Patient
+% Doctor
+Medical Record
+Patient  * Nurse
+} Medical Record
+7 Officer
+% «system»Insurance Provider System
+TOOLBOX  Doctor  EDITORS
+Officer
+• Styles
+Use Cases  Font  Arial  13
+• Package  Color  • Inherit
+• Use Case Subject  Line Style
+• Use Case  Format
+Nurse  «system»
+} Actor  Insurance Provider System  Label
+[O]  Er]
+• Frame
+• Association
+Alignment  cu
+T Directed Association
+* Generalization  • Properties
+Dependency  Medical Record
+- Include  stereotype
+2 Modell  * Medical Record [UMLActori  100%
+ENG  4:15 PM
+US  4/22/2026
+
+### 05:29
+i cốc cốc  & Home - Google Drive  Luện tập Q2 - Google Doc X  +  La
+< →  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  _[D
+88  • Tất cả dấu trang
+Luyện tập Q2  +
+Share
+File Edit View Insert Format Tools  Extensions Help
+a sea A §100% = Normal text -  Arial  | - 11  +  Editing
+4  5
+PRACTICE TEST 2: HEALTHCARE MANAGEMENT
+SYSTEM
+I. CASE STUDY
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+ENG  - Ф  4:15 PM
+US  4/22/2026
+
+### 06:35
+* • StarUML (TRIAL MODE)
+File Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER  Q.
+Main - Modet  1) Untitled
+2 UseCaseDiagram1 - Modeli  MI  E] Model
+Et Modell
+Patient Portal & Clinic Management System  2) UseCaseDiagram1
+L Patient Portal & Clinic Management Sys
+% Patient
+& Doctor
+Patient  * Nurse
+* Medical Records Officer
+Medical Records Officer  } Officer
+& «system»insurance Provider System
+TOOLBOX  Doctor  EDITORS
+Use Cases
+«system»
+i Package  Insurance Provider System
+• Use Case Subject
+• Use Case  ^
+Nurse
+? Actor
+• Frame
+Association
+T Directed Association
+i Generalization
+I Dependency
+ef Include
+100%
+ENG  4:16 PM
+US  4/22/2026
+
+### 06:55
+cốc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc ×  +
+< →  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+88  • Tất cả dấu trang
+Luyện tập Q2  * a  +
+Share
+File Edit View Insert Format Tools Extensions Help
+5010%  Normal text  Arial  Editing
+7u..?..
+PRACTICE TEST 2: HEALTHCARE MANAGEMENT
+SYSTEM
+I. CASE STUDY
+f
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequentiy between wards.
+a-
+ENG  4:17 PM
+US  4/22/2026
+
+### 07:56
+* • StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+Main - Model  EB  57 Untitled
+2] UseCaseDiagram1 - Modeli  MI  E Model
+Ea Modell
+Patient Portal & Clinic Management System  2] UseCaseDiagram1
+• Patient Portal & Clinic Management Sys
+• Book Appointment
+Book Appointment  % Patient
+Patient  * Doctor
+÷ Nurse
+Medical Records Officer  * Medical Records Officer
+% Officer
+% «system»Insurance Provider System
+TOOLBOX  Doctor  EDITORS
+• Styles
+Use Cases  Font  Arial  13
+«system»
+E Package  Insurance Provider System  Color  • Inherit
+• Use Case Subject  Line Style
+• Use Case  Format
+Nurse  Label
+% Actor
+(a]  [O]  ET]
+• Frame
+_ Association
+Alignment  ol-
+Directed Association  oile
+i Generalization  • Properties
+Dependency  Patient Portal & Clinic A
+= Include  stereotype
+& Modell  • Patient Portal & Clinic Management System [UMLUseCaseSubject)  100%
+^  ENG  4:18 PM
+US  4/22/2026
+
+### 08:13
+cốc cốc  & Home - Google Drive  Luyện tập Q2 - Google Doc X  +
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+88  • Tất cả dấu trang
+Luyện tập Q2  * D  +
+Share
+File Edit View Insert Format Tools Extensions Help
+5c a A § 100% = Normal text -  Arial  Editing
+7... !..
+PRACTICE TEST 2: HEALTHCARE MANAGEMENT
+SYSTEM
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+ENG  - Ф  4:18 PM
+US  4/22/2026
+
+### 08:46
+* • StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+3 Main - Model  • D Untitled
+El Model
+[2] UseCaseDiagram1 - Modett  MI
+E Model1
+2] UseCaseDiagram1
+Patient Portal & Clinic Management System
+• Patient Portal & Clinic Management Sy:
+• Book Appointment
+Book Appointment  • View result
+* Patient
+Patient
+View result  * Doctor
+Medical Records Officer  } Nurse
+% Medical Records Officer
+Officer
+^  % «system»Insurance Provider System
+TOOLBOX  Doctor  EDITORS
+• Styles
+Use Cases  Font  Arial  13
+«system»
+i Package  Insurance Provider System  Color  • Inherit
+• Use Case Subject  Line Style
+• Use Case  ^  Format
+Nurse  Label
+% Actor
+(a]  [O]  Er)
+• Frame
+_ Association
+Alignment  ol-
+I Directed Association
+İ Generalization  • Properties
+Dependency  Patient Portal & ClinicA
+= Include  stereotype
+E Modell  • Patient Portal & Clinic Management System [UMLUseCaseSubject)  100%
+^  ENG  4:19 PM
+US  4/22/2026
+
+### 09:11
+côc cốc  • Home - Google Drive  Luyện tập Q2 - Google Doc ×  +  Ca
+< →  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+88  • Tất cả dấu trang
+Luyện tập Q2  * a  +
+Share
+File Edit View Insert Format Tools Extensions Help
+a sea A §100% Normal text -  Arial  Editing
+3  7...1..
+PRACTICE TEST 2: HEALTHCARE MANAGEMENT
+SYSTEM
+I. CASE STUDY
+f
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequentiy between wards.
+ENG  4:19 PM
+US  4/22/2026
+
+### 10:27
+• StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+3) Main - Model  6B  Le Model
+E] Modell
+12] UseCaseDiagram1 - Modelt  UseCaseDiagram1
+• Patient Portal & Clinic Management Sy:
+Patient Portal & Clinic Management System
+• Book Appointment
+• View result
+Book Appointment  • Cancel Appointment
+* Patient
+Patient  View result  % Doctor
+Medical Records Officer  ₺ Nurse
+Cancel Appointment  * Medical Records Officer
+% Officer
+% «system»Insurance Provider System
+TOOLBOX  Doctor  EDITORS
+• Styles
+Use Cases  Font  Arial  13
+«system»
+E Package  Insurance Provider System  Color  • Inherit
+• Use Case Subject  Line Style
+• Use Case  Format
+Nurse  Label
+% Actor
+(H)  (a]  [O]  ET]
+• Frame
+_ Association
+Alignment  ol-
+1 Directed Association  dile
+i Generalization  • Properties
+Dependency  Patient Portal & ClinicA
+Ef Include  stereotype
+& Modell  • Patient Portat & Clinic Management System [UMLUseCaseSubject)  100%
+^  ENG  4:20 PM
+US  4/22/2026
+
+### 10:40
+Ở cốc cốc  • Home - Google Drive  5 Luện tập Q2 - Google Doc X  +  Ca  ...
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  =
+88  • Tất cả dấu trang
+Luyện tập Q2  +
+Share
+File Edit View Insert Format Tools Extensions Help
+a sea A 100% = Normal text "  Arial  - 11 +  BIVADORO  / Editing
+..?..
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System* (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequentiy between wards.
+E  ENG  4:21 PM
+US  4/22/2026
+
+### 10:50
+• StarUML (TRIAL MODE
+File  Edit Format  Model Tools View  Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+2 Main - Modet  6B
+a Modell
+| UseCaseDiagrami - Modell  MI
+* UseCaseDiagram1
+• Patient Portal & Clinic Management Sy:
+Patient Portal & Clinic Management System  • Book Appointment
+• View
+Book Appointment  • Cancel Appointment
+9 patient
+Dificer
+Luyện tập Q2 - Google Docs - Cốc Cốc  • StarUML (TRIAL MODE)  Software Engineering: Modeling Softwa....  OBS 31.1.2 - Cấu hình: Không tên - Phân...
+e Provider System
+TOOLBOX
+Use Cases  13
+i Package  • Inherit
+• Use Case Subjec
+• Use Case
+Nurse  Label
+% Actor
+(a]  Er]
+Frame
+Association
+Alignment
+1 Directed Association
+i Generalization  • Properties
+Dependency  View
+= Include  stereotype
+ia Modell  • Patient Portal & Clinic Management System  View result [UMLUseCase]
+^  ENG  4:21 PM
+US  4/22/2026
+
+### 11:42
+cốc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc ×  +  ...
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  CD
+88  •• Tất cả dầu trang
+Luyện tập Q2  * G  +
+-  Share
+File Edit View Insert Format Tools Extensions Help
+Normal text -  Arial  Editing
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+^  ENG  4:22 PM
+US  4/22/2026
+
+### 11:43
+* • StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+5) Main - Model  4 a Modell
+3] UseCaseDiagram1
+2] UseCaseDiagram1 - Modelt  MI
+• • Patient Portal & Clinic Management Sy:
+• Book Appointment
+Patient Portal & Clinic Management System
+• View Digital Prescription
+• Cancel Appointment
+Book Appointment  • Download Lab Result
+9 Patient
+Patient  * Doctor
+View Digital Prescription  Medical Records Officer  % Nurse
+* Medical Records Officer
+Cancel Appointment  ₽ Officer
+% «system»Insurance Provider System
+TOOLBOX  Download Lab Result  EDITORS
+• Styles
+Use Cases  Font  Arial  13
+Doctor  «system»
+i Package  Insurance Provider System  Color  • Inherit
+• Use Case Subject  Line Style
+• Use Case  Format
+2 Actor  Label
+(a]  ET]
+•l Frame
+^
+Association  Nurse
+Alignment  ol-
+Directed Association
+İ Generalization  • Properties
+Dependency  Patient Portal & Clinic A
+E Include
+& Modell  • Patient Portal & Clinic Management System [ULUseCaseSubject)  100%
+^  ENG  4:22 PM
+US  4/22/2026
+
+### 11:43
+côc côc  & Home - Google Drive  Luện tập Q2 - Google Doc ×  +  ...
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  CD
+88  •• Tất cả dầu trang
+Luyện tập Q2  * G  +
+Share
+File Edit View Insert  Format Tools Extensions Help
+5caA8100%  Normal text -  Arial  Editing
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+^  ENG  -Ф м  4:22 PM
+US  4/22/2026
+
+### 12:05
+cốc cốc  Home - Google Drive  Luện tập Q2 - Google Doc  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+• Tất cả dấu trang
+Luyện tập Q2  *  +
+Share
+File Edit View Insert Format Tools  Extensions Help
+Q  A § 100% -  Normal text -  Arial  1 - 11  BI UAO  EX  Editing
+Luyện tập Q2 - Google Docs - Cốc Cốc  • StarUML (TRIAL MODE)  Software Engineering: Modeling Softwa...  OBS 31.1.2 - Cấu hình: Không tên - Phân...
+perrormance degradation. As per legal requirements, the system must maintain a tull audit 10g
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+203
+ENG  4:22 PM
+US  4/22/2026
+
+### 12:05
+* • StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+3 Main - Model  4 E Modell
+3] UseCaseDiagram1
+2] UseCaseDiagram1 - Modell  MI
+• Patient Portal & Clinic Management Sy:
+• Book Appointment
+Patient Portal & Clinic Management System
+• View Digital Prescription
+• Cancel Appointment
+Book Appointment  • Download Lab Result
+* Patient
+Patient  Doctor
+View Digital Prescription  Medical Records Officer  } Nurse
+* Medical Records Officer
+Cancel Appointment  % Officer
+& «system»Insurance Provider System
+TOOLBOX  Download Lab Result  EDITORS
+• Styles
+Use Cases  Arial  13
+Doctor  «system»
+i Package  Insurance Provider System  Color  • Inherit
+• Use Case Subject  Line Style
+• Use Case  Format
+} Actor  Label
+[a]  [O]  [T]
+•l Frame
+Association  Nurse
+Alignment  al-  cU
+Directed Association
+i Generalization  • Properties
+I Dependency  Patient Portal & ClinicA
+= Include
+A-
+→ Modell  • Patient Portal & Clinic Management System [UMLUseCaseSubject)  100%
+^  ENG  4:22 PM
+US  4/22/2026
+
+### 12:05
+côc cốc  • Home - Google Drive  Luyện tập Q2 - Google Doc  +  La l
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+88  •• Tất cả dầu trang
+Luyện tập Q2  +
+• -  Share
+File Edit View Insert Format  Tools  Extensions Help
+Q  5  Normal text -  Arial  | - 11] +  BI UA  Editing
+• StarUML (TRIAL MODE)  Luyện tập Q2 - Google Docs - Cốc Cốc  Software Engineering: Modeling Softwa...  OBS 31.1.2 - Cấu hình: Không tên - Phân....
+penormance degradation. As per legar requirements, the system must maintain a tuit audit 10g
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+ENG  4:22 PM
+US  4/22/2026
+
+### 12:05
+côc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc ×  +
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+88  •• Tất cả dầu trang
+Luyện tập Q2  * G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+5c@ A 8 100% -Normal text *  Arial  | - 11] +  BIVA GEO  Editing
+6  7... T..
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions]directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequentiy between wards.
+^  ENG  - Ф  4:22 PM
+US  4/22/2026
+
+### 12:18
+* • StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+3 Main - Model  4 A Modell
+3] UseCaseDiagram1
+12] UseCaseDiagram1 - Modelt  MI
+[ Patient Portal & Clinic Management Sy
+• Book Appointment
+Patient Portal & Clinic Management System
+• View Digital Prescription
+• Cancel Appointment
+Book Appointment  • Download Lab Result
+% Patient
+Patient  * Doctor
+View Digital Prescription  Medical Records Officer  * Nurse
+* Medical Records Officer
+Cancel Appointment  } Officer
+& «system»Insurance Provider System
+TOOLBOX  Download Lab Result  EDITORS
+• Styles
+Use Cases  Font  Arial  13
+Doctor  «system»
+i Package  Insurance Provider System  Color  • Inherit
+• Use Case Subject  Line Style
+• Use Case  Format
+7 Actor  Label
+(a]  ET]
+• Frame
+_ Association  Nurse
+Alignment
+Directed Association
+İ Generalization  • Properties
+Dependency  Patient Portal & ClinicA
+: Include
+& Modell  • Patient Portal & Clinic Management System [UMLUseCaseSubject)  100%
+ENG  4:22 PM
+US  4/22/2026
+
+### 12:50
+Ở cốc cốc  Home - Google Drive  Luện tập Q2 - Google Doc ×  +  La  ...
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  CD
+88  • Tất cả dấu trang
+Luyện tập Q2  +
+Share
+File Edit View Insert Format Tools Extensions Help
+5c8 A 100% Normal text =  Arial  | - 11] +  Editing
+6
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+^  ENG  4:23 PM
+US  4/22/2026
+
+### 13:21
+* • StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+3) Main - Model  E UseCaseDiagrami
+• Patient Portal & Clinic Management Sy:
+12] UseCaseDiagram1 - Modeli  MI
+• Book Appointment
+• View Digital Prescription
+Patient Portal & Clinic Management System  • Cancel Appointment
+• Download Lab Result
+Book Appointment  • Review Patient Medical Histories
+% Patient
+Patient  * Doctor
+View Digital Prescription  Medical Records Officer  € Nurse
+* Medical Records Officer
+Cancel Appointment  7 Officer
+& «system»Insurance Provider System
+TOOLBOX  Download Lab Result  EDITORS
+• Styles
+Use Cases  Review Patient Medical Histories  Font  Arial  13
+Doctor  «system»
+i Package  Insurance Provider System  Color  • Inherit
+• Use Case Subject  Line Style
+• Use Case  Format
+7 Actor  Label
+(a]  [O]  ET]
+El Frame
+_ Association  Nurse
+Alignment  ol-
+I Directed Association  6:
+i Generalization  • Properties
+Dependency  Patient Portal & ClinicA
+ET Include  stereotype
+E] Modell  • Patient Portal & Clinic Management System [UMLUseCaseSubject)  100%
+^  ENG  4:23 PM
+US  4/22/2026
+
+### 13:36
+cốc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc ×  +
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+88  • Tất cả dầu trang
+Luyện tập Q2 * G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Normal text -  Arial  Editing
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+ENG  - Ф  4:23 PM
+US  4/22/2026
+
+### 14:02
+cốc cốc  Home - Google Drive  Luện tập Q2 - Google Doc  +  La
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+• Tất cả dấu trang
+Luyện tập Q2  *  +
+Share
+File Edit View Insert Format Tools  Extensions Help
+Q  A § 100% -  Normal text -  Arial  - | 11  1E  Editing
+Luyện tập Q2 - Google Docs - Cốc Cốc  • StarUML (TRIAL MODE)  Software Engineering: Modeling Softwa...  OBS 31.1.2 - Cấu hình: Không tên - Phân...
+perrormance degradation. As per legal requirements, the system must maintain a tull audit 10g
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+203
+ENG  4:24 PM
+US  4/22/2026
+
+### 14:02
+* • StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+Main — Model  EB  UseCaseDiagrami
+• Patient Portal & Clinic Management Sy:
+8] UseCaseDiagram1 - Modell  MI
+• Book Appointment
+• View Digital Prescription
+Patient Portal & Clinic Management System  • Cancel Appointment
+• Download Lab Result
+Book Appointment  • Record Consultation Note
+7 Patient
+Patient  Doctor
+View Digital Prescription  Medical Records Officer  * Nurse
+* Medical Records Officer
+Cancel Appointment  } Officer
+& «system»Insurance Provider System
+TOOLBOX  Download Lab Result  EDITORS
+• Styles
+Use Cases  Record Consultation Note  Font  Arial  13
+Doctor  «system»
+i Package  Insurance Provider System  Color  • Inherit
+• Use Case Subject  Line Style  J'28
+• Use Case  Format  0 =
+? Actor  Label
+[O]  [T]
+• Frame
+Association  Nurse
+Alignment  al-  cu
+Directed Association  dinio  6:
+i Generalization  • Properties
+I Dependency  Patient Portal & Clinic A
+= Include
+* Modell  • Patlent Portal & Clinic Management System [UMLUseCaseSubject]  100%
+ENG  4:24 PM
+US  4/22/2026
+
+### 14:20
+cốc cốc  Home - Google Drive  Luện tập Q2 - Google Doc X  +  La  ..  -
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  *
+88  • Tất cả dấu trang
+Luyện tập Q2 * G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Normal text -  Arial  Editing
+..1.
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently betwien wards.
+E  ENG  4:24 PM
+US  4/22/2026
+
+### 14:21
+* - StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER  Q.
+Main - Model  EB  • LI Patient Portal & Clinic Management Sy
+• Book Appointment
+2] UseCaseDiagram1 - Modelt  MI
+• View Digital Prescription
+• Cancel Appointment
+Patient Portal & Clinic Management System  • Download Lab Result
+• Record Consultation Note
+Book Appointment  Issue Electronic Prescriptions
+Patient
+Patient  * Doctor
+View Digital Prescription  Medical Records Officer  * Nurse
+* Medical Records Officer
+Cancel Appointment  } Officer
+& «system»Insurance Provider System
+TOOLBOX  Download Lab Result  EDITORS
+• Styles
+Use Cases  Record Consultation Note  ^  Font  Arial  13
+Doctor  «system»
+i Package  Insurance Provider System  Color  • Inherit
+• Use Case Subject  Issue Electronic Prescriptions  Line Style
+• Use Case  Format
+? Actor  Label
+(a]  [O]
+• Frame
+Association  Nurse
+Alignment  al-
+Directed Association
+I Generalization  • Properties
+Dependency  Patient Portal & Clinich
+Include  stereotype
+E Modell  • Patlent Portal & Clinic Management System [UMLUseCaseSubject)  100%
+^  ENG  4:24 PM
+US  4/22/2026
+
+### 14:22
+cốc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc ×  +
+< →  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  CD  =
+88  • Tất cả dầu trang
+Luyện tập Q2  * D  +
+Share
+File Edit View Insert Format Tools  Extensions Help
+50848100% -  Normal text -  Arial  - 11 +  BIVA GEO  Editing
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation!
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+^  E  ENG  - Ф  4:24 PM
+US  4/22/2026
+
+### 15:32
+cốc cốc  Home - Google Drive  Luện tập Q2 - Google Doc  +
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  • CD
+• Tất cả dấu trang
+Luyện tập Q2  *  +
+• -  Share
+File Edit View Insert Format Tools  Extensions Help
+Q  A § 100% -  Normal text -  Arial  - | 11  BI UAO  EX  Editing
+Luyện tập Q2 - Google Docs - Cốc Cốc  • StarUML (TRIAL MODE)  Software Engineering: Modeling Softwa...  OBS 31.1.2 - Cấu hình: Không tên - Phân...
+perrormance degradation. As per egar requirements, the system must maintain a tull audit 10g
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+ENG  4:25 PM
+US  4/22/2026
+
+### 15:32
+* • StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER  Q.
+3 Main - Model  • L Patient Portal & Clinic Management Sy:
+• Book Appointment
+19] UseCaseDiagram1 - Modell  MI
+• View Digital Prescription
+• Cancel Appointment
+Patient Portal & Clinic Management System  • Download Lab Result
+• Record Consultation Note
+Book Appointment  Issue Electronic Prescriptions
+Patient
+Patient  ÷ Doctor
+View Digital Prescription  Medical Records Officer  } Nurse
+* Medical Records Officer
+Cancel Appointment  7 Officer
+& «system»Insurance Provider System
+TOOLBOX  Download Lab Result  EDITORS
+• Styles
+Use Cases  Record Consultation Note  Font  Arial  13
+Doctor  «system»
+i Package  Insurance Provider System  Color  • Inherit
+• Use Case Subject  Issue Electronic Prescriptions  Line Style
+• Use Case  Format
+2 Actor  Label
+[#)  [O]  [T]
+•l Frame
+Association  Nurse
+Alignment  al-  cU
+Directed Association  djo
+i Generalization  • Properties
+I Dependency  Patient Portal & Clinic A
+= Include
+• Modell  • Patient Portal & Clinic Management System [UMLUseCaseSubject]  100%
+^  ENG  4:25 PM
+US  4/22/2026
+
+### 15:37
+cốc cốc  & Home - Google Drive  Luyện tập Q2 - Google Doc ×  +  ...
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  *
+88  • Tất cả dấu trang
+Luyện tập Q2  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Normal text -  Arial  - 11+B I UA  4 C A • /  Editing
+6
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+I
+^  ENG  4:25 PM
+US  4/22/2026
+
+### 15:45
+* StarUML (TRIAL MODE
+File  Edit Format  Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+2) Main - Model  - Book Appointment
+• View Digital Prescription
+UseCaseDiagram1 - Modelt  MI
+• Cancel Appointment
+© Download Lab Result
+Patient Portal & Clinic Management System  • Record Consultation Note
+• Issue Electronic Prescriptions
+Book Appointment  • UseCasel
+9 Patient
+Officer
+Luyện tập Q2 - Google Docs - Cốc Cốc  • StarUML (TRIAL MODE)  Software Engineering: Modeling Softwa...  OBS 31.1.2 - Cấu hình: Không tên - Phân...
+ce Provider System
+TOOLBOX
+Use Cases
+i Package
+• Use Case Subjec
+• Use Case
+2 Actor  isFinalSpecialization
+Frame  isLeaf
+^  UseCase1
+• Association  • Documentation
+Nurse
+Directed Association
+* Generalization
+Dependency
+= Include
+• Modell  secasel [UMLUseCase)  100%
+ENG  4:26 PM
+US  4/22/2026
+
+### 15:47
+cốc cốc  Home - Google Drive  • Luyện tập Q2 - Google Doc X  +  La  ...
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  CD
+88  • Tất cả dấu trang
+Luyện tập Q2 * G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+Normal text -  Arial  - 11] +  BILA GE  Editing
+6
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+^  E  ENG  4:26 PM
+US  4/22/2026
+
+### 15:51
+* • StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+3 Main - Model  6B  - Book Appointment
+• View Digital Prescription
+12] UseCaseDiagram1 - Modeli  MI
+• Cancel Appointment
+© Download Lab Result
+Patient Portal & Clinic Management System  © Record Consultation Note
+• Issue Electronic Prescriptions
+Book Appointment  • recording vital
+% Patient
+Patient  % Doctor
+View Digital Prescription  Medical Records Officer  € Nurse
+* Medical Records Officer
+Cancel Appointment  7 Officer
+% «system»Insurance Provider System
+TOOLBOX  Download Lab Result  EDITORS
+• Properties
+Use Cases  ^  name
+Record Consultation Note  recording vital
+Doctor  «system»
+• Package  Insurance Provider System  stereotype
+• Use Case Subject  Issue Electronic Prescriptions  visibility  public
+• Use Case  isAbstract
+9 Actor  isFinalSpecialization
+• Frame  isLeaf
+_ Association  recording vital  +o  • Documentation
+Nurse
+I Directed Association  8 8
+i Generalization
+Dependency
+i Include
+EJ Modell  • UseCase 1 [UMLUseCasel  100%
+ENG  4:26 PM
+US  4/22/2026
+
+### 15:56
+cốc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc ×  +
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+88  • Tất cả dấu trang
+Luyện tập Q2  +
+Share
+File Edit View Insert Format Tools Extensions Help
+5c a A § 100% - | Normal text -  Arial  - 11] +  BIAO GRO  Editing
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+E  ENG  4:26 PM
+US  4/22/2026
+
+### 15:58
+* • StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+5) Main - Model  EB  Book Appointment
+• View Digital Prescription
+12] UseCaseDiagram1 - Modett  MI
+• Cancel Appointment
+© Download Lab Result
+Patient Portal & Clinic Management System  • Record Consultation Note
+• Issue Electronic Prescriptions
+Book Appointment  • recording vital arrival
+% Patient
+Patient  * Doctor
+View Digital Prescription  Medical Records Officer  € Nurse
+* Medical Records Officer
+Cancel Appointment  % Officer
+& «system»Insurance Provider System
+TOOLBOX  Download Lab Result  EDITORS
+• Properties
+Use Cases  Record Consultation Note  name  recording vital arrival
+Doctor  «system»
+i Package  Insurance Provider System  stereotype  Q
+• Use Case Subject  Issue Electronic Prescriptions  visibility  public
+• Use Case  isAbstract
+7 Actor  isFinalSpecialization
+•l Frame  isLeaf
+Association  recording vital arrit to !  • Documentation
+Nurse
+1 Directed Association  7 8 8
+¡ Generalization
+1 Dependency
+i Include
+E] Modell  • UseCase 1 [UMLUseCase]  100%
+^  C  ENG  4:26 PM
+US  4/22/2026
+
+### 16:14
+cốc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc ×  +  ...
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  CD
+88  • Tất cả dấu trang
+Luyện tập Q2 * G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+5c a A § 100% - | Normal text -  Arial  | - 11 +  BIUAD GRO  Editing
+1. 1.
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequentiy between wards.
+ENG  4:26 PM
+US  4/22/2026
+
+### 17:11
+* • StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+E Main - Model  Book Appointment
+• View Digital Prescription
+9] UseCaseDiagram1 - Modett  MI
+• Cancel Appointment
+• Download Lab Result
+Patient Portal & Clinic Management System  • Record Consultation Note
+• Issue Electronic Prescriptions
+Book Appointment  © Recording Vital Signs
+° Patient
+Patient  % Doctor
+View Digital Prescription  Medical Records Officer  € Nurse
+* Medical Records Officer
+Cancel Appointment  } Officer
+% «system»Insurance Provider System
+TOOLBOX  Download Lab Result  EDITORS
+• Styles
+Use Cases  ^  Font  Arial  13
+Record Consultation Note
+Doctor  «system»
+• Package  Insurance Provider System  Color  • Inherit
+• Use Case Subject  Issue Electronic Prescriptions  Line Style
+• Use Case  Format
+2 Actor  Label
+[0]  Er)
+• Frame
+Association  Recording Vital Signs
+Nurse  Alignment  ol-
+1 Directed Association
+İ Generalization  • Properties
+/ Dependency  Recording Vital Signs
+Include  stereotype
+E Modell  • Recording Vital Signs [UMLUseCasel  100%
+^  ENG  4:27 PM
+US  4/22/2026
+
+### 17:19
+côc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc ×  +  ...
+< →  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  CD
+88  • Tất cả dấu trang
+Luyện tập Q2  * G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+508A 8100%  Normal text -  Arial  | - 11] +  BIUA eDO  Editing
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+^  E  ENG  4:27 PM
+US  4/22/2026
+
+### 17:23
+cốc cốc  Home - Google Drive  Luện tập Q2 - Google Doc  +
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+• Tất cả dấu trang
+Luyện tập Q2  *  +
+Share
+File Edit View Insert Format Tools  Extensions Help
+Q  A § 100% -  Normal text Y  Arial  - | 11  Editing
+Luyện tập Q2 - Google Docs - Cốc Cốc  • StarUML (TRIAL MODE)  Software Engineering: Modeling Softwa...  OBS 31.1.2 - Cấu hình: Không tên - Phân...
+perormance degradation. As periegar requirements, the system must maintain a tull audit 10g
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+ENG  4:27 PM
+US  4/22/2026
+
+### 17:23
+* • StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+Main - Model  EB  • View Digital Prescription
+• Cancel Appointment
+2] UseCaseDiagram1 - Modell  © Download Lab Result
+• Record Consultation Note
+Patient Portal & Clinic Management System  • Issue Electronic Prescriptions
+• Recording Vital Signs
+Book Appointment  manage
+Patient
+Patient  * Doctor
+View Digital Prescription  manage  Medical Records Officer  Nurse
+& 8  * Medical Records Officer
+Cancel Appointment  ₽ Officer
+% «system»Insurance Provider System
+TOOLBOX  Download Lab Result  EDITORS
+• Properties
+Use Cases  ^  name
+Record Consultation Note  manage
+Doctor  «system»
+# Package  Insurance Provider System  stereotype  Q
+• Use Case Subject  Issue Electronic Prescriptions  visibility  public
+• Use Case  isAbstract
+2 Actor  isFinalSpecialization
+•l Frame  isLeaf
+Association  Recording Vital Signs  • Documentation
+Nurse
+Directed Association
+İ Generalization
+I Dependency
+if Include
+2 Modell  Usecasel [UMLUseCasel  100%
+^  ENG  4:27 PM
+US  4/22/2026
+
+### 17:46
+cốc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc ×  +
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  CD
+88  • Tất cả dầu trang
+Luyện tập Q2  * a  +
+Share
+File Edit View Insert Format Tools Extensions Help
+5d a A § 100% = | Normal text -  Arial  | - 11] +  BI UA  Editing
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequentiy between wards.
+^  E  ENG  -Ф м  4:28 PM
+US  4/22/2026
+
+### 17:47
+cốc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc  +  La ..
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  •CD
+• Tất cả dấu trang
+Luyện tập Q2  +
+• -  Share
+File Edit View  Insert  Format Tools  Extensions Help
+Q  A § 100% -  Normal text -  Arial  I - 11  Editing
+Luyện tập Q2 - Google Docs - Cốc Cốc  • StarUML (TRIAL MODE)  Software Engineering: Modeling Softwa...  OBS 31.1.2 - Cấu hình: Không tên - Phân...
+pertormance degradation. As per legal requirements, the system must maintain a tult audit 10g
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+^  ENG  4:28 PM
+US  4/22/2026
+
+### 17:47
+* • StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+2 Main - Model  - View Digital Prescription
+• Cancel Appointment
+19] UseCaseDiagram1 - Modell  MI
+• Manage Sensitive Data
+• Download Lab Result
+Patient Portal & Clinic Management System  • Record Consultation Note
+© Issue Electronic Prescriptions
+Book Appointment  © Recording Vital Signs
+* Patient
+Patient  ÷ Doctor
+View Digital Prescription  Manage Sensitive Data
+Medical Records Officer  } Nurse
+% Medical Records Officer
+Cancel Appointment  Officer
+% «system»Insurance Provider System
+TOOLBOX  Download Lab Result  EDITORS
+• Styles
+Use Cases  Record Consultation Note  Font  Arial  13
+Doctor  «system»
+i Package  Insurance Provider System  Color  • Inherit
+• Use Case Subject  Issue Electronic Prescriptions  Line Style
+• Use Case  Format
+% Actor  Label
+EO]  Er)
+• Frame
+Association  Recording Vital Signs
+Nurse  Alignment  cU
+Directed Association
+i Generalization  • Properties
+/ Dependency  Manage Sensitive Data
+i Include  stereotype
+& Modell  Manage Sensitive Data [UMLUseCase.  100%
+^  ENG  4:28 PM
+US  4/22/2026
+
+### 17:56
+côc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc ×  +  ...
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  CD
+88  • Tất cả dấu trang
+Luyện tập Q2 * G  +
+Share
+File Edit View Insert Format  Tools  Extensions Help
+508A 8100%  Normal text -  Arial  | - 11 +  BILA ODO  Editing
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book applintments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+E  ENG  "Ф -  4:28 PM
+US  4/22/2026
+
+### 18:53
+cốc cốc  Home - Google Drive  Luện tập Q2 - Google Doc  +  La ..
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+• Tất cả dấu trang
+Luyện tập Q2  *  +
+E  Share
+File Edit View Insert Format Tools Extensions Help
+Q  A § 100% -  Normal text -  Arial  - 11  +  Editing
+Luyện tập Q2 - Google Docs - Cốc Cốc  Software Engineering: Modeling Softwa...  • StarUML (TRIAL MODE)  OBS 31.1.2 - Cấu hình: Không tên - Phân...
+perrormance degradation. As peregar requirements, the system must maintain a tuit audit 10g
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+203
+ENG  4:29 PM
+US  4/22/2026
+
+### 18:57
+* • StarUML (TRIAL MODE)  X
+File Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+3) Main - Model  - View Digital Prescription
+• Cancel Appointment
+19] UseCaseDiagram1 - Modelt  MI
+• Manage Sensitive Data
+• Download Lab Result
+Patient Portal & Clinic Management System  • Record Consultation Note
+• Issue Electronic Prescriptions
+Book Appointment  © Recording Vital Signs
+& Patient
+Patient  } Doctor
+View Digital Prescription  Manage Sensitive Data
+Medical Records Officer  % Nurse
+% Medical Records Officer
+Cancel Appointment  % Officer
+% «system»Insurance Provider System
+TOOLBOX  Download Lab Result  EDITORS
+• Styles
+Use Cases  Record Consultation Note  Font  Arial  13
+Doctor  «system»
+i Package  Insurance Provider System  Color  • Inherit
+• Use Case Subject  Issue Electronic Prescriptions  Line Style
+• Use Case  Format
+% Actor  Label
+[o]  [O]  Er]
+•l Frame
+^  Recording Vital Signs
+_ Association  Nurse
+Alignment  o|-
+Directed Association
+i Generalization  • Properties
+Dependency  Manage Sensitive Data
+= Include  stereotype
+ta Modell  • Patient Portal & Clinic Management System  • Manage Sensitive Data [UMLUseCase]  100%
+^  ENG  4:29 PM
+US  4/22/2026
+
+### 19:14
+cốc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc ×  +  ...
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  CD
+88  • Tất cả dầu trang
+Luyện tập Q2  * a  +
+Share
+File Edit View Insert Format Tools Extensions Help
+5c # A § 100% = | Normal text -  Arial  | - 11 +  BIVADGEO  Editing
+7...?..
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequentiy between wards.
+^  ENG  4:29 PM
+US  4/22/2026
+
+### 19:19
+* • StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+E3 Main - Model  - Manage Sensitive Data
+© Download Lab Result
+12] UseCaseDiagram1 - Modeli  MI
+• Record Consultation Note
+• Issue Electronic Prescriptions
+Patient Portal & Clinic Management System  • Recording Vital Signs
+• Verify Coverage
+Book Appointment  • UseCase?
+* Patient
+Patient  ° Doctor
+View Digital Prescription  Manage Sensitive Data
+Medical Records Officer  * Nurse
+* Medical Records Officer
+Cancel Appointment  % Officer
+& «system»Insurance Provider System
+TOOLBOX  Download Lab Result  EDITORS
+• Styles
+Use Cases  Verify Coverage  ^  Font  Arial  13
+Doctor  Record Consultation Note
+«system»
+i Package  Insurance Provider System  Color  • Inherit
+• Use Case Subject  Issue Electronic Prescriptions  Line Style
+UseCase2
+• Use Case  Format
+% Actor  Label
+[O]  Er)
+• Frame
+Association  Recording Vital Signs
+Nurse  Alignment  o|-
+Directed Association
+İ Generalization  • Properties
+1 Dependency  UseCase2
+Include  stereotype
+& Modell  UseCase2 [UMLUseCase]  100%
+^  ENG  4:29 PM
+US  4/22/2026
+
+### 23:16
+cốc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc ×  +  ...
+docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+88  • Tất cả dầu trang
+Luyện tập Q2 * G  +
+Share
+File Edit View Insert Format Tools Extensions Help
+95caA AS 100% - Normal text =  Arial  | - 11] +  BI UA  Editing
+=  I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequentiy between wards.
+^  E  ENG  - Ф  4:33 PM
+US  4/22/2026
+
+### 23:52
+• StarUML (TRIAL MODE)
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+2 Main - Model  Er (Cancel Appointment→BookAppi
+21 UseCaseDiagram1 - Modelt  MI  • Manage Sensitive Data
+• (Manage Sensitive Data-Medical
+Patient Portal & Clinic Management System  • _ (Patient Portal & Clinic Management
+© Download Lab Result
+Book Appointment  • Record Consultation Note
+• Issue Electronic Prescriptions
+View Digital Prescription
+© Recording Vital Signs
+Patient  Manage Sensitive Data  © Verify Coverage
+«include»  Medical Records Officer
+* • Process Billing
+•J (Process Billing Insurance Provider
+Cancel Appointment
+% Patient
+(Patient-Book Appointment)
+TOOLBOX  Download Lab Result  EDITORS
+Record Consultation Note  Verify Coverage
+• Use Case Subject
+Doctor  «system»
+• Use Case  Insurance Provider System
+% Actor  Issue Electronic Prescriptions  Process Billing
+• Frame
+Association
+1 Directed Association
+Recording Vital Signs
+* Generalization  Nurse
+* Dependency
+1f Include
+ET Extend
+Annotations
+100%
+^  ENG  4:34 PM
+US  4/22/2026
+
+### 23:55
+cốc cốc  Home - Google Drive  Luện tập Q2 - Google Doc X  +
+< →  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0
+88  • Tất cả dấu trang
+Luyện tập Q2  * a  +
+Share
+File Edit View Insert Format Tools Extensions Help
+5c a A § 100% - Normal text -  Arial  Editing
+7...1..
+PRACTICE TEST 2: HEALTHCARE MANAGEMENT
+SYSTEM
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download laj results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequentiy between wards.
+^  ENG  4:34 PM
+US  4/22/2026
+
+### 24:27
+* • StarUML (TRIAL MODE)  X
+File  Edit Format Model Tools View Window Debug Help
+WORKING DIAGRAMS  *  MODEL EXPLORER
+E Main - Model  ET (Cancel Appointment-Book Appr
+E] UseCaseDiagram1 - Modelt  MI  • Manage Sensitive Data
+• (Manage Sensitive Data-Medical
+Patient Portal & Clinic Management System  • (Patient Portal & Clinic Managemen!
+© Download Lab Result
+Book Appointment  • Record Consultation Note
+© Issue Electronic Prescriptions
+View Digital Prescription
+© Recording Vital Signs
+Patient  Manage Sensitive Data  © Verify Coverage
+«include»  Medical Records Officer
+* • Process Billing
+• _ (Process Billing Insurance Provider
+Cancel Appointment
+% Patient
+(Patient-Book Appointment)
+TOOLBOX  Download Lab Result  EDITORS
+Record Consultation Note  Verify Coverage
+• Use Case Subject
+Doctor  «system»
+• Use Case  Insurance Provider System
+% Actor  Issue Electronic Prescriptions  Process Billing
+# Frame
+_ Association
+I Directed Association  ^
+Recording Vital Signs
+¡ Generalization  Nurse
+Dependency
+Lf Include
+ET Extend
+Annotations
+ENG  4:34 PM
+US  4/22/2026
+
+### 29:42
+Ở cốc cốc  Home - Google Drive  Luyện tập Q2 - Google Doc ×  +  La  ...
+< >  docs.google.com/document/d/1fxrE5g9KHEHpPn6fyMTV_zTOIZC2jiKanzqsjBQcP5Q/edit?tab=t.0  CD
+88  • Tất cả dấu trang
+Luyện tập Q2  +
+Share
+File Edit View Insert Format Tools  Extensions Help
+Normal text  Arial  Editing
+3  7
+PRACTICE TEST 2: HEALTHCARE MANAGEMENT
+SYSTEM
+I. CASE STUDY
+"CityCare Hospital" is upgrading its legacy paper records to a digital "Patient Portal & Clinic
+Management System" (PPCMS). Patients utilize the portal to book appointments, view their
+digital prescriptions, and download lab results. If a patient is unable to attend, they can cancel
+their appointment; if done within 24 hours of the slot, the system automatically offers the
+opening to the next patient on a "Priority Waiting List." Doctors use the system to review patient
+medical histories, record consultation notes, and issue electronic prescriptions directly to the
+hospital pharmacy. Nurses are responsible for checking patients in upon arrival, recording vital
+signs (weight, blood pressure), and updating the room occupancy status. Medical Records
+Officers manage the archiving of sensitive data and ensure all records comply with national
+health privacy laws. An external Insurance Provider System is linked to the PPCMS to verify
+coverage and process billing claims automatically after a consultation.
+The PPCMS must be highly secure, utilizing Multi-Factor Authentication (MFA) for all staff
+logins. The system must support at least 200 concurrent medical staff users without
+performance degradation. As per legal requirements, the system must maintain a full audit log
+of every user who accesses a patient's file. The interface must be optimized for tablets, as
+doctors and nurses move frequently between wards.
+^  E  ENG  4:40 PM
+US  4/22/2026
+

@@ -1,0 +1,18 @@
+Tôi đã xem và phân tích 16 ảnh trong thư mục `01_raw/b3-3/attach/`. 
+
+Dưới đây là tóm tắt kết quả mà tôi đã đọc được từ các hình ảnh:
+- Hai ảnh đầu (01:15 và 01:26) chỉ là ảnh chụp text bài toán (Case Study) và cửa sổ Start của phần mềm StarUML, do đó đã được bỏ qua và liệt kê vào mục `anh_bo_qua`.
+- Từ 03:26 cho tới 24:27 là quá trình vẽ một biểu đồ Use Case duy nhất cho hệ thống **Patient Portal & Clinic Management System**.
+- Sơ đồ hoàn chỉnh nhất xuất hiện ở ảnh **24:27** (`24m27s.jpg`), gồm có:
+  - **Các Actor:** Patient, Doctor, Nurse, Medical Records Officer và Insurance Provider System (có stereotype `<<system>>`).
+  - **Các Use Case:** Book Appointment, View Digital Prescription, Cancel Appointment, Download Lab Result, Record Consultation Note, Issue Electronic Prescriptions, Recording Vital Signs, Manage Sensitive Data, Verify Coverage, Process Billing.
+  - **Các quan hệ:** Có một quan hệ `<<include>>` (Cancel Appointment `-->` Book Appointment). Các quan hệ còn lại đều là `association` kết nối giữa Actor và Use Case.
+
+Tôi đã xây dựng lại sơ đồ này bằng mã `PlantUML` và lưu toàn bộ kết quả trích xuất vào tệp [`b3-3_sodo.json`](file:///Users/duongnad/Documents/project/SWE/02_extract/b3-3_sodo.json) đúng theo chuẩn định dạng mà tài liệu yêu cầu. Bạn có thể mở tệp đó ra để kiểm tra nhé!
+Tôi đã nhận được thông báo từ hệ thống về tiến trình tìm kiếm file dưới nền (hiện đã hoàn tất). Vì tôi đã tìm thấy file trước đó và hoàn thành xong yêu cầu trích xuất dữ liệu của bạn, nếu bạn cần hỗ trợ thêm gì với các sơ đồ khác hoặc phân tích PlantUML, hãy cho tôi biết nhé!
+Thêm một tiến trình tìm kiếm file dưới nền nữa đã hoàn tất. Vì yêu cầu trích xuất dữ liệu của bạn đã được thực hiện xong nên tôi sẽ bỏ qua thông báo này. 
+
+Vui lòng cho tôi biết nếu bạn có yêu cầu nào khác nhé!
+Tôi đã nhận được kết quả từ tiến trình nền cuối cùng. Hệ thống hiện đã xử lý xong toàn bộ các thao tác tìm kiếm ban đầu.
+
+Tôi đã sẵn sàng! Bạn hãy cho tôi biết nếu cần phân tích thêm sơ đồ nào khác hay có yêu cầu mới nhé!

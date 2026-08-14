@@ -1,0 +1,259 @@
+{
+  "id": "b7",
+  "tieu_de_tu_suy_ra": "Luyện tập Q7 — Cách viết Test Case và 4 Giai đoạn Kiểm thử",
+  "cau_hoi_lien_quan": [
+    "Q7"
+  ],
+  "do_dai_phut": 41.0,
+  "dan_bai": [
+    {
+      "ts": "00:00",
+      "muc": "Giới thiệu câu số 7 và đọc đề bài Case Study (Course Registration System - CRS)"
+    },
+    {
+      "ts": "01:00",
+      "muc": "Giới thiệu tổng quan 4 giai đoạn kiểm thử (Unit, Integration, System, UAT)"
+    },
+    {
+      "ts": "02:00",
+      "muc": "Giải thích lý thuyết chi tiết về Unit Testing (đối tượng, ai làm, loại testing)"
+    },
+    {
+      "ts": "04:00",
+      "muc": "Giải thích lý thuyết chi tiết về Integration Testing"
+    },
+    {
+      "ts": "06:00",
+      "muc": "Giải thích lý thuyết chi tiết về System Testing"
+    },
+    {
+      "ts": "07:00",
+      "muc": "Giải thích lý thuyết chi tiết về User Acceptance Testing (UAT)"
+    },
+    {
+      "ts": "09:00",
+      "muc": "Giải thích các kỹ thuật/kịch bản test case (Happy path, Boundary/Edge case, Negative/Error)"
+    },
+    {
+      "ts": "12:00",
+      "muc": "Hướng dẫn trình bày Part 1: Bảng 4 giai đoạn kiểm thử trong Google Docs"
+    },
+    {
+      "ts": "14:30",
+      "muc": "Điền chi tiết cột What is tested, Who, Testing type cho từng giai đoạn kiểm thử trong Part 1"
+    },
+    {
+      "ts": "26:00",
+      "muc": "Hướng dẫn làm Part 2: Lập bảng Test Case với 6 cột (TCID, Test Case Name, Precondition, Test Steps, Expected Result, Test Type)"
+    },
+    {
+      "ts": "27:30",
+      "muc": "Viết Test Case TC1 (Happy-path scenario)"
+    },
+    {
+      "ts": "33:30",
+      "muc": "Viết Test Case TC2 (Boundary / edge-case scenario)"
+    },
+    {
+      "ts": "36:30",
+      "muc": "Viết Test Case TC3 (Negative / error scenario)"
+    },
+    {
+      "ts": "38:30",
+      "muc": "Bổ sung chi tiết các loại testing nâng cao trong bảng Part 1 để đạt điểm tối đa"
+    },
+    {
+      "ts": "40:30",
+      "muc": "Tổng kết và lời khuyên làm bài thi Q7"
+    }
+  ],
+  "quy_trinh_lam_bai": [
+    {
+      "buoc": 1,
+      "ten_buoc": "Tạo bảng 4 giai đoạn kiểm thử (Part 1)",
+      "lam_gi_cu_the": "Tạo bảng gồm 4 cột: Testing Stage | What is tested | Who | Testing type. Liệt kê 4 giai đoạn: Unit Testing, Integration Testing, System Testing, Acceptance Testing.",
+      "dau_vao": "Đề bài Yêu cầu 1 của Question 7",
+      "dau_ra": "Bảng khung 4 giai đoạn kiểm thử",
+      "cau_noi_goc": "bước đầu tiên mình cần làm gì là mình phải biết bạn đúng không bước đầu tiên vẽ bạn này... mình cái 4 này và bốn ngày đó bốn cục và bốn giai đoạn 1234",
+      "ts": "12:00"
+    },
+    {
+      "buoc": 2,
+      "ten_buoc": "Điền chi tiết thông tin Part 1 bám sát Case Study",
+      "lam_gi_cu_the": "Điền cụ thể What is tested (ví dụ trong CRS: login validation logic, enrollment module connecting to grade module, entire CRS, business requirements/UI), Who (Developers, Developers + Tester, QA/Testing team, Student/Staff), và Testing type (White-box, Gray-box/API, Black-box/Performance/Security, Alpha/Beta). Bám sát các từ khóa từ Case Study để đạt điểm tối đa.",
+      "dau_vao": "Case Study đề bài (CRS) + lý thuyết 4 giai đoạn kiểm thử",
+      "dau_ra": "Bảng Part 1 hoàn chỉnh đạt 0.5 điểm",
+      "cau_noi_goc": "mình sẽ làm cho anh em cái bản chi tiết nhất là anh em đạt được điểm tối đa cô này này... chỗ này anh em cố gắng bám sát bám sát cái cái cây study là anh em ăn cái chỗ này",
+      "ts": "14:30"
+    },
+    {
+      "buoc": 3,
+      "ten_buoc": "Tạo bảng Test Case 6 cột (Part 2)",
+      "lam_gi_cu_the": "Bấm Insert Table trong Google Docs tạo bảng với 6 cột đúng theo tiêu đề đề bài yêu cầu: TCID | Test Case Name | Precondition | Test Steps | Expected Result | Testing Type.",
+      "dau_vao": "Đề bài Yêu cầu 2 của Question 7",
+      "dau_ra": "Khung bảng Test Case 6 cột",
+      "cau_noi_goc": "bấm Insert này bây giờ mình sẽ mẽ đúng như cái này luôn 123456 và vẽ bàn thiết kênh 123456",
+      "ts": "27:00"
+    },
+    {
+      "buoc": 4,
+      "ten_buoc": "Viết Test Case TC1 (Happy-path scenario)",
+      "lam_gi_cu_the": "Điền TCID: TC1. Test Case Name: Happy-path. Precondition: Student logged in; Course available; Prerequisites met. Test steps: 1, Browse catalogue 2, Select course 3, Click \"Register\". Expected result: System displays \"Registration successful\" and update roster. Test type: Functional Testing.",
+      "dau_vao": "Kịch bản 1 đề bài (student successfully registers for an available course)",
+      "dau_ra": "Dòng test case TC1 hoàn chỉnh",
+      "cau_noi_goc": "kịch bản này sẽ ra tuyệt nhất nghĩa là việc bạn này lý tưởng nhất... mọi điều kiện nó sẽ thoải mái hết",
+      "ts": "27:30"
+    },
+    {
+      "buoc": 5,
+      "ten_buoc": "Viết Test Case TC2 (Boundary / edge-case scenario)",
+      "lam_gi_cu_the": "Điền TCID: TC2. Test Case Name: Boundary. Precondition: Course quota = 1 remaining; Student meets prerequisites. Test steps: 1, Select course specific 2, Click \"Register\". Expected result: System registers student; Quota = 0; next user sees 'Waitlist'. Test type: Boundary value.",
+      "dau_vao": "Kịch bản 2 đề bài (student registers for the last available seat - quota = 1 remaining)",
+      "dau_ra": "Dòng test case TC2 hoàn chỉnh",
+      "cau_noi_goc": "chỗ trống của một cái con nó chỉ còn đúng một thôi... cái chỉ tiêu chỉ còn là 0... bứt nó vào waitlist",
+      "ts": "33:30"
+    },
+    {
+      "buoc": 6,
+      "ten_buoc": "Viết Test Case TC3 (Negative / error scenario)",
+      "lam_gi_cu_the": "Điền TCID: TC3. Test Case Name: Negative. Precondition: Student has not completed required base course. Test steps: 1, Select course 2, Click \"Register\". Expected result: System blocks registration; Display error: \"Prerequisites not met\". Test type: Negative Testing.",
+      "dau_vao": "Kịch bản 3 đề bài (student attempts to register without meeting the course prerequisite)",
+      "dau_ra": "Dòng test case TC3 hoàn chỉnh",
+      "cau_noi_goc": "trường hợp mà cố tình cho lỗi... học sinh mà chưa đủ với điều kiện kiến quyết thì hệ thống này nó phải không cho thằng này học... hiển thị ra lỗi",
+      "ts": "36:30"
+    }
+  ],
+  "vi_du_giang_vien_lam": [
+    {
+      "de_bai_goc": "Question 7: Testing Stage and Type (1.5 points)\n1. Map the four standard testing stages to the CRS development process. For each stage, state what is tested, who is responsible, and which testing types are most applicable: (0.5 points)\n2. Write THREE test cases for the 'Register for Course' use case, covering the scenarios listed below. Present each test case in a table with the columns: Test Case ID | Test Case Name | Precondition | Test Steps | Expected Result | Testing Type. (1.0 points)\n• Happy-path scenario — a student successfully registers for an available course\n• Boundary / edge-case scenario — a student registers for the last available seat (quota = 1 remaining)\n• Negative / error scenario — a student attempts to register without meeting the course prerequisite",
+      "bai_lam_hoan_chinh": "Part 1:\n| Testing Stage | What is tested | Who | Testing type |\n| --- | --- | --- | --- |\n| Unit Testing | Individual components / module in isolation - e.g, login validation logic, check condition, quota calculation | Developers | White-box Testing<br>Functional Testing<br>Boundary Value |\n| Integration Testing | Interaction between module - e.g enrollment module connecting to grade module, waitlist triggering notification service | Developers + Tester | Gray-box Testing<br>API Testing |\n| System Testing | The entire CRS as a complete system - all functional features and non-functional requirements (Performance, security...) | QA/ Testing team | Black-box Testing<br>Performance Testing<br>Security Testing (encrypted using TLS 1.2 or higher) |\n| Acceptance Testing | Business requirements and UI/UX | Student/ Staff | Alpha/Beta Testing |\n\nPart 2:\n| TCID | Test Case Name | Precondition | Test Steps | Expected Result | Test Type |\n| --- | --- | --- | --- | --- | --- |\n| TC1 | Happy-path | Student logged in; Course available; Prerequisites met | 1, Browse catalogue<br>2, Select course<br>3, Click \"Register\" | System displays \"Registration successful\" and update roster | Functional Testing |\n| TC2 | Boundary | Course quota = 1 remaining; Student meets prerequisites | 1, Select course specific<br>2, Click \"Register\" | System registers student; Quota = 0; next user sees 'Waitlist' | Boundary value |\n| TC3 | Negative | Student has not completed required base course | 1, Select course<br>2, Click \"Register\" | System blocks registration; Display error: \"Prerequisites not met\" | Negative Testing |",
+      "giang_giai": "Giảng viên làm trực tiếp trên Google Docs. Phần 1 dựng bảng 4 giai đoạn kiểm thử, gắn ví dụ trực tiếp từ case study CRS (login validation logic, enrollment module connecting to grade module, waitlist notification, Performance/TLS security) để ăn trọn 0.5 điểm. Phần 2 lập bảng test case 6 cột cho 3 trường hợp Happy-path, Boundary, Negative theo đúng yêu cầu đề bài.",
+      "ts": "12:00"
+    }
+  ],
+  "khai_niem": [
+    {
+      "thuat_ngu": "Unit Testing",
+      "dinh_nghia_theo_giang_vien": "Kiểm thử đơn vị, đi vào từng thành phần nhỏ nhất của mã nguồn như hàm (function), phương thức (method), class trong sự cô lập (in isolation) để đảm bảo mỗi đơn vị code hoạt động đúng logic.",
+      "vi_du": "login validation logic, check condition, quota calculation",
+      "ts": "02:00"
+    },
+    {
+      "thuat_ngu": "Integration Testing",
+      "dinh_nghia_theo_giang_vien": "Kiểm thử tích hợp, kiểm tra sự tương tác và truyền dữ liệu giữa các module hoặc dịch vụ với nhau sau khi đã qua Unit Testing.",
+      "vi_du": "enrollment module connecting to grade module, waitlist triggering notification service",
+      "ts": "04:00"
+    },
+    {
+      "thuat_ngu": "System Testing",
+      "dinh_nghia_theo_giang_vien": "Kiểm thử hệ thống, kiểm tra toàn bộ hệ thống hoàn chỉnh sau khi tích hợp để xác minh hệ thống đáp ứng đủ các yêu cầu chức năng (functional) và phi chức năng (non-functional: performance, security...).",
+      "vi_du": "The entire CRS as a complete system, test performance (1000 users), security (TLS 1.2+)",
+      "ts": "06:00"
+    },
+    {
+      "thuat_ngu": "User Acceptance Testing (UAT)",
+      "dinh_nghia_theo_giang_vien": "Kiểm thử chấp nhận người dùng, giao sản phẩm trực tiếp cho end-user hoặc khách hàng dùng thử để xác minh đáp ứng đúng business requirements và UI/UX.",
+      "vi_du": "Student/Staff sử dụng hệ thống CRS (Alpha/Beta Testing)",
+      "ts": "07:00"
+    },
+    {
+      "thuat_ngu": "Happy-path scenario",
+      "dinh_nghia_theo_giang_vien": "Kịch bản kiểm thử lý tưởng nhất, trong đó mọi điều kiện đều thuận lợi và không gặp bất kỳ lỗi nào.",
+      "vi_du": "Sinh viên đủ điều kiện tiên quyết, khóa học còn chỗ và đăng ký thành công",
+      "ts": "10:00"
+    },
+    {
+      "thuat_ngu": "Boundary / edge-case scenario",
+      "dinh_nghia_theo_giang_vien": "Kịch bản phân tích giá trị biên, tập trung vào các điểm nhạy cảm của hệ thống ở giới hạn cho phép.",
+      "vi_du": "Đăng ký vào khóa học khi chỉ còn đúng 1 chỗ trống (quota = 1)",
+      "ts": "10:30"
+    },
+    {
+      "thuat_ngu": "Negative / error scenario",
+      "dinh_nghia_theo_giang_vien": "Kịch bản kiểm thử trường hợp sai quy tắc, cố tình tạo ra tình huống lỗi để xem hệ thống có phát hiện và chặn lại đúng cách hay không.",
+      "vi_du": "Sinh viên chưa hoàn thành môn tiên quyết cố tình bấm đăng ký môn học",
+      "ts": "11:00"
+    }
+  ],
+  "cau_chu_mau": [
+    {
+      "dung_khi": "Viết Expected Result cho Happy-path test case",
+      "mau": "System displays \"Registration successful\" and update roster",
+      "ts": "32:00"
+    },
+    {
+      "dung_khi": "Viết Expected Result cho Boundary test case",
+      "mau": "System registers student; Quota = 0; next user sees 'Waitlist'",
+      "ts": "35:30"
+    },
+    {
+      "dung_khi": "Viết Expected Result cho Negative test case",
+      "mau": "System blocks registration; Display error: \"Prerequisites not met\"",
+      "ts": "37:30"
+    }
+  ],
+  "luu_y_cham_diem": [
+    {
+      "noi_dung": "Part 1 (4 giai đoạn kiểm thử) là phần ăn điểm chắc chắn 0.5/1.5 điểm, chỉ cần copy/paste bảng chuẩn bị sẵn nhưng bắt buộc phải bám sát Case Study (thay các ví dụ cụ thể của CRS vào cột What is tested).",
+      "muc_do": "chac_chan",
+      "ts": "00:00"
+    },
+    {
+      "noi_dung": "Trong Part 1, để ăn điểm tối đa từ thầy cô khó tính, cột Testing type nên viết bổ sung các loại testing nâng cao như API testing cho Integration, Performance testing và Security testing (ghi rõ encrypted TLS 1.2) cho System testing.",
+      "muc_do": "co_the",
+      "ts": "38:30"
+    },
+    {
+      "noi_dung": "Trong Part 2 (viết Test Case), tiêu đề cột trong bảng phải đặt ĐÚNG CHÍNH XÁC theo thứ tự đề bài yêu cầu: Test Case ID | Test Case Name | Precondition | Test Steps | Expected Result | Testing Type.",
+      "muc_do": "chac_chan",
+      "ts": "26:30"
+    }
+  ],
+  "meo_lam_bai": [
+    {
+      "meo": "Chuẩn bị sẵn mẫu bảng 4 giai đoạn kiểm thử từ trước, khi đi thi gặp Q7 chỉ cần dán bảng vào và chỉnh sửa ví dụ trong cột 'What is tested' cho phù hợp với đề bài Case Study là ăn trọn 0.5 điểm trong chưa đầy 2 phút.",
+      "ts": "01:00"
+    },
+    {
+      "meo": "Nên làm mỗi câu trong đề thi một ít để lấy điểm từng phần tóm tay, không bỏ trống bất kỳ câu nào.",
+      "ts": "28:00"
+    },
+    {
+      "meo": "Với kịch bản Boundary (quota = 1), Expected Result phải ghi rõ cả 2 ý: 1. Đăng ký thành công cho sinh viên hiện tại và quota giảm về 0; 2. Người tiếp theo (next user) đăng ký sẽ nhìn thấy trạng thái 'Waitlist'.",
+      "ts": "35:30"
+    }
+  ],
+  "loi_sai_thuong_gap": [
+    {
+      "loi": "Chép lại lý thuyết suông chung chung trong Part 1 mà không đưa ví dụ thực tế liên quan đến hệ thống CRS từ đề bài Case Study.",
+      "cach_tranh": "Thay các ví dụ cụ thể từ Case Study CRS vào (ví dụ: login validation logic, enrollment module connecting to grade module, waitlist notification).",
+      "ts": "18:30"
+    },
+    {
+      "loi": "Viết bảng Test Case trong Part 2 thiếu cột hoặc sai thứ tự cột so meo với yêu cầu của đề bài.",
+      "cach_tranh": "Tạo đúng 6 cột: TCID | Test Case Name | Precondition | Test Steps | Expected Result | Test Type theo đúng thứ tự đề thi.",
+      "ts": "27:00"
+    },
+    {
+      "loi": "Trong kịch bản Negative, nếu sinh viên chưa đủ điều kiện tiên quyết mà hệ thống vẫn cho đăng ký thành công.",
+      "cach_tranh": "Expected Result phải thể hiện rõ: System blocks registration và hiển thị thông báo lỗi 'Prerequisites not met'.",
+      "ts": "11:30"
+    }
+  ],
+  "prompt_ai_giang_vien_dung": [],
+  "so_do_va_bang": [
+    {
+      "ts": "12:00",
+      "loai": "bang_test_case",
+      "noi_dung_chep_lai": "Part 1:\nTesting Stage | What is tested | Who | Testing type\nUnit Testing | Individual components / module in isolation - e.g, login validation logic, check condition, quota calculation | Developers | White-box Testing, Functional Testing, Boundary Value\nIntegration Testing | Interaction between module - e.g enrollment module connecting to grade module, waitlist triggering notification service | Developers + Tester | Gray-box Testing, API Testing\nSystem Testing | The entire CRS as a complete system - all functional features and non-functional requirements (Performance, security...) | QA/ Testing team | Black-box Testing, Performance Testing, Security Testing (encrypted using TLS 1.2 or higher)\nAcceptance Testing | Business requirements and UI/UX | Student/ Staff | Alpha/Beta Testing"
+    },
+    {
+      "ts": "27:00",
+      "loai": "bang_test_case",
+      "noi_dung_chep_lai": "Part 2:\nTCID | Test Case Name | Precondition | Test Steps | Expected Result | Test Type\nTC1 | Happy-path | Student logged in; Course available; Prerequisites met | 1, Browse catalogue\n2, Select course\n3, Click \"Register\" | System displays \"Registration successful\" and update roster | Functional Testing\nTC2 | Boundary | Course quota = 1 remaining; Student meets prerequisites | 1, Select course specific\n2, Click \"Register\" | System registers student; Quota = 0; next user sees 'Waitlist' | Boundary value\nTC3 | Negative | Student has not completed required base course | 1, Select course\n2, Click \"Register\" | System blocks registration; Display error: \"Prerequisites not met\" | Negative Testing"
+    }
+  ],
+  "cho_khong_ro": [],
+  "ghi_chu_ngoai_khoa": [],
+  "do_bao_phu": "đã đọc hết dossier: có"
+}

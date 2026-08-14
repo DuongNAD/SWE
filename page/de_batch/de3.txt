@@ -1,0 +1,123 @@
+=== ĐỀ THI SWE202c (nguồn: papers/paper (3).pdf) ===
+
+PRACTICAL EXAM DESCRIPTION - PAGE 01
+(Đề thi thực hành trên EOS)
+I Case Study
+QuickMart Vietnam (QVM) is a rapidly expanding retail business running a chain of over 200 convenient stores across major cities in Vietnam. To stay competitive and
+streamline multi-store operations, QVM's board of directors (BOD) has decided to develop a centralized Convenient Store Chain Management System (CSCMS) that
+replaces the company's fragmented, store-level spreadsheets and manual processes with a unified digital platform.
+The CSCMS links store managers, warehouse staff, delivery drivers, and headquarters (HQ) administrators through a single platform. When a customer checks out, the
+cashier scans products at the point-of-sale (POS) terminal; the system records the transaction, applies any active promotions or loyalty discounts, and issues a printed or
+digital receipt. Store inventory is decremented in real time, and when any product falls below the re-order threshold, an automatic replenishment request is sent to the
+nearest warehouse. Warehouse staff receive pick-and-pack orders on their handheld devices, update the dispatch status after delivery, and the system reconciles stock
+across all locations automatically. Store managers can view shift schedules, log daily cash reconciliation, and track individual staff performance through a dashboard; any
+pay discrepancy triggers an alert to both the store manager and the HQ finance team. HQ administrators monitor chain-wide sales, margin, and inventory KPls on a real-
+time analytics dashboard, configure product catalogues and pricing rules centrally, and push promotional campaigns to selected stores or all locations simultaneously.
+Suppliers are onboarded into the system and can submit electronic delivery notes that are matched against purchase orders, with discrepancies flagged for review before
+goods are accepted into stock.
+On the security front, all users authenticate with role-based credentials, and multi-factor authentication (MFA) is enforced for manager and HQ accounts; all data in transit
+is encrypted with TLS 1.3, and data at rest is encrypted using AES-256. The system also keeps a tamper-evident audit log of every transaction, stock adjustment, and
+configuration change for at least three years to satisfy regulatory requirements. For scalability, the platform must support at least 200 concurrent POSsessions without
+performance degradation; the backend must scale horizontally through container orchestration so that adding new stores requires no manual infrastructure changes; and
+all inter-service APls must be stateless and versioned to allow independent deployment of individual modules as the store network grows. Every POS interaction must
+respond within 1 second under peak load to avoid checkout queues; the web dashboard must load within 2 seconds; and the system must maintain 99.9% uptime with
+automated failover so that a regional power outage does not halt store operations.
+The CSCMS replaces several disconnected legacy tools; each store currently operates independently, so integration requirements are expected to emerge and change
+incrementally as stores are on-boarded one by one. Development will be led by QVM's IT department together with a cross-functional team of 4-5 developers, a business
+analyst, and store-operations representatives who provide continuous feedback. Leadership expects the first stores to go live within 2 months and the full chain to be
+covered within 12 months, with new features delivered and deployed continuously throughout.
+- Tài liệu được thành viên đăng tải tại FUOVERFLOW và được biên soạn lại để hỗ trợ ôn tập -
+Il Questions
+Assume that you have been assigned to implement this project. Read the description carefully, then answer the following questions:
+1. Your development team is highly skilled and experienced. Your manager proposes applying the Kanban model to this project. Do you agree or disagree? List and explain
+all the main principles, practices, and characteristics of the Kanban model, then match each of them to the project characteristics above to justify your answer. (2.0 points)
+2. Your manager wants the system tested from the smallest unit level up to the fully integrated system level. At the unit level, testing must focus on program structure; at
+higher levels, testing must be based on functional requirements.
+• a. Which type and level/stage of testing does your manager require? (0.7 point)
+• b. Who carries out testing at each stage/level, and why are they the best fit for that role? (0.3 point)
+3. Based on the project description above, identify and list: 5 functional requirements, 3 security requirements, and 2 scalability requirements. (2.0 points)
+4. Write 5 user stories based on your answers in Question 3. (1.5 points)
+5. The manager asks you to apply design patterns to the software system. List and describe in detail two design patterns discussed in the courses (1.0 points).
+6. Build a story map for the "Manage Product Sales" activities described in the project above. (2.5 points)
+Ill Notes
+a) Mỗi câu trả lời sai sẽ bị trừ 0.1 điểm b) Sau đây là hướng dẫn cách trình bày Story Map trên phần mềm EOS.
+Cấu trúc tổ chức khi trình bày Story Map được chia làm 2 phần. Phần 1 (A) mô tả các activities và user tasks. Phần 2 (B) mô tả các user story cần thực hiện trong mỗi lần
+bàn giao. Các phần được trình bày như sau:
+A. Activities and User tasks
+1. < Actitivity 1 name>
+• 1.1 < User task 1 of activity 1>
+• 2.2 < User task 2 of activity 1>
+2. ‹Actitivity 2 name>
+• 2.1 < User task 1 of activity 2>
+• 2.2 < User task 2 of activity 2>
+
+
+B. Releases
+Release 1-
+< Liệt kê các user story cho từng user task thực hiện trong lần bàn giao đầu tiên. Chỉ mục của các user story tương ứng với các user task ở phần trên >
+• 1.1.1 User story 1 of user task 1 in activity 1
+• 1.1.2 User story 2 of user task 1 in activity 1
+• 2.1.1 User story 1 of user task 1 in activity 2
+• 2.1.2 User story 2 of user task 1 in activity 2
+Release #--
+< Liệt kê các user story cho từng user task thực hiện trong lần bàn giao #>
+• 1.1.3 User story 3 of user task 1 in activity 1
+• 2.1.3 User story 3 of user task 2 in activity 2
+Ví dụ: Khi mô tả trên EOS một Story Map có cấu trúc biểu đồ như sau
+Email  Organize  Manage  Manage  Calendar  Monoge
+Email  Contacts
+Email  Seanch  File  Emails  Email  Compose  Read  Email  Email  Delete  View  Calendar  Create  Update  Vice  Create  Update  Delete
+Appt  Appt  Appt  Contoct  Contoct  Contact
+2605-2-52
+Create  Send  Open  Monthly  View  Create  RTF oppt  Reject/T  Ассерт/
+folders  eub  RTF e  mail  mail  RTF e-  formats  entative
+Release 1
+Limit  Send  Open  Empty  Deleted  View  Create  Propose  Add  address  Update  Contoct  Delete
+to one  Seanch  HTML e-  HTML e-  Items  Doily  HTML  new time  data  Address
+tield  moil  mail  Format  oppT  Info
+Limit  Search  Set  Attachn  Open  Mandato
+to 1-  priority  ents  ny/Optio  Crample story mao created by Steve Rogalok
+fields  Release 2
+Search  oddress  Get  View  oddress  Get  View  Import
+attochm  ents  from  Weekly  from  ents  Attochm  Confocts
+contocts  Formats  confocts
+sub  Search  Send  Attachms  Search  Attochm  Add  Export  Contocts
+folders  Colendar  ents
+Release 3
+- Tài liệu được thành viên đăng tải tại FUOVERFLOW và được biên soạn lại để hỗ trợ ôn tập
+[Hình ảnh: Sơ đồ Story Map mẫu (Steve Rogalsky, winnipegagilist.blogspot.com) gồm 4 activities (Organize Email, Manage Email, Manage Calendar, Manage Contacts) ở
+hàng trên cùng; mỗi activity có nhiều user tasks bên dưới được phân theo 3 Releases.]
+Story Map này được mô tả trong EOS như dưới đây.
+A. Activities and User Tasks
+1. Organize email
+• 1.1 Search email
+• 1.2 File email
+2. Manage email
+• 2.1 Compose email
+• 2.2 Read email
+• 2.3 Delete email
+3. Manage Calendar
+• 3.1 View Calendar
+• 3.2 Create Appt
+• 3.3 Update Appt
+• 3.4 View Appt
+4. Manage contacts
+....
+R poloacac
+
+
+Release 1-
+• 1.1.1 Search email by key word
+• 1.2.1 Move emails
+• 1.2.2 Create subfolders
+• 2.1.1 Create and send basic email
+• 2.1.2 Send RTF email
+• 2.2.1 Open basic email
+• 2.2.2 Open RTF email
+Release 2 --
+• 1.1.2 Limit search to one field
+• 1.1.3 Limit search to +one field
+• 2.1.3 Send HTML email
+• 2.1.4 Set email priority
+
+

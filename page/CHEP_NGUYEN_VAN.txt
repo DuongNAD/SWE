@@ -1,0 +1,158 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  CHÉP NGUYÊN VĂN — những phần KHÔNG ĐỔI giữa các đề                          ║
+║                                                                              ║
+║  Đây là tiếng Anh viết sẵn, đúng ngữ pháp. Chép y nguyên, chỉ thay chỗ       ║
+║  <TRONG NGOẶC>. Ước tính ăn được khoảng 1.3–1.8 / 10 điểm mà gần như         ║
+║  không cần nghĩ và không cần giỏi tiếng Anh.                                  ║
+║                                                                              ║
+║  Học thuộc theo thứ tự: KHỐI 1 (dễ nhất, chắc điểm nhất) → 2 → 3 → 4         ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+
+████ KHỐI 1 — CÂU 2 PHẦN (b) — 0.3 ĐIỂM — CHÉP 100%, KHÔNG THAY GÌ ████
+
+Đề nào cũng hỏi y hệt "who carries out testing at each stage and why".
+Chép nguyên khối dưới đây là xong 0.3 điểm.
+
+b. Who carries out testing at each stage/level, and why:
+
+- Unit Testing is carried out by the DEVELOPERS, because they wrote the code and
+  they are the only ones who understand its internal structure and logic.
+
+- Integration Testing is carried out by the DEVELOPERS together with the TESTERS,
+  because it verifies the interfaces between modules that were built by different
+  people, and both technical and functional knowledge are needed.
+
+- System Testing is carried out by the TESTING TEAM (QA engineers), because they
+  are independent from the developers and can test the complete system against the
+  requirements specification objectively.
+
+- Acceptance Testing is carried out by the CUSTOMER and the END USERS, because only
+  they can confirm that the system meets their real business needs.
+
+
+████ KHỐI 2 — CÂU 2 PHẦN (a) — ~0.7 ĐIỂM — CHÉP 95% ████
+
+Chỉ cần đọc đề xem nó mô tả gì rồi giữ nguyên khối này.
+
+a. Types and levels/stages of testing required by the manager:
+
+TYPES required:
+- White-box testing at the unit level, because testing must focus on the internal
+  program structure.
+- Black-box testing at the higher levels, because testing must be based on the
+  functional requirements.
+
+LEVELS/STAGES required, from the smallest unit up to the fully integrated system:
+1. Unit Testing: testing each individual component or module in isolation.
+2. Integration Testing: testing the interaction between combined units or modules.
+3. System Testing: testing the complete, fully integrated system to evaluate its
+   compliance with the functional requirements.
+4. Acceptance Testing: final testing based on user expectations and business needs.
+
+   ⚠ Nếu đề KHÔNG nhắc tới người dùng nghiệm thu thì bỏ dòng 4.
+
+
+████ KHỐI 3 — CÂU 5 DESIGN PATTERN — ~0.7/1.0 ĐIỂM — CHÉP 75% ████
+
+Hai đoạn dưới đây chỉ phải thay MỘT chỗ: dòng "Applying it to this system".
+
+⚠ TRƯỚC NGÀY THI phải hỏi giảng viên lớp dạy pattern nào. Nếu lớp dạy khác
+   Singleton/Observer thì thay tên và định nghĩa, giữ nguyên bộ khung 4 gạch đầu dòng.
+
+Pattern 1: Singleton Pattern
+
+- Purpose: The Singleton pattern ensures that a class has only one instance and
+  provides a global point of access to that instance.
+- How it works: The class keeps a single private static instance of itself, makes
+  its constructor private so that no other object can create a new instance, and
+  exposes one public method that always returns that same instance.
+- Applying it to this system: In this project, it can be used to manage
+  <VÍ DỤ: the database connection / the system configuration manager>, so that all
+  modules share one single connection instead of creating a new one each time.
+- Benefit: This saves system resources and keeps the configuration consistent
+  across the whole application.
+
+Pattern 2: Observer Pattern
+
+- Purpose: The Observer pattern defines a one-to-many dependency between objects,
+  so that when one object changes state, all of its dependents are notified and
+  updated automatically.
+- How it works: The subject keeps a list of observers. Whenever the state of the
+  subject changes, it calls the update method of every registered observer, without
+  needing to know their concrete classes.
+- Applying it to this system: In this project, it can be used to
+  <VÍ DỤ: notify the store manager and the warehouse when the stock of a product
+  falls below the re-order threshold>.
+- Benefit: This keeps the system loosely coupled and makes it easy to add new types
+  of notification later without changing the existing code.
+
+
+████ KHỐI 4 — CÂU MỞ ĐẦU VÀ KẾT LUẬN — CHÉP 90% ████
+
+CÂU 1 — mở đầu (thay tên mô hình đề nêu):
+  I agree with my manager's proposal to apply the <TÊN MÔ HÌNH> model to this
+  project. Below are the main principles, practices and characteristics of the
+  <TÊN MÔ HÌNH> model, together with how each of them matches the characteristics
+  of this project.
+
+CÂU 1 — mỗi lần ghép một đặc trưng với đề (lặp lại 4–5 lần):
+  <TÊN ĐẶC TRƯNG>: <giải thích một câu>.
+  Match with the project: Because the project <CHÉP MỘT Ý TỪ ĐỀ>, this practice is
+  suitable, as it allows the team to <LỢI ÍCH>.
+
+CÂU 1 — kết luận:
+  Therefore, the <TÊN MÔ HÌNH> model is suitable for this project.
+
+CÂU 3 — câu dẫn:
+  Based on the project description above, the identified requirements are as follows:
+
+CÂU 4 — câu dẫn:
+  The following five user stories are derived from the requirements identified in
+  Question 3:
+
+CÂU 6 — hai tiêu đề bắt buộc, viết y nguyên:
+  A. Activities and User Tasks
+  B. Releases
+
+
+████ KHUNG CÂU CHỈ CẦN ĐIỀN VÀO CHỖ TRỐNG ████
+
+REQUIREMENT (câu 3) — chọn một trong năm khung:
+  The system shall allow <AI> to <LÀM GÌ>.
+  The system shall automatically <LÀM GÌ> when <ĐIỀU KIỆN>.
+  The system shall respond to <HÀNH ĐỘNG> within <N> seconds under peak load.
+  The system shall encrypt <DỮ LIỆU> using <CHUẨN>.
+  The system shall support at least <N> concurrent <GÌ> without performance
+  degradation.
+
+USER STORY (câu 4 và câu 6) — một khung duy nhất:
+  As a <VAI TRÒ NGƯỜI>, I want to <LÀM GÌ>, so that <ĐỂ ĐƯỢC GÌ>.
+
+  Chức năng chạy tự động thì viết:
+  As a <NGƯỜI HƯỞNG LỢI>, I want the system to <HÀNH ĐỘNG>, so that <LỢI ÍCH>.
+
+  ⛔ KHÔNG BAO GIỜ viết "As a system". Phải là người: cashier, store manager,
+     warehouse staff, customer, HQ administrator, receptionist, doctor, nurse…
+
+
+████ 8 LỖI NGỮ PHÁP CHẾT NGƯỜI ████
+
+  SAI                                  ĐÚNG
+  The system shall to record…          The system shall record…
+  The system shall records…            The system shall record…
+  The system shall be encrypt data     The system shall encrypt data
+  I want scan products                 I want to scan products
+  so that customers checking out       so that customers can check out
+  allow the manager view reports       allow the manager to view reports
+  5 requirement                        5 requirements
+  Datas                                Data
+
+
+████ CÁCH LUYỆN ████
+
+  Ngày 1: chép tay KHỐI 1 ba lần. Ngày 2: chép tay KHỐI 2 ba lần.
+  Ngày 3: chép tay KHỐI 3. Ngày 4: viết lại cả ba khối từ trí nhớ, không nhìn.
+  Chép TAY, không gõ máy — nhớ lâu hơn nhiều.
+
+  Chỉ riêng ba khối này đã là khoảng 1.3–1.8 điểm không phụ thuộc vào đề ra gì.

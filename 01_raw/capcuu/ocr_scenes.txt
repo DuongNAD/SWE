@@ -1,0 +1,1830 @@
+### 00:00
+OBS 31.1.2 - Cấu hình: Không tên - Phân cảnh: Không tên
+Tập tin (E)  Chính sứa (E)  Hiến thị (  Giá đỡ (Q)  Cấu hình (P)  Bộ sưu tập cánh Cỗng cụ (L)  Trợ giúp (H)
+TaN B Citibal Mineito caaspr Culitio
+chas cen ngàtn nao
+OBS 31.1.2 - Cấu hình: Không...  TQMaster - Google Chrome  Facebook - Cốc Cốc  StyleHub_CSOS_ CaseStudy_B...  Coursera_Skip_Extension_ful...
+SWE202
+Chưa chọn nguồn n
+Phân cảnh
+Màn hình  Am thanh máy tính để bàn  0.0 dB
+Mờ dẫn  Bắt đầu phát luỡng
+...
+Scene 2  • Quay màn hình  60 55  45  -10
+Thời gian  50 ms  Dừng ghi
+Mic/Aux  0.0 dB  +  Bắt đầu Replay Buffer
+60 -55  -50  -35  -25  -20  -15  Bắt đầu máy quay ảo
+Chế độ Studio
+Thiết đặt
++  U  ^  +  :
+Đã lưu bản ghi hình vào 'D:/lưu vd/2026-08-08_17-12-43.mp4'  •) 00:00:00  00:00:00  CPU: 5.0%  60.00/60.00 FPS
+ENG  5:12 PM
+US  8/8/2026
+
+### 00:00
+& TQMaster  Hỏi Gemini  X
+• localhost:8080/subjects/54ec8bf8-2056-4602-9сбс-10092d39cf16
+* Bookmarks  Facebook  • youtube  M Hộp thư đến (812) -...  € FPT University Acad...  ChatGPT  & FPT University Leam....  FuOverflow Commu...  S tổng hợp tool  SE2014-NJ - SWR302  Tất cả dấu trang
+TQMaster  Khóa học  Khóa học của bạn  Tin tức  Liên hệ v  Tim môn học....  Amin_Test v
+< Quay lại
+SWE202
+SOFTWARE ENGINEERING
+KÝ 4  2 ĐẾ THI
+CHIEnAdA  G ĐÃ SỞ HỮU
+• c  V  ENG  - Ф  5:12 PM
+US  8/8/2026
+
+### 00:52
+TQMaster  Hỏi Gemini
+A  • localhost:8080/subjects/54ec8bf8-2056-4602-9сбс-10092d39cf16
+88  * Bookmarks  Facebook  • youtube  M Hộp thư đến (812) -...  S FPT University Acad...  ® ChatGPT  & FPT University Leam...  FuOverflow Commu...  S tổng hợp tool  SE2014-NJ - SWR302  Tất cả dấu trang
+fo  TQMaster  Khóa học  Khóa học của bạn  Tin tức  Liên hệ v  Tim môn học...  Amin_Test
+SWE202
+SOFTWARE ENGINEERING
+KỶ 4  2 ĐỂ THI
+SWE202c  G ĐÃ SỞ HỮU
+Bạn đã có quyền truy cập vĩnh viên
+(10/10 đánh giá)
+V  ENG  F Ф  5:13 PM
+US  8/8/2026
+
+### 01:35
+TQMaster  SLC Practice -Q1 SWE202  +  Hỏi Gemini
+A  prog-play-space.lovable.app  *
+88  * Bookmarks  Facebook  M Hộp thư đến (812) -...  5 FPT University Acad...  ChatGPT  FPT University Leam...  RD FuOverflow Commu...  S tổng hợp tool  SE2014-NJ - SWR302  Tất cả dấu trang
+SDLC Practice  Cài API Key
+Question 1 - Software Development Model
+Đáp án mẫu - CRS
+P 1. Chọn đề bài hình khuyến nghị: Agile (Scrum)
+Course Registration System Bentshey the SDLC model (1.0 pt)  Xem đáp án mầu
+I strongly recommend Agile (Scrum) for the CRS project.
+CRS  Khuyến nghị: Agile (Scrum)
+manage course enrollment for all undergraduate and postgraduate programmes. Currently, students submit paper-based registration forms
+to their faculty office, and clerks manually enter the data into spreadsheets. This process is error-prone, slow, and creates long queues during
+the registration window The university s administ tien bas therefore decided teem mission a web based use Registration System (CRS)
+to automate and streamline the eatine were ow 4 week Sprints (browsing, registration. grading) for continuous feedback.
+The CRS is expected to sere four pain groups. at users: Students browse atalogue chers pressuisites register pin waitist), Lecturers
+(review rosters, record/releaspirades)e Academic Staff, (deline, timetable set quotare ARen/lose registration, generate reports), and System
+Administrator (manage accounts, configure parameters, oversee backups).
+4. Team size & change control: Scale of 8.000 students fits a medium team using iterative planning. Even
+Technical constraints handle at least 1.000 simultangpus, users with response time: 6.35 TAS 1RaBBAG: 99.5% availabilitya WCAG 2.1 AA on
+desktop and mobiles berizen tal scalingacking.
+• • Yêu cầu câu hỏi (Q1)
+Edit with & Lovable
+^  ENG  . Ф  5:14 PM
+-  US  8/8/2026
+
+### 01:36
+TQMaster  SDL Practice -Q1 SWE202  +  Hỏi Gemini
+A  prog-play-space.lovable.app  *
+* Bookmarks  Facebook  M Hộp thư đến (812) - ....  5 FPT University Acad...  ChatGPT  / FPT University Leam....  FuOverflow Commu...  S tổng hợp tool  • SE2014-NJ - SWR302  Tất cả dấu trang
+SDLC Practice  Cài API Key
+Question 1 - Software Development Model
+Đáp án mầu - CRS
+Q 1. Chọn đề bài to hinh khuyến nghị: Agile (Scrum)
+Course Registration System (CRS) - Green Universityrol. Sprint Planning/Review provide formal checkpoints, transperency, ad  Xem đáp án mẫu
+structured change tracking
+CRS  Khuyến nghị: Agile (Scrum)
+Green University is a mid-sized institution with perimately 8,999 students, and 400 academic staff. Each semester, the university must
+manage course enrollment for all undergraduate and postgraduate programmes. Currently, students submit paper-based registration forms
+to their faculty office, and clerks manually enter the data into spreadsheets. This process is error-prone, slow, and creates long queues during
+the registration window. The university's administration has therefore decided to commission a web-based Course Registration System (CRS)
+to automate and streamlige the entire ve kle sk (1.000 users) early via continuous testing each sprint.
+commodates evolving UI/UX feedback from Students continuously.
+The CRS is expected to serve four main groups of users: Students browse catalogue, check prerequisites, register, join waitlist), Lecturers
+(review rosters, record/release grades), Academic Staff (define timetable, set quotas, open/close registration, generate reports), and System
+Administrator (manage accounts, configure parameters, oversee backups).
+B. Waterfall - Alternative
+Technical constraints; handle at least 1,000 simultaneous users with response time, ≤ 3s; TLS 1.2+; RBAC: 99.5% availability: WCAG 2.1 AA on
+desktop and mobile; horizontal scaling ine & budget for the entire CRS
+"Big Bang" integration risk: failing 1,000-user load test at the end is too costly to fix
+No early working software for Lecturers to test - high risk of poor usability at release.
+• Yêu cầu câu hỏi (Q1)
+Edit with & Lovable
+V  ENG  5:14 PM
+-  US  8/8/2026
+
+### 01:47
+TQMaster  X  SOLC Practice - Q1 SWE202  +  • Hỏi Gemini
+A  prog-play-space.lovable.app  *  •
+88  * Bookmarks  Facebook  • youtube  M Hộp thư đến (812) -...  © FPT University Acad...  ChatGPT  &E/ FPT University Leam...  RD FuOverflow Commu...  S Tổng hợp tool  & SE2014-NJ - SWR302  Tất cả dấu trang
+SDLC Practice
+Question 1 - Software Development Model  CajAPl Key
+Cài đặt Groq APl Key
+Q1.2 — Alternative model & comparisóny clổ life Hiên trính duyệt của bạn (localStorage), không gửi đi đầu khác  0 kỳ tư
+ngoài Groq.
+Cấu trúc gợi ý:
+A. [Chosen Model] - Chosen ModelAPl Key
++ Advantage 1:....
++ Advantage 2: ...  gsk_...
+- Disadvantage 1:...
+- Disadvantage 2: ...  B Lưu key  Xóa
+B. Alternative Model)  Alterna ive Model
++ Advantage 1:...  Hướng dẫn lấy API Key (miễn phí):
++ Advantage 2: ...  1. Truy cập console.gros.com/keys E
+- Disadvantage 1:...  2. Đáng ký / đàng nhập (miễn phí, có thể dùng Google)
+- Disadvantage 2: ....  3. Vào mục APl Keys - băm Create APl Key
+4. Copy key (bát đâu bằng gsk .... ]
+3. Dàn vào ở bếp trêm và bạm  chấm điểm báng Al (Groq)
+AP! Key chỉ lưu trên trình duyết của bạn - không gửi đi đầu khác ngoài Groq.
+Edit with & Lovable
+^ V 0  ENG = • 8/8/2026  5:14 PM
+
+### 01:51
+TQMaster  X  SDLC Practice - Q1 SWE202  +  • Hỏi Gemini
+A  prog-play-space.lovable.app  *  •
+88  * Bookmarks  Facebook  • youtube  M Hộp thư đến (812) -...  © FPT University Acad...  ChatGPT  &E/ FPT University Leam...  RD FuOverflow Commu...  S tổng hợp tool  & SE2014-NJ - SWR302  Tất cả dấu trang
+SDLC Practice
+Cài APl Key
+Question 1 - Software Development Model
+Cải đặt Groq APl Key
+Q1.2 — Alternative model & comparisóry chi luu trên trình duyệt của ban (localStorage), không gửi đi đầu khác  0 ký tư
+Cáu trúc gơi ý:
+A [Chesen Model) — Chosen Mode API Key
++ Advantage 1:...
++ Advantage 2:...  gsk_..
+- Disadvantage 1: ...
+- Disadvantage 2: ...  a Luu key  Xóa
+B. [Altemative Model — Altema ive Model
++ Advantage 1:....  Hướng dẫn lấy API Key (miễn phí):
++ Advantage 2: ..  1. Truy cập console.groq.com/keys E
+- Disadvantage 1: ..  2. Đăng ký / đăng nhập (miền phí, có thể dùng Google)
+- Disadvantage 2: ...  3. Vào mục AP! Keys - bam Create API Key
+4. Copy key (bát đầu bằng gsk ... )
+5. Dân vảo ở bên trên và bảm Lướt  Chăm điểm bảng Al (Grog)
+APi Key chỉ lưu trên trinh duyệt của bạn - không gửi đi đầu khác ngoài Groq.
+Edit with & Lovable
+^ V 0  ENG  5:14 PM
+US  8/8/2026
+
+### 02:31
+TQMaster  +  • Hỏi Gemini
+A  • localhost:8080/subjects/54ec8bf8-2056-4602-9c6c-10092d39cf16  ∞ #  •
+88  * Bookmarks  f Facebook  • youtube  M Hộp thư đến (812) -...  € FPT University Acad...  • ChatGPT  FPT University Leam...  FLD FuOverflow Commu...  tổng hợp toil  @ SE2014-NJ - SWR302  Tất cả dấu trang
+fo  TQMaster  Khóa học  Khóa học của bạn  Tin tức  Liên hệ v  Q  Tìm môn học...  Amin_Test v
+Ly tnuyet mooc i
+Lý thuyết mooc2  G Mở link
+Lý thuyết mooc 4  L Mở link
+Copy paste  & Mở link
+Link video dạy luyện đề  & Mở link
+Luyện tập Q6  & Mở link
+Luyện tập Q1  C Mở link
+ENG  5:15 PM
+•= orC G  US  8/8/2026
+
+### 02:32
+OBS 31.1.2 - Cấu hình: Không tên - Phân cảnh: Không tên
+Tập tin (E)  Chính sứa (E)  Hiển thị M  Giá đỡ (D)  Câu hình (P)  Bộ sưu tập cảnh Công cụ (T)  Trợ giúp (H)
+© - Usero cos  hesn core
+Khos hot cin bran  Tin từc  unt-
+Thowt toar
+06 Thi PE SWE2020. SP26-PE  & Tuvd
+Dé. TH.PF. : SWE202c/ SP2 -PE.:0  & TH VE
+Ly thaydt mcoct
+Ly thuylt moos2
+Co dẫn cửa số
+Chưa chọn nguồn nào  • Thuộc tính  1 Bộ lọc
+Phân cảnh  Nguồn  Bộ lọc âm thanh  Chuyến cảnh  Điều khiến
+Màn hình  - 1  Âm thanh máy tính để bàn  0.0 dB
+Mờ dẫn  Bắt đầu phát luỡng
+Scene 2  • Quay màn hình  .60  50  45  40 -35  20  -is  -10
+Thời gian  50 ms  Dừng ghi
+Mic/Aux  0.0 dB  +  Bắt đầu Replay Buffer
+55  -50  -35  -30  -25  -20  -15  -10  Bắt đầu máy quay ảo
+Chế độ Studio
+Thiết đặt
++  V  +  ^  V  :
+(•): 00:00:00  00:02:31  CPU: 11.0%  60.00 / 60.00 FPS
+ENG  5:15 PM
+US  8/8/2026
+
+### 02:32
+OBS 31.1.2 - Cấu hình: Không tên - Phân cảnh: Không tên
+Tập tin (E)  Chính sứa (E)  Hiển thị M  Giá đỡ (D)  Cầu hình (P)  Bộ sưu tập cảnh Công cụ (D)  Trợ giúp (H)
+Tpun3 Olefea twnei Caord  C li đ 50 gn lập canh Cũng cy to Th puy 11
+cus men ngatn nào  OtAmm
+6 Nguời  cwa cos
+O Quy ránhes  LOg eN
+0 i  Sk oh, Rookay fute
+n cu ny qa 3
+ThASY
+TEEAV  + 0
+Co dẫn cửa số
+Chưa chọn nguồn nào  • Thuộc tính  1 Bộ lọc
+Phân cảnh  Nguồn  Bộ lọc âm thanh  Chuyến cảnh  Điều khiến
+Màn hình  - 1  Âm thanh máy tính để bàn  0.0 dB
+Mờ dàn  Bắt đầu phát lưỡng
+:
+Scene 2  • Quay màn hình  .60  45  40 -35  -i5  -10
+Thời gian  50 ms  Dừng ghi
+Mic/Aux  0.0 dB  +  Bắt đầu Replay Buffer
+60  -55  -50  -45  40  -35  -30  -25  -20  -15  -10  Bắt đầu máy quay ảo
+Chế độ Studio
+Thiết đặt
++  ^  V  +  ^  V  :
+•): 00:00:00  00:02:31  CPU: 11.0% 60.00/60.00 FPS
+ENG  ф  5:15 PM
+US  8/8/2026
+
+### 02:33
+AutoSave  • off)  2 -  StyleHub_CSOS_CaseStudy_Bilingual.docx - Saved to this PC -  Search  Sign in
+File  Home  Insert  Design  Layout References Mailings  Review  View Help  Foxit PDF  B Share
+Times New Romar ~ 16 v Á A  Aa~ Po "A A)  FEDEA  P Find ~
+AaBbCcDd AaBbCcDd AaBbCcDı AaBbCcDd|  АаВЬС  Sc Replace
+Paste  B Copy
+I U ~ eo x, x°  A -  A "  A  H E A B •  f List Para...  1 Normal  1 Strong1  T No Spac... 1 Heading 1 f Heading 2  1 Title  Subtitle  • Select "
+Format Painter
+Clipboard  Font  Paragraph  Styles  Editing  ^
+10  11 13  14  16 : 0 17  18  19
+StyleHub - Clothes Shopping Online
+System (CSOS)
+StyleHub is a Vietnamese e-commerce start-up in the fashion retail sector that is expanding
+rapidly.
+StyleHub là một start-up thương mại điện tử của Việt Nam trong lĩnh vực bán lẻ thời trang đang mở rộng nhanh
+chóng.
+Established in 2022 and based in Ho Chi Minh City, the company currently operates through a
+mobile app and a provisional website built on a third-party platform.
+Được thành lập năm 2022 và có trụ sở tại Thành phố Hồ Chí Minh, công ty hiện đang hoạt động thông qua một ứng
+dụng di động và một website tạm thời được xây dựng trên nền tăng của bên thứ ba.
+With approximately 350,000 registered customers, 120 active vendors, and more than 45,000
+SKUs spanning clothing, footwear, and accessories, StyleHub has outgrown its existing
+Page 1 of 3 1189 words English (United States) o  D" Focus  + 133%
+^ V  ENG  5:15 PM
+US  8/8/2026
+
+### 03:07
+OBS 31.1.2 - Cấu hình: Không tên - Phân cảnh: Không tên
+Tập tin (E)  Chính sứa (E)  Hiển thị M  Giá đỡ (D)  Cầu hình (e)  Bộ sưu tập cảnh  Công cụ (D)  Trợ giúp (H)
+c212 cmt coote Prar deh Frena Doe
+a od tt caans Coledie oj lip can
+cha cea rg da nao  Otusime
+see 2  O quy nántie  • 3  ba pan  Longr°
++ 0 1  Ok o. Ree fre
+kơt đha tày quay so
+TOEAV  + • 0
+Co dẫn cửa số
+Chưa chọn nguồn nào  Ở Thuộc tính  11 Bộ lọc
+Phân cảnh  Nguồn  Bộ lọc âm thanh  Chuyến cảnh  Điều khiến
+Màn hình  - 1  Âm thanh máy tính để bàn  0.0 dB
+Mờ dẫn  Bắt đầu phát luỗng
+Scene 2  • Quay màn hình  60  -50  40  35  -1S  -10
+Thời gian  50 ms  Dừng ghi
+Mic/Aux  0.0 dB  +  Bắt đầu Replay Buffer
+-55  -50  45  40  -35  -30  -25  -20  -15  -10  Bắt đầu máy quay ảo
+4))
+Chế độ Studio
+Thiết đặt
++  ^  V  +  :
+•) 00:00:00  00:03:06  CPU: 9.7%  60.00/60.00 FPS
+ENG  5:16 PM
+US  8/8/2026
+
+### 03:09
+AutoSave  • Off,  2- 0  StyleHub_CSOS_CaseStudy_Bilingual.docx - Saved to this PC -  Search  Sign in  -
+File  Home  Insert  Design  Layout References  Mailings  Review  View Help  Foxit PDF  B Share
+Times New Romar ~ 16 v Á A"  E E T EE Á• N  Find ~
+Aa ~  Po "'A LA  AaBbCcDd AaBbCcDd AaBbCcDı AaBbCcDd|  AaBbC  AaBbcc Aat ABbCcD
+LB Copy  :  $, Replace
+Paste  I U ~ do x, x°  A -  1 List Para...  1 Normal  1 Strong1  1 No Spac... 1 Heading 1 1 Heading 2  1 Title  Subtitle
+S Format Painter  • Select ~
+Clipboard  Font  Paragraph  Styles  Editing
+11  12 113  14  15  16 6 17  18  19
+mobile app and a provisional website bullt on a third-party plattorm.
+Được thành lập năm 2022 và có trụ sở tại Thành phố Hồ Chí Minh, công ty hiện đang hoạt động thông qua một ứng
+dụng di động và một website tạm thời được xây dựng trên nền tăng của bên thít ba.
+With approximately 350,000 registered customers, 120 active vendors, and more than 45,000
+SKUs spanning clothing, footwear, and accessories, StyleHub has outgrown its existing
+infrastructure.
+Với khoảng 350.000 khách hàng đã đăng ký, 120 nhà bán hàng đang hoạt động, và hơn 45.000 SKU trải rộng trên
+quần áo, giày dép và phụ kiện, StyleHub đã vượt quá năng lực của hạ tầng hiện có.
+At the Tết 2024 flash-sale event, the website went down for 47 minutes, causing an estimated 2.3
+billion VND in lost sales and a wave of negative reviews.
+Tại sự kiện flash-sale Tết 2024, website đã ngừng hoạt động trong 47 phút, gây ra thiệt hại doanh số ước tính 2,3 tỷ
+VND và một làn sóng đánh giá tiêu cực.
+In response, the board has commissioned a purpose-built Clothes Shopping Online System
+(CSOS) to replace the current setup before the next major sales season.
+Để đối phó, ban lãnh đạo đã ủy quyền xây dựng một Clothes Shopping Online System (CSOS) chuyên biệt nhằm
+thay thế hệ thống hiện tại trước mùa bán hàng lớn tiếp theo.
+Đối tượng người dùng (User Groups)
+The CSOS has to serve five distinet user groups.
+CSOS nhài nhu m năm nhóm noời dừnc khác hiệt
+Page 1 of 3 1189 words  English (United States)  D Focus mo  - + 133%
+^V  ENG C  5:16 PM
+US  8/8/2026
+
+### 03:09
+OBS 31.1.2 - Cấu hình: Không tên - Phân cảnh: Không tên  -
+Tập tin (E)  Chính sứa (E)  Hiển thị ()  Gia đỡ (Q)  Cấu hình (P)  Bộ sưu tập cảnh  Cng C L  Trợ giúp (H)
+te tt co Clede b0 jw lip can  Cong ca tu 1hz quy thi
+chua chen ngờn não  Omuscr
+sal tosel
+TAR CHAU
+O Quy rinNes  • a  isa gan  LOng Pe
++ 0 1  luc oa, Roolay Bute
+kớn chu Tảy quy so
+TELAY  + • O
+DEDODOE TOU TE ORcOr
+Co dăn cửa số
+Chưa chọn nguồn nào  Q Thuộc tính  1] Bộ lọc
+Phân cảnh  Nguồn  Bộ lọc âm thanh  Chuyến cảnh  Điều khiến
+Màn hình  - 1  Âm thanh máy tính để bàn  0.0 dB
+Mờ dẫn  Bắt đầu phát luỡng
+Scene 2  • Quay màn hình  60  -$5  45  40  35  -10
+Thời gian  50 ms  Dừng ghi
+Mic/Aux  0.0 dB  +  Bắt đầu Replay Buffer
+50  -55  -50  45  40  -35  -30  -25  -20  -15  -10  Bắt đầu máy quay ảo
+4))
+Chế độ Studio
+Thiết đặt
++  ^  V  +  :
+•) 00:00:00  00:03:09  CPU: 11.1%6  60.00/ 60.00 FPS
+ENG  ф  5:16 PM
+US  8/8/2026
+
+### 03:10
+AutoSave  (• off)  2-0-  StyleHub_CSOS_CaseStudy_Bilingual.docx - Saved to this PC -  P Search  Sign in  -
+File  Home  Insert  Design Layout References Mailings  Review  View  Help  Foxit PDF  B Share
+Times New Romar ~ 16 ~ Á A  Aa ~ Po "A A)  EE TEEÁ"  P Find -
+AaBbCcDd AaBbCcDd AaBbCcDı AaBbCcDd|  AaBbC  AaBbcc Aat ABbCcD
+LB Copy  $, Replace
+Paste  I U ~ ao x, x°  A -  A  1 List Para...  1 Normal  1 Strong1  T No Spac... 1 Heading 1 f Heading 2  1 Title  Subtitle
+Format Painter  A Select
+Clipboard  Font  Paragraph  Styles  Editing
+10  11  12 13  14  15  16 0 17  18  19
+mobile app and a provisional website bult on a third-party plattorm.
+Được thành lập năm 2022 và có trụ sở tại Thành phố Hồ Chí Minh, công ty hiện đang hoạt động thông qua một ứng
+dụng di động và một website tạm thời được xây dựng trên nền tảng của bên thí ba.
+With approximately 350,000 registered customers, 120 active vendors, and more than 45,000
+SKUs spanning clothing, footwear, and accessories, StyleHub has outgrown its existing
+infrastructure.
+Với khoảng 350.000 khách hàng đã đăng ký, 120 nhà bán hàng đang hoạt động, và hơn 45.000 SKU trải rộng trên
+quần áo, giày dép và phụ kiện, StyleHub đã vượt quá năng lực của hạ tầng hiện có.
+At the Tết 2024 flash-sale event, the website went down for 47 minutes, causing an estimated 2.3
+billion VND in lost sales and a wave of negative reviews.
+Tại sự kiện flash-sale Tết 2024, website đã ngừng hoạt động trong 47 phút, gây ra thiệt hại doanh số ước tính 2,3 tỷ
+VND và một làn sóng đánh giá tiêu cực.
+In response, the board has commissioned a purpose-built Clothes Shopping Online System
+(CSOS) to replace the current setup before the next major sales season.
+Để đối phó, ban lãnh đạo đã ủy quyền xây dựng một Clothes Shopping Online System (CSOS) chuyên biệt nhằm
+thay thế hệ thống hiện tại trước mùa bán hàng lớn tiếp theo.
+Đối tượng người dùng (User Groups)
+The CSOS has to serve five distinet user groups.
+CSOS nhài nhu m năm nhóm noười dàm khác hiệt
+Page 1 of 3 1189 words  English (United States)  - + 133%
+^V  5:16 PM
+US  8/8/2026
+
+### 03:10
+OBS 31.1.2 - Cấu hình: Không tên - Phân cảnh: Không tên
+Tập tin (E)  Chính sứa (E)  Hiển thị M  Giá đỡ (D)  Cấu hình (P)  Bộ sưu tập cảnh Công cụ (D)  Trợ giúp (H)
+foceri. Onig Livel Felcem  Melren  lot ror
+ANG AN ARna Www Ankk auke AHl' akal
+"T-SYN
+modek sop 2e a poske wetote oult od 2 trd paty putions
+Depe akibsh (dp nder, 027 md co tu sd noe Than ghó Nà Chu Mnk, cong rriben dng noor dling ohing gaa medr aing
+......
+With appreximately 350.000 registored cusoesers. 120 active vendors, rad nore than-15,000
+SKUs spanning clothing. Footweur, and accoooricx, Syleflus has outgrown its existing
+itst tut
+von kuodig t50 000 kiran hang dh ding ly 220 nhn bốn đni da hoat dông, mo Sum 15 602 3X 6 snai rdng srre
+qu do gi đấp và pho tạnh. Shulhi đ0 nướ pha nưông đưc của tọ đắng tiện cử
+Al ing Tối 2004 Rash-ale event, tha website won down for 47 miniscx, causing an cutimulod 23
+billion VND in lost sales tod a wave of hegative reviews
+To mi Lio Sik Mo TÀ 2074 mihu đị m tm nhing vong 47 pầờ gày r nh bu daný vổ vựa nê 2,3 ml
+In rospoese, the hoard har commemoned a purponc-buil: Clothvs Stopping Online System
+(CSOS) sa rensaor the curtent vetup belare Üx sexl mayoe sales vewoen.
+T dỗi nha, dav inh dao de ày ganh só, dàmg nột Chulr tâgag Chdio Shine (C9020 donih kip xite
+kùg tôể sộ ciống hiềm bơ trinc miờ đôm khing đuện tiếg dân
+Đối tựng người dùng (Uscr Groups)
+The CSOS has so serve lise distinct wet groups
+Co dân cửa số
+Chưa chọn nguồn nào  Ở Thuộc tính  LI Bộ lọc
+Phân cảnh  Nguồn  Bộ lọc âm thanh  Chuyến cảnh  Điều khiến
+Màn hình  - 1  Âm thanh máy tính để bàn  0.0 dB
+Mờ dẫn  Bắt đầu phát luỡng
+Scene 2  • Quay màn hình  60  45  40  35  -is  -10
+Thời gian  50 ms  Dừng ghi
+Mic/Aux  0.0 dB  +  Bắt đầu Replay Buffer
+-60  .55  45  40  -35  -30  -25  -20  -15  -10  Bắt đầu máy quay ảo
+4))
+Chế độ Studio
+Thiết đặt
++  +  ^  V  :
+•) 00:00:00  00:03:10  CPU: 11.1%6  60.00 / 60.00 FPS
+ENG  5:16 PM
+US  8/8/2026
+
+### 03:10
+OBS 31.1.2 - Cấu hình: Không tên - Phân cảnh: Không tên
+Tập tin (E)  Chính sứa (E)  Hiển thị M  Gia đỡ (Q)  Cầu hình (P)  Bộ sưu tập cảnh Công cụ (D  Trợ giúp (H)
+Toui B CitiseD HáieN0o ad0D)  Công ca D Thryos to
+chas chen resn nao
+beln tael  chat cons
+O Quy răn Nat  ca gan  LOg pH
++ 0 1  tk. ca, Rocke Butt-
+ase cou nay quay do
+Thất đại
++ EEAV  + O
++  Co dân cửa số
+Chưa chọn nguồn nào  Ở Thuộc tính  1 Bộ lọc
+Phân cảnh  Nguồn  Bộ lọc âm thanh  Chuyến cảnh  Điều khiến
+Màn hình  - 1  Âm thanh máy tính để bàn  0.0 dB  Mờ dẫn
+Bắt đầu phát luỡng
+Scene 2  • Quay màn hình  60  50  45  35  -iS  -10
+Thời gian  50 ms  Dừng ghi
+Mic/Aux  0.0 dB  +  Bắt đầu Replay Buffer
+-55  -50  40  -35  30  -25  -20  -15  -10  Bắt đầu máy quay ảo
+4))
+Chế độ Studio
+Thiết đặt
++  ^  V  +  V  :
+•) 00:00:00  00:03:10  CPU: 11.1%6  60.00 / 60.00 FPS
+ENG  ф  5:16 PM
+US  8/8/2026
+
+### 03:10
+AutoSave  (e off)  2 - =  StyleHub_CSOS_CaseStudy_Bilingual.docx - Saved to this PC -  P Search  Sign in  -
+File  Home  Insert  Design Layout References Mailings  Review  View Help  Foxit PDF  B Share
+Times New Romar ~ 16 ~ A A  Aa~ Po "A A)  P Find ~
+AaBbCcDd AaBbCcDd AaBbCcDı AaBbCcDd|  АаВЬС  «°, Replace
+Paste  B Copy
+I U ~ eb x, x°  A "  A  E AA BC  1 List Para...  1 Normal  1 Strong1  1 No Spac... 1 Heading 1 1 Heading 2  1 Title  Subtitle  • Select ~
+Format Painter
+Clipboard  Font  Paragraph  Styles  Editing  ^
+11  12  - 1 13 |  14  15  16 : 0 17  18  19
+mobile app and a provisional website built on a third-party plattorm.
+Được thành lập năm 2022 và có trụ sở tại Thành phố Hồ Chí Minh, công ty hiện đang hoạt động thông qua một ứng
+dụng di động và một website tạm thời được xây dựng trên nền tăng của bên thít ba.
+With approximately 350,000 registered customers, 120 active vendors, and more than 45,000
+SKUs spanning clothing, footwear, and accessories, StyleHub has outgrown its existing
+infrastructure.
+Với khoảng 350.000 khách hàng đã đăng ký, 120 nhà bán hàng đang hoạt động, và hơn 45.000 SKU trải rộng trên
+quần áo, giày dép và phụ kiện, StyleHub đã vượt quá năng lực của hạ tầng hiện có.
+At the Tết 2024 flash-sale event, the website went down for 47 minutes, causing an estimated 2.3
+billion VND in lost sales and a wave of negative reviews.
+Tại sự kiện flash-sale Tết 2024, website đã ngừng hoạt động trong 47 phút, gây ra thiệt hại doanh số ước tính 2,3 tỷ
+VND và một làn sóng đánh giá tiêu cực.
+In response, the board has commissioned a purpose-built Clothes Shopping Online System
+(CSOS) to replace the current setup before the next major sales season.
+Để đối phó, ban lãnh đạo đã ủy quyền xây dựng một Clothes Shopping Online System (CSOS) chuyên biệt nhằm
+thay thế hệ thống hiện tại trước mùa bán hàng lớn tiếp theo.
+Đối tượng người dùng (User Groups)
+The CSOS has to serve five distinct user groups.
+CSOS nhài nhu m năm nhóm noời dừn khác hiệt
+Page 1 of 3 1189 words English (United States)  D' Focus m • e -___ t  - + 133%
+^V  5:16 PM
+C  US  8/8/2026
+
+### 03:25
+9 untitled - Visual Paradigm Modeler (Evaluation Copy)  -
+Project  ITSM  Agile  Diagram  View  Team / Unified Platform  Tools  Modeling  Help
+Export
+New  Open  Close  Print  Import  Properties  Community
+Property
+Diagram Navigator
+* Model Explorer
+* Diagram Backlog
+Message  0 0 x
+^ VO  ENG = 4 @ 8/8/2026  5:16 PM
+
+### 03:25
+• untitled - Visual Paradigm Modeler (Evaluation Copy)  -
+Dash  Project  ITSM  Agile  Diagram  View  Team / Unifled Platform  Tools  Modeling  Window  Help
+Export
+Print  Import
+New  Open  Save  Close  Properties  Community
+Propery
+Welcome to Visual Paradigm Modeler
+Diagram Navigator
+• Model Explorer
+Store and share your design on your clo  • Opening Project  X  Jump start your design with diagram templates
+alting...
+* Diagram Backlog
+Draw your own diagrams with predefined templates. Hundreds of templates are available. Visit our Community
+Enjoy additional features like web diagrams, SWOT, and more.
+C  ^V  ENG  5:16 PM
+US  8/8/2026
+
+### 04:16
+OBS 31.1.2 - Cấu hình: Không tên - Phân cảnh: Không tên
+Tập tin (E)  Chính sứa (E)  Hiển thị (  Giá đỡ (Q)  Cáu hình (P)  Bộ sưu tập cảnh  Công cụ (D)  Trợ giúp (H)
+© (v212 La nes coto Pres det bona dor
+pan3 Citisid thacho Guond Culih Cb0jw Uo canf  Conto l Tireue to
+chia men ngasn nào  Omosci
+tarAn tael  CHatA CH
+O cay răntas  • a  ungr"
++ 0 i  0a, Facka, Burte
+n dho ny goy so
+thinr tor
+TELAY  + O
+Co dân cửa số
+Chưa chọn nguồn nào  • Thuộc tính  11] Bộ lọc
+Phân cảnh  Nguồn  Bộ lọc âm thanh  Chuyến cảnh  Điều khiến
+Màn hình  Âm thanh máy tính để bàn  0.0 dB
+Mờ dẫn  Bắt đầu phát luỡng
+Scene 2  • Quay màn hình  60  45  40  3S  -iS  -10
+Thời gian  50 ms  Dừng ghi
+Mic/Aux  0.0 dB  +  Bắt đầu Replay Buffer
+-55  -50  45  40  -35  -30  •25  -20  -15  -10
+Bắt đầu máy quay ảo
+Chế độ Studio
+Thiết đặt
++  ^  V  +  ^  V
+) 00:00:00  00:04:15  CPU: 10.2%  60.00 / 60.00 FPS
+ENG  5:17 PM
+US  Ф  8/8/2026
+
+### 04:19
+OBS 31.1.2 - Cấu hình: Không tên - Phân cảnh: Không tên
+Tập tin (E)  Chính sứa (E)  Hiển thị ()  Giá đỡ (D)  Cầu hình (P)  Bộ sưu tập cảnh  Trợ giúp (H)
+e Ceis tt Car Clei 0 local Congot Th/ puy t
+OBS 31.1.2 - Cấu hình: Không tên - Phân...  untitled * - Visual Paradigm Modeler (Ev...  StyleHub_CSOS_CaseStudy_Bilingual.do...  Coursera_Skip_Extension_full - File Explo...
+Co dãi
+Chưa chọn nguồn n
+Phân cảnh
+Màn hình
+Datudu praniuong
+Scene 2  • Quay màn hình  60  -i5
+Thời gian  50 ms  Dừng ghi
+Mic/Aux  0.0 dB  +  Bắt đầu Replay Buffer
+50 $5  40 35  30  •25  -20  -15  -10  Bắt đầu máy quay ảo
+Chế độ Studio
+Thiết đặt
++  ^ V  +  ^  :
+) 00:00:00  00:04:18  CPU: 2.4%  60.00/60.00 FPS
+ENG  5:18 PM
+1  US  8/8/2026
+
+### 04:19
+9 untitled * - Visual Paradigm Modeler (Evaluation Copy)
+Dash  Project  ITSM  Agile  Diagram  View  Team / Unifled Platform  Tools  Modeling  Window
+→ Undo  F Format  Alignment v
+© Redo  % Format Copier  ill Distribution v
+New  Copy  Paste  Search  Group  Ungroup  Link  Jump  Bookmarks
+All v  i Lay out
+Property  Use Case Diagram1
+Use Case Diagram1 - Use Case DL...
+uc [Use Case Diagram1] |  Close(x]
+Diagram Navigator  Al Diagram Generation
+Use Case 1 aora...  Use Case  Do you want to generate diagram content by Al?
+Parent model  «No parent model>
+Zoom ratio  700%  Association
+Background  • White  Actor  Generate
+E Grid
+Visible  System
+Snap to grid  -g Include  • Dont show this message again on Use Case Diagram
+Model Explorer  Width  10  ¿En Extend  • Dont show this message again for all diagrams
+Height  10
+Color  • Light gray  *> Dependency  This message will disappear in 8 seconds
+Connector sho...  Yes
+Connector style  Oblique  4 Generalization
+Connection Poi...  Round the Shape  Collaboration
+Auto fit shapes.
+Model Element...  Middle Center  Element Group
+• Presentation o...  Note
+Use Case...  Caption aligned...
+Actor Displ..  •.. Anchor
+Show Defau...  1Q. Constraint
+Show tagge...
+•- Containment
+e43 Allocate
+c Rationale
+pa Problem
+Package
+Diagram Overview
+Fe Visio Shape
+— Genetic Connector
+^ V  ENG  5:18 PM
+-  US  8/8/2026
+
+### 05:02
+AutoSave  • Off)  2 - U =  StyleHub_CSOS_CaseStudy_Bilingual.docx - Saved to this PC -  • Search  Sign in  -
+File  Home  Insert  Design Layout References Mailings  Review  View Help  Foxit PDF  B Share
+X Cut  Times New Romar ~ 28 ~ Á A  Aa~ Po "A [A)  E'E TEEÁ-N  Aat  P Find -
+AaBbCcDd AaBbCcDd AaBbCcD‹ AaBbCcDd AaBb( AaBbCc  AaBbCcD  $c Replace
+Paste  LB Copy
+I U • eb  x, x  E-4~HRv  1 List Para...  1 Normal  1 Strong1  1 No Spac... T Heading 1 f Heading 2  1 Title  Subtitle  • Select "
+Format Painter
+Clipboard  Font  Palaciabl  Editing
+1 12  14  16 8  17  18  19
+StyleHub - Clothes Shopping Online
+System (CSOS)
+StyleHub is a Vietnamese e-commerce start-up in the fashion retail sector that is expanding
+rapidly.
+StyleHub là một start-up thương mại điện tử của Việt Nam trong lĩnh vực bán lẻ thời trang đang mở rộng nhanh
+chóng.
+Established in 2022 and based in Ho Chi Minh City, the company currently operates through a
+mobile app and a provisional website built on a third-party platform.
+Được thành lập năm 2022 và có trụ sở tại Thành phố Hồ Chí Minh, công ty hiện đang hoạt động thông qua một ứng
+dụng di động và một website tạm thời được xây dựng trên nền tảng của bên thứ ba.
+With approximately 350,000 registered customers, 120 active vendors, and more than 45,000
+SKUs spanning clothing, footwear, and accessories, StyleHub has outgrown its existing
+Page 1 of 3 4 of 1189 words English (United States)  D) Focus  ฿ • e  + 133%
+• C  ENG  5Ф G  5:18 PM
+US  8/8/2026
+
+### 05:10
+AutoSave  (• o1t)  5-0=  StyleHub_CSOS_CaseStudy_Bilingualdocx - Saved to this PC  Sign in  -
+•1  Q-
+File  Home  Insert  Design Layout References Mailings Review View  He  3 Share
+Times New Romar ~ 28 ~ A A Aa~ Po *x  EE-EEEA- N  P Find -
+AaBbCeDd AaBbCeDd AaBbCcD: AaBbCcDd AaBbC AaBbCc  Aat  AaBbCcD
+°. Replace
+Paste  I U v eb  x,  x'  A.  E E 4-E~  1 List Para...  1 Normal  1 Strong1 1 No Spac... 1 Heading 1 T Heading 2  1 Title  Subtitle
+Format Painter  • Select »
+Clipboard  Font  Palacioun  Editing
+4  10  12 13  14  16  17  18  19
+StyleHub - Clothes Shopping Online
+System (CSOS)  +
+StyleHub is a Vietnamese e-commerce start-up in the fashion retail sector that is expanding
+rapidly.
+StyleHub là một start-up thương mại điện tử của Việt Nam trong lĩnh vực bán lẻ thời trang đang mở rộng nhanh
+chóng.
+Established in 2022 and based in Ho Chi Minh City, the company currently operates through a
+mobile app and a provisional website built on a third-party platform.
+Được thành lập năm 2022 và có trụ sở tại Thành phố Hồ Chí Minh, công ty hiện đang hoạt động thông qua một ứng
+dụng di động và một website tạm thời được xây dựng trên nền táng của bên thít ba.
+With approximately 350,000 registered customers, 120 active vendors, and more than 45,000
+SKUs spanning clothing, footwear, and accessories, StyleHub has outgrown its existing
+infrastructure.
+Với khoảng 350.000 khách hàng đã đăng ký, 120 nhà bán hàng đang hoạt động, và hơn 45.000 SKU trải rộng trên
+quần áo, giày dép và phụ kiện, StyleHub đã vượt quá năng lực của hạ tầng hiện có.
+Page 1 of 3  1189 words  English (United States)  "D' Focus  133%
+ENG  5:19 PM
+US  8/8/2026
+
+### 05:18
+Autosavel  • Off,  2 - 0  StyleHub_CSOS_CaseStudy_Bilingual.docx - Saved to this PC -  Search  Sign in  -
+File  Home  Insert  Design  Layout References Mailings  Review View Help  Foxit PDF  B Share
+Times New Romar ~ 28 ~ A A  Aa ~ Po "A A)  EER BEÁ  Aat  P Find -
+AaBbCeDd AaBbCeDd AaBbCcD: AaBbCcDd AaBbC AaBbCc  AaBbCcD  $°, Replace
+Paste  • Copy  1 Normal  T No Spac... 1 Heading 1 1 Heading 2  1 Title  Subtitle  :
+I U - db  x,  A "  A  EE S-B~  1 List Para...  1 Strong1  • Select "
+Format Painter
+Clipboard  Font  Paragraph  Editing
+11  12  -13  14  16 0 17  18  - 19
+StyleHub - Clothes Shopping Online
+System (CSOS)
+StyleHub is a Vietnamese e-commerce start-up in the fashion retail sector that is expanding
+rapidly.
+StyleHub là một start-up thương mại điện tứ của Việt Nam trong lĩnh vực bản lẻ thời trang đang mở rộng nhanh
+chóng.
+Established in 2022 and based in Ho Chi Minh City, the company currently operates through a
+mobile app and a provisional website built on a third party platform.
+Được thành lập năm 2022 và có trụ sở tại Thành phố Hồ Chí Minh, công ty hiện đang hoạt động thông qua một ứng
+dụng di động và một website tạm thời được xây dựng trên nền tăng của bên thứ ba.
+With approximately 350,000 registered customers, 120 active vendors, and more than 45,000
+SKUs spanning clothing, footwear, and accessories, StyleHub has outgrown its existing
+infrastructure.
+Với khoảng 350.000 khách hàng đã đăng ký, 120 nhà bán hàng đang hoạt động, và hơn 45.000 SKU trải rộng trên
+quần áo, giày dép và phụ kiện, StyleHub đã vượt quá năng lực của hạ tầng hiện có.
+Page 1 of 3 1189 words  English (United States)  to  D" Focus  - + 133%
+^ V  ENG  5:19 PM
+US  8/8/2026 Đ
+
+### 05:20
+AutoSave • off  9-0 =  StyleHub_CSOS_CaseStudy_Bilingual.docx - Saved to this PC  Sign in  -
+•1  0-88.×
+File  Home  Insert  Design Layout References Mailings  Review  View  He  6 Share
+Times New Romar ~ 28 ~ A A" Aa" Po "*A  EE-EEEA-NT  O Find -
+AaBbCeDd AaBbCeDd AaBbCeD, AaBbCeDd AaBbC AaBbCc  Aat  AaBbCcD
+9, Replace
+Paste  I U ~ eb x,  E E" &-E•  1 List Para...  1 Normal  1 Strong1 1 No Spac... 1 Heading 1 f Heading 2  1 Title  Subtitle
+S Format Painter  • Select ~
+Clipboard  Font  Paragraph  Editing
+4  12 13  14  17  18  19
+StyleHub - Clothes Shopping Online
+System (CSOS)
+StyleHub is a Vietnamese e-commerce start-up in the fashion retail sector that is expanding
+rapidly.
+StyleHub là một start-up thương mại điện tíe của Việt Nam trong lĩnh vực bản lẻ thời trang đang mở rộng nhanh
+chóng.  StyleHub - Clothes
+Established in 2022 and based in Ho Chi Minh City, the company currently operates through :  System (C
+mobile app and a provisional website built on a third-party platform.  StyleHub is a Vietnamese e-commerce start-up in th
+Được thành lập năm 2022 và có trụ sở tại Thành phố Hồ Chí Minh, công ty hiện đang hoạt động thông qua một  rapidly.
+dụng di động và một website tạm thời được xây dựng trên nền tảng của bên thứ ba.  StyleHub là một start-up thương mại điện từ của Việt Nam tron
+chóng.
+With approximately 350,000 registered customers, 120 active vendors, and more than 45,000  go Snipping Tool
+SKUs spanning clothing, footwear, and accessories, StyleHub has outgrown its existing
+Screenshot copied to clipboard
+infrastructure.  Automatically saved to screenshots folder.
+Với khoảng 350.000 khách hàng đã đăng ký, 120 nhà bán hàng đang hoạt động, và hơn 45.000 SKU trải rộng tr
+quần áo, giày đép và phụ kiện, StyleHub đã vượt quá năng lực của họ tầng hiện có.  Markup and share
+Page 1 of 3  1189 words  English (United States)
+ENG  5:19 PM
+-  US  8/8/2026
+
+### 05:27
+AutoSave  • Off ,  2 - 0 =  StyleHub_CSOS_CaseStudy_Bilingual.docx - Saved to this PC -  Sign in
+File  Home  Insert  Design  Layout References Mailings  Review  View Help  Foxit PDF  S Share
+Times New Romar 28 - A A  Aa - Po "A A]  EEFEAN  Aat  P Find -
+AaBbCeDd AaBbCcDd AaBbCcD: AaBbCeDd AaBbC AaBbCc  AaBbCcD
+Copy  S°c Replace
+Paste  I U • ab  x, x  A  A  1 List Para...  1 Normal  1 Strong1  1 No Spac... 1 Heading 1 1 Heading 2  1 Title  Subtitle
+Format Painter  • Select "
+Clipboard  Font  Paragraph  Styles  Editing  ^
+4  5  12  13  14  15  16  17  18  19
+StyleHub - Clothes Shopping Online
+System (CSOS)
+StyleHub is a Vietnamese e-commerce start-up in the fashion retail sector that is expanding
+rapidly.
+StyleHub là một start-up thương mại điện tử của Việt Nam trong lĩnh vực bán lẻ thời trang đang mở rộng nhanh
+chóng.  StyleHub - Clothes
+Established in 2022 and based in Ho Chi Minh City, the company currently operates through :  System ((
+mobile app and a provisional website built on a third-party platform.
+StyleHub is a Vietnamese e-commerce start-up in thi
+Được thành lập năm 2022 và có trụ sở tại Thành phố Hồ Chí Minh, công ty hiện đang hoạt động thông qua một  rapidly.
+dụng di động và một website tạm thời được xây dựng trên nền tăng của bên thứ ba.  StyleHub là một start-up thương mai điện từ của Việt Nam tror.
+chỏng.
+With approximately 350,000 registered customers, 120 active vendors, and more than 45,000  Go Snipping Tool
+SKUs spanning clothing, footwear, and accessories, StyleHub has outgrown its existing
+Screenshot copied to clipboard
+infrastructure.  Automatically saved to screenshots folder.
+Với khoảng 350.000 khách hàng đã đăng ký, 120 nhà bán hàng đang hoạt động, và hơn 45.000 SKU trải rộng tr
+quần áo, giày dép và phụ kiện, StyleHub đã vượt quá năng lực của hạ tầng hiện có.  Markup and share
+Page 1 of 3 1189 words English (United States)
+ENG  5:19 PM
+US  8/8/2026
+
+### 08:57
+AutoSave  n -  StyleHub_CSOS_CaseStudy_Biling....  Sign in
+File  Home  Insert  Design  Layout  References Mailings  Review  View  Help  Foxit PDF  S Share
+X Cut  Times New Romar ~ 12 v Á A"  Aa ~  Po  EEE EEÁ-2T  Find -
+AaBbCeDd  AaBbCcDd
+B Copy  (c Replace
+Paste  I U ~ ab  x'  1 List Para...  1 Normal  1 Strong1  1 No Spac... 1 Heading 1 1 Heading 2  1 Title  Subtitle
+Format Painter  L Select-
+Clipboard  Font  Palacabl  Editing
+18  19
+an toàn với nhiều phương thức thanh toán (thẻ tín dụng/ghi nợ, ví điện từ, chuyền khoản ngân hàng, và thanh toán
+khi nhận hàng), và theo dỡi đơn hàng của họ từ khi xuất kho đến khi giao hàng.
+Vendors must be able to publish and manage their own products, adjust inventory levels, set up
+time-limited promotions or flash-sale prices, and consult sales analytics dashboards reporting
+revenue, conversion rates, and return frequencies.
+Nhà bán hàng phải có khả năng đăng và quản lý sản phẩm của riêng mình, điều chỉnh mức tồn kho, thiết lập các
+chương trình khuyến mãi có thời hạn hoặc giá flash-sale, và tham khảo các bảng phân tích dữ liệu bán hàng báo
+cảo doanh thu, tỳ lệ chuyển đổi, và tần suất trà hàng.
+Customer Support Agents need tools to look up any order, process returns and refunds, answer
+product inquiries, and escalate complex cases.
+Nhân viên Hồ trợ Khách hàng cần các công cụ đề tra cứu bất kỳ đơn hàng nào, xử lý trả hàng và hoàn tiền, trả lời
+các thắc mắc về sản phẩm, và chuyển cấp các trường hợp phức tạp.
+Marketing Staff require a campaign management module for configuring site-wide vouchers,
+banner advertisements, push-notification schedules, and loyalty-point rules.
+Nhân viên Marketing cần một mô-đun quản lý chiến dịch để cấu hình mã giảm giá toàn trang, quảng cáo banner,
+lịch trình thông báo đây, và các quy tắc điểm thưởng khách hàng thân thiết.
+Finally, the System Administrator is responsible for user and role management, payment-
+gateway configuration, platform-level monitoring, and automated data backups.
+Cuối cùng, Quản trị viên Hệ thống chịu trách nhiệm về quản lý người dùng và vai trò, cấu hình công thanh toán,
+Page 2 of 3  1 of 1189 words  English (United States)  Lo  D" Focus  le  + 133%
+ENG  5:22 PM
+-  US  8/8/2026
+
+### 10:17
+AutoSave  • Off,  1 O  StyleHub_CSOS_CaseStudy_Biling... -  Sign in  -  0 l
+File  Home  Insert  Design  Layout  References Mailings  Review  View Help  Foxit PDF  B Share
+X Cut  Times New Romar ~ 12 v A A" Aa~ Po "A  E EE EEÁ-2  P Find -
+AaBbCeDd  AaBbCcDd  5°, Replace
+Paste  LB Copy  :
+I U - eb  x,  x'  0 -  1 List Para...  1 Normal  1 Strong1  1 No Spac... 1 Heading 1 1 Heading 2  1 Title  Subtitle  • Select ~
+Format Painter
+Clipboard  Font  Paragraph  Styles  Editing
+4 - 1 . 5  1- 7  • 11 - 1 • 12 - 1 • 13  14 • 1  15  16 • 8  17  18  19
+ảnh và bảng hướng dẫn kích cỡ, lưu sản phẩm vào danh sách yêu thích hoặc giỏ hàng lâu dài, hoàn tất thanh toán
+an toàn với nhiều phương thức thanh toán (thẻ tín dụng/ghi nợ, ví điện tử, chuyển khoản ngân hàng, và thanh toán
+khi nhận hàng), và theo dõi đơn hàng của họ từ khi xuất kho đến khi giao hàng.
+Vendors must be able to publish and manage their own products, adjust inventory levels, set up
+time-limited promotions or flash-sale prices, and consult sales analytics dashboards reporting
+revenue, conversion rates, and return frequencies.
+Nhà bán hàng phải có khả năng đăng và quản lý sản phẩm của riêng mình, điều chinh mức tồn kho, thiết lập các
+chương trình khuyến mãi có thời hạn hoặc giá flash-sale, và tham khảo các bảng phân tích dữ liệu bán hàng báo
+cáo doanh thu, tỷ lệ chuyển đổi, và tần suất trả hàng.
+Customer Support Agents need tools to look up any order, process returns and refunds, answer
+product inquiries, and escalate complex cases.
+Nhân viên Hồ trợ Khách hàng cần các công cụ đề tra cứu bất kỳ đơn hàng nào, xử lý trả hàng và hoàn tiền, trả lời
+các thắc mắc về sản phẩm, và chuyển cấp các trường hợp phức tạp.
+Marketing Staff require a campaign management module for configuring site-wide vouchers,
+banner advertisements, push-notification schedules, and loyalty-point rules.
+Nhân viên Marketing cần một mô-đun quản lý chiến dịch để cấu hình mã giảm giá toàn trang, quảng cáo banner,
+lịch trình thông báo đẩy, và các quy tắc điểm thưởng khách hàng thân thiết.
+Finally, the System Administrator is responsible for user and role management, payment-
+gateway configuration, platform-level monitoring, and automated data backups.
+Page 2 of 3  3 of 1189 words  English (United States)  D" Focus  Ee  133%
+^ V  ENG  5:24 PM
+US  8/8/2026
+
+### 13:05
+untitled * - Visual Paradigm Modeler (Evaluation Copy)
+Dash  Project  ITSM  Agile  Diagram  View  Team / Unified Platform  ools  Modeling  Window  Hello
+→ Undo  F Format
+Redo  Format Copier  ill Distribution
+New  Copy  Paste  Search  Group  Ungroup  Link  Jump  Bookmarks
+All v  Layout ~
+Property  Use Case Diagram 1
+UseCase4 - Use Case
+Diagram Navigator
+Name  UseCase4  Use Case
+Parent  Clothes Shoppin...  Clothes Shopping Online System
+= view  Association
+Fill  (122, 20.  Actor
+Line  Black  Browse and Search  toon Aoom!
+Font  Dialog  System
+Connection..  Follow decrami  al; Include  Lunate
+Model Explorer  Transparency  ¿Es Extend  View  Use Case3
+Opaque
+Model Elem...  Follow Diagram  > Dependency  Use Case11
+Show exten...
+User ID  UC04  + Generalization
+Rank  «Unspecifled»  Collaboration  Marketing Stalt
+Abstract  UseCases
+Leat  Element Group  Use Case12
+Diagram Backlog  Root  Note
+Business Model  UseCases
+Stereotypes  <<UseCase>>  Anchor
+• Tagged Values  1.2. Constraint
+Level
+Complexity  • Containment  UseCase13
+Use Case ...  UseCaso6
+Implementa...  943 Allocate
+Preconditions  Rationale
+Post-conditi...  Use Case 10
+Author  • Problem
+Assumptions  Use Case
+Comments  Package
+Diagram Overview
+Pr Visio Shape
+Genetic Connector
+Ф
+V  ENG  5:26 PM
+US  8/8/2026
+
+### 13:38
+9 untitled * - Visual Paradigm Modeler (Evaluation Copy)
+Dash  Project  ITSM  Agile  Diagram  View  Team / Unified Platform  Tools  Window  Hele
+→ Undo  F Format
+ITTI
+Redo  % Format Copier
+New  Copy  Paste  Search  Group  Ungroup  Link  Jump  Bookmarks
+All v
+Property  Use Case Diagram1
+Use Case Diagramt - Use Case DL...
+Cursor
+Diagram Navigator
+Name  Use Case Diagra...  Use Case
+Parent model  «No parent model>  Clothes Shopping Chine System
+Zoom ratio  Association
+Background  • White  Actor
+E Grid  Browse and Search
+Visible  System  Product
+Snap to grid  -1, Include
+Model Explorer  Width  10  ¿E= Extend  View Detail Product  Use Case3
+Height  10
+Color  • Light gray  -> Dependency  Use Car
+Connector sho...  Yes
+Connector style  Oblique  + Generalization  Add To Card
+Connection Pol...  Round the Shape  Collaboration  Marketing Stalt
+Auto fit shapes.  Use Cases
+Model Element.  Middle Center  Element Group  Use Case12
+Diagram Backlog  • Presentation o...  Note
+Use Case...  Caption aligned...  UseCases
+Actor Displ  Anchor
+Show Defau...  f0. Constraint  Use Cases
+Show tagge...
+• Containment  Use Case13
+Use Casel
+o*3 Allocate
+2) Rationale
+Problem  Use Case 10
+Use Case
+Package
+Diagram Overview
+Pe Visio Shape
+- Generic Connector
+Ф
+^ E  ENG  5:27 PM
+US  8/8/2026
+
+### 14:37
+9 untitled * - Visual Paradigm Modeler (Evaluation Copy)
+Dash  Project  ITSM  Agile  Diagram  View  Team / Unified Platform  Modeling  Window  Help
+→ Undo  F Format  Algnment v
+Redo  Format Copier  Tll Distnoution
+New  Copy  Paste  Search  Group  Ungroup  Link  Jump  Bookmarks
+All ~  i Layout -
+Property  Use Case Diagram 1
+UseCase5 - Use Case
+Cursor
+Diagram Navigator
+Name  Usecases  Use Case
+Parent  Clothes Shoppin...  Clothes Shopping Onine System
+E View  Association
+Fill  (122, 20...  Actor
+Line  Black  Browse and Search
+Font  Dialog  System
+Connection.  Follow diagram  -s Include
+Transparency  2 Extend  View Detail Product  Use Case3
+Opaque
+Model Elem... Follow Diagram  →> Dependency  Use Case11
+Show exten...
+User ID  UC05  + Generalization  Add To Card
+Rank  «Unspecifled>  Collaboration
+Abstract  Use Cases
+Leaf  Element Group  UseCase12
+Diagram Backlog  Root  Note
+Business Model
+Stereotypes  <<UseCase>>  Anchor
+• Tagged Values  I. Constraint  Use Cases
+Level
+Complexity  • Containment
+Use Case ...  Use Casel
+Implementa...  9a Allocate
+Preconditions  Rationale
+Post-conditi...  Use Case 10
+Author  Problem
+Assumptions  Use Case  Pay Onine
+Comments  Package
+Diagram Overview
+P% Visio Shape
+Generic Connector
+^ E  ENG  - Ф  5:28 PM
+US  8/8/2026
+
+### 15:22
+AutoSave  • Off  2 - 0 =  StyleHub_CSOS_CaseStudy_Biling... -  Search  Sign in
+File  Home  Insert  Design Layout  References Mailings  Review  View  Help  Foxit PDF  B Share
+P Find -
+Times New Romar ~ 12 " Á A"  Aa~ Po "A  AaBbCeDd  AaBbCeDd
+a) Copy  $c Replace
+Paste  U v ab  x,  x''  1 List Para...  1 Normal  1 Strong1  T No Spac.. 1 Heading 1 1 Heading 2  1 Title  Subtitle
+Format Painter  • Select ~
+Clipboard (  Font  rara tdsl  Editing  ^
+4 - 1 5  10 11 1 12 - 1 13 ₫  14  15  16 0 17  18  19
+Customers should be able to browse and search a large product catalogue - filterable by
+category, brand, size, colour, price range, and customer rating — open detailed product pages
+containing multiple images and size-guide charts, save items to a persistent wishlist or shopping
+cart, complete a secure checkout offering several payment options (credit/debit card, e-wallet,
+bank transfer, and cash-on-delivery), and track their orders from dispatch to delivery.
+Khách hàng phải có khả năng duyệt và tìm kiếm một danh mục sản phẩm lớn - có thể lọc theo danh mục, thương
+hiệu, kích cỡ, màu sắc, khoảng giá, và đánh giá của khách hàng - mở các trang chi tiết sản phẩm chứa nhiều hình
+ảnh và bảng hướng dẫn kích cỡ, lưu sản phẩm vào danh sách yêu thích hoặc giỏ hàng lâu dài, hoàn tất thanh toán
+an toàn với nhiều phương thức thanh toán (thẻ tín dụng/ghi nợ, ví điện từ, chuyển khoản ngân hàng, và thanh toán
+khi nhận hàng), và theo dỡi đơn hàng của họ từ khi xuất kho đến khi giao hàng.
+Vendors must be able to publish and manage their own products, adjust inventory levels, set up
+Page 1 of 3 1189 words  English (United States)  h" Focus  BD  le  + 133%
+^ E  ENG  5:29 PM
+F C  US  8/8/2026
+
+### 15:23
+untitled * - Visual Paradigm Modeler (Evaluation Copy)
+Project  ITSM  Agile  Diagram  View  Team / Unifed Platform  Tools  Modeling  Window  Hell
+→ Undo  F Format  Alignment
+Redo  Format Copier  TuP Distribution
+New  Copy  Paste  Search  Group  Ungroup  Link  Jump  Bookmarks
+All v  i Layout ~
+Probeny  Use Case Diagram1
+UseCase5 - Use Case
+Diagram Navigator
+Name  UseCases  Use Case  Clothes Shopping Onine System
+Parent  Clothes Shoppin...
+= view  Association
+Fill  (122, 20..  Actor  Browse and Search
+Line  Black  Use Case3
+Font  Dialog  System
+Use Caseß
+Connection..  Follow diagram  - Include
+Model Explorer  Transparency  View Detail Product
+Opaque  2E Extend
+UseCasett
+Model Elem...  Follow Diagram  →> Dependency
+Show exten...  Use Case9
+4 Generalization  Add To Card
+User ID  UCOS
+Rank  «Unspecifled>  Collaboration
+Abstract  UseCase12
+Leat  Element Group
+Diagram Backlog  Root  Note
+Business Model
+Stereotypes  <<UseCase>>  Anchor
+• Tagged Values  N. Constraint  Admin
+Level
+Complexity  © Containment
+Use Case ...
+Implementa...  a*3 Allocate  Use Cased
+Preconditions  Rationale  Pay Onine
+Post-conditi...
+Author  • Problem  Vendor
+Assumptions  Use Case7
+Comments  Package
+UseCase10
+Diagram Overview
+Te Visio Shape
+Generic Connector
+^ E  ENG  5:29 PM
+US  8/8/2026
+
+### 17:40
+AutoSave  • off  n = =  StyleHub_CSOS_CaseStudy_Biling... -  Search  Sign in  -
+File  Home  Insert  Design  Layout  References Mailings  Review  View Help  Foxit PDF  B Share
+Times New Romar ~ 12 ~ A A"  P Find -
+Aa~ Po "A [A)  E EE EEA-2  AaBbCeDd  AaBbCcDd
+• copy  $°c Replace
+Paste  I U - eb  x,  x''  A  1 List Para...  1 Normal  1 Strong1  1 No Spac... 1 Heading 1 1 Heading 2  1 Title  Subtitle
+S Format Painter  • Select ~
+Clipboard  Font  Paragraph  Styles  Editing  ^
+4 . 5  1 10  1 11- 1 12 1 13 1 14  16 : 0 17  18  19
+ảnh và bảng hướng dẫn kích cỡ, lưu sản phẩm vào danh sách yêu thích hoặc giỏ hàng lâu dài, hoàn tắt thanh toán
+an toàn với nhiều phương thức thanh toán (thẻ tín dụng/ghi nợ, ví điện tử, chuyển khoản ngân hàng, và thanh toán
+khi nhận hàng), và theo dõi đơn hàng của họ từ khi xuất kho đến khi giao hàng.
+Vendors must be able to publish and manage their own products, adjust inventory levels, set up
+time-limited promotions or flash-sale prices, and consult sales analytics dashboards reporting
+revenue, conversion rates, and return frequencies.
+Nhà bán hàng phải có khả năng đăng và quản lý sản phẩm của riêng mình, điều chinh mức tồn kho, thiết lập các
+chương trình khuyến mãi có thời hạn hoặc giá flash-sale, và tham khảo các bảng phân tích dữ liệu bán hàng báo
+cáo doanh thu, tỷ lệ chuyển đổi, và tần suất trả hàng.
+Customer Support Agents need tools to look up any order, process returns and refunds, answer
+product inquiries, and escalate complex cases.
+Nhân viên Hô trợ Khách hàng cần các công cụ đề tra cứu bất kỳ đơn hàng nào, xử lý trả hàng và hoàn tiền, trả lời
+các thắc mắc về sản phẩm, và chuyền cấp các trường hợp phức tạp
+Marketing Staff require a campaign management module for configuring site-wide vouchers,
+banner advertisements, push-notification schedules, and loyalty-point rules.
+Nhân viên Marketing cần một mô-đun quản lý chiến dịch để cấu hình mã giảm giá toàn trang, quảng cáo banner,
+lịch trình thông báo đẩy, và các quy tắc điểm thưởng khách hàng thân thiết.
+Finally, the System Administrator is responsible for user and role management, payment-
+gateway configuration, platform-level monitoring, and automated data backups.
+Page 2 of 3  1189 words  English (United States)  D Focus  133%
+ENG  5:31 PM
+^  US  8/8/2026
+
+### 17:42
+9 untitled * - Visual Paradigm Modeler (Evaluation Copy)
+Dash  Project  ITSM  Agile  Diagram  View  Team / Unified Platform  Tools  Modeling  Window  Hele
+→ Undo  F Format  Alignment
+Redo  Format Copier  Til Distribution
+New  Copy  Paste  Search  Group  Ungroup  Link  Jump  Bookmarks
+All v  i Layout
+Property  Use Case Diagram 1
+Manage Report - Use Case
+Cursor
+Diagram Navigator
+Name  Manage Report  Use Case  Clothes Shopping Onine System
+Parent  Clothes Shoppin...
+E View  Association
+Browse and Search
+Fill  Actor
+Line  Black  UseCase3
+Font  Dialog  System
+Use Case&
+Connection..  Follow discrem  es Include  View Detail Product
+Transparency  -E= Extend
+Opaque  UseCase11
+Model Elem...  Follow Diagram  →> Dependency  Add To Card
+Show exten...
+User ID  UC10  4- Generalization
+Rank  «Unspecifled›  Collaboration
+Abstract  Track Product Stus
+Leat  Element Group  Use Case12
+Diagram Backlog  Root  Note
+Business Model
+Stereotypes  «‹UseCase>>  Anchor  Manage Product
+• Tagged Values  1.. Constraint  Admin
+Level
+Complexity  * Containment
+Manage
+Use Case ...  Inventory
+Implementa...  9a3 Allocate
+Pay Onine
+Preconditions  Rationale
+Post-conditi...
+Author  Problem  Vendor
+Assumptions
+Comments  Package
+Diagram Overview
+Pa Visio Shape
+— Genene Connector
+E  ENG  5:31 PM
+^  US  8/8/2026
+
+### 17:43
+• untitled * - Visual Paradigm Modeler (Evaluation Copy)
+Dash  Project  ITSM  Agile  Diagram  View  Team / Unified Platform  Tools  Modeling  Window  Held
+→ Undo  F Format  Ament
+, Redo  Format Copier  ill Distribution
+New  Copy  Paste  Search  Group  Ungroup  Link  Jump  Bookmarks
+All v  i Lay out -
+Propery  Use Case Diagram 1
+Manage Report - Use Case
+Cursor
+Diagram Navigator
+Name  Manage Report  Use Case  Clothes Shopping Onine System
+Parent  Clothes Shoppin....
+E View  Association
+Browse and Search
+Fill  Actor  Prose
+Line  Black  Use Case3
+Font  Dialog  System
+Use Case8
+Connection..  Follow disaram  - Include  Custome  View Detail Product
+Transparency  2 Extend
+Opaque  Use Case11
+Model Elem...  Follow Diagram  •› Dependency  Add To Card
+Show exten.  Use Casa9
+User ID  UC10  + Generalization
+Rank  «Unspecifled»  Collaboration
+Abstract  Track Product Status
+Leaf  Element Group  Use Case 12
+Diagram Backlog  Root  Note
+Business Model
+Stereotypes  <<UseCase>>  Anchor  Manage Product
+E Tagged Values  1.l. Constraint  Admin
+Level
+Complexity  • Containment
+Manage
+Use Case ...  Inventory
+Implementa...  943 Allocate
+Preconditions  Rationale  Pay Online
+Post-conditi...
+Author  Problem
+Assumptions
+Comments  Package
+Diagram Overview
+Visio Shape
+Generic Connector
+^ E  ENG  5:31 PM
+US  8/8/2026
+
+### 17:54
+AutoSave  • Off  п -  StyleHub_CSOS_CaseStudy_Biling... ~  Sign in  -
+File  Home  Insert  Design  Layout  References Mailings  Review  View Help  Foxit PDF  B Share
+Times New Romar ~ 12 Á A  Po "A  P Find -
+Aa v  E EE EEÄNT  AaBbCeDd  AaBbCcDd
+a Copy  $°c Replace
+Paste  I U ~ ab  x,  x'  A  1 List Para...  1 Normal  1 Strong1  T No Spac.. 1 Heading 1 1 Heading 2  1 Title  Subtitle
+Format Painter  • Select ~
+Clipboard  Font  Paragraph  Styles  Editing
+- 4 1 5  6 1 - 7  10  1 11 12 - 1 13 1400  15  16 • 6 17  18  19
+ảnh và bảng hướng dẫn kích cỡ, lưu sản phẩm vào danh sách yêu thích hoặc gió hàng lâu dài, hoàn tắt thanh toán
+an toàn với nhiều phương thức thanh toán (thẻ tín dụng/ghi nợ, ví điện tử, chuyển khoản ngân hàng, và thanh toán
+khi nhận hàng), và theo dõi đơn hàng của họ từ khi xuất kho đến khi giao hàng.
+Vendors must be able to publish and manage their own products, adjust inventory levels, set up
+time-limited promotions or flash-sale prices, and consult sales analytics dashboards reporting
+revenue, conversion rates, and return frequencies.
+Nhà bán hàng phải có khả năng đăng và quản lý sản phẩm của riêng mình, điều chinh mức tồn kho, thiết lập các
+chương trình khuyến mãi có thời hạn hoặc giá flash-sale, và tham khảo các bảng phân tích dữ liệu bán hàng báo
+cáo doanh thu, tỷ lệ chuyển đổi, và tần suất trả hàng.
+Customer Support Agents need tools to look up any order, process returns and refunds, answer
+product inquiries, and escalate complex cases.
+Nhân viên Hỗ trợ Khách hàng cần các công cụ đề tra cứu bất kỳ đơn hàng nào, xử lý trả hàng và hoàn tiền, trả lời
+các thắc mắc về sản phẩm, và chuyển cấp các trường hợp phức tạp.
+Marketing Staff require a campaign management module for configuring site-wide vouchers,
+banner advertisements, push-notification schedules, and loyalty-point rules.
+Nhân viên Marketing cần một mô-đun quản lý chiến dịch đề cấu hình mã giảm giá toàn trang, quảng cáo banner,
+lịch trình thông báo đẩy, và các quy tắc điểm thưởng khách hàng thân thiết.
+Finally, the System Administrator is responsible for user and role management, payment-
+gateway configuration, platform-level monitoring, and automated data backups.
+Page 2 of 3  1189 words  English (United States)  LO  D" Focus  ฿ •  Le  133%
+ENG  5:31 PM
+US  8/8/2026
+
+### 19:01
+untitled * - Visual Paradigm Modeler (Evaluation Copy)
+Dash  Project  ITSM  Agile  Diagram  View  Team / Unifled Platform  Tools  Window  Hele
+→ Undo  F Format
+Redo  Format Copier
+New  Copy  Paste  Search  Group  Ungroup  Link  Jump  Bookmarks
+All v
+Propery  Use Case Diagram 1
+Cursor
+Diagram Navigator
+Name  UseCase11  Use Case  Clothes Shopping Onine System
+Parent  Clothes Shoppin...
+E View  Association
+Fill  Actor  Search Order
+Line  Black
+Font  Dialog  System
+Use Case3
+Connection..  Follow diagram  -s Include  CusTomer
+Transparency  -E Extend
+Opaque
+Model Elem...  Follow Diagram  → Dependency
+Show exten...
+User ID  UC11  + Generalization
+Rank  «Unspecifled›  Collaboration
+Abstract
+Leat  Element Group  UseCase12
+Diagram Backlog  Root  Note
+Business Model
+Stereotypes  <<UseCase>»  Anchor
+E Tagged Values  f0. Constraint  Admin
+Level
+Complexity  • Containment
+Use Case ...
+Implementa..  o*3 Allocate
+Preconditions  Rationale  Pay Onine
+Post-conditi...
+Author  Problem  Manage Flash-sale Prices
+Assumptions
+Comments  Package
+Diagram Overview  Manage
+Report
+Fe Visio Shape
+- Genene Connector
+^E  ENG  5:32 PM
+US  8/8/2026
+
+### 19:40
+AutoSave  • Off  I • O  StyleHub_CSOS_CaseStudy_Biling...  Sign in
+File  Home  Insert  Design  Layout  References Mailings  Review  View  Help  Foxit PDF  S Share
+X Cut  Times New Romar ~ 12 ~ A A*  Aa "  Po "A  E T E A  ABbCDi ABbCeDa AaBbC Аавьсс Aat AaBbccD  Find ~
+AaBbCeDd  AaBbCeDd  $°c Replace
+Paste  B Copy
+I U ~ ab  x,  x'  A.  A  1E-4-  1 List Para...  1 Normal  1 Strong1  T No Spac.. 1 Heading 1 1 Heading 2  1 Title  Subtitle  • Select ~
+Format Painter
+Clipboard  Font  raratabl  Styles  Editing
+• 11  12  13  14  15  16 S 17  18  19
+Nhà bán hàng phải có khả năng đăng và quản lý sản phẩm của riêng mình, điều chinh mức tồn kho, thiết lập các
+chương trình khuyến mãi có thời hạn hoặc giá flash-sale, và tham khảo các bảng phân tích dữ liệu bán hàng báo
+cáo doanh thu, tỷ lệ chuyển đổi, và tần suất trả hàng.
+Customer Support Agents need tools to look up any order, process returns and refunds, answer
+product inquiries, and escalate complex cases.
+Nhân viên Hỗ trợ Khách hàng cần các công cụ để tra cứu bắt kỳ đơn hàng nào, xử lý trả hàng và hoàn tiền, trả lời
+các thắc mắc về sản phẩm, và chuyển cấp các trường hợp phức tạp.
+Marketing Staff require a campaign management module for configuring site-wide vouchers,
+banner advertisements, push-notification schedules, and loyalty-point rules.
+Nhân viên Marketing cần một mô-đun quản lý chiến dịch để cấu hình mã giảm giá toàn trang, quảng cáo banner,
+lịch trình thông báo đẩy, và các quy tắc điểm thưởng khách hàng thân thiết.
+Finally, the System Administrator is responsible for user and role management, payment-
+gateway configuration, platform-level monitoring, and automated data backups.
+Cuối cùng, Quản trị viên Hệ thống chịu trách nhiệm về quản lý người dùng và vai trò, cấu hình cống thanh toán,
+giảm sát ở cấp độ nền tảng, và sao lưu dữ liệu tự động.
+Ràng buộc kỹ thuật (Technical Constraints)
+The system is also subject to a number of strict technical constraints.
+Hệ thống cũng phải tuân thủ một số ràng buộc kỹ thuật nghiêm ngặt.
+Page 2 of 3  3 of 1189 words  English (United States)  LO  "L) Focus  + 133%
+^ E  ENG  5:33 PM
+-  US  8/8/2026
+
+### 20:05
+9 untitled * - Visual Paradigm Modeler (Evaluation Copy)
+Dash  Project  ITSM  Agile  Diagram  View  Team / Unified Platform  Tools  Window  Hele
+→ Undo  F Format
+ITTI
+Redo  Format Copier
+New  Copy  Paste  Search  Group  Ungroup  Link  Jump  Bookmarks
+All v
+Property  Use Case Diagram1
+Cursor
+Diagram Nangator
+Name  Use Case  Clothes Shopping Onine System
+Parent  Clothes Shoppin...
+E View  Association
+Fill  (122, 20...  Actor  Search Order
+Line  Black
+Font  Dialog  System
+Connection..  Follow discram  ag Include  Process retums and
+Model Explorer  Transparency  refunds
+Opaque  -E= Extend
+Model Elem. Follow Diagram  -> Dependency
+Show exten...  Answer product
+User ID  UC12  4 Generalization  inquiries
+Rank  «Unspecifled»  Collaboration
+Abstract
+Leat  Element Group
+Diagram Backlog  Root  Note  Use Case12
+Business Model
+Stereotypes  <<UseCase>>  Anchor
+E Tagged Values  f.. Constraint
+Level
+Complexity  * Containment
+Use Case...
+Implementa...  o*3 Allocate
+Preconditions  Rationale  Pay Onine
+Post-conditi...
+Author  Problem  Manage Flash-sale Prices
+Assumptions
+Comments  Package
+Diagram Overview  Manage
+Report
+Pa Visio Shape
+Generic Connector
+Ф
+E  ENG  5:33 PM
+US  8/8/2026
+
+### 20:05
+AutoSave  • off  n - c  StyleHub_CSOS_CaseStudy_Biling... -  Search  Sign in
+File  Home  Insert  Design Layout  References Mailings  Review  View  Help  Foxit PDF  B Share
+X Cut  Times New Romar ~ 12 " Á A"  E EEEA-2  ABbCCDi AabCeDa AaBbC Aabcc Aat ABbCcD  P Find -
+Aar  Po "'A  AaBbCeDd  AaBbCcDd
+B Copy  $c Replace
+Paste  I U - eb  x,  x''  4 - B ~  1 List Para...  1 Normal  1 Strong1  T No Spac.. 1 Heading 1 1 Heading 2  1 Title  Subtitle
+Format Painter  • Select ~
+Clipboard  Font  Palacabl  Editing  ^
+11  10: S  17  18  19
+cáo doanh thu, tỷ lệ chuyền đổi, và tần suất trá hàng.
+Customer Support Agents need tools to look up any order, process returns and refunds, answer
+product inquiries, and escalate complex cases.
+Nhân viên Hỗ trợ Khách hàng cần các công cụ đề tra cứu bất kỳ đơn hàng nào, xử lý trả hàng và hoàn tiền, trả lời
+các thắc mắc về sản phẩm, và chuyển cấp các trường hợp phức tạp.
+Marketing Staff require a campaign management module for configuring site-wide vouchers,
+banner advertisements, push-notification schedules, and loyalty-point rules.
+Nhân viên Marketing cần một mô-đun quản lý chiến dịch để cấu hình mã giảm giá toàn trang, quảng cáo banner,
+lịch trình thông báo đẩy, và các quy tắc điểm thưởng khách hàng thân thiết.
+Finally, the System Administrator is responsible for user and role management, payment-
+gateway configuration, platform-level monitoring, and automated data backups.
+Cuối cùng, Quản trị viên Hệ thống chịu trách nhiệm về quản lý người dùng và vai trò, cầu hình cổng thanh toán,
+giám sát ở cấp độ nền tảng, và sao lưu dữ liệu tự động.
+Ràng buộc kỹ thuật (Technical Constraints)
+The system is also subject to a number of strict technical constraints.
+Hệ thống cũng phải tuân thủ một số ràng buộc kỹ thuật nghiêm ngặt.
+Since flash-sale events can push traffic up to 2,000 concurrent users within minutes, all critical
+sanas /hama nuadunt liatina  menduat datail and shasaut) mnnt land in undar 9 annanda at nanl-
+Page 2 of 3  1 of 1189 words  English (United States)  LO  'D" Focus  + 133%
+C  ENG  5:33 PM
+US  8/8/2026
+
+### 20:06
+9 untitled * - Visual Paradigm Modeler (Evaluation Copy)
+Dash  Project  ITSM  Agile  Diagram  View  Team / Unifled Platform  Tools  Modeling  Window  Held
+→ Undo  F Format  Alignment v
+Redo  Format Copier  ill Distribution
+New  Copy  Paste  Search  Group  Ungroup  Link  Jump  Bookmarks
+All -  ig Layout ~
+Property  Use Case Diagram 1
+Cursor
+Diagram Navigator
+Name  Use Case12  Use Case  Clothes Shopping Orine System
+Parent  Clothes Shoppin...
+E View  Association
+Fill  • (122, 20...  Actor  Search Order
+Line  Black
+Font  Dialog  System
+Connection...  Follow diagram  - Include  CusTome  Process retums and
+Transparency  refunds
+Opaque  -En Extend
+Model Elem. Follow Diagram  → Dependency
+Show exten...  Answer product
+User ID  UC12  4 Generalization  Inquiries
+Rank  «Unspecifled»  Collaboration
+Abstract
+Leat  Element Group
+Diagram Backlog  Root  Note  UseCase12
+Business Model
+Stereotypes  <<UseCase>>  Anchor
+• Tagged Values  f.. Constraint  Admin
+Level
+Complexity  •- Containment
+Use Case ...
+Implementa...  9*3 Allocate
+Preconditions  Rationale  Pay Onine
+Post-conditi...
+Author  Problem  Manage Flash-sale Prices
+Assumptions
+Comments  Package
+Diagram Overview  Manage
+Report
+Pa Visio Shape
+- Genenic Connector
+ENG  5:34 PM
+^  US  8/8/2026
+
+### 20:33
+AutoSave  I - O  StyleHub_CSOS_CaseStudy_Biling...  Sign in
+File  Home  Insert  Design  Layout  References Mailings  Review  View  Help  Foxit PDF  B Share
+Times New Romar ~ 12 A A  Aa v  Po "A  E E T EE A  P Find -
+AaBbCeDd  AaBbCeDd  5c Replace
+Paste  b Copy  1 Normal  1 No Spac... 1 Heading 1 1 Heading 2
+S Format Painter  I U ~ eb  x,  x'  1 List Para...  1 Strong1  1 Title  Subtitle  • Select ~
+Clipboard  Font  Palaciobl  Editing
+11  12  17  18  19
+cáo doanh thu, tỷ lệ chuyền đổi, và tần suất trả hàng.
+Customer Support Agents need tools to look up any order, process returns and refunds, answer
+product inquiries, and escalate complex cases.
+Nhân viên Hỗ trợ Khách hàng cần các công cụ đề tra cứu bất kỳ đơn hàng nào, xử lý trả hàng và hoàn tiền, trả lời
+các thắc mắc về sản phẩm, và chuyển cấp các trường hợp phức tạp.
+Marketing Staff require a campaign management module for configuring site-wide vouchers,
+banner advertisements, push-notification schedules, and loyalty-point rules.
+Nhân viên Marketing cần một mô-đun quản lý chiến dịch đề cấu hình mã giảm giá toàn trang, quảng cáo banner,
+lịch trình thông bảo đẩy, và các quy tắc điểm thưởng khách hàng thân thiết.
+Finally, the System Administrator is responsible for user and role management, payment-
+gateway configuration, platform-level monitoring, and automated data backups.
+Cuối cùng, Quản trị viên Hệ thống chịu trách nhiệm về quản lý người dùng và vai trò, cầu hình cổng thanh toán,
+giám sát ở cấp độ nền tảng, và sao lưu dữ liệu tự động.
+Ràng buộc kỹ thuật (Technical Constraints)
+The system is also subject to a number of strict technical constraints.
+Hệ thống cũng phải tuân thủ một số ràng buộc kỹ thuật nghiêm ngặt.
+Since flash-sale events can push traffic up to 2,000 concurrent users within minutes, all critical
+mendunt liatina  mandunt datail and shaskout) muct land in undar ? annanda ot manla
+Page 2 of 3  1189 words  English (United States)  D" Focus  BD •  + 133%
+C  ENG  5:34 PM
+US  8/8/2026
+
+### 20:57
+AutoSave  • Off,  I • O  StyleHub_CSOS_CaseStudy_Biling.... -  Sign in
+File  Home  Insert  Design  Layout  References  Mailings  Review  View  Help  Foxit PDF  3 Share
+X Cut  Times New Romar ~ 12 ~ Á A  E EE EÁ•"  ABbCDi ABbCeDa AaBbC Аавьсс Aat AaBbccD  P Find -
+Aar  Po "'A  AaBbCeDd  AaBbCeDd
+B Copy  $c Replace
+Paste  I U - eb  x,  x''  1 List Para....  1 Normal  1 Strong1  1 No Spac... 1 Heading 1 1 Heading 2  1 Title  Subtitle
+Format Painter  • Select ~
+Clipboard  Font  Pala tabl  Editing
+11  12  16 : 8  17  18  19
+cáo doanh thu, tỷ lệ chuyền đổi, và tần suất trả hàng.
+Customer Support Agents need tools to look up any order, process returns and refunds, answer
+product inquiries, and escalate complex cases.
+Nhân viên Hỗ trợ Khách hàng cần các công cụ đề tra cứu bất kỳ đơn hàng nào, xử lý trả hàng và hoàn tiền, trả lời
+các thắc mắc về sản phẩm, và chuyển cấp các trường hợp phức tạp.
+Marketing Staff require a campaiga management module for configuring site-wide vouchers,
+banner advertisements, push-notification schedules, and loyalty-point rules.
+Nhân viên Marketing cần một mô-đun quản lý chiến dịch đề cấu hình mã giảm giá toàn trang, quảng cáo banner,
+lịch trình thông báo đẩy, và các quy tắc điểm thưởng khách hàng thân thiết.
+Finally, the System Administrator is responsible for user and role management, payment-
+gateway configuration, platform-level monitoring, and automated data backups.
+Cuối cùng, Quản trị viên Hệ thống chịu trách nhiệm về quản lý người dùng và vai trò, cấu hình cổng thanh toàn,
+giám sát ở cấp độ nền tảng, và sao lưu dữ liệu tự động.
+Ràng buộc kỹ thuật (Technical Constraints)
+The system is also subject to a number of strict technical constraints.
+Hệ thống cũng phải tuân thủ một số ràng buộc kỹ thuật nghiêm ngặt.
+Since flash-sale events can push traffic up to 2,000 concurrent users within minutes, all critical
+nundust liatina  mundunt datail and shaskaut) muct lood in undar ? annanda at manla
+Page 2 of 3  1 of 1189 words  English (United States)  LO  D" Focus  • • l -  + 133%
+^ E  ENG  5:34 PM
+US  8/8/2026
+
+### 21:06
+AutoSave  • Off,  StyleHub_CSOS_CaseStudy_Biling... -  Sign in  -
+File  Home  Insert  Design  Layout  References  Mailings  Review  View  Help  Foxit PDF  B Share
+X Cut  Times New Romar ~ 12 ~ Á A*  Aa v  E E E EÁ "  P Find -
+Po "'A  AaBbCeDd  AaBbCeDd
+LB Copy  :  $°, Replace
+Paste  I U ~ eb  x,  x''  TE~  4 - BB ~  1 List Para...  1 Normal  1 Strong1  T No Spac.. 1 Heading 1 1 Heading 2  1 Title  Subtitle
+Format Painter  • Select ~
+Clipboard  Font  ala cawn  Editing
+11  12  14  16 : 8  17  18  19
+cáo doanh thu, tỷ lệ chuyền đổi, và tần suất trả hàng.
+Customer Support Agents need tools to look up any order, process returns and refunds, answer
+product inquiries, and escalate complex cases.
+Nhân viên Hỗ trợ Khách hàng cần các công cụ đề tra cứu bất kỳ đơn hàng nào, xử lý trả hàng và hoàn tiền, trả lời
+các thắc mắc về sản phẩm, và chuyển cấp các trường hợp phức tạp.
+Marketing Staff require a campaign management module for configuring site-wide vouchers,
+banner advertisements, push-notification schedules, and loyalty-point rules.
+Nhân viên Marketing cần một mô-đun quản lý chiến dịch đề cấu hình mã giảm giá toàn trang, quảng cáo banner,
+lịch trình thông báo đẩy, và các quy tắc điểm thưởng khách hàng thân thiết.
+Finally, the System Administrator is responsible for user and role management, payment-
+gateway configuration, platform-level monitoring, and automated data backups.
+Cuối cùng, Quản trị viên Hệ thống chịu trách nhiệm về quản lý người dùng và vai trò, cầu hình cổng thanh toán,
+giám sát ở cấp độ nền tảng, và sao lưu dữ liệu tự động.
+Ràng buộc kỹ thuật (Technical Constraints)
+The system is also subject to a number of strict technical constraints.
+Hệ thống cũng phải tuân thủ một số ràng buộc kỹ thuật nghiêm ngặt.
+Since flash-sale events can push traffic up to 2,000 concurrent users within minutes, all critical
+nundust liatina  mendunt datail and shanlout) muct land in ndar 2 canondo ot manl-
+Page 2 of 3  1 of 1189 words  English (United States)  Lo  D" Focus  • • -  + 133%
+^ E  ENG  5:34 PM
+US  8/8/2026
+
+### 21:25
+AutoSave  • Off  n c .  StyleHub_CSOS_CaseStudy_Biling... -  Search  Sign in  -
+File  Home  Insert  Design  Layout  References Mailings  Review  View  Help  Foxit PDF  B Share
+X Cut  Times New Romar ~ 12 ~ A A*  E EE EEÁ-N  Лас ABbCeDa ABbC Авь Aa ABbccD  P Find -
+Aa ~  AaBbCeDd  AaBbCcDd
+B Copy  $°, Replace
+Paste  I U ~ eb  x,  x'  1|I|  TE~  4 - -  1 List Para...  1 Normal  1 Strong1  1 No Spac... 1 Heading 1 1 Heading 2  1 Title  Subtitle
+Format Painter  • Select ~
+Clipboard  Font  Palacabl  Editing
+11  16 8  17  18  19
+cáo doanh thu, tỷ lệ chuyền đổi, và tần suất trả hàng.
+Customer Support Agents need tools to look up any order, process returns and refunds, answer
+product inquiries, and escalate complex cases.
+Nhân viên Hỗ trợ Khách hàng cần các công cụ đề tra cứu bất kỳ đơn hàng nào, xử lý trả hàng và hoàn tiền, trả lời
+các thắc mắc về sản phẩm, và chuyển cấp các trường hợp phức tạp.
+Marketing Staff require a campaign management module for configuring site-wide vouchers,
+banner advertisements, push-notification schedules, and loyalty-point rules.
+Nhân viên Marketing cần một mô-đun quản lý chiến dịch đề cấu hình mã giảm giá toàn trang quảng cáo banner,
+lịch trình thông bảo đẩy, và các quy tắc điểm thưởng khách hàng thân thiết.
+Finally, the System Administrator is responsible for user and role management, payment-
+gateway configuration, platform-level monitoring, and automated data backups.
+Cuối cùng, Quản trị viên Hệ thống chịu trách nhiệm về quản lý người dùng và vai trò, cấu hình cổng thanh toán,
+giám sát ở cấp độ nền tảng, và sao lưu dữ liệu tự động.
+Ràng buộc kỹ thuật (Technical Constraints)
+The system is also subject to a number of strict technical constraints.
+Hệ thống cũng phải tuân thủ một số ràng buộc kỹ thuật nghiêm ngặt.
+Since flash-sale events can push traffic up to 2,000 concurrent users within minutes, all critical
+menduat listina  mundunt datail and shasaut) muct lond in undar ? annanda nt manl.
+Page 2 of 3  1 of 1189 words  English (United States)  'D" Focus  + 133%
+C  ^ E  ENG  5:35 PM
+US  8/8/2026
+
+### 21:27
+AutoSave  • Off  StyleHub_CSOS_CaseStudy_Biling... -  Sign in
+File  Home  Insert  Design  Layout  References Mailings  Review  View  Help  Foxit PDF  B Share
+X Cut  Times New Romar ~ 12 " Á A"  E E F EE Á"  P Find -
+Aa v  Po "'A  AaBbCeDd  AaBbCcDd
+B Copy  $, Replace
+Paste  I U ~ eb  x,  x'  TE~  S-B-  1 List Para....  1 Normal  1 Strong1  1 No Spac... 1 Heading 1 1 Heading 2  1 Title  Subtitle
+Format Painter  • Select ~
+Clipboard  Font  Palaciobl  Editing
+11  12  16 .  17  18  19
+cáo doanh thu, tỷ lệ chuyền đổi, và tần suất trá hàng.
+Customer Support Agents need tools to look up any order, process returns and refunds, answer
+product inquiries, and escalate complex cases.
+Nhân viên Hỗ trợ Khách hàng cần các công cụ đề tra cứu bất kỳ đơn hàng nào, xử lý trả hàng và hoàn tiền, trả lời
+các thắc mắc về sản phẩm, và chuyển cấp các trường hợp phức tạp.
+Marketing Staff require a campaign management module for configuring site-wide vouchers,
+banner advertisements, push-notification schedules, and loyalty-point rules.
+Nhân viên Marketing cần một mô-đun quản lý chiến dịch đề cấu hình mã giảm giá toàn trang, quảng cáo banner,
+lịch trình thông báo đẩy, và các quy tắc điểm thưởng khách hàng thân thiết.
+Finally, the System Administrator is responsible for user and role management, payment-
+gateway configuration, platform-level monitoring, and automated data backups.
+Cuối cùng, Quản trị viên Hệ thống chịu trách nhiệm về quản lý người dùng và vai trò, cấu hình cổng thanh toàn,
+giám sát ở cấp độ nền tảng, và sao lưu dữ liệu tự động.
+Ràng buộc kỹ thuật (Technical Constraints)
+The system is also subject to a number of strict technical constraints.
+Hệ thống cũng phải tuân thủ một số ràng buộc kỹ thuật nghiêm ngặt.
+Since flash-sale events can push traffic up to 2,000 concurrent users within minutes, all critical
+auadust liatina  sundunt datnil and shanlout) munt land in undar 2 annondo ot manl-
+Page 2 of 3  1 of 1189 words  English (United States)  Lo  D" Focus  m • -  + 133%
+C  ^ E  ENG  5:35 PM
+US  8/8/2026
+
+### 21:35
+9 untitled * - Visual Paradigm Modeler (Evaluation Copy)
+Dash  Project  ITSM  Agile  Diagram  Team / Uniffed Platform  Tools  Window  Hel
+→ Undo  F Format
+Redo  Format Copier
+New  Copy  Paste  Search  Group  Ungroup  Link  Jump  Bookmarks
+All v
+Property  Use Case Diagram 1
+Clothes Shopping Online System
+Cursor
+Diagram Navigator
+Name  Clothes Shoopin  • Use Case  Clothes Shopping Onine System
+Parent  «None>
+• View  Association
+Fill  • (122, 20...  Actor
+Line  Black
+Font  Dialog  System
+Connection..  Follow diagram  els Include
+Transparency  ¿En Extend
+Opaque
+Model Elem... Top Center  → Dependency
+Abstract
+tea.  4- Generalization
+Root  Collaboration
+Stereotypes  «Unspecifed>
+Tagged Values  Element Group
+Diagram Backlog  Comments  Note
+Anchor
+10. Constraint  Use Case
+* Containment
+e43 Allocate
+Rationale
+Use Case2
+Problem
+Package  Pay Online
+Diagram Overview
+Te Visio Shape
+Generic Connector
+Ф
+ENG  F Ф  5:35 PM
+^  US  8/8/2026
+
+### 22:14
+9 untitled * - Visual Paradigm Modeler (Evaluation Copy)
+Dash  Project  ITSM  Agile  Diagram  View  Team / Unifled Platform  Tools  Modeling  Window  Help
+→ Undo  F Format  I Algnment
+Redo  Paste  Format Copier  Til Distribution
+New  Copy  Search  Group  Ungroup  Link  Jump  Bookmarks
+All v  i Layout -
+Property  Use Case Diagram 1
+Clothes Shopping Online System  Cursor
+Diagram Navigator
+Name  Clothes Shoppin..  Use Case  Clothes Shopping Onine System
+Parent  «None>  Association
+E View  Search Order
+Fill  • (122, 20...  Actor
+Line  Black  System
+Font  Dialog  Process retums and
+Connection..  Follow diagram  - Include  Customer  refunds
+Model Explorer  Transparency  -En Extend
+Opaque
+Model Elem... Top Center  →> Dependency  inquiries
+Abstract  + Generalization
+Root  Collaboration  manne
+Stereotypes  «Unspecified>  Voucher
+Tagged Values  Element Group
+Diagram Backlog  Comments  Note  Manage  Ho sto pro to
+advertisement
+Anchor
+f. Constraint  Manage
+Noefcation.
+•- Containment
+943 Allocate  Manage
+loyalty-point
+Rationale  UseCase2
+Problem
+Package
+Diagram Overview  Manage
+E Visio Shape
+— Genenic Connector
+^ E  ENG  5:36 PM
+US  8/8/2026
+
+### 22:24
+AutoSave  • Off,  StyleHub_CSOS_CaseStudy_Biling... -  Sign in
+File  Home  Insert  Design  Layout  References Mailings  Review  View  Help  Foxit PDF  B Share
+X Cut  Times New Romar ~ 12 v Á A"  Aa~ Po "A [A)  EEE EEA-N  P Find -
+AaBbCeDd  AaBbCcDd  Sc Replace
+Paste  LB Copy
+U - eb  x,  x''  A  1 List Para...  1 Normal  1 Strong1  1 No Spac... 1 Heading 1 1 Heading 2  1 Title  Subtitle  • Select "
+Format Painter
+Clipboard  Font  Palacabl  Styles  Editing
+- 4 - 1 5  10  11 \ 12 1 - 13  14  16 : 0 17  18
+Marketing Staff require a campaign management module for configuring site-wide vouchers,
+banner advertisements, push-notification schedules, and loyalty-point rules.
+Nhân viên Marketing cần một mô-đun quản lý chiến dịch để cấu hình mã giảm giá toàn trang, quảng cáo banner,
+lịch trình thông báo đầy, và các quy tắc điểm thưởng khách hàng thân thiết.
+Finally, the System Administrator is responsible for user and role management, payment-
+gateway configuration, platform-level monitoring, and automated data backups.
+Cuối cùng, Quản trị viên Hệ thống chịu trách nhiệm về quản lý người dùng và vai trò, cầu hình cống thanh toán,
+giám sát ở cấp độ nền tảng, và sao lưu dữ liệu tự động.
+Ràng buộc kỹ thuật (Technical Constraints)
+The system is also subject to a number of strict technical constraints.
+Hệ thống cũng phải tuân thủ một số ràng buộc kỹ thuật nghiêm ngặt.
+Since flash-sale events can push traffic up to 2,000 concurrent users within minutes, all critical
+pages (home, product listing, product detail, and checkout) must load in under 2 seconds at peak
+load, and the checkout pipeline must tolerate at least 500 transactions per minute without data
+inconsistency.
+Vì các sự kiện flash-sale có thể đây lưu lượng truy cập lên đến 2.000 người dùng đồng thời chỉ trong vài phút, tất cả
+các trang quan trọng (trang chủ, danh sách sản phẩm, chi tiết sản phẩm, và thanh toán) phải tải trong dưới 2 giây
+khi tải cao điểm, và luồng thanh toán phải chịu được ít nhất 500 giao dịch mỗi phút mà không xảy ra sai lệch đữ
+liêu
+Page 2 of 3 1 of 1189 words  English (United States)  L" Focus  le  + 133%
+O F C  ^ E  ENG  5:36 PM
+US  8/8/2026
+
+### 23:12
+AutoSave  • off  StyleHub_CSOS_CaseStudy_Biling... -  Search  Sign in  -
+File  Home  Insert  Design  Layout  References Mailings  Review  View  Help  Foxit PDF  8 Share
+P Find -
+Times New Romar ~ 12 ~ Á A"  Aa~ Po "A [A)  E EE EÁ-2  AaBbCeDd  AaBbCeDd
+• copy  $, Replace
+Paste  U - eb  x''  A  1 List Para...  1 Normal  1 Strong1  1 No Spac... 1 Heading 1 1 Heading 2  1 Title  Subtitle
+Format Painter  • Select "
+Clipboard  Font  Palaciobl  Editing
+10  11 12 1 - 13 • 4  14  16 0 17  18  1 19
+Marketing Staff require a campaign management module for configuring site-wide vouchers,
+banner advertisements, push-notification schedules, and loyalty-point rules.
+Nhân viên Marketing cần một mô-đun quản lý chiến dịch để cấu hình mã giảm giá toàn trang, quảng cáo banner,
+lịch trình thông báo đầy, và các quy tắc điểm thưởng khách hàng thân thiết.
+Finally, the System Administrator is responsible for user and role management, payment-
+gateway configuration, platform-level monitoring, and automated data backups.
+Cuối cùng, Quản trị viên Hệ thống chịu trách nhiệm về quản lý người dùng và vai trò, cấu hình công thanh toán,
+giám sát ở cấp độ nền tảng, và sao lưu dữ liệu tự động.
+Ràng buộc kỹ thuật (Technical Constraints)
+The system is also subject to a number of strict technical constraints.
+Hệ thống cũng phải tuân thủ một số ràng buộc kỹ thuật nghiêm ngặt.
+Since flash-sale events can push traffic up to 2,000 concurrent users within minutes, all critical
+pages (home, product listing, product detail, and checkout) must load in under 2 seconds at peak
+load, and the checkout pipeline must tolerate at least 500 transactions per minute without data
+inconsistency.
+Vì các sự kiện flash-sale có thể đây lưu lượng truy cập lên đến 2.000 người dùng đồng thời chỉ trong vài phút, tất cả
+các trang quan trọng (trang chủ, danh sách sản phẩm, chi tiết sản phẩm, và thanh toán) phải tải trong dưới 2 giây
+khi tải cao điểm, và luồng thanh toán phải chịu được ít nhất 500 giao dịch mỗi phút mà không xảy ra sai lệch dữ
+liêu
+Page 2 of 3  1189 words  English (United States)  'D" Focus  + 133%
+^ E  ENG  5:37 PM
+US  8/8/2026
+
+### 29:37
+AutoSave  • Off  StyleH-lub_CSOS_CaseStudy_Biling... -  Search  Sign in
+File  Home  Insert  Design  Layout  References Mailings  Review  View  Help  Foxit PDF  B Share
+Find -
+Times New Romar ~ 12 v Á A"  Aa ~  Po  H'A LA  EEE EEÁ2  AaBbCeDd  AaBbCeDd
+• copy  c Replace
+Paste  U v ab  El  1 List Para...  1 Normal  1 Strong1  No Spac.. 1 Heading 1 1 Heading 2  1 Title  Subtitle
+Format Painter  • Select ~
+Clipboard  Font  Paragraph  Styles  Editing
+8  12 1 13 1  14  15  16 : 0 17  18  19
+(
+bank transfer, and cash-on-delivery), and track their orders from dispatch to delivery.
+Khách hàng phải có khả năng duyệt và tìm kiếm một danh mục sản phẩm lớn - có thể lọc theo danh mục, thương
+hiệu, kích cỡ, màu sắc, khoảng giá, và đánh giá của khách hàng - mở các trang chi tiết sản phẩm chứa nhiều hình
+ảnh và bảng hướng dẫn kích cỡ, lưu sản phẩm vào danh sách yêu thích hoặc gió hàng lâu dài, hoàn tất thanh toán
+an toàn với nhiều phương thức thanh toán (thẻ tín dụng/ghi nợ, ví điện từ, chuyển khoản ngân hàng, và thanh toán
+khi nhận hàng), và theo dỗi đơn hàng của họ từ khi xuất kho đến khi giao hàng.
+Vendors must be able to publish and manage their own products, adjust inventory levels, set up
+time-limited promotions or flash-sale prices, and consult sales analytics dashboards reporting
+revenue, conversion rates, and return frequencies.
+Nhà bán hàng phải có khả năng đăng và quản lý sản phẩm của riêng mình, điều chỉnh mức tồn kho, thiết lập các
+chương trình khuyến mãi có thời hạn hoặc giá flash-sale, và tham khảo các bảng phân tích dữ liệu bản hàng báo
+cáo doanh thu, tỷ lệ chuyên đôi, và tần suắt trả hàng.
+Page 2 of 3  1189 words  English (United States)  D' Focus  ฿ •  + 133%
+^ E  ENG  5:43 PM
+C  US  8/8/2026
+
+### 29:42
+untitled * - Visual Paradigm Modeler (Evaluation Copy)
+Dash  Project  ITSM  Agile  Diagram  View  Team / Unifled Platform  Tools  Modeling  Window  Hele
+→ Undo  F Format  Alignment
+Redo  Format Copier  ill Distribution
+New  Copy  Paste  Search  Group  Ungroup  Link  Jump  Bookmarks
+All v  i Layout -
+Property  Use Case Diagram1
+Track Product Status - Use Case
+Cursor
+Diagram Navigator
+Name  Track Product St  Use Case
+Parent  Clothes Shoppin.  Clothes Shopping Online System
+E View  Association
+Fill  Browse and Search  Search Order
+Actor  Product
+Line  Black  Customer Support Agent
+Font  Dialog  System
+View Detail Product  Process retums and
+Connection...  Follow diagram  - Include  refunds
+Transparency  2E Extend  Customer
+Opaque
+Model Elem...  Follow Diagram  →> Dependency  Answer product
+inquiries
+Show exten.
+User ID  UCOS  + Generalization
+Rank  «Unspecifled>  Add To Card  Mannoc
+Collaboration  Voucher
+Abstract
+Leat  Element Group
+Diagram Backlog  Root  Note  Complete Order  Manage
+Business Model  (Track Product Status  advertisement
+Stereotypes  <<UseCase>>  Anchor
+• Tagged Values  10. Constraint  Manage
+Level  Manage Product  Notification
+Complexity  • Containment
+Use Case ...  Manage
+o*3 Allocate  Manage  loyalty-point
+Implementa...  Inventory
+Preconditions  Rationale
+Post-conditi...
+Author  Problem  Manage User
+Assumptions  Mangae Fash-sake Prices
+Config Payment Gateway
+Package  Trad System
+Diagram Overview  Payment Gateway
+P Visio Shape  Report  Pay Online
+Generic Connector
+ENG  ф  5:43 PM
+US  8/8/2026
+
+### 29:44
+AutoSave  StyleHub_CSOS_CaseStudy_Biling....  Sign in
+File  Home  Insert  Design  Layout  References Mailings  Review  View  Help  Foxit PDF  B Share
+P Find -
+Times New Romar ~ 12 ~ Á A* ||  Aa~ Po "A  EE T EE A AN  AaBbCeDd  AaBbCcDd
+B Copy  $c Replace
+Paste  U " eb  x'  1 List Para...  1 Normal  1 Strong1  1 No Spac... 1 Heading 1 1 Heading 2  1 Title  Subtitle
+Format Painter  • Select "
+Clipboard  Font  Paragraph  Styles  Editing
+11  1 12 - 1 - 13 1  14  15  16 : 0 17  18  19
+-----
+The CSOS has to serve five distinct user groups.
+CSOS phải phục vụ năm nhóm người dùng khác biệt.
+Customers should be able to browse and search a large product catalogue — filterable by
+category, brand, size, colour, price range, and customer rating — open detailed product pages
+containing multiple images and size-guide charts, save items to a persistent wishlist or shopping
+cart, complete a secure checkout offering several payment options (credit/debit card, e-wallet,
+bank transfer, and cash-on-delivery), and track their orders from dispatch to delivery.
+Khách hàng phải có khả năng duyệt và tìm kiếm một danh mục sản phẩm lớn - có thể lọc theo danh mục, thương
+hiệu, kích cỡ, màu sắc, khoảng giá, và đánh giá của khách hàng - mở các trang chi tiết sản phẩm chứa nhiều hình
+ảnh và bảng hướng dân kích cỡ, hưu sản phẩm vào danh sách yêu thích hoặc giỏ hàng lâu dài, hoàn tất thanh toán
+an toàn với nhiều phương thức thanh toán (thẻ tín dung/ghi nơ. ví điên tử. chuvền khoản ngân hàng, và thanh toán
+Page 1 of 3 5 of 1189 words English (United States)  D) Focus  T155%
+^E U  ENG  5:43 PM
+US  8/8/2026
+
+### 32:50
+OBS 31.1.2 - Cấu hình: Không tên - Phân cảnh: Không tên
+Tập tin (E)  Chính sứa (E)  Hiển thị M  Giá đỡ (Q)  Cáu hình (P)  Bộ sưu tập cảnh  Công cụ (D  Trợ giúp (H)
+.02 cse cro Pradet scra mo
+e Cesi tito Cd Clini 0a o canh Cong cyt T12 cuy hi
+CI eid
+chas men re da nao
+naacsntsal  cHata cons  2 ciu ktdn
+жен2  O quy răn ins  • a
++ 0 1  Bac 0h, Raoka, Bure
+n du ny guy so
+Thiat Shr
+TELAY  + O
+Co dân cửa số
+Chưa chọn nguồn nào  • Thuộc tính  11 Bộ lọc
+Phân cảnh  Nguồn  Bộ lọc âm thanh  Chuyến cảnh  Điều khiến
+Màn hình  • 1  Âm thanh máy tính để bàn  0.0 dB
+Mờ dẫn  Bắt đầu phát luỡng
+Scene 2  • Quay màn hình  60  $5  45  40  35  •25  20  -is  -10
+Thời gian  50 ms  Dừng ghi
+Mic/Aux  0.0 dB  +  Bắt đầu Replay Buffer
+-60  -55  -50  45  40  -35  -30  -25  -20  -15  -10
+Bắt đầu máy quay ảo
+Chế độ Studio
+Thiết đặt
++  +  ^  :
+•: 00:00:00  00:32:50  CPU: 8.6%  60.00/60.00 FPS
+ENG  5:46 PM
+US  8/8/2026
+

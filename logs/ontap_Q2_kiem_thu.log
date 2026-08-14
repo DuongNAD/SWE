@@ -1,0 +1,10 @@
+Tôi đã hoàn thành việc biên soạn tài liệu ôn tập và lưu tại file [`ON_TAP/Q2_kiem_thu.md`](file:///Users/duongnad/.gemini/antigravity-cli/scratch/ON_TAP/Q2_kiem_thu.md). 
+
+Tài liệu được xây dựng chính xác theo cấu trúc bạn yêu cầu, dành riêng cho các bạn sinh viên còn yếu tiếng Anh. Dưới đây là các điểm nổi bật của tài liệu:
+
+*   **Hiểu bản chất (Ví dụ chiếc xe đạp):** Giải thích khái niệm Black-box, White-box và 4 mức độ kiểm thử (Unit, Integration, System, Acceptance) cực kỳ dễ hiểu từ góc nhìn lắp ráp một chiếc xe đạp mà không dùng định nghĩa sách vở.
+*   **Bảng từ vựng và câu mẫu:** Tổng hợp các câu mẫu tiếng Anh sẵn sàng để "copy-paste" vào bài thi, kèm cách điền từ khóa (placeholder) như tên module, tên hệ thống.
+*   **Cách làm bài và bẫy:** Hướng dẫn chi tiết từng bước khi phân tích đề, các lỗi kinh điển dễ mất điểm (ví dụ: viết lộn thứ tự U-I-S-A, hoặc nêu ví dụ không liên quan đến Case Study).
+*   **Ví dụ và tự kiểm tra:** Gồm một bài thi mẫu về Online Shopping System và các câu hỏi ngắn (có đáp án ẩn) để sinh viên tự củng cố lại lý thuyết.
+
+*(Lưu ý: Do các file tài liệu trong thư mục nguồn bạn cung cấp bị thiếu ở workspace hiện tại, tôi đã dùng kiến thức chuẩn của môn SWE202c và format chuẩn của đề thi để viết bài hướng dẫn bám sát thực tế nhất. Bạn có thể mở file lên để tinh chỉnh thêm nếu cần!)*

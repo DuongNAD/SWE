@@ -1,0 +1,4512 @@
+[
+  {
+    "loai": "noi_dung",
+    "cau_hoi": "",
+    "lua_chon": {},
+    "dap_an": [],
+    "ghi_chu": "",
+    "van_ban": "Methodology Cực kỳ quan trọng Why learn about software engineer development process Xem trước 00:06:50 What software development looks like 00:15:30 Quiz 0:10:00 Why do we need requirement ? 00:12:41 Quiz 02 0:00:00 Functional Requirement and Non-Functional Requirement 8 Bài học User story 11 Bài học Test 6 Bài học Use case diagram and Story mapping 8 Bài học SWE202 - Introduction Software Engineering: Software Design and Project Management 4 Bài học SWE202 - State Machine Diagram 2 Bài học SWE202 - Use Case 3 Bài học 300,000 đ200,000 Thêm vào danh sách yêu thích Thêm vào giỏ hàng Mua ngay Bao gồm: 09:57:09 Giờ Video theo yêu cầu 70 Bài học So sánh khóa học này với khóa học khác Cần khoá học swe ib shop, dạy full PEA EOS",
+    "file": "slide_001.png"
+  },
+  {
+    "loai": "noi_dung",
+    "cau_hoi": "",
+    "lua_chon": {},
+    "dap_an": [],
+    "ghi_chu": "",
+    "van_ban": "Thông tin source & Rule\nCó hỏi gì về src thì xem link trên đã xong hỏi",
+    "file": "slide_002.png"
+  },
+  {
+    "loai": "noi_dung",
+    "cau_hoi": "",
+    "lua_chon": {},
+    "dap_an": [],
+    "ghi_chu": "",
+    "van_ban": "Có gì thì qua link này ib shop\nHoàng Hoàng\nAi bị bán kiểu đưa mail học\nnhắn a add free",
+    "file": "slide_003.png"
+  },
+  {
+    "loai": "noi_dung",
+    "cau_hoi": "",
+    "lua_chon": {},
+    "dap_an": [],
+    "ghi_chu": "",
+    "van_ban": "Tài liệu đọc hiểu\nhttps://docs.google.com/document/d/1Hrj7i-aVh33cE6m6fd6MILH4C8zID6HLMZIQ3L0XSvg/edit?tab=t.inzv6qk93mkr",
+    "file": "slide_004.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following are commonly recognized design patterns in software development?",
+    "lua_chon": {
+      "A": "Singleton Pattern",
+      "B": "Factory Pattern",
+      "C": "Decorator Pattern",
+      "D": "Provisional Pattern",
+      "E": "Exclusive Pattern"
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ghi_chu": "Chữa đề FE SP26 SWE202c | Bật slide show r xem nha",
+    "van_ban": "",
+    "file": "slide_005.png"
+  },
+  {
+    "loai": "noi_dung",
+    "cau_hoi": "",
+    "lua_chon": {},
+    "dap_an": [],
+    "ghi_chu": "",
+    "van_ban": "Đề SP26",
+    "file": "slide_006.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What are some ethical considerations when deploying AI systems?",
+    "lua_chon": {
+      "A": "Bias in AI algorithms.",
+      "B": "Privacy and data protection.",
+      "C": "AI's inability to perform complex calculations.",
+      "D": "Job displacement and economic impacts.",
+      "E": "The color of the AI interface."
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "D"
+    ],
+    "ghi_chu": "ABD",
+    "van_ban": "",
+    "file": "slide_007.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What are the components of a decision tree?",
+    "lua_chon": {
+      "A": "Nodes, which represent features or decisions.",
+      "B": "Edges, which represent the outcome of a decision at a node.",
+      "C": "Leaves, which represent final decisions or predictions.",
+      "D": "Layers, which stack to increase the tree's height."
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ghi_chu": "ABC",
+    "van_ban": "",
+    "file": "slide_008.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following are critical steps in evaluating the effectiveness of test cases in a software application?",
+    "lua_chon": {
+      "A": "Assess code coverage to ensure comprehensive testing.",
+      "B": "Review test case outcomes against expected results.",
+      "C": "Increase the number of test cases irrespective of relevance.",
+      "D": "Analyze test case execution time and resource usage.",
+      "E": "Focus solely on the UI aspects of the application."
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "D"
+    ],
+    "ghi_chu": "ABD",
+    "van_ban": "",
+    "file": "slide_009.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following are valid ways AI tools can enhance Java development workflows? Select 3 correct answers.",
+    "lua_chon": {
+      "A": "Automating code refactoring tasks",
+      "B": "Generating unit tests automatically",
+      "C": "Completely replacing human developers",
+      "D": "Providing intelligent code suggestions",
+      "E": "Removing the need for code reviews"
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "D"
+    ],
+    "ghi_chu": "ABD",
+    "van_ban": "",
+    "file": "slide_010.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following statements about the Strategy Pattern are true?",
+    "lua_chon": {
+      "A": "It provides a way to choose algorithms at runtime.",
+      "B": "It encapsulates varying behaviors in classes.",
+      "C": "It restricts the use of inheritance.",
+      "D": "It keeps the algorithm implementation independent of client classes.",
+      "E": "It forces all classes to implement the same interface."
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "D"
+    ],
+    "ghi_chu": "ABD",
+    "van_ban": "",
+    "file": "slide_011.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which metrics are commonly used to measure software quality?",
+    "lua_chon": {
+      "A": "Defect density",
+      "B": "Market share growth",
+      "C": "Code churn rate",
+      "D": "Employee satisfaction index",
+      "E": "Mean time to failure"
+    },
+    "dap_an": [
+      "A",
+      "C",
+      "E"
+    ],
+    "ghi_chu": "ACE",
+    "van_ban": "",
+    "file": "slide_012.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which components are essential in constructing a comprehensive use-case model?",
+    "lua_chon": {
+      "A": "Actors",
+      "B": "Scenarios",
+      "C": "System boundaries",
+      "D": "Database schemas"
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ghi_chu": "ABC",
+    "van_ban": "",
+    "file": "slide_013.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Select the correct elements necessary for constructing a state machine diagram for a checkout system in a movie shop.",
+    "lua_chon": {
+      "A": "States",
+      "B": "Transitions",
+      "C": "Initial State",
+      "D": "Cost analysis",
+      "E": "Product categories"
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ghi_chu": "ABC",
+    "van_ban": "",
+    "file": "slide_014.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following are commonly recognized design patterns in software development?",
+    "lua_chon": {
+      "A": "Singleton Pattern",
+      "B": "Factory Pattern",
+      "C": "Decorator Pattern",
+      "D": "Proprietary Pattern",
+      "E": "Exclusive Pattern"
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ghi_chu": "ABC",
+    "van_ban": "",
+    "file": "slide_015.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following are steps to enhance chatbot development using Amazon Q Developer?",
+    "lua_chon": {
+      "A": "Utilize pre-trained models for natural language understanding.",
+      "B": "Integrate with cloud-based services for scalability.",
+      "C": "Develop AI from scratch without using any existing frameworks.",
+      "D": "Implement continuous learning for improved accuracy.",
+      "E": "Focus solely on graphical user interface design."
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "D"
+    ],
+    "ghi_chu": "ABD",
+    "van_ban": "",
+    "file": "slide_016.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which conditions should be considered when performing loop testing?",
+    "lua_chon": {
+      "A": "Entry and exit conditions of the loop",
+      "B": "Performance impact of the loop",
+      "C": "Initialization of loop variables",
+      "D": "User interface appearance during loop execution"
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ghi_chu": "ABC",
+    "van_ban": "",
+    "file": "slide_017.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following actions are part of implementing various types of software tests effectively?",
+    "lua_chon": {
+      "A": "Defining clear test objectives",
+      "B": "Choosing appropriate testing tools",
+      "C": "Avoiding documentation of test cases",
+      "D": "Conducting thorough test reviews",
+      "E": "Emphasizing only positive test results"
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "D"
+    ],
+    "ghi_chu": "ABD",
+    "van_ban": "",
+    "file": "slide_018.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following elements can be part of a UML Class Diagram?",
+    "lua_chon": {
+      "A": "Attributes",
+      "B": "Methods",
+      "C": "Actors",
+      "D": "Nodes",
+      "E": "Relationships"
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "E"
+    ],
+    "ghi_chu": "ABE",
+    "van_ban": "",
+    "file": "slide_019.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following conditions may cause an extension to occur in a use case? (Select THREE correct answers.)",
+    "lua_chon": {
+      "A": "Condition-based extensions",
+      "B": "Event-driven extensions",
+      "C": "Exception-driven extensions",
+      "D": "Time-based extensions",
+      "E": "Actor-based extensions"
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ghi_chu": "ABC",
+    "van_ban": "",
+    "file": "slide_020.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "When validating system requirements for completeness and consistency, which of the following actions should be taken?",
+    "lua_chon": {
+      "A": "Conduct peer reviews",
+      "B": "Perform traceability analysis",
+      "C": "Only rely on initial client interviews",
+      "D": "Ignore stakeholder feedback",
+      "E": "Utilize automated tools for requirement validation"
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "E"
+    ],
+    "ghi_chu": "ABE",
+    "van_ban": "",
+    "file": "slide_021.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "In the context of version control, which practices are recommended for maintaining code integrity?",
+    "lua_chon": {
+      "A": "Frequent commits with clear messages",
+      "B": "Ignoring merge conflicts",
+      "C": "Branching for new features",
+      "D": "Regular code reviews",
+      "E": "Only updating code when absolutely necessary"
+    },
+    "dap_an": [
+      "A",
+      "C",
+      "D"
+    ],
+    "ghi_chu": "ACD",
+    "van_ban": "",
+    "file": "slide_022.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Select the techniques that are essential for ensuring project success by applying requirements.",
+    "lua_chon": {
+      "A": "Prioritizing requirements",
+      "B": "Validating requirements against objectives",
+      "C": "Tracking requirement changes",
+      "D": "Ignoring user feedback",
+      "E": "Focusing only on technical specifications"
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ghi_chu": "ABC",
+    "van_ban": "",
+    "file": "slide_023.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Select the principles that should be considered when designing system architectures.",
+    "lua_chon": {
+      "A": "Modularity",
+      "B": "Scalability",
+      "C": "Maintainability",
+      "D": "Randomness",
+      "E": "Redundancy"
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ghi_chu": "ABC",
+    "van_ban": "",
+    "file": "slide_024.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Select all factors to consider when gathering project requirements using the Requirements Worksheet.",
+    "lua_chon": {
+      "A": "Stakeholder needs and expectations",
+      "B": "Compliance with legal and regulatory standards",
+      "C": "Ignoring conflicting requirements",
+      "D": "Feasibility of implementation",
+      "E": "Assuming all requirements are non-negotiable"
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "D"
+    ],
+    "ghi_chu": "ABD",
+    "van_ban": "",
+    "file": "slide_025.png"
+  },
+  {
+    "loai": "noi_dung",
+    "cau_hoi": "",
+    "lua_chon": {},
+    "dap_an": [],
+    "ghi_chu": "",
+    "van_ban": "",
+    "file": "slide_026.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is one of the advantages of using incremental development in software engineering?",
+    "lua_chon": {
+      "A": "Allows for frequent feedback and adjustments",
+      "B": "Ensures complete upfront knowledge of requirements",
+      "C": "Guarantees minimal bugs in the final product",
+      "D": "Reduces the need for design documentation"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_027.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is the primary role of the Factory Pattern in applying the open-closed principle in software design?",
+    "lua_chon": {
+      "A": "To allow software entities to be open for extension but closed for modification.",
+      "B": "To ensure that a class has only one instance and provides a global point of access to it.",
+      "C": "To provide a way to defer the instantiation of objects until necessary.",
+      "D": "To simplify code readability by reducing the number of classes needed."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_028.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is the primary benefit of using the Factory Pattern in software design?",
+    "lua_chon": {
+      "A": "It promotes code reusability by allowing the creation of objects without specifying the exact class.",
+      "B": "It ensures a single instance of a class is created.",
+      "C": "It simplifies the interface for object creation by using inheritance.",
+      "D": "It provides a way to structure code with a strict hierarchy."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_029.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is the purpose of applying estimation techniques in project management?",
+    "lua_chon": {
+      "A": "To establish project scope",
+      "B": "To predict project size and duration",
+      "C": "To identify project risks",
+      "D": "To create a detailed project plan"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B",
+    "van_ban": "",
+    "file": "slide_030.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is a primary difference between testing and debugging in software development?",
+    "lua_chon": {
+      "A": "Testing identifies errors; debugging fixes them",
+      "B": "Testing fixes errors; debugging identifies them",
+      "C": "Testing happens after debugging",
+      "D": "Testing doesn't involve any code analysis"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_031.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is the key component of a software project plan that outlines the timeline and milestones?",
+    "lua_chon": {
+      "A": "Schedule Management Plan",
+      "B": "Quality Management Plan",
+      "C": "Risk Management Plan",
+      "D": "Communication Management Plan"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_032.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is the primary purpose of configuration management in software development?",
+    "lua_chon": {
+      "A": "To maintain consistency of a product's performance and functionality",
+      "B": "To enhance the user interface of the software",
+      "C": "To increase the speed of software development",
+      "D": "To automate software testing processes"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_033.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is the primary purpose of acceptance testing in a movie shop application?",
+    "lua_chon": {
+      "A": "To ensure the application meets business requirements.",
+      "B": "To identify syntax errors in the code.",
+      "C": "To test the integration of different modules.",
+      "D": "To assess the performance under load."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_034.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is the primary objective of black box testing?",
+    "lua_chon": {
+      "A": "To evaluate software functionality without examining internal code",
+      "B": "To improve code readability and maintainability",
+      "C": "To assess the scalability of the software architecture",
+      "D": "To determine the software's compliance with coding standards"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_035.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is a key requirement for project success in the context of use case development?",
+    "lua_chon": {
+      "A": "Clear and detailed specifications that all stakeholders understand.",
+      "B": "A fast-paced development cycle to outpace competitors.",
+      "C": "A large team to handle diverse project aspects.",
+      "D": "Frequent changes to adapt to new technologies."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_036.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is the primary purpose of applying defensive programming techniques in software development?",
+    "lua_chon": {
+      "A": "Enhance code reliability by handling unexpected inputs gracefully",
+      "B": "Increase code execution speed through optimized algorithms",
+      "C": "Reduce the overall size of the codebase by removing redundancies",
+      "D": "Ensure compatibility with future versions of the programming language"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_037.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which testing technique is most suitable for identifying independent paths in a flow graph?",
+    "lua_chon": {
+      "A": "Basis path testing",
+      "B": "Regression testing",
+      "C": "Black box testing",
+      "D": "White box testing"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_038.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following is an example of multiplicity in a UML class diagram?",
+    "lua_chon": {
+      "A": "One to many",
+      "B": "Private",
+      "C": "Abstract",
+      "D": "Extends"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_039.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following is a crucial step to validate that system requirements are complete?",
+    "lua_chon": {
+      "A": "Conducting a thorough requirements review",
+      "B": "Assuming stakeholder agreement",
+      "C": "Relying solely on automated tools",
+      "D": "Skipping documentation for minor requirements"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_040.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following best describes the purpose of Scrum in software development?",
+    "lua_chon": {
+      "A": "Scrum is a framework for managing work with an emphasis on iterative progress.",
+      "B": "Scrum is a programming language used in Agile development.",
+      "C": "Scrum is a database management system for software projects.",
+      "D": "Scrum is a tool for automating testing in software development."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_041.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following is a major activity involved in capturing system requirements in software development?",
+    "lua_chon": {
+      "A": "Defining user interactions",
+      "B": "Implementing code",
+      "C": "Testing software",
+      "D": "Deploying applications"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_042.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which UML diagram would be most suitable to represent the structure of a banking application, focusing on the relationships between account holders, accounts, and transactions?",
+    "lua_chon": {
+      "A": "Class Diagram",
+      "B": "Sequence Diagram",
+      "C": "Activity Diagram",
+      "D": "State Diagram"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_043.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which factor best indicates the impact of a risk on a software development project?",
+    "lua_chon": {
+      "A": "Potential consequences on project milestones",
+      "B": "The number of team members affected",
+      "C": "Availability of risk mitigation strategies",
+      "D": "Compliance with industry standards"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_044.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following best captures the concept of a 'user story' in Agile development?",
+    "lua_chon": {
+      "A": "A detailed technical specification of a feature",
+      "B": "A simple description of a feature from an end-user perspective",
+      "C": "A contract between developers and stakeholders",
+      "D": "A timeline for project delivery"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B",
+    "van_ban": "",
+    "file": "slide_045.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which approach in software modeling starts with the overall system design and then progressively breaks it down into smaller components or modules?",
+    "lua_chon": {
+      "A": "Sequential approach",
+      "B": "Iterative approach",
+      "C": "Top-down approach",
+      "D": "Bottom-up approach"
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C",
+    "van_ban": "",
+    "file": "slide_046.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following best describes the concept of 'abstraction' in use case analysis?",
+    "lua_chon": {
+      "A": "Simplifying complex systems by focusing on essential features only",
+      "B": "Eliminating non-functional requirements from system design",
+      "C": "Ensuring all software components are reusable",
+      "D": "Maximizing data redundancy to improve performance"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_047.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "How does modularity help in managing the complexity of software systems?",
+    "lua_chon": {
+      "A": "By breaking down systems into smaller, manageable components",
+      "B": "By increasing the overall size of the codebase",
+      "C": "By eliminating the need for design patterns",
+      "D": "By reducing the need for programming languages"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_048.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "How do standards and metrics contribute to maintaining consistent software quality in quality assurance?",
+    "lua_chon": {
+      "A": "They provide benchmarks and measurements to maintain consistent software quality.",
+      "B": "They outline the software development lifecycle stages.",
+      "C": "They focus primarily on code optimization techniques.",
+      "D": "They dictate the programming languages and design pattern used in development."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_049.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "How does Amazon Q Developer assist in generating Java documentation?",
+    "lua_chon": {
+      "A": "By analyzing code semantics and auto-generating documentation based on it",
+      "B": "By converting comments into structured documentation",
+      "C": "By using machine learning to predict documentation needs",
+      "D": "By following pre-written templates for common Java classes"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_050.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "How do UML diagrams aid in understanding system design?",
+    "lua_chon": {
+      "A": "By visually representing system components and their relationships.",
+      "B": "By detailing the exact code implementation.",
+      "C": "By ensuring systems run without errors.",
+      "D": "By replacing the need for technical documentation."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_051.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "During requirements analysis, what is an essential activity to ensure comprehensive understanding of the system requirements?",
+    "lua_chon": {
+      "A": "Engaging with end users to gather detailed requirements",
+      "B": "Immediately starting code development to test assumptions",
+      "C": "Focusing solely on technical specifications",
+      "D": "Skipping documentation to save time"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_052.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "In the context of a movie shop, which analysis method is most suitable for understanding customer behavior and preferences?",
+    "lua_chon": {
+      "A": "Regression analysis",
+      "B": "Customer segmentation analysis",
+      "C": "Inventory turnover analysis",
+      "D": "SWOT analysis"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B",
+    "van_ban": "",
+    "file": "slide_053.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "In a neural network, what is the main role of the hidden layer?",
+    "lua_chon": {
+      "A": "To process inputs and pass the transformation to the output layer.",
+      "B": "To initialize weights for the input layer.",
+      "C": "To directly compare the output with expected results.",
+      "D": "To store static data for future input processing."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_054.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "In the context of software development, what is a critical consideration when applying implementation strategies to real-world scenarios?",
+    "lua_chon": {
+      "A": "Ensuring scalability to handle increased load",
+      "B": "Focusing solely on code aesthetics",
+      "C": "Avoiding the use of any third-party libraries",
+      "D": "Minimizing initial development time at any cost"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_055.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Identify important aspects of the quality assurance process.",
+    "lua_chon": {
+      "A": "Regular audits to ensure compliance with standards.",
+      "B": "Training programs to enhance team skills and knowledge.",
+      "C": "Marketing strategies to improve software visibility.",
+      "D": "User interface design to enhance user experience."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_056.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "In software development, what is the primary objective of conducting a retrospective meeting in Agile methodologies?",
+    "lua_chon": {
+      "A": "To reflect on past iterations and improve future processes",
+      "B": "To assign tasks for the next sprint",
+      "C": "To evaluate individual team member performance",
+      "D": "To finalize user stories for release"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_057.png"
+  },
+  {
+    "loai": "noi_dung",
+    "cau_hoi": "",
+    "lua_chon": {},
+    "dap_an": [],
+    "ghi_chu": "",
+    "van_ban": "NOT",
+    "file": "slide_058.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following CANNOT be shown on a Gantt chart?",
+    "lua_chon": {
+      "A": "the task dependencies",
+      "B": "the time estimates for each task",
+      "C": "the resource assignment for each task",
+      "D": "the tasks that lie on the critical path",
+      "E": "the progress of each task"
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_059.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following is not an emphasis of an Agile development process?",
+    "lua_chon": {
+      "A": "individuals and interactions",
+      "B": "comprehensive test plan",
+      "C": "client involvement/collaboration",
+      "D": "working software",
+      "E": "responsiveness to change"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B",
+    "van_ban": "",
+    "file": "slide_060.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following IS NOT a software quality assurance activity?",
+    "lua_chon": {
+      "A": "standards enforcement",
+      "B": "program testing",
+      "C": "artifact reviews",
+      "D": "software configuration management",
+      "E": "people training"
+    },
+    "dap_an": [
+      "E"
+    ],
+    "ghi_chu": "E\nExplanation:",
+    "van_ban": "",
+    "file": "slide_061.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following is NOT true about design patterns?",
+    "lua_chon": {
+      "A": "They help novices behave like experts.",
+      "B": "They are described using program code.",
+      "C": "They represent a solution to a problem in a context.",
+      "D": "They can be used to handle nonfunctional requirements.",
+      "E": "They make extensive use of inheritance and delegation."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B",
+    "van_ban": "",
+    "file": "slide_062.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which statement is NOT true about a state in a state machine diagram?",
+    "lua_chon": {
+      "A": "It has duration.",
+      "B": "It can be anonymous (unnamed).",
+      "C": "It can only be entered by the triggering of an event.",
+      "D": "It may be characterized by the value of one or more attributes.",
+      "E": "It may be characterized by the existence of a link to another object."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C",
+    "van_ban": "",
+    "file": "slide_063.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following is NOT a way to deal with risks in software development?",
+    "lua_chon": {
+      "A": "avoid (replan or change requirements)",
+      "B": "ignore (act as if it won't happen)",
+      "C": "mitigate (devise tests to see if it occurs)",
+      "D": "confine (restrict the scope of its effect)",
+      "E": "monitor (constantly be on the lookout for it)"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_064.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following is NOT a configuration management activity?",
+    "lua_chon": {
+      "A": "change management",
+      "B": "version management",
+      "C": "risk management",
+      "D": "release management",
+      "E": "system building"
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "c",
+    "van_ban": "",
+    "file": "slide_065.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following is NOT an issue when considering \"programming-in-the-large\"?",
+    "lua_chon": {
+      "A": "Understanding user requirements",
+      "B": "Applying appropriate software development processes",
+      "C": "Building models of a system",
+      "D": "Validating user input.",
+      "E": "Making design trade-offs"
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_066.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following is NOT included in the \"Four P's in Software Development\"?",
+    "lua_chon": {
+      "A": "people",
+      "B": "plan",
+      "C": "process",
+      "D": "product",
+      "E": "project"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_067.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following is NOT a property of an attribute in the UML?",
+    "lua_chon": {
+      "A": "data type",
+      "B": "multiplicity",
+      "C": "visibility",
+      "D": "signature",
+      "E": "changeability"
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D",
+    "van_ban": "",
+    "file": "slide_068.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following is NOT a software engineering activity?",
+    "lua_chon": {
+      "A": "knowledge acquisition",
+      "B": "hiring programmers",
+      "C": "problem solving",
+      "D": "rationale management",
+      "E": "modeling"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_069.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following is NOT a characteristics of software quality?",
+    "lua_chon": {
+      "A": "portable",
+      "B": "profitable",
+      "C": "correct",
+      "D": "reusable",
+      "E": "reliable"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_070.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following should NOT be included in the use-case detailed specification?",
+    "lua_chon": {
+      "A": "participating actors",
+      "B": "developing tools",
+      "C": "preconditions",
+      "D": "flow of events",
+      "E": "postconditions"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_071.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which statement is NOT true about software engineering?",
+    "lua_chon": {
+      "A": "It is an ad-hoc development effort.",
+      "B": "It deals with multiple versions of the software.",
+      "C": "It should build a quality system.",
+      "D": "It requires a team effort.",
+      "E": "It should solve a real user problem."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_072.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which statement is NOT true about a use case?",
+    "lua_chon": {
+      "A": "It describes actor/system interaction",
+      "B": "It represents part of the system's user interface.",
+      "C": "It is an abstraction of one or more scenarios",
+      "D": "It can be represented as a UML class.",
+      "E": "It is always initiated by an actor."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B",
+    "van_ban": "",
+    "file": "slide_073.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which statement is NOT true about a use-case actor?",
+    "lua_chon": {
+      "A": "An actor can represent a person.",
+      "B": "An actor also can be represented by a domain model class.",
+      "C": "An actor represents a role a user can play.",
+      "D": "An actor can represent an internal database.",
+      "E": "An actor can represent a system."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D",
+    "van_ban": "",
+    "file": "slide_074.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which reason for the failure of or problems with software development is NOT related to requirements capture?",
+    "lua_chon": {
+      "A": "incomplete requirements captured",
+      "B": "lack of user involvement",
+      "C": "unrealistic user expectations",
+      "D": "lack of resources",
+      "E": "changing requirements and specifications"
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_075.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "According to the best practices of analysis object interaction, which one of the following interactions should NOT be allowed?",
+    "lua_chon": {
+      "A": "interactions between a boundary object and a control object",
+      "B": "interactions between two control objects",
+      "C": "interactions between a boundary object and an entity object",
+      "D": "interactions between two boundary objects",
+      "E": "interactions between a control object and an entity object"
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D",
+    "van_ban": "",
+    "file": "slide_076.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "If an organization has a standards handbook for software development, then which of the following probably is NOT true?",
+    "lua_chon": {
+      "A": "A project can decide to not follow any standards.",
+      "B": "A project can decide to ignore a standard.",
+      "C": "A project can decide to use a standard as is.",
+      "D": "A project can decide to modify a standard.",
+      "E": "A project can decide to create a new standard."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_077.png"
+  },
+  {
+    "loai": "noi_dung",
+    "cau_hoi": "",
+    "lua_chon": {},
+    "dap_an": [],
+    "ghi_chu": "",
+    "van_ban": "",
+    "file": "slide_078.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which statement about the UML (Unified Modeling Language) is true?",
+    "lua_chon": {
+      "A": "The UML makes us think about the world in a certain way.",
+      "B": "The UML can be used to model only software systems.",
+      "C": "The UML can be used for only object-oriented software systems.",
+      "D": "The UML is a software development process.",
+      "E": "The UML provides a fixed set of modeling elements."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_079.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which statement is true about system testing and acceptance testing?",
+    "lua_chon": {
+      "A": "System testing is done after acceptance testing.",
+      "B": "System testing is done by the developers; acceptance testing is done by the client.",
+      "C": "System testing is done at the client's site; acceptance testing is done at the developer's site.",
+      "D": "System testing is done by the client; acceptance testing is done by the developers.",
+      "E": "None of the above is true."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B",
+    "van_ban": "",
+    "file": "slide_080.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "noi_dung",
+    "cau_hoi": "",
+    "lua_chon": {},
+    "dap_an": [],
+    "ghi_chu": "",
+    "van_ban": "True/False",
+    "file": "slide_081.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "True or False: A neural network gives output in the hidden layer.",
+    "lua_chon": {
+      "A": "False",
+      "B": "True"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_082.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "True or False: A random forest combines multiple decision trees, reducing overfitting and improving accuracy.",
+    "lua_chon": {
+      "A": "False",
+      "B": "True"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_083.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "True or False: AI-powered tools like Amazon Q Developer can identify synchronization issues in Java code during automated code reviews.",
+    "lua_chon": {
+      "A": "True",
+      "B": "False"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_084.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "True or False: A company introducing AI-based chatbots to improve customer support is an example of digital transformation.",
+    "lua_chon": {
+      "A": "True",
+      "B": "False"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_085.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "True or False: An online bookstore struggling with clunky checkouts, delivery delays, and a lack of personalized recommendations can succeed by focusing on the four domains of digital transformation.",
+    "lua_chon": {
+      "A": "False",
+      "B": "True"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_086.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "True or False: A neural network is created to mimic how computer chips work on a deeper level and some biological concepts.",
+    "lua_chon": {
+      "A": "True",
+      "B": "False"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_087.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "True or false: AI tools can only generate boilerplate code for specific programming languages.",
+    "lua_chon": {
+      "A": "True",
+      "B": "False"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_088.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "True or false: AI-generated boilerplate code often requires developer review before integration.",
+    "lua_chon": {
+      "A": "True",
+      "B": "False"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_089.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "True or false: AI tools guarantee error-free boilerplate code for all projects.",
+    "lua_chon": {
+      "A": "True",
+      "B": "False"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_090.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "True or False: Chain-of-thought prompting encourages AI to break down problems step-by-step to generate better results.",
+    "lua_chon": {
+      "A": "True",
+      "B": "False"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_091.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "True or False: Generating a new piece of music in the style of Beethoven is a task that Generative AI can accomplish.",
+    "lua_chon": {
+      "A": "True",
+      "B": "False"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_092.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "True or False: Networking is one of the four key domains of digital transformation.",
+    "lua_chon": {
+      "A": "True",
+      "B": "False"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_093.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "True or False. Neural networks are composed of layers, including input, hidden, and output layers, where neurons in each layer are connected to neurons in the next layer.",
+    "lua_chon": {
+      "A": "True",
+      "B": "False"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_094.png"
+  },
+  {
+    "loai": "noi_dung",
+    "cau_hoi": "",
+    "lua_chon": {},
+    "dap_an": [],
+    "ghi_chu": "",
+    "van_ban": "Nhiều đáp án",
+    "file": "slide_095.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is a primary use case for Generative AI in Java? Select all that apply.",
+    "lua_chon": {
+      "A": "Explaining Java-specific design patterns.",
+      "B": "Writing boilerplate code for APIs.",
+      "C": "Detecting vulnerabilities in deployed systems.",
+      "D": "Deploying applications directly."
+    },
+    "dap_an": [
+      "A",
+      "B"
+    ],
+    "ghi_chu": "AB\nExplanation:",
+    "van_ban": "",
+    "file": "slide_096.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What are the main features of Amazon Q Developer? Select all that apply",
+    "lua_chon": {
+      "A": "Debugging runtime errors automatically.",
+      "B": "Code generation.",
+      "C": "Automating production deployment.",
+      "D": "Explaining existing code logic."
+    },
+    "dap_an": [
+      "B",
+      "D"
+    ],
+    "ghi_chu": "BD\nExplanation:",
+    "van_ban": "",
+    "file": "slide_097.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What should you do if an explanation is too complex? Select all that apply.",
+    "lua_chon": {
+      "A": "Assume the explanation is wrong.",
+      "B": "Ignore the AI and find an alternative tool.",
+      "C": "Request a simpler explanation for beginners.",
+      "D": "Ask for examples to clarify the explanation."
+    },
+    "dap_an": [
+      "C",
+      "D"
+    ],
+    "ghi_chu": "CD\nExplanation:",
+    "van_ban": "",
+    "file": "slide_098.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What are some best practices when interacting with ChatGPT for Java-related queries? Select all that apply.",
+    "lua_chon": {
+      "A": "Using clear and specific prompts.",
+      "B": "Asking for real-time error detection in IDEs.",
+      "C": "Providing context to clarify the problem.",
+      "D": "Avoiding detailed follow-up questions."
+    },
+    "dap_an": [
+      "A",
+      "C"
+    ],
+    "ghi_chu": "AC\nExplanation:",
+    "van_ban": "",
+    "file": "slide_099.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which features are available in GitHub Copilot for Java developers? Select all that apply.",
+    "lua_chon": {
+      "A": "Conversational support for debugging.",
+      "B": "Built-in IDE debugging tools.",
+      "C": "Code generation for entire blocks.",
+      "D": "Autocompletion of functions and methods."
+    },
+    "dap_an": [
+      "C",
+      "D"
+    ],
+    "ghi_chu": "CD\nExplanation:",
+    "van_ban": "",
+    "file": "slide_100.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which statements are true after a model has been trained on data? Select all that apply.",
+    "lua_chon": {
+      "A": "AI can make predictions or decisions without needing explicit instructions for every scenario.",
+      "B": "AI needs explicit guidance for every scenario in order to make decisions.",
+      "C": "AI cannot make decisions.",
+      "D": "AI is designed to mimic human decision-making processes."
+    },
+    "dap_an": [
+      "A",
+      "D"
+    ],
+    "ghi_chu": "AD",
+    "van_ban": "",
+    "file": "slide_101.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "How does Amazon Q Developer improve the Java coding experience for developers? (Select all that apply)",
+    "lua_chon": {
+      "A": "Completely replaces the need for testing.",
+      "B": "Provides contextual code suggestions to speed up coding.",
+      "C": "Highlights potential errors and suggests fixes.",
+      "D": "Enhances code optimization and efficiency."
+    },
+    "dap_an": [
+      "B",
+      "C",
+      "D"
+    ],
+    "ghi_chu": "BCD\nExplanation:",
+    "van_ban": "",
+    "file": "slide_102.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A Generative AI model creates a recipe by learning from thousands of cookbooks and generates a song by analyzing popular music trends. Which concepts describe how AI works to create content like recipes and songs? Select all that apply.",
+    "lua_chon": {
+      "A": "Identifying patterns in large datasets (e.g., cookbooks or music) and creating new outputs based on those learned patterns.",
+      "B": "Pattern recognition from large datasets.",
+      "C": "Use of explicit, hard-coded instructions like if, if-else, for, switch.",
+      "D": "Generating outputs based on learned patterns without relying on extensive datasets.\\"
+    },
+    "dap_an": [
+      "A",
+      "B"
+    ],
+    "ghi_chu": "AB\nExplanation:",
+    "van_ban": "",
+    "file": "slide_103.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A developer uses GitHub Copilot while working on a Java project. Which tasks can GitHub Copilot assist with? Select all that apply.",
+    "lua_chon": {
+      "A": "Auto-completing code based on existing comments and patterns.",
+      "B": "Suggesting code snippets for common tasks.",
+      "C": "Debugging errors during runtime.",
+      "D": "Ensuring that the generated code can adapt itself to accommodate new requirements during run time."
+    },
+    "dap_an": [
+      "A",
+      "B"
+    ],
+    "ghi_chu": "AB\nExplanation:",
+    "van_ban": "",
+    "file": "slide_104.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A developer is debugging a large Java application with syntax errors and code optimization needs. They want a tool that provides real-time fixes and suggestions directly within their IDE. Which Generative AI tools should they consider? Select all that apply.",
+    "lua_chon": {
+      "A": "ChatGPT",
+      "B": "IntelliJ IDEA",
+      "C": "GitHub Copilot",
+      "D": "Amazon Q Developer"
+    },
+    "dap_an": [
+      "C",
+      "D"
+    ],
+    "ghi_chu": "CD",
+    "van_ban": "",
+    "file": "slide_105.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A company trains a neural network to detect diseases from medical images. Why is it important to validate the model on unseen data? Select all that apply.",
+    "lua_chon": {
+      "A": "To ensure the model generalizes well to new cases.",
+      "B": "To identify biases or inaccuracies in its predictions.",
+      "C": "To confirm that the model memorized all training examples.",
+      "D": "To test the neural network's ability to process noisy inputs."
+    },
+    "dap_an": [
+      "A",
+      "B"
+    ],
+    "ghi_chu": "AB\nExplanation:",
+    "van_ban": "",
+    "file": "slide_106.png"
+  },
+  {
+    "loai": "noi_dung",
+    "cau_hoi": "",
+    "lua_chon": {},
+    "dap_an": [],
+    "ghi_chu": "",
+    "van_ban": "",
+    "file": "slide_107.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What are the benefits of using ChatGPT in software development? (Select all that apply)",
+    "lua_chon": {
+      "A": "Assistance in generating and refining code snippets.",
+      "B": "Debugging support for identifying and fixing code errors.",
+      "C": "Complete automation of the coding process.",
+      "D": "Quick explanations of complex programming concepts."
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "D"
+    ],
+    "ghi_chu": "ABD\nExplanation:",
+    "van_ban": "",
+    "file": "slide_108.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What aspects of code reviews can AI automate? Select all that apply.",
+    "lua_chon": {
+      "A": "Identifying inefficiencies in algorithms.",
+      "B": "Ensuring compliance with coding standards.",
+      "C": "Highlighting security vulnerabilities.",
+      "D": "Writing complete fixes without input."
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ghi_chu": "ABC\nExplanation:",
+    "van_ban": "",
+    "file": "slide_109.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following are components of digital transformation? Select all that apply.",
+    "lua_chon": {
+      "A": "The process of using technology to fundamentally redesign how businesses operate and deliver value",
+      "B": "Integrating AI and automation to improve efficiency and decision-making",
+      "C": "Involving software developers to create innovative tools and systems",
+      "D": "Adopting digital tools without changing business processes"
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ghi_chu": "ABC",
+    "van_ban": "",
+    "file": "slide_110.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following examples demonstrates the capabilities of Generative AI? Select all that apply.",
+    "lua_chon": {
+      "A": "Writing a new story without any human prompt.",
+      "B": "Producing a unique painting from a text prompt.",
+      "C": "Writing a new story based on a theme.",
+      "D": "Completing a program in Java with suggested enhancements and explanations."
+    },
+    "dap_an": [
+      "B",
+      "C",
+      "D"
+    ],
+    "ghi_chu": "BCD\nExplanation:",
+    "van_ban": "",
+    "file": "slide_111.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following are future trends in AI-driven CRM systems? Select all that apply.",
+    "lua_chon": {
+      "A": "Predictive engagement, anticipating customer needs before they arise",
+      "B": "Eliminating all human interaction in customer service",
+      "C": "Seamlessly connecting customer interactions across multiple platforms",
+      "D": "Hyper-personalized marketing campaigns that adapt in real-time"
+    },
+    "dap_an": [
+      "A",
+      "C",
+      "D"
+    ],
+    "ghi_chu": "ACD\nExplanation:",
+    "van_ban": "",
+    "file": "slide_112.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following are critical strategies for ensuring ethical AI deployment? Select all that apply.",
+    "lua_chon": {
+      "A": "Ignoring data privacy regulations to prioritize innovation",
+      "B": "Regularly auditing AI systems for biases and inaccuracies",
+      "C": "Using diverse and inclusive datasets for training AI models",
+      "D": "Ensuring AI systems are transparent and explainable in their decision-making processes"
+    },
+    "dap_an": [
+      "B",
+      "C",
+      "D"
+    ],
+    "ghi_chu": "BCD\nExplanation:",
+    "van_ban": "",
+    "file": "slide_113.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following are challenges businesses face when integrating AI with supply chain management systems? Select all that apply.",
+    "lua_chon": {
+      "A": "Data scattered across multiple sources and formats",
+      "B": "Employee training required to interpret AI-generated insights",
+      "C": "High initial costs and scalability concerns",
+      "D": "Fully automated inventory and logistics with no human oversight"
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ghi_chu": "ABC\nExplanation:",
+    "van_ban": "",
+    "file": "slide_114.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following statements about neural networks is true? Select all that apply.",
+    "lua_chon": {
+      "A": "Weights are initialized by the activation function.",
+      "B": "The Sigmoid activation function produces outputs between 0 and 1, making it suitable for probability-based tasks.",
+      "C": "In a neural network, the updating of the weights takes place only during the training phase.",
+      "D": "The activation function is used to decide which information passes through a neuron."
+    },
+    "dap_an": [
+      "B",
+      "C",
+      "D"
+    ],
+    "ghi_chu": "BCD",
+    "van_ban": "",
+    "file": "slide_115.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following are examples of Generative AI tools used for code generation?",
+    "lua_chon": {
+      "A": "Amazon Q Developer",
+      "B": "GitHub Copilot",
+      "C": "DALL-E",
+      "D": "Microsoft Copilot"
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "D"
+    ],
+    "ghi_chu": "ABD\nExplanation:",
+    "van_ban": "",
+    "file": "slide_116.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which technologies are commonly used to drive digital transformation? Select all that apply.",
+    "lua_chon": {
+      "A": "Artificial Intelligence (AI)",
+      "B": "Legacy Software",
+      "C": "Cloud Computing",
+      "D": "Internet of Things (IoT)"
+    },
+    "dap_an": [
+      "A",
+      "C",
+      "D"
+    ],
+    "ghi_chu": "ACD\nExplanation:",
+    "van_ban": "",
+    "file": "slide_117.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "How does Generative AI contribute to effective code reviews? Select all that apply.",
+    "lua_chon": {
+      "A": "By recommending performance optimizations.",
+      "B": "By identifying potential bugs.",
+      "C": "By detecting redundant logic in code.",
+      "D": "Handling hardware configurations automatically."
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ghi_chu": "ABC\nExplanation:",
+    "van_ban": "",
+    "file": "slide_118.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A developer uses Generative AI tools like GitHub Copilot and Amazon Q Developer. Which of the following benefits are typical of these tools? Select all that apply.",
+    "lua_chon": {
+      "A": "Generating repetitive boilerplate code.",
+      "B": "Replacing the need for software testing.",
+      "C": "Providing debugging suggestions for common errors.",
+      "D": "Offering intelligent code completion based on the context."
+    },
+    "dap_an": [
+      "A",
+      "C",
+      "D"
+    ],
+    "ghi_chu": "ACD\nExplanation:",
+    "van_ban": "",
+    "file": "slide_119.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A user wants to generate a detailed essay using a GenAI tool. Which prompt engineering techniques could help? Select all that apply.",
+    "lua_chon": {
+      "A": "Using vague terms like, “Give me something interesting”.",
+      "B": "Offering examples of the desired output to provide the context.",
+      "C": "Specifying role play and the target audience.",
+      "D": "Provide clear instructions, such as, “Write a 500-word essay about climate change in the USA during the last 20 years starting from the current year backward.”"
+    },
+    "dap_an": [
+      "B",
+      "C",
+      "D"
+    ],
+    "ghi_chu": "BCD",
+    "van_ban": "",
+    "file": "slide_120.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A company adopts AI to personalize customer experiences, IoT devices to monitor inventory, and cloud platforms to manage operations. Which aspects of digital transformation are evident in this example? Select all that apply.",
+    "lua_chon": {
+      "A": "Enhancing customer experiences through data-driven insights.",
+      "B": "Eliminating the need for human involvement in all processes.",
+      "C": "Leveraging advanced technologies to improve efficiency.",
+      "D": "Optimizing workflows using digital solutions."
+    },
+    "dap_an": [
+      "A",
+      "C",
+      "D"
+    ],
+    "ghi_chu": "ACD\nExplanation:",
+    "van_ban": "",
+    "file": "slide_121.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A company uses customer data to identify buying patterns, sales data to optimize inventory, and employee data to improve workflows. What aspects of digital transformation does this highlight? Select all that apply.",
+    "lua_chon": {
+      "A": "Using technology to replace all manual tasks.",
+      "B": "Enhancing customer experience through personalization",
+      "C": "Leveraging data for actionable insights.",
+      "D": "Improving operational efficiency."
+    },
+    "dap_an": [
+      "B",
+      "C",
+      "D"
+    ],
+    "ghi_chu": "BCD\nExplanation:",
+    "van_ban": "",
+    "file": "slide_122.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A bank uses an AI model to approve loan applications. Which methods can improve the model's transparency? Select all that apply.",
+    "lua_chon": {
+      "A": "Applying LIME to explain individual loan decisions.",
+      "B": "Using a black-box model with no explanation capabilities.",
+      "C": "Using SHAP (SHapley Additive exPlanations) to understand feature importance",
+      "D": "Providing clear documentation of how the model works."
+    },
+    "dap_an": [
+      "A",
+      "C",
+      "D"
+    ],
+    "ghi_chu": "ACD\nExplanation:",
+    "van_ban": "",
+    "file": "slide_123.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A developer uses a generative AI tool to build a program. Which of the following tasks can the tool assist with? Select all that apply.",
+    "lua_chon": {
+      "A": "Completing a partially written function.",
+      "B": "Providing suggestions based on comments in the code.",
+      "C": "Deploying the program to production automatically.",
+      "D": "Debugging and improving an existing code snippet."
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "D"
+    ],
+    "ghi_chu": "ABD\nExplanation:",
+    "van_ban": "",
+    "file": "slide_124.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Select all that apply. The advantages of Random Forests include:",
+    "lua_chon": {
+      "A": "Reduced overfitting",
+      "B": "Versatility",
+      "C": "Improved accuracy",
+      "D": "Enhance overfitting"
+    },
+    "dap_an": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ghi_chu": "ABC\nExplanation:",
+    "van_ban": "",
+    "file": "slide_125.png"
+  },
+  {
+    "loai": "noi_dung",
+    "cau_hoi": "",
+    "lua_chon": {},
+    "dap_an": [],
+    "ghi_chu": "",
+    "van_ban": "Dấu ____",
+    "file": "slide_126.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "_____ focuses on whether we have built the right software in such a way that it meets the stated requirements.",
+    "lua_chon": {
+      "A": "Validation Testing",
+      "B": "Verification Testing",
+      "C": "Unit Testing",
+      "D": "Integration Testing",
+      "E": "System Testing"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_127.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "_____ focuses on whether we have built the software right in such a way that each function works correctly and has no defects.",
+    "lua_chon": {
+      "A": "Validation Testing",
+      "B": "Verification Testing",
+      "C": "Unit Testing",
+      "D": "Integration Testing",
+      "E": "System Testing"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_128.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "_____ states \"what must always\" be true beginning a scenario in the use case.",
+    "lua_chon": {
+      "A": "Initial conditions",
+      "B": "Preconditions",
+      "C": "Primary conditions",
+      "D": "Secondary conditions",
+      "E": "Postconditions"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_129.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "When integrating AI into existing systems, businesses must address _______.",
+    "lua_chon": {
+      "A": "Compatibility with legacy software and workflows",
+      "B": "The elimination of all manual processes.",
+      "C": "The need for constant system updates regardless of functionality.",
+      "D": "The rejection of any customization to existing tools."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_130.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "AI enhances CRM by analyzing customer data to ______.",
+    "lua_chon": {
+      "A": "Provide personalized experiences and predict customer needs.",
+      "B": "Eliminate human interaction in customer service.",
+      "C": "Generate marketing strategies to sell to the best market of the world.",
+      "D": "Ignore trends and ensure that profit is earned by validating that accounting books are correct."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_131.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Amazon Q Developer enhances productivity in software development by _______.",
+    "lua_chon": {
+      "A": "Providing code suggestions, explanations, reviews, fixes, optimizations and debugging capabilities",
+      "B": "Replacing the need for software testing.",
+      "C": "Automating the deployment of applications.",
+      "D": "Generating new programming languages."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_132.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A state machine diagram describes the behaviour of",
+    "lua_chon": {
+      "A": "an object.",
+      "B": "a use case.",
+      "C": "an operation.",
+      "D": "an actor.",
+      "E": "a class."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_133.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Fill in the blanks (indicated by _______). Generative AI improves Java development by _______.",
+    "lua_chon": {
+      "A": "Suggesting repetitive boilerplate code",
+      "B": "Eliminating the need for human review of code",
+      "C": "Writing complex programs without user input",
+      "D": "Automating software testing in all environments"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_134.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "The behavior of a use case is specified by _____",
+    "lua_chon": {
+      "A": "classes",
+      "B": "components",
+      "C": "nodes",
+      "D": "participating actors",
+      "E": "flow of events"
+    },
+    "dap_an": [
+      "E"
+    ],
+    "ghi_chu": "E\nExplanation:",
+    "van_ban": "",
+    "file": "slide_135.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "SRS stands for ______",
+    "lua_chon": {
+      "A": "Software Resource Solution",
+      "B": "System Refinement Solution",
+      "C": "Structured Requirements Specification",
+      "D": "System Requirements Specification",
+      "E": "Structured Refinement Solution"
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_136.png"
+  },
+  {
+    "loai": "noi_dung",
+    "cau_hoi": "",
+    "lua_chon": {},
+    "dap_an": [],
+    "ghi_chu": "",
+    "van_ban": "Câu ngắn",
+    "file": "slide_137.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is one of the key challenges in scaling AI systems to handle large volumes of data and high user demand?",
+    "lua_chon": {
+      "A": "Real-time data processing",
+      "B": "Data cleaning and preprocessing",
+      "C": "Data visualization",
+      "D": "Increasing model complexity"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_138.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is a feature of AI-powered refactoring tools?",
+    "lua_chon": {
+      "A": "Rewriting business logic without input.",
+      "B": "Automating integration testing.",
+      "C": "Guaranteeing compatibility across systems.",
+      "D": "Detecting redundant code for removal."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_139.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What do we capture in use-case modeling?",
+    "lua_chon": {
+      "A": "user interface requirements",
+      "B": "hardware requirements",
+      "C": "acceptance tests",
+      "D": "system behaviour",
+      "E": "data requirements"
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_140.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What would be most effective in reducing the complexity of designing a software system?",
+    "lua_chon": {
+      "A": "having clear design goals",
+      "B": "having refined work breakdown structure",
+      "C": "having right level of communication",
+      "D": "having sufficient budget",
+      "E": "having timely administrative support"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_141.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following is non-functional testing?",
+    "lua_chon": {
+      "A": "black box testing",
+      "B": "white box testing",
+      "C": "performance testing",
+      "D": "unit testing",
+      "E": "integration testing"
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C",
+    "van_ban": "",
+    "file": "slide_142.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following domains focuses on ensuring employees are prepared, equipped, and motivated to adopt new tools and processes in digital transformation?",
+    "lua_chon": {
+      "A": "Technology",
+      "B": "Operational Processes",
+      "C": "Change Management",
+      "D": "Business Model"
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C\nExplanation:",
+    "van_ban": "",
+    "file": "slide_143.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following UML concepts is not a classifier?",
+    "lua_chon": {
+      "A": "class",
+      "B": "operation",
+      "C": "association",
+      "D": "method",
+      "E": "attribute"
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_144.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following is a generalization coverage constraint?",
+    "lua_chon": {
+      "A": "complex",
+      "B": "disunion",
+      "C": "overloaded",
+      "D": "common",
+      "E": "disjoint"
+    },
+    "dap_an": [
+      "E"
+    ],
+    "ghi_chu": "E\nExplanation:",
+    "van_ban": "",
+    "file": "slide_145.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following best describes the phased-release process of incremental development?",
+    "lua_chon": {
+      "A": "partial system; full functionality",
+      "B": "partial system; partial functionality",
+      "C": "full system; partial functionality",
+      "D": "full system; full functionality",
+      "E": "perfect system; perfect functionality"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_146.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following best describes the phased-release process of iterative development?",
+    "lua_chon": {
+      "A": "partial system; full functionality",
+      "B": "partial system; partial functionality",
+      "C": "full system; partial functionality",
+      "D": "full system; full functionality",
+      "E": "perfect system; perfect functionality"
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C\nExplanation:",
+    "van_ban": "",
+    "file": "slide_147.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which law is designed to regulate the use of high-risk AI applications?",
+    "lua_chon": {
+      "A": "United States' AI Bill of Rights (2024)",
+      "B": "European Union's AI Act (2024)",
+      "C": "United Nations AI Regulations (2024)",
+      "D": "China's AI Regulations (2024)"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B",
+    "van_ban": "",
+    "file": "slide_148.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which technology is often referred to as the \"invisible foundation\" that enables businesses to scale operations, improve efficiency, and facilitate seamless team collaboration?",
+    "lua_chon": {
+      "A": "Blockchain",
+      "B": "Cloud Computing",
+      "C": "Artificial Intelligence (AI)",
+      "D": "Internet of Things (IoT)"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_149.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "When developing a software development plan, the first task to do is:",
+    "lua_chon": {
+      "A": "decide on the implementation environment.",
+      "B": "define the scope of the project.",
+      "C": "identify the deliverables.",
+      "D": "develop a schedule for the project.",
+      "E": "identify the project risks."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_150.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "When testing a simple loop, what is the minimum number of test cases required?",
+    "lua_chon": {
+      "A": "1",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "E": "7"
+    },
+    "dap_an": [
+      "E"
+    ],
+    "ghi_chu": "E",
+    "van_ban": "",
+    "file": "slide_151.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A company implements AI tools to improve productivity, uses analytics to interpret sales trends, and conducts training sessions to prepare employees for new workflows. Which domains of digital transformation does this address?",
+    "lua_chon": {
+      "A": "Technology, data, and process.",
+      "B": "Technology, Data, and Change management.",
+      "C": "Technology and networking.",
+      "D": "Data, Process, and change management."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_152.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A Random Forest model is trained to predict house prices based on features like size, location, and number of bedrooms. The predictions from individual trees for a specific house are:\n- Tree 1: $200\n- Tree 2: $220\n- Tree 3: $210\n\nWhat is the final prediction of the Random Forest model for the house?",
+    "lua_chon": {
+      "A": "$210",
+      "B": "$200",
+      "C": "$220",
+      "D": "$250"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_153.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A smart city uses connected devices to monitor traffic and optimize public transportation. What technology is primarily enabling this transformation?",
+    "lua_chon": {
+      "A": "Cloud computing",
+      "B": "Artificial Intelligence (AI)",
+      "C": "Data",
+      "D": "Internet of Things (IoT)"
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_154.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A use case captures the system's behaviour from which point of view?",
+    "lua_chon": {
+      "A": "design",
+      "B": "developer's",
+      "C": "user interface",
+      "D": "user's",
+      "E": "domain model"
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_155.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A nonfunctional requirement places a ______ on a use case or on the system.",
+    "lua_chon": {
+      "A": "condition",
+      "B": "constraint",
+      "C": "criteria",
+      "D": "feature",
+      "E": "function"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_156.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "All required functionality is described in the",
+    "lua_chon": {
+      "A": "actor directory.",
+      "B": "class library.",
+      "C": "use cases.",
+      "D": "scenario book.",
+      "E": "task description."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C",
+    "van_ban": "",
+    "file": "slide_157.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "An alternative flow of events for a use case cannot show what type of behaviour?",
+    "lua_chon": {
+      "A": "exceptional",
+      "B": "shared",
+      "C": "variant",
+      "D": "optional",
+      "E": "error"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B",
+    "van_ban": "",
+    "file": "slide_158.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Actors are connected to use cases only by",
+    "lua_chon": {
+      "A": "association relationship.",
+      "B": "dependency relationship.",
+      "C": "generalization relationship.",
+      "D": "inheritance relationship.",
+      "E": "realization relationship."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_159.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Black box testing techniques are mostly used in what type of testing?",
+    "lua_chon": {
+      "A": "unit",
+      "B": "condition",
+      "C": "loop",
+      "D": "integration",
+      "E": "data flow"
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_160.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Behavioral testing is",
+    "lua_chon": {
+      "A": "black box testing",
+      "B": "white box testing",
+      "C": "red box testing",
+      "D": "green box testing",
+      "E": "blue box testing"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_161.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "In the UML, a class is a description of a group of objects that have common",
+    "lua_chon": {
+      "A": "attributes, operations, relationships and semantics.",
+      "B": "identity, operations, relationships and semantics.",
+      "C": "attributes, operations, roles and semantics.",
+      "D": "attributes, operations, relationships and multiplicity.",
+      "E": "attributes, coverage, relationships and semantics."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_162.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "In the UML, the interface of an object contains only",
+    "lua_chon": {
+      "A": "attributes.",
+      "B": "values.",
+      "C": "data types.",
+      "D": "operations.",
+      "E": "variables."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_163.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "In terms of software quality assurance, the purpose of both the SEI Process Capability Maturity Model (SEI-CMM) and the People Capability Maturity Model (PCMM) is to:",
+    "lua_chon": {
+      "A": "educate and train managers.",
+      "B": "provide feedback on current practices.",
+      "C": "assess and improve current practices.",
+      "D": "develop best practices.",
+      "E": "improve the standards handbook."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C\nExplanation:",
+    "van_ban": "",
+    "file": "slide_164.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "In domain modeling we capture the system's most important",
+    "lua_chon": {
+      "A": "user interfaces.",
+      "B": "functional requirements.",
+      "C": "use cases and scenarios.",
+      "D": "classes and associations.",
+      "E": "acceptance tests."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_165.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Neural networks are based on:",
+    "lua_chon": {
+      "A": "Decision trees",
+      "B": "Connecting the human brain to a computer",
+      "C": "The behavior of the human brain",
+      "D": "Linked lists"
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C\nExplanation:",
+    "van_ban": "",
+    "file": "slide_166.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "One of the required inputs for a program that does room scheduling for a public venue is the day of the week, which is input as Sunday, Monday, etc. When testing this program for the input day of the week, what are the minimum number of test values that you would use?",
+    "lua_chon": {
+      "A": "5",
+      "B": "7",
+      "C": "8",
+      "D": "9",
+      "E": "10"
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C\nExplanation:",
+    "van_ban": "",
+    "file": "slide_167.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "\"The system should register a student in less than a second\" is an example of what type of requirement?",
+    "lua_chon": {
+      "A": "functional",
+      "B": "pseudo",
+      "C": "data",
+      "D": "nonfunctional",
+      "E": "user interface"
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_168.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "The source code of a software component is required to do which type of testing?",
+    "lua_chon": {
+      "A": "regression testing",
+      "B": "beta testing",
+      "C": "alpha testing",
+      "D": "acceptance testing",
+      "E": "system testing"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_169.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "The testing in which code is checked is",
+    "lua_chon": {
+      "A": "black box testing",
+      "B": "white box testing",
+      "C": "red box testing",
+      "D": "green box testing",
+      "E": "blue box testing"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_170.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "The degree to which the design specifications are followed during manufacturing is known as",
+    "lua_chon": {
+      "A": "quality of adherence.",
+      "B": "quality of conformance.",
+      "C": "quality of design.",
+      "D": "quality of performance.",
+      "E": "quality of testing."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_171.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Test cases for state-based testing can be derived from the",
+    "lua_chon": {
+      "A": "use case model.",
+      "B": "state machine diagrams.",
+      "C": "basis paths.",
+      "D": "domain model.",
+      "E": "nonfunctional requirements."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B",
+    "van_ban": "",
+    "file": "slide_172.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Risk analysis is introduced in which software development process?",
+    "lua_chon": {
+      "A": "Waterfall",
+      "B": "Prototyping",
+      "C": "Agile",
+      "D": "Phased-release",
+      "E": "Spiral"
+    },
+    "dap_an": [
+      "E"
+    ],
+    "ghi_chu": "E",
+    "van_ban": "",
+    "file": "slide_173.png"
+  },
+  {
+    "loai": "noi_dung",
+    "cau_hoi": "",
+    "lua_chon": {},
+    "dap_an": [],
+    "ghi_chu": "",
+    "van_ban": "Câu trung bình",
+    "file": "slide_174.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is one key challenge businesses face when integrating AI solutions with existing Customer Relationship Management (CRM) systems?",
+    "lua_chon": {
+      "A": "Replacing the CRM system entirely with the AI solution.",
+      "B": "Ensuring seamless data flow between AI and the CRM system.",
+      "C": "Using AI only to automate routine customer service tasks.",
+      "D": "Eliminating all manual processes from the CRM system."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_175.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is one primary ethical or regulatory challenge businesses face when deploying AI solutions like Generative AI?",
+    "lua_chon": {
+      "A": "Reducing the cost of AI development and deployment",
+      "B": "Ensuring compliance with data protection laws like GDPR",
+      "C": "Avoiding biases in AI-generated outputs",
+      "D": "Scaling AI solutions across multiple platforms"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_176.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is the primary role of the hidden layers in a neural network?",
+    "lua_chon": {
+      "A": "To make the final prediction.",
+      "B": "To collect raw data for training.",
+      "C": "To store the output of the neural network.",
+      "D": "To combine and extract patterns from input features."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_177.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is the primary advantage of using decision trees?",
+    "lua_chon": {
+      "A": "They can only handle numerical data.",
+      "B": "They require large amounts of data to work.",
+      "C": "They are easy to interpret and visualize.",
+      "D": "They are free from overfitting."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C\nExplanation:",
+    "van_ban": "",
+    "file": "slide_178.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is one major benefit of using Generative AI in software development?",
+    "lua_chon": {
+      "A": "Guaranteeing bug-free applications.",
+      "B": "Writing entire applications without user input.",
+      "C": "Reducing repetitive coding tasks.",
+      "D": "Handling hardware configurations automatically."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C\nExplanation:",
+    "van_ban": "",
+    "file": "slide_179.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is one advantage of using Generative AI for code reviews?",
+    "lua_chon": {
+      "A": "Automating the identification of potential bugs.",
+      "B": "Replacing developers for manual code reviews.",
+      "C": "Refactoring code without developer input.",
+      "D": "Generating detailed project documentation."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_180.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is a primary ethical consideration when deploying AI systems in business?",
+    "lua_chon": {
+      "A": "Using only publicly available data for training.",
+      "B": "Automating every process without human oversight.",
+      "C": "Ensuring the AI system is completely autonomous.",
+      "D": "Ensuring data privacy and protection."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_181.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What approach does Generative AI use to develop coding capabilities?",
+    "lua_chon": {
+      "A": "By relying on manual instructions for every task.",
+      "B": "By copying code from online repositories.",
+      "C": "By guessing the logic for code execution.",
+      "D": "By analyzing patterns in training data."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_182.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What role does Generative AI play in automating code reviews?",
+    "lua_chon": {
+      "A": "Automatically merging reviewed code into the main branch.",
+      "B": "Performing reviews without any developer input.",
+      "C": "Guaranteeing compliance with all coding standards.",
+      "D": "Highlighting inefficiencies and suggesting improvements."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_183.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following is a key ethical challenge when deploying AI systems?",
+    "lua_chon": {
+      "A": "Preventing AI from being used in any customer-facing roles.",
+      "B": "Complying with data protection laws like GDPR.",
+      "C": "Ensuring the AI system works only offline.",
+      "D": "Guaranteeing that AI never makes errors."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_184.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following statements is true about custom software?",
+    "lua_chon": {
+      "A": "The number of copies in use is high.",
+      "B": "The requirements come from market research.",
+      "C": "The development effort is high.",
+      "D": "The requirements come from hardware needs.",
+      "E": "The development effort is low."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C\nExplanation:",
+    "van_ban": "",
+    "file": "slide_185.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Why is compliance important when deploying AI systems in businesses?",
+    "lua_chon": {
+      "A": "To eliminate the need for human oversight in decision-making.",
+      "B": "To ensure the AI system generates random outputs.",
+      "C": "To align with legal regulations and protect data privacy.",
+      "D": "To avoid the use of training data in AI systems."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C\nExplanation:",
+    "van_ban": "",
+    "file": "slide_186.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "When setting up an Amazon Q Developer account, what is the initial step?",
+    "lua_chon": {
+      "A": "Install the IDE plugin directly.",
+      "B": "Register on the Amazon Q Developer portal.",
+      "C": "Start using the AI tool without setup.",
+      "D": "Link a GitHub repository before registering."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_187.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "When is an association class needed?",
+    "lua_chon": {
+      "A": "When the multiplicity of the relationship is many-to-many (N:M).",
+      "B": "When the relationship is unidirectional.",
+      "C": "When the relationship has properties.",
+      "D": "When the relationship is mandatory.",
+      "E": "When the relationship is optional."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C",
+    "van_ban": "",
+    "file": "slide_188.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "When testing a nested loop, we initially test the inner loop while holding the outer loop at",
+    "lua_chon": {
+      "A": "its minimum value.",
+      "B": "its middle value.",
+      "C": "its maximum value.",
+      "D": "both its minimum and maximum value.",
+      "E": "any value."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_189.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "How does AI help with code refactoring?",
+    "lua_chon": {
+      "A": "By identifying opportunities for simplification.",
+      "B": "By skipping human oversight entirely.",
+      "C": "By ensuring zero errors in refactored code.",
+      "D": "By automatically rewriting all application logic."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_190.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "How does Generative AI impact the code review process?",
+    "lua_chon": {
+      "A": "By automating the detection of code inefficiencies.",
+      "B": "By completely eliminating the need for manual reviews.",
+      "C": "By guaranteeing code is free from all bugs.",
+      "D": "By reviewing project architecture independently."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_191.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "How should you format a prompt when writing new code using Amazon Q Developer?",
+    "lua_chon": {
+      "A": "Write the code manually without involving the tool.",
+      "B": "Describe the code functionality in natural language.",
+      "C": "Wait for Amazon Q to suggest code without providing input.",
+      "D": "Copy and paste code from another source into Amazon Q."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B",
+    "van_ban": "",
+    "file": "slide_192.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "How does AI assist in improving code reviews?",
+    "lua_chon": {
+      "A": "By ensuring code is always error-free",
+      "B": "By eliminating the need for developer oversight",
+      "C": "By automated code inspection",
+      "D": "By managing all code deployments automatically"
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C\nExplanation:",
+    "van_ban": "",
+    "file": "slide_193.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "How do GenAI models learn to create new content?",
+    "lua_chon": {
+      "A": "By identifying patterns and features within large datasets.",
+      "B": "Through directly reproducing data from their training datasets.",
+      "C": "Only prompts provided by users are used as input.",
+      "D": "By producing content randomly without prior learning."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_194.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "How does Amazon Q Developer help you refactor code?",
+    "lua_chon": {
+      "A": "It deletes unused code without user approval.",
+      "B": "It identifies redundant or inefficient sections in the code.",
+      "C": "It ensures all bugs are fixed in the refactored code.",
+      "D": "It automatically rewrites the entire application."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B",
+    "van_ban": "",
+    "file": "slide_195.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "How does Amazon Q explain code to developers?",
+    "lua_chon": {
+      "A": "It breaks the code into smaller, understandable parts.",
+      "B": "It focuses only on syntax without context.",
+      "C": "It ignores the programming language of the code.",
+      "D": "It guarantees a perfect understanding for all developers."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_196.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "When using Generative AI tools for coding, few-shot prompting is often employed to achieve better results. What does few-shot prompting involve?",
+    "lua_chon": {
+      "A": "Providing direct instructions without examples.",
+      "B": "Providing a few examples to guide the AI's response.",
+      "C": "Asking the AI to perform a task without providing examples.",
+      "D": "Encouraging the AI to think step-by-step through a problem."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_197.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A state machine diagram responds to every event that",
+    "lua_chon": {
+      "A": "occurs",
+      "B": "occurs provided it is not processing an activity.",
+      "C": "changes a value of the object's attributes.",
+      "D": "triggers a transition.",
+      "E": "sends a message."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_198.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A decision tree predicts loan approvals based on income, credit score, and employment history. Why might the model struggle with new data?",
+    "lua_chon": {
+      "A": "It has too many features and splits, causing overfitting.",
+      "B": "The features are beyond evaluation by a decision tree.",
+      "C": "It has too few decision rules to make accurate predictions.",
+      "D": "It uses the same rules for all customers, regardless of data."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_199.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A technology company wants to scale its artificial intelligence (AI) model to manage increasing user demand and large datasets. During this process, it encounters system efficiency and data security challenges. What is the most critical issue the company needs to address?",
+    "lua_chon": {
+      "A": "Reducing the size of training datasets to save resources.",
+      "B": "Designing algorithms that prioritize efficiency over scalability.",
+      "C": "Avoiding the use of distributed computing to keep costs low.",
+      "D": "Ensuring data privacy and security at scale."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D",
+    "van_ban": "",
+    "file": "slide_200.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A milestone in a software development project is",
+    "lua_chon": {
+      "A": "a management decision point.",
+      "B": "a problem that delays the project.",
+      "C": "the time at which a project starts.",
+      "D": "the time at which a project completes.",
+      "E": "a meeting with the client."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_201.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A design class is most cohesive when it",
+    "lua_chon": {
+      "A": "is designed by only one person.",
+      "B": "does not require database access.",
+      "C": "has few dependencies to other classes.",
+      "D": "is used in only one scenario of a use case.",
+      "E": "has responsibilities that are closely related."
+    },
+    "dap_an": [
+      "E"
+    ],
+    "ghi_chu": "E\nExplanation:",
+    "van_ban": "",
+    "file": "slide_202.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A retail company wants to optimize inventory management using AI. Which approach is most effective?",
+    "lua_chon": {
+      "A": "Implement IoT devices for customer feedback collection.",
+      "B": "Use predictive analytics to forecast demand.",
+      "C": "Migrate data to an on-premises server.",
+      "D": "Develop an AI chatbot to improve customer service."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_203.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "An interface abstracts a module. Abstraction helps most in reducing the complexity of:",
+    "lua_chon": {
+      "A": "designing the system.",
+      "B": "building the system.",
+      "C": "maintaining the system.",
+      "D": "cost and time estimates for developing the system.",
+      "E": "understanding the system."
+    },
+    "dap_an": [
+      "E"
+    ],
+    "ghi_chu": "E",
+    "van_ban": "",
+    "file": "slide_204.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "An event on a state machine diagram can represent",
+    "lua_chon": {
+      "A": "the completion of an activity.",
+      "B": "a return from a message send.",
+      "C": "exiting a state.",
+      "D": "the passage of a designated period of time.",
+      "E": "a guard becoming true."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_205.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "An interface encapsulates a module. Encapsulation helps most in reducing the complexity of:",
+    "lua_chon": {
+      "A": "designing the system.",
+      "B": "building the system.",
+      "C": "maintaining the system.",
+      "D": "cost and time estimates for developing the system.",
+      "E": "understanding the system."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C\nExplanation:",
+    "van_ban": "",
+    "file": "slide_206.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Basis path testing ensures that we have tested at least",
+    "lua_chon": {
+      "A": "all interactions between programs.",
+      "B": "all the ways of executing the loops in a program.",
+      "C": "all the statements in a program.",
+      "D": "all the data structures in a program.",
+      "E": "all the inputs to a program."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C\nExplanation:",
+    "van_ban": "",
+    "file": "slide_207.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Black box testing uses test values at the boundaries of a subdomain because",
+    "lua_chon": {
+      "A": "these values are easier for us to figure out.",
+      "B": "this will make integrating components easier.",
+      "C": "errors are more likely to occur here.",
+      "D": "black box testing only works for such values.",
+      "E": "these values can be given to us by the users."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C Explanation:",
+    "van_ban": "",
+    "file": "slide_208.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Could reviews or inspections be considered part of testing?",
+    "lua_chon": {
+      "A": "No, because they are normally applied before testing.",
+      "B": "Yes, because both help detect faults and improve quality.",
+      "C": "Yes, because testing includes all non-constructive activities.",
+      "D": "No, because they do not apply to the test documentation.",
+      "E": "No, because they are beyond the development plan."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_209.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Defensive programming means that you",
+    "lua_chon": {
+      "A": "do not let anyone else read your code",
+      "B": "do not let input data crash your program",
+      "C": "do not let anyone else change your code",
+      "D": "do not use object-oriented programming languages",
+      "E": "do not let anyone else test your code"
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B",
+    "van_ban": "",
+    "file": "slide_210.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Having quality design goals is of most help in reducing the complexity of:",
+    "lua_chon": {
+      "A": "designing the system.",
+      "B": "building the system.",
+      "C": "maintaining the system.",
+      "D": "cost and time estimates for developing the system.",
+      "E": "understanding the system."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_211.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Is it possible for there to be more than one association between any two classes?",
+    "lua_chon": {
+      "A": "Yes, always.",
+      "B": "Yes, but only for binary and higher order associations.",
+      "C": "Yes, if the multiplicity is many to many (N:M).",
+      "D": "No, no way.",
+      "E": "Gee, I don't know!"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_212.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "In a neural network, what happens when the input data is processed through the layers?",
+    "lua_chon": {
+      "A": "The data is stored in memory for future use.",
+      "B": "Patterns and features are extracted to make predictions.",
+      "C": "The network generates random outputs unrelated to the input.",
+      "D": "It immediately results in a final decision."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_213.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "In the UML the multiplicity of an association specifies",
+    "lua_chon": {
+      "A": "which classes can be related to each other.",
+      "B": "how many classes participate in the association.",
+      "C": "the navigability of the association.",
+      "D": "the number of objects that must/can be related.",
+      "E": "whether role names are required."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D",
+    "van_ban": "",
+    "file": "slide_214.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "In the context of digital transformation, organizations increasingly rely on AI to enhance operations. Which of the following best describes AI's contribution to this transformation?",
+    "lua_chon": {
+      "A": "Replacing all human roles in an organization",
+      "B": "Reducing the importance of change management",
+      "C": "Automating processes to improve efficiency",
+      "D": "Eliminating the need for data in decision-making"
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C\nExplanation:",
+    "van_ban": "",
+    "file": "slide_215.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "In software engineering, we build models of a software system to:",
+    "lua_chon": {
+      "A": "reduce the workload of the project team.",
+      "B": "help us deal with the complexity of a problem.",
+      "C": "reduce the amount of communication with users.",
+      "D": "know which people to hire into the project team.",
+      "E": "know which language to use for implementation."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B",
+    "van_ban": "",
+    "file": "slide_216.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "In the Model-View-Controller (MVC) architectural pattern, the Model represents",
+    "lua_chon": {
+      "A": "the objects used to render data in the user interface.",
+      "B": "the process control mechanism used by the system.",
+      "C": "the controls with which the user interacts.",
+      "D": "the data viewed and manipulated by the user.",
+      "E": "the business logic of the application."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D",
+    "van_ban": "",
+    "file": "slide_217.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Integration testing focuses on",
+    "lua_chon": {
+      "A": "the flow of control in a component.",
+      "B": "the logical conditions in a component.",
+      "C": "validating user requirements.",
+      "D": "the interaction among the components.",
+      "E": "integrating a database with the software system."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_218.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "One purpose of system analysis and design is to",
+    "lua_chon": {
+      "A": "determine the cost of developing the system.",
+      "B": "determine the time required to implement the system.",
+      "C": "capture the system's nonfunctional requirements.",
+      "D": "adapt the requirements to the implementation environment.",
+      "E": "obtain the client's approval for developing the system."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_219.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "The primary purpose of refactoring code is to",
+    "lua_chon": {
+      "A": "reduce the number of input parameters.",
+      "B": "isolate bugs by rewriting the code.",
+      "C": "add assertions to the code.",
+      "D": "improve the internal structure of the code.",
+      "E": "improve the interaction among components."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_220.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "The purpose of software testing is to show that",
+    "lua_chon": {
+      "A": "the software has no defects (bugs).",
+      "B": "the program code is well structured.",
+      "C": "the software has a good architecture.",
+      "D": "the software is of good quality.",
+      "E": "the software has defects (bugs)."
+    },
+    "dap_an": [
+      "E"
+    ],
+    "ghi_chu": "E\nExplanation:",
+    "van_ban": "",
+    "file": "slide_221.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "The purpose of data flow testing is to ensure the correctness of values",
+    "lua_chon": {
+      "A": "stored by a program into a database.",
+      "B": "that move into and out of a database.",
+      "C": "that pass through a user interface.",
+      "D": "of program variables.",
+      "E": "output by a program."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_222.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "The cyclomatic complexity of a program can tell us something about which of the following external attributes (design goals) of software quality?",
+    "lua_chon": {
+      "A": "usability - how easy it is to use",
+      "B": "learnability - how easy it is to learn how to use",
+      "C": "safety - how likely it is to be error free",
+      "D": "integrity - how well it prevents unauthorized access",
+      "E": "installability - how easy it is to install"
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C",
+    "van_ban": "",
+    "file": "slide_223.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "The Mediator design pattern is used to",
+    "lua_chon": {
+      "A": "provide a unified interface to a subsystem.",
+      "B": "provide a placeholder for another object.",
+      "C": "decouple an abstraction from its implementation.",
+      "D": "restrict a class to have only one instance.",
+      "E": "encapsulate how a set of objects interact."
+    },
+    "dap_an": [
+      "E"
+    ],
+    "ghi_chu": "E\nExplanation:",
+    "van_ban": "",
+    "file": "slide_224.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "The Strategy design pattern is used to",
+    "lua_chon": {
+      "A": "defer instantiation of a class to its subclasses.",
+      "B": "provide a placeholder for another object.",
+      "C": "decouple an abstraction from its implementation.",
+      "D": "restrict a class to have only one instance.",
+      "E": "encapsulate an interchangeable family of algorithms"
+    },
+    "dap_an": [
+      "E"
+    ],
+    "ghi_chu": "E",
+    "van_ban": "",
+    "file": "slide_225.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "The Observer design pattern is used to",
+    "lua_chon": {
+      "A": "defer instantiation of a class to its subclasses.",
+      "B": "provide a placeholder for another object.",
+      "C": "notify other objects about updates.",
+      "D": "encapsulate how a set of objects interact.",
+      "E": "decouple an abstraction from its implementation."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C",
+    "van_ban": "",
+    "file": "slide_226.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Testing every statement in a program guarantees that all defects (bugs) will be found.",
+    "lua_chon": {
+      "A": "Yes, definitely!",
+      "B": "Yes, but only for simple programs.",
+      "C": "Yes, but only for programs using object-oriented languages.",
+      "D": "No, no way!!",
+      "E": "Gee, I don't know??"
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D",
+    "van_ban": "",
+    "file": "slide_227.png"
+  },
+  {
+    "loai": "noi_dung",
+    "cau_hoi": "",
+    "lua_chon": {},
+    "dap_an": [],
+    "ghi_chu": "",
+    "van_ban": "Câu dài",
+    "file": "slide_228.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is the primary role of data in digital transformation?",
+    "lua_chon": {
+      "A": "To analyze only historical trends without real-time processing.",
+      "B": "To store large volumes of information in physical hard drives.",
+      "C": "To replace traditional IT systems with cloud solutions.",
+      "D": "To provide insights that drive informed decision-making and improve efficiency."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_229.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is one of the key benefits of using AI tools like Amazon Q Developer in software development?",
+    "lua_chon": {
+      "A": "AI completely eliminates the need for human input in coding.",
+      "B": "AI ensures code will never have bugs or need refactoring.",
+      "C": "AI tools can independently decide and implement architectural designs.",
+      "D": "AI tools provide instant code explanations and suggest optimizations."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_230.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is the best way to refactor the following verbose switch statement to improve code readability and maintainability?\n\nswitch(day) {\n    case \"Monday\":\n        System.out.println(\"Start of the week\");\n        break;\n    case \"Friday\":\n        System.out.println(\"End of the workweek\");\n        break;\n    default:\n        System.out.println(\"Midweek\");\n}",
+    "lua_chon": {
+      "A": "Replace the switch statement with an enum and method call.",
+      "B": "Convert it into nested if-else statements.",
+      "C": "Leave it as is since switch statements are always optimal.",
+      "D": "Add more case statements for all days of the week."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_231.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is the most apparent issue in the following Java code snippet that could be optimized to improve efficiency?\n\npublic void processOrder() {\n    synchronized(this) {\n        System.out.println(\"Processing Order\");\n    }\n    synchronized(this) {\n        System.out.println(\"Finalizing Order\");\n    }\n}",
+    "lua_chon": {
+      "A": "Incorrect use of the 'this' keyword",
+      "B": "Missing exception handling",
+      "C": "Redundant synchronization blocks",
+      "D": "Uninitialized variables"
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C\nExplanation:",
+    "van_ban": "",
+    "file": "slide_232.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is the primary purpose of using AI for Java documentation?",
+    "lua_chon": {
+      "A": "To automatically generate and maintain up-to-date technical documentation from code.",
+      "B": "To assist developers in generating comprehensive documentation without manual effort.",
+      "C": "To ensure code quality by reviewing and identifying potential errors.",
+      "D": "To replace developers in writing project documentation entirely."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_233.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is the primary impact of using Generative AI in automating code reviews?",
+    "lua_chon": {
+      "A": "To identify potential errors and suggest improving code quality.",
+      "B": "To fully replace developers in the code review process.",
+      "C": "To generate automated unit tests for code.",
+      "D": "To eliminate the need for manual testing in development workflows."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_234.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is a key ethical concern when using Generative AI tools like Amazon Q Developer for software development?",
+    "lua_chon": {
+      "A": "AI-generated code is always free from logical errors.",
+      "B": "AI tools are incapable of improving productivity.",
+      "C": "AI eliminates the need for developer oversight.",
+      "D": "AI tools may generate code resembling copyrighted or proprietary material."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_235.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is a significant risk associated with deepfake video technology?",
+    "lua_chon": {
+      "A": "It can create realistic but false videos, potentially leading to fraud or misinformation.",
+      "B": "It can crash a financial system.",
+      "C": "The creation of a deepfake places significant strain on computer hardware, which may pose a risk of system damage.",
+      "D": "It can corrupt the data integrity in artificial intelligence models."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_236.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is the primary difference between Generative AI and Discriminative AI?",
+    "lua_chon": {
+      "A": "Both Generative and Discriminative AI focus only on data classification.",
+      "B": "Generative AI predicts outcomes, while Discriminative AI generates new content.",
+      "C": "Discriminative AI is faster than Generative AI in creating content.",
+      "D": "Generative AI creates new data, while Discriminative AI predicts or classifies existing data."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D\nExplanation:",
+    "van_ban": "",
+    "file": "slide_237.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is one key feature of GitHub Copilot that enhances Java development in IntelliJ?",
+    "lua_chon": {
+      "A": "Automatically generating production-ready Java applications without any input.",
+      "B": "Writing comprehensive test cases without developer intervention.",
+      "C": "Automatically deploying Java applications to production.",
+      "D": "Managing deployment pipelines directly from IntelliJ."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A Explanation:",
+    "van_ban": "",
+    "file": "slide_238.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is a \"contextual prompt\" in Generative AI tools?",
+    "lua_chon": {
+      "A": "A debugging technique for code reviews.",
+      "B": "A prompt that uses minimal input to guess the context.",
+      "C": "A prompt that includes background information to help the AI provide accurate answers.",
+      "D": "A repetitive command used to train the AI further."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C\nExplanation:",
+    "van_ban": "",
+    "file": "slide_239.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is the primary goal of digital transformation in businesses?",
+    "lua_chon": {
+      "A": "To integrate digital technologies to improve efficiency and deliver value.",
+      "B": "To use digital tools for marketing purposes.",
+      "C": "To focus on the creation of a digital virtual reality space for businesses.",
+      "D": "To focus solely on creating new software applications."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_240.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is the primary purpose of a neural network in machine learning?",
+    "lua_chon": {
+      "A": "To process inputs and learn patterns for making predictions or decisions.",
+      "B": "To make decisions based on rules put in the programming, resulting in a leaf node.",
+      "C": "To teach new information to humans using videos and the internet.",
+      "D": "To combine the results of multiple trees into an averaged result."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_241.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is the key advantage of using random forests over a single decision tree?",
+    "lua_chon": {
+      "A": "Random forests reduce overfitting by combining multiple decision trees.",
+      "B": "Random forests are simpler to interpret than decision trees.",
+      "C": "Random forests require no data to make predictions.",
+      "D": "Random forests always generate a single, static model."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_242.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is the primary function of a decision tree in Machine Learning?",
+    "lua_chon": {
+      "A": "To replicate the neural structure of a human brain.",
+      "B": "To store data for future analysis.",
+      "C": "To split data into branches based on feature values to make decisions.",
+      "D": "To predict random outcomes without patterns."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C\nExplanation:",
+    "van_ban": "",
+    "file": "slide_243.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What is the primary relationship between AI and Machine Learning (ML)?",
+    "lua_chon": {
+      "A": "ML is another term for AI, and they mean the same thing.",
+      "B": "AI is a subset of ML.",
+      "C": "ML is a subset of AI that enables computers to learn from data.",
+      "D": "AI and ML are independent technologies with no relationship."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C",
+    "van_ban": "",
+    "file": "slide_244.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What are the key benefits of using GitHub Copilot for Java development? (Select all that apply)",
+    "lua_chon": {
+      "A": "Replaces the need for learning Java syntax and best practices.",
+      "B": "Helps generate code based on comments or descriptions.",
+      "C": "Assists with debugging by recommending fixes for errors.",
+      "D": "Accelerates coding by suggesting entire functions and methods."
+    },
+    "dap_an": [
+      "B",
+      "C",
+      "D"
+    ],
+    "ghi_chu": "BCD",
+    "van_ban": "",
+    "file": "slide_245.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "What are the benefits of using Generative AI tools like Amazon Q Developer in Java development?\n(Select all that apply)",
+    "lua_chon": {
+      "A": "Complete elimination of manual coding.",
+      "B": "Early error detection and suggestions for fixes.",
+      "C": "Increased coding efficiency through the automation of repetitive tasks.",
+      "D": "Learning support for beginner developers."
+    },
+    "dap_an": [
+      "B",
+      "C",
+      "D"
+    ],
+    "ghi_chu": "BCD",
+    "van_ban": "",
+    "file": "slide_246.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following is not likely to contribute to the complexity of software development?",
+    "lua_chon": {
+      "A": "The vocabulary of the application domain",
+      "B": "The number and size of the programs that need to be implemented",
+      "C": "The nature of the application domain",
+      "D": "A large development team",
+      "E": "Insufficient hardware resources"
+    },
+    "dap_an": [
+      "E"
+    ],
+    "ghi_chu": "E",
+    "van_ban": "",
+    "file": "slide_247.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following best explains the difference between Artificial Intelligence (AI) and Machine Learning (ML)?",
+    "lua_chon": {
+      "A": "AI is a subset of ML, where AI focuses on making predictions while ML focuses on decision-making.",
+      "B": "AI and ML are unrelated technologies that solve different problems.",
+      "C": "ML is a subset of AI, where ML helps computers learn from data to make decisions or predictions.",
+      "D": "AI refers to the technology used only to create robots that look like humans."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C\nExplanation:",
+    "van_ban": "",
+    "file": "slide_248.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following is a benefit of the Waterfall software development process?",
+    "lua_chon": {
+      "A": "It is easier to deal with vague user requirements.",
+      "B": "It develops the system incrementally.",
+      "C": "It is easier to find people with the required development skills.",
+      "D": "It makes the software development process more disciplined.",
+      "E": "It makes it easier to get user feedback early in the project development."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D",
+    "van_ban": "",
+    "file": "slide_249.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following is a key ethical concern associated with generative AI?",
+    "lua_chon": {
+      "A": "The risk of diminishing human creativity, such as singing, due to AI's ability to compose songs.",
+      "B": "The potential for bias in AI-generated content.",
+      "C": "The concern about developers profiting significantly from users of GenAI.",
+      "D": "Its inability to automate tasks without human input."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_250.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following best describes the role of AI in automating Java code refactoring?",
+    "lua_chon": {
+      "A": "Improves code readability and performance by suggesting cleaner implementations.",
+      "B": "Rewrite the entire application in a different programming language.",
+      "C": "Automatically generates test cases for the codebase.",
+      "D": "Identifies bugs and fixes them in the code."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_251.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following scenarios best describes how a neural network adjusts its weights during training?",
+    "lua_chon": {
+      "A": "The network adjusts weights randomly to improve accuracy.",
+      "B": "Weights are fixed during training to avoid instability.",
+      "C": "Weights are updated based on feedback from the error rate or prediction error.",
+      "D": "The output layer directly updates all weights in the network."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C",
+    "van_ban": "",
+    "file": "slide_252.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following is a benefit of having a software development process?",
+    "lua_chon": {
+      "A": "It is not necessary to train the developers.",
+      "B": "We have to gather fewer requirements from users.",
+      "C": "It is easier to divide up the work among development team members.",
+      "D": "It is not necessary to maintain the system.",
+      "E": "There is less need for the development team to communicate with the users."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C",
+    "van_ban": "",
+    "file": "slide_253.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following is a key way AI tools can assist in designing software architecture?",
+    "lua_chon": {
+      "A": "Automatically generating boilerplate code and suggesting design patterns.",
+      "B": "Writing and maintaining all the business logic of the application.",
+      "C": "Completely replacing developers in the software design process.",
+      "D": "Ensuring that the software will never require refactoring."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_254.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following statements is not true about an association relationship?",
+    "lua_chon": {
+      "A": "It is inherently bi-directional.",
+      "B": "It can be restricted to be only unidirectional.",
+      "C": "It represents an instance of the relationship.",
+      "D": "It can normally only be read meaningfully in one direction.",
+      "E": "It is a description of a group of instances of the relationship."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C",
+    "van_ban": "",
+    "file": "slide_255.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Which of the following statement about early test design is false?",
+    "lua_chon": {
+      "A": "Faults found during early test design are less expensive to fix.",
+      "B": "Early test design can prevent fault multiplication.",
+      "C": "Early test design can find faults.",
+      "D": "Early test design takes more effort.",
+      "E": "Early test design can cause changes to the requirements."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D",
+    "van_ban": "",
+    "file": "slide_256.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Why is interpretability important in AI systems?",
+    "lua_chon": {
+      "A": "It allows users to understand how decisions are made, especially in critical applications.",
+      "B": "It guarantees that AI systems will always produce 100% accurate results.",
+      "C": "It eliminates the need for data-driven decision-making.",
+      "D": "It ensures that AI systems function without requiring human oversight."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_257.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "How does Generative AI enhance the process of detecting bugs in Java code?",
+    "lua_chon": {
+      "A": "By rewriting the buggy code with optimized solutions.",
+      "B": "By completely automating the debugging process.",
+      "C": "By identifying errors through the analysis of code patterns and anomalies.",
+      "D": "By providing a guarantee of error-free Java applications."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C\nExplanation:",
+    "van_ban": "",
+    "file": "slide_258.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A developer is using Amazon Q Developer to work on a Java project. The tool suggests code for connecting to a database and identifies a syntax error in a query. Which of the following describes how Amazon Q Developer enhances productivity in this scenario?",
+    "lua_chon": {
+      "A": "It replaces the developer's need to understand the programming language.",
+      "B": "It suggests corrections for syntax errors and provides relevant code snippets.",
+      "C": "It removes the entire code and writes a new program.",
+      "D": "It replaces the developer's need to understand database connections."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_259.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A company uses AI for targeted advertising campaigns based on user data. What steps should it prioritize to comply with GDPR and ensure ethical practices?",
+    "lua_chon": {
+      "A": "Using AI to bypass user consent requirements.",
+      "B": "Ensuring that users provide informed consent for data collection and usage.",
+      "C": "Ensuring AI algorithms remain confidential and avoid transparency with regulators.",
+      "D": "Avoiding all forms of data storage to comply with GDPR."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B",
+    "van_ban": "",
+    "file": "slide_260.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A healthcare provider adopts an AI tool to predict risks for critical conditions. Doctors express concern about how the AI reaches conclusions, specifically when recommending treatments. Why is it critical for the AI model to provide interpretable results?",
+    "lua_chon": {
+      "A": "To allow stakeholders to understand and trust the AI's decision-making process.",
+      "B": "To ensure users can easily modify the AI model's decisions directly.",
+      "C": "To completely eliminate the need for human oversight in treatment planning.",
+      "D": "To make AI models faster by simplifying algorithms."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_261.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "A financial institution uses an AI model to predict the risk of loan defaults based on customer data, including credit scores, income, and spending patterns. A customer is denied a loan and asks why the AI made this decision. How should the institution provide clarity on the AI's decision?",
+    "lua_chon": {
+      "A": "Avoid using interpretability techniques and simply provide the customer with the raw decision.",
+      "B": "Simplify the AI model by removing features that are hard to interpret.",
+      "C": "Use SHapley Additive exPlanations (SHAP) to calculate and explain each feature's contribution to the decision.",
+      "D": "Use Local Interpretable Model-agnostic Explanations (LIME) to highlight the features that contributed most to the decision."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C",
+    "van_ban": "",
+    "file": "slide_262.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "An online bookstore is struggling to compete due to poor customer experiences, delivery delays, and a lack of personalized recommendations. Which strategy best incorporates the four domains of digital transformation to address these issues?",
+    "lua_chon": {
+      "A": "Use customer behavior data to personalize recommendations, implement automated inventory systems, and train employees on digital tools.",
+      "B": "Focus solely on redesigning the website and adding a wish list feature.",
+      "C": "Offer flat discounts to increase sales and collaborate with coffee shops for hybrid events.",
+      "D": "Outsource delivery services and add more staff for manual inventory tracking."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_263.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "An exclusive or (XOR) constraint states that",
+    "lua_chon": {
+      "A": "an attribute cannot have null values.",
+      "B": "an attribute must either be null or can only have one of two values.",
+      "C": "instances of the same class cannot be related to each other.",
+      "D": "instances of only one of two classes can be related to instances of another class.",
+      "E": "two classes cannot be related by an association class."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D",
+    "van_ban": "",
+    "file": "slide_264.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "In the UML, the concept of generalization",
+    "lua_chon": {
+      "A": "relates two different classes by an association relationship.",
+      "B": "allows a class to remove attributes and operations from its subclasses.",
+      "C": "supports the concept of stereotype.",
+      "D": "allows a class to specialize its attributes and operations.",
+      "E": "links instances of different classes together."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D",
+    "van_ban": "",
+    "file": "slide_265.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "In system analysis and design, an entity class represents",
+    "lua_chon": {
+      "A": "information about a user of the system.",
+      "B": "information that is persistent.",
+      "C": "system dependencies on actors.",
+      "D": "information that is transient.",
+      "E": "coordination, sequencing, transactions and control of other objects."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B\nExplanation:",
+    "van_ban": "",
+    "file": "slide_266.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "The incomplete coverage constraint for a generalization relationship means that:",
+    "lua_chon": {
+      "A": "A. a superclass instance can be a member of one or more of the subclasses. [overlapping]",
+      "B": "B. some subclass instance is not a member of any superclass. [not possible]",
+      "C": "C. a superclass instance can be a member of at most one of the subclasses. [disjoint]",
+      "D": "D. each superclass instance is a member of some subclass. [complete]",
+      "E": "E. some superclass instance is not a member of any subclass."
+    },
+    "dap_an": [
+      "E"
+    ],
+    "ghi_chu": "E",
+    "van_ban": "",
+    "file": "slide_267.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "The best way to conduct a requirements validation review is to",
+    "lua_chon": {
+      "A": "examine the system model for errors",
+      "B": "have the customer look over the requirements",
+      "C": "send them to the system design team and see if they have any concerns",
+      "D": "use a checklist of questions to examine each requirement",
+      "E": "categorize the requirements into functional and nonfunctional"
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D",
+    "van_ban": "",
+    "file": "slide_268.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "The cost of fixing a fault",
+    "lua_chon": {
+      "A": "can never be more than 5% of the total development cost.",
+      "B": "is more expensive if found in requirements than functional design.",
+      "C": "can be estimated by performing a SWOT analysis.",
+      "D": "increases as we move the product towards live use.",
+      "E": "decreases as we move the product towards live use."
+    },
+    "dap_an": [
+      "D"
+    ],
+    "ghi_chu": "D",
+    "van_ban": "",
+    "file": "slide_269.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "The purpose of an acceptance test plan is to",
+    "lua_chon": {
+      "A": "verify the acceptability of the code structure.",
+      "B": "specify the criteria for determining whether the system is finished.",
+      "C": "list all the requirements for the system.",
+      "D": "define the scope of the system development.",
+      "E": "define the goals of the system."
+    },
+    "dap_an": [
+      "B"
+    ],
+    "ghi_chu": "B",
+    "van_ban": "",
+    "file": "slide_270.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "The Bridge design pattern is used to",
+    "lua_chon": {
+      "A": "provide a unified interface to a subsystem.",
+      "B": "decouple an abstraction from its implementation.provide a placeholder for another object.",
+      "C": "decouple an abstraction from its implementation.",
+      "D": "restrict a class to have only one instance.",
+      "E": "defer instantiation of a class to its subclasses"
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C",
+    "van_ban": "",
+    "file": "slide_271.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "Suppose you have a list of students with their study hours and attendance. You are using this list to create a decision tree that predicts whether a student will Pass or Fail based on how many hours they have studied and their attendance. Now, if you use the following dataset to train a decision tree to classify \"Pass\" or \"Fail\" based on study hours and attendance:\n\nStudy Hours | Attendance | Result\ngreater than 8 | greater than 90% | Pass\ngreater than 4 | greater than 70% | Pass\n\nAll other paths should result in a Fail. The decision tree predicts the result for a new student who studied for 6 hours and attended 80% of the classes. What is the most likely output if study hours is evaluated first followed by attendance?",
+    "lua_chon": {
+      "A": "Pass",
+      "B": "The decision tree becomes stuck and cannot proceed to a leaf node because there is insufficient data to complete the decision flow.",
+      "C": "Fail",
+      "D": "Cannot determine"
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A",
+    "van_ban": "",
+    "file": "slide_272.png"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "System analysis and design deals with the implementation environment by",
+    "lua_chon": {
+      "A": "incorporating it into application classes.",
+      "B": "ignoring it (i.e., not taking it into account).",
+      "C": "re-engineering it to fit the design.",
+      "D": "delaying consideration of it until implementation.",
+      "E": "encapsulating it so as to isolate it from application classes."
+    },
+    "dap_an": [
+      "E"
+    ],
+    "ghi_chu": "E",
+    "van_ban": "",
+    "file": "slide_273.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "System analysis and design distributes the functionality of a use case into boundary, entity and control classes because",
+    "lua_chon": {
+      "A": "these are the only kinds of classes available to us.",
+      "B": "these classes are easier to test.",
+      "C": "we want to isolate specific types of changes to specific types of classes.",
+      "D": "state machine diagrams use these classes.",
+      "E": "object interaction is more easily described using these classes."
+    },
+    "dap_an": [
+      "C"
+    ],
+    "ghi_chu": "C",
+    "van_ban": "",
+    "file": "slide_274.png",
+    "nguon_ocr": "claude-doc-tay"
+  },
+  {
+    "loai": "quiz",
+    "cau_hoi": "You are working on a Java project where you need to quickly set up boilerplate code for a RESTful API. You decide to use Amazon Q Developer for this task. How can Amazon Q Developer assist in generating the boilerplate code?",
+    "lua_chon": {
+      "A": "By analyzing your project structure and generating controller, service, and repository templates.",
+      "B": "By auto-generating entire applications without review.",
+      "C": "By only providing syntax but no context.",
+      "D": "By guessing what the user might need without input."
+    },
+    "dap_an": [
+      "A"
+    ],
+    "ghi_chu": "A\nExplanation:",
+    "van_ban": "",
+    "file": "slide_275.png"
+  },
+  {
+    "loai": "noi_dung",
+    "cau_hoi": "",
+    "lua_chon": {},
+    "dap_an": [],
+    "ghi_chu": "",
+    "van_ban": "",
+    "file": "slide_276.png"
+  }
+]
